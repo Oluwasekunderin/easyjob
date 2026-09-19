@@ -1,6 +1,366 @@
 {
- "updated": "2026-09-18T18:31:58+00:00",
+ "updated": "2026-09-19T04:03:12+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-finance-ai-automation-intern-remote-part-time-germany-30155",
+   "title": "Finance & AI Automation Intern (Remote Part-time)",
+   "company": "Soda Data Nv",
+   "category": "Computer Software",
+   "type": "Part Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Operations",
+    "Remote"
+   ],
+   "posted": "2026-09-19T02:20:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-germany-30155",
+   "source": "Arbeitnow",
+   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing..."
+  },
+  {
+   "id": "Arbeitnow-finance-ai-automation-intern-remote-full-time-germany-308319",
+   "title": "Finance & AI Automation Intern (Remote Full-time)",
+   "company": "Soda Data Nv",
+   "category": "Computer Software",
+   "type": "Full Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Operations",
+    "Remote"
+   ],
+   "posted": "2026-09-19T02:20:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-germany-308319",
+   "source": "Arbeitnow",
+   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-content-engineer-berlin-195260",
+   "title": "AI Content Engineer",
+   "company": "Soda Data Nv",
+   "category": "Computer Software",
+   "type": "Full Time",
+   "location": "Berlin, Germany",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Growth",
+    "Remote"
+   ],
+   "posted": "2026-09-19T02:20:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+   "source": "Arbeitnow",
+   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda..."
+  },
+  {
+   "id": "Arbeitnow-remote-technicien-de-maintenance-itinerant-f-h-evreux-116825",
+   "title": "Technicien de maintenance Itinérant (F/H)",
+   "company": "Signode",
+   "category": "Field Service APT EMEA",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Field Service APT EMEA",
+    "Remote"
+   ],
+   "posted": "2026-09-19T01:30:13+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-evreux-116825",
+   "source": "Arbeitnow",
+   "excerpt": "Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement..."
+  },
+  {
+   "id": "Arbeitnow-remote-slovenian-language-trainer-anywhere-in-emea-region-275703",
+   "title": "Slovenian language trainer",
+   "company": "TransPerfect",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-09-19T00:30:33+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-slovenian-language-trainer-anywhere-in-emea-region-275703",
+   "source": "Arbeitnow",
+   "excerpt": "Company TransPerfect Language & Cultural Training is part of the TransPerfect solutions, the world’s largest language service and technology solutions provider for global businesses with offices in more than 100 cities around the globe...."
+  },
+  {
+   "id": "Arbeitnow-remote-croatian-language-trainer-anywhere-in-emea-region-374340",
+   "title": "Croatian language trainer",
+   "company": "TransPerfect",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-09-19T00:30:33+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-croatian-language-trainer-anywhere-in-emea-region-374340",
+   "source": "Arbeitnow",
+   "excerpt": "Company TransPerfect Language & Cultural Training is part of the TransPerfect solutions, the world’s largest language service and technology solutions provider for global businesses with offices in more than 100 cities around the globe...."
+  },
+  {
+   "id": "Arbeitnow-blockchain-expansion-manager-100-remote-london-233994",
+   "title": "Blockchain Expansion Manager (100% remote)",
+   "company": "Tether Operations Limited",
+   "category": "Expansion",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Expansion",
+    "Remote"
+   ],
+   "posted": "2026-09-19T00:30:29+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/blockchain-expansion-manager-100-remote-london-233994",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-head-of-regulatory-affairs-ai-and-p2p-100-remote-london-123640",
+   "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
+   "company": "Tether Operations Limited",
+   "category": "Regulatory Affairs and Licensing",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Regulatory Affairs and Licensing",
+    "Remote"
+   ],
+   "posted": "2026-09-19T00:30:29+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-123640",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-engagement-manager-ai-implementations-london-472691",
+   "title": "Engagement Manager, AI Implementations",
+   "company": "Tether Operations Limited",
+   "category": "Expansion",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Expansion",
+    "Remote"
+   ],
+   "posted": "2026-09-19T00:30:29+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-472691",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-retail-graphic-designer-all-genders-berlin-426966",
+   "title": "Retail Graphic Designer (all genders)",
+   "company": "Maniko Nails GmbH",
+   "category": "Graphic/Design",
+   "type": "Entry",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Graphic/Design",
+    "Remote"
+   ],
+   "posted": "2026-09-18T23:30:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-graphic-designer-all-genders-berlin-426966",
+   "source": "Arbeitnow",
+   "excerpt": "Position: Vollzeit Ort: Berlin, Germany oder remote Start Datum: Ab sofort oder nach Absprache Sprachen: Deutsch & Englisch Du willst deine ersten Erfahrungen im Grafikdesign in einem schnell wachsenden Team einbringen und dabei an ganz..."
+  },
+  {
+   "id": "Arbeitnow-remote-retail-sales-coordinator-all-genders-berlin-9916",
+   "title": "Retail Sales Coordinator (all genders)",
+   "company": "Maniko Nails GmbH",
+   "category": "Retail",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Retail",
+    "Remote"
+   ],
+   "posted": "2026-09-18T23:30:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-sales-coordinator-all-genders-berlin-9916",
+   "source": "Arbeitnow",
+   "excerpt": "Position: Vollzeit Ort: Remote oder in Berlin Start Datum: Ab sofort oder nach Absprache Sprachen: deutsch & englisch Du willst den Beauty-Retail verändern und unsere Präsenz im stationären Handel auf das nächste Level bringen? Bei Maniko..."
+  },
+  {
+   "id": "Arbeitnow-remote-kampfsporttrainer-in-voll-teilzeit-minijob-in-schoneiche-bei-berlin-125465",
+   "title": "Kampfsporttrainer (M/W/D) in Voll/Teilzeit/Minijob in Schöneiche bei Berlin",
+   "company": "Sportschule DMA Schöneiche UG",
+   "category": "Remote",
+   "type": "Entry",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-09-18T23:30:03+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/sportschule-dma-schoneiche-ug/remote-kampfsporttrainer-in-voll-teilzeit-minijob-in-schoneiche-bei-berlin-125465",
+   "source": "Arbeitnow",
+   "excerpt": "Stellenangebot: Kampfsporttrainer (M/W/D) bei Sportschule DMA Schöneiche UG Wir suchen motivierte und inspirierende Personen, die unser Team als Kampfsporttrainer (M/W/D) unterstützen. In dieser Position haben Sie die Möglichkeit, Ihre..."
+  },
+  {
+   "id": "Arbeitnow-engagement-manager-london-27643",
+   "title": "Engagement Manager",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/engagement-manager-london-27643",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance helps organisations make practical decisions about technology, costs and change. We are looking for a freelance Engagement Manager to run the delivery of technology assessments alongside our engagement partner and architects. You..."
+  },
+  {
+   "id": "Arbeitnow-principal-enterprise-architect-financial-services-london-477667",
+   "title": "Principal Enterprise Architect, Financial Services",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Consulting",
+    "Engineering"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-enterprise-architect-financial-services-london-477667",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance helps organisations make practical decisions about technology, costs and change. We are looking for a freelance Principal Enterprise Architect to lead detailed architecture work within financial services assessments. You will..."
+  },
+  {
+   "id": "Arbeitnow-technology-cost-analyst-london-302",
+   "title": "Technology Cost Analyst",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Analyst"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/technology-cost-analyst-london-302",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance helps organisations make practical decisions about technology, costs and change. We are looking for a freelance Technology Cost Analyst to build clear, evidence based views of technology spending for client assessments. You will..."
+  },
+  {
+   "id": "Arbeitnow-senior-industry-adviser-uk-pensions-administration-london-236500",
+   "title": "Senior Industry Adviser, UK Pensions Administration",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Consulting"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-industry-adviser-uk-pensions-administration-london-236500",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance helps organisations make practical decisions about technology, costs and change. We are looking for a freelance Senior Industry Adviser with deep UK pensions administration experience to provide an independent practical check on..."
+  },
+  {
+   "id": "Arbeitnow-senior-enterprise-architect-associate-contract-london-430226",
+   "title": "Senior Enterprise Architect (Associate, Contract)",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Consulting",
+    "Engineering"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-enterprise-architect-associate-contract-london-430226",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance works with UK organisations that need clear, practical decisions about technology. We are building a trusted group of senior associates to lead short enterprise architecture engagements. This project based contract role is for..."
+  },
+  {
+   "id": "Arbeitnow-security-architect-london-312228",
+   "title": "Security Architect",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT Security"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/security-architect-london-312228",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance is appointing a Security Architect as a contract associate for the definition phase of a major UK enterprise technology programme. You will provide a focused security review of the proposed integration approach and work with..."
+  },
+  {
+   "id": "Arbeitnow-oracle-technical-architect-london-447700",
+   "title": "Oracle Technical Architect",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "SAP/ERP Consulting",
+    "Development"
+   ],
+   "posted": "2026-09-18T22:00:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/oracle-technical-architect-london-447700",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance is appointing an Oracle Technical Architect as a contract associate for the definition phase of a major UK enterprise technology programme. You will work with Intelance's Chief Enterprise Architect and Lead Integration Architect..."
+  },
+  {
+   "id": "Arbeitnow-ncsc-cyber-advisor-cyber-essentials-london-308724",
+   "title": "NCSC Cyber Advisor (Cyber Essentials)",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Consulting"
+   ],
+   "posted": "2026-09-18T22:00:43+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ncsc-cyber-advisor-cyber-essentials-london-308724",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance is a UK advisory and assurance firm and an IASME licensed Cyber Essentials Certification Body. We are appointing a qualified Cyber Advisor as an associate contractor to support practical Cyber Essentials implementation work for..."
+  },
+  {
+   "id": "Arbeitnow-remote-partner-solutions-architect-emea-389722",
+   "title": "Partner Solutions Architect (EMEA)",
+   "company": "Datadog",
+   "category": "Channels & Alliances",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Channels & Alliances"
+   ],
+   "posted": "2026-09-18T20:55:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-partner-solutions-architect-emea-389722",
+   "source": "Arbeitnow",
+   "excerpt": "<p><strong>The Team:</strong></p> <p>We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful...."
+  },
   {
    "id": "Jobicy-153610",
    "title": "Manager, Clinical Review and Quality Assurance",
@@ -2217,44 +2577,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
    "source": "Remote OK",
    "excerpt": "Job Description And Requirements Project-based | Remote | United States | Contract Pay based on freelancer's rate Control Shift Video is looking for a freelance designer to collaborate with our creative team on project-based work across..."
-  },
-  {
-   "id": "Remote OK-1136210",
-   "title": "Head of Security",
-   "company": "Tremendous",
-   "category": "Exec",
-   "type": "",
-   "location": "New York, New York, New York, United States",
-   "salary": "",
-   "tags": [
-    "exec",
-    "design",
-    "architecture",
-    "recruiter"
-   ],
-   "posted": "2026-08-05T01:57:42+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
-   "source": "Remote OK",
-   "excerpt": "Tremendous is the global platform built for businesses to send payoutsâgift cards and moneyâto anyone, anywhere, instantly. We're trusted by 20,000+ organizations, from startups to giants like Atlassian, MIT, and United Way, to reach..."
-  },
-  {
-   "id": "Remote OK-1136778",
-   "title": "Operations Engineer II",
-   "company": "AWeber",
-   "category": "Infosec",
-   "type": "",
-   "location": "Uluberia-II,",
-   "salary": "",
-   "tags": [
-    "infosec",
-    "javascript",
-    "technical",
-    "exec"
-   ],
-   "posted": "2026-08-04T23:02:29+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
-   "source": "Remote OK",
-   "excerpt": "Limited-Time Offer Done For You Email Marketing $599Only$1 Start for just $1 â 87% off ends soon! $599 $79 to launch your email marketing. Start for just $79 â â¦ Newsletter Assistant Features Pricing Blog Sign in My account Get..."
   }
  ]
 }
