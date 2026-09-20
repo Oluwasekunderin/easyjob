@@ -1,6 +1,95 @@
 {
- "updated": "2026-09-19T20:21:17+00:00",
+ "updated": "2026-09-20T04:21:55+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-paid-social-analytics-manager-munchen-383519",
+   "title": "Paid Social & Analytics Manager (m/f/d)",
+   "company": "everdrop GmbH",
+   "category": "Marketing/Communication",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Marketing/Communication",
+    "Remote"
+   ],
+   "posted": "2026-09-19T23:30:25+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/remote-paid-social-analytics-manager-munchen-383519",
+   "source": "Arbeitnow",
+   "excerpt": "THIS IS THE JOB Location : Munich/ Hybrid or remote within Germany Team : Performance Marketing We’re everdrop – a fast-growing D2C brand on a mission to change the world of household and personal care. We’re looking for a..."
+  },
+  {
+   "id": "Arbeitnow-freelancer-for-airbyte-20-expert-level-remote-nurnberg-31521",
+   "title": "Freelancer for Airbyte 2.0 Expert Level (Remote)",
+   "company": "PixelMechanics",
+   "category": "Development",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Development",
+    "Remote"
+   ],
+   "posted": "2026-09-19T23:30:21+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/pixelmechanics/freelancer-for-airbyte-20-expert-level-remote-nurnberg-31521",
+   "source": "Arbeitnow",
+   "excerpt": "🚀 Expanding Our Data Warehouse Team We're PixelMechanics , and our Data Warehouse team is growing. We are committed to improving the digital experience and ensuring that both customers and end users can navigate with ease and satisfaction...."
+  },
+  {
+   "id": "Arbeitnow-remote-werkstudent-vertrieb-stuttgart-168420",
+   "title": "Werkstudent Vertrieb (m/w/d)",
+   "company": "Shyftplan",
+   "category": "Sales",
+   "type": "Student",
+   "location": "Stuttgart",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Vertrieb",
+    "Studentenjob",
+    "Start-up"
+   ],
+   "posted": "2026-09-19T23:09:20+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/shyftplan/remote-werkstudent-vertrieb-stuttgart-168420",
+   "source": "Arbeitnow",
+   "excerpt": "Your playground Unsere Mission bei Scable: Fabriken einfach erfolgreich machen. Dafür entwickeln wir eine SaaS-Lösung für Instandhaltung und Produktion, mit der Industriebetriebe ihre Wartung planen statt reagieren. Im Vertrieb bist du nah..."
+  },
+  {
+   "id": "Arbeitnow-remote-responsable-de-la-division-finances-cdi-palaiseau-258647",
+   "title": "Responsable de la division finances - CDI",
+   "company": "Institut Mines-Télécom",
+   "category": "Gestion comptabilité-finances",
+   "type": "Experienced",
+   "location": "Poste à distance",
+   "salary": "",
+   "tags": [
+    "Gestion comptabilité-finances",
+    "Remote"
+   ],
+   "posted": "2026-09-19T22:30:11+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/remote-responsable-de-la-division-finances-cdi-palaiseau-258647",
+   "source": "Arbeitnow",
+   "excerpt": "Qui sommes-nous ? Télécom Paris, école de l’IMT (Institut Mines-Télécom) et membre fondateur de l’Institut Polytechnique de Paris, est une grande école du top 5 des écoles d’ingénieurs généralistes françaises. La Raison d’Être de Télécom..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-developer-nurnberg-177325",
+   "title": "AI Developer (m/f/d)",
+   "company": "Partspace",
+   "category": "C#",
+   "type": "Experienced",
+   "location": "Nürnberg",
+   "salary": "",
+   "tags": [
+    "C#",
+    ".NET",
+    ".NET Core",
+    "APIs"
+   ],
+   "posted": "2026-09-19T20:09:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
+   "source": "Arbeitnow",
+   "excerpt": "Join the AI of Manufacturing PartSpace is a f ast-growing, innovative tech company with a clear mission: with artificial intelligence and real engineering data, PartSpace is redefining the future of technical procurement. Our cloud-based..."
+  },
   {
    "id": "Arbeitnow-experte-fur-den-infrastrukturmarkt-berlin-57301",
    "title": "Experte für den Infrastrukturmarkt (m/w/d)",
@@ -19,23 +108,6 @@
    "excerpt": "Über die Tätigkeit Authority baut ein Expertenpanel auf, um wichtige Entwicklungen auf den globalen Infrastrukturmärkten zu verstehen und vorherzusagen. Wir suchen eine erfahrene Fachperson, die aktuell im Infrastrukturmarkt in Deutschland..."
   },
   {
-   "id": "Arbeitnow-infrastructure-market-expert-london-476987",
-   "title": "Infrastructure Market Expert",
-   "company": "Authority.inc",
-   "category": "Remote",
-   "type": "Contract",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Engineering"
-   ],
-   "posted": "2026-09-19T19:30:25+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/infrastructure-market-expert-london-476987",
-   "source": "Arbeitnow",
-   "excerpt": "About the role Authority is building an expert panel to understand and predict important developments in global infrastructure markets. We are looking for an experienced infrastructure professional who is currently active in the market in..."
-  },
-  {
    "id": "Arbeitnow-experte-fur-den-rechenzentrumsmarkt-berlin-190138",
    "title": "Experte für den Rechenzentrumsmarkt (m/w/d)",
    "company": "Authority.inc",
@@ -51,23 +123,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/authorityinc/experte-fur-den-rechenzentrumsmarkt-berlin-190138",
    "source": "Arbeitnow",
    "excerpt": "Über die Tätigkeit Authority baut ein Expertennetzwerk auf, um wichtige Entwicklungen in der globalen Rechenzentrumsbranche zu verstehen und vorherzusagen. Wir suchen eine erfahrene Fachperson, die aktuell im Rechenzentrumsmarkt in..."
-  },
-  {
-   "id": "Arbeitnow-data-centre-market-expert-london-400565",
-   "title": "Data Centre Market Expert",
-   "company": "Authority.inc",
-   "category": "Remote",
-   "type": "Contract",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Data Scientist"
-   ],
-   "posted": "2026-09-19T19:00:45+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/data-centre-market-expert-london-400565",
-   "source": "Arbeitnow",
-   "excerpt": "About the role Authority is building an expert intelligence network to understand and forecast important developments across the global data-centre industry. We are looking for an experienced data-centre professional who is currently..."
   },
   {
    "id": "Arbeitnow-talent-scout-recruiter-100-remote-schrobenhausen-490892",
@@ -102,110 +157,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-quality-engineering-lead-schoppingen-262215",
    "source": "Arbeitnow",
    "excerpt": "Shopware ist ein führendes E-Commerce-System, das Unternehmen weltweit dabei unterstützt, im digitalen Handel schnell und effizient zu wachsen. Als zukunftsweisende Open-Source-Lösung wird Shopware bereits von einigen der größten..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-operations-manager-store-munchen-333272",
-   "title": "Senior Operations Manager (f/m/d)",
-   "company": "Alemi Zurich",
-   "category": "Operations",
-   "type": "Experienced",
-   "location": "Store München",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Munich",
-    "remote",
-    "ai"
-   ],
-   "posted": "2026-09-19T17:09:38+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/alemi-zurich/remote-senior-operations-manager-store-munchen-333272",
-   "source": "Arbeitnow",
-   "excerpt": "Your responsibilities ALEMI is looking for a Senior Operations Manager to take end-to-end ownership of our operational backbone — from forecasting and production orders to inbound logistics, stock, and cost control. You'll be the person..."
-  },
-  {
-   "id": "Arbeitnow-remote-trainee-im-finanzvertrieb-karriere-mit-struktur-verantwortung-und-perspektive-german-speaking-hamburg-311755",
-   "title": "Trainee (m/w/d) im Finanzvertrieb – Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)",
-   "company": "Kevin Kehr",
-   "category": "Remote",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-19T14:30:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-trainee-im-finanzvertrieb-karriere-mit-struktur-verantwortung-und-perspektive-german-speaking-hamburg-311755",
-   "source": "Arbeitnow",
-   "excerpt": "Du suchst einen Berufseinstieg, der Vertrieb, Beratung und persönliche Entwicklung verbindet? Dann ist dieses Traineeprogramm genau das Richtige für dich. Wir suchen ambitionierte Persönlichkeiten (m/w/d), die sich im Finanzvertrieb eine..."
-  },
-  {
-   "id": "Arbeitnow-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-305459",
-   "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-   "company": "Kevin Kehr",
-   "category": "Remote",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-19T14:30:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-305459",
-   "source": "Arbeitnow",
-   "excerpt": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-regulatory-cmc-project-lead-saclay-322466",
-   "title": "Senior Regulatory CMC Project lead",
-   "company": "Excelya",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Saclay, France",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T13:20:14+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-regulatory-cmc-project-lead-saclay-322466",
-   "source": "Arbeitnow",
-   "excerpt": "About the Job At Excelya, where Audacity, Care, and Energy are at the core of everything we do, we are seeking a Senior CMC Regulatory Consultant specializing in small molecules lifecycle management to join our dynamic team. This role..."
-  },
-  {
-   "id": "Arbeitnow-finance-ai-automation-intern-remote-part-time-france-258419",
-   "title": "Finance & AI Automation Intern (Remote Part-time)",
-   "company": "Soda Data Nv",
-   "category": "Computer Software",
-   "type": "Part Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Computer Software",
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T13:20:10+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419",
-   "source": "Arbeitnow",
-   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing..."
-  },
-  {
-   "id": "Arbeitnow-finance-ai-automation-intern-remote-full-time-france-214116",
-   "title": "Finance & AI Automation Intern (Remote Full-time)",
-   "company": "Soda Data Nv",
-   "category": "Computer Software",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Computer Software",
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T13:20:10+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116",
-   "source": "Arbeitnow",
-   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing..."
   },
   {
    "id": "Jobicy-153675",
@@ -908,240 +859,42 @@
    "excerpt": "Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, electricians, painters, and landscapers, to transform the way service is delivered through technology...."
   },
   {
-   "id": "Arbeitnow-remote-senior-system-engineer-bonn-440479",
-   "title": "Senior System Engineer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "category": "Customer Cluster Defense & Public Security",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
+   "id": "Remote OK-1137407",
+   "title": "VP Pricing & Packaging",
+   "company": "Delinea",
+   "category": "Design",
+   "type": "",
+   "location": "Redwood City",
+   "salary": "$300,000 - $340,000",
    "tags": [
-    "Customer Cluster Defense & Public Security",
-    "Remote"
+    "design",
+    "saas",
+    "salesforce",
+    "infosec"
    ],
-   "posted": "2026-09-19T11:30:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-440479",
-   "source": "Arbeitnow",
-   "excerpt": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der..."
+   "posted": "2026-09-19T00:00:16+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+   "source": "Remote OK",
+   "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging..."
   },
   {
-   "id": "Arbeitnow-remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-162981",
-   "title": "Teamleiter für Haushaltshilfen (m/w/d) – Quereinsteiger willkommen!",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
+   "id": "Remote OK-1137406",
+   "title": "Customer Success Manager Mexico",
+   "company": "JumpCloud",
+   "category": "Customer Support",
+   "type": "",
+   "location": "Mexico City, Mexico - Remote",
    "salary": "",
    "tags": [
-    "Teamleiter",
-    "Remote"
+    "customer support",
+    "exec",
+    "saas",
+    "sys admin"
    ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-162981",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Unser Ziel ist es, dafür zu sorgen, dass hilfsbedürftige Menschen da leben können, wo sie sich am wohlsten fühlen – und das ist in..."
-  },
-  {
-   "id": "Arbeitnow-remote-pflegefachkraft-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-boblingen-250918",
-   "title": "Pflegefachkraft als Teamleiter für Haushaltshilfen (m/w/d) – Alternative zur Pflege",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-pflegefachkraft-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-boblingen-250918",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Teamleitung ohne Stressfaktoren der Pflege – Mehr Zeit für Menschen, weniger Belastung für dich! Du liebst es, Menschen zu helfen,..."
-  },
-  {
-   "id": "Arbeitnow-remote-altenpfleger-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-eisenach-102440",
-   "title": "Altenpfleger als Teamleiter für Haushaltshilfen (m/w/d) – Alternative zur Pflege",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-altenpfleger-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-eisenach-102440",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Teamleitung ohne Stressfaktoren der Pflege – Mehr Zeit für Menschen, weniger Belastung für dich! Du liebst es, Menschen zu helfen,..."
-  },
-  {
-   "id": "Arbeitnow-remote-krankenpfleger-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-eisenach-140268",
-   "title": "Krankenpfleger als Teamleiter für Haushaltshilfen (m/w/d) – Alternative zur Pflege",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-krankenpfleger-als-teamleiter-fur-haushaltshilfen-alternative-zur-pflege-eisenach-140268",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Teamleitung ohne Stressfaktoren der Pflege – Mehr Zeit für Menschen, weniger Belastung für dich! Du liebst es, Menschen zu helfen,..."
-  },
-  {
-   "id": "Arbeitnow-remote-erzieher-als-teamleiter-fur-haushaltshilfen-eisenach-143499",
-   "title": "Erzieher als Teamleiter für Haushaltshilfen (m/w/d)",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-erzieher-als-teamleiter-fur-haushaltshilfen-eisenach-143499",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Teamleitung ohne direkte Kinderbetreuung, mehr Struktur, weniger Belastung für dich! Du hast als Erzieherin oder Erzieher viel..."
-  },
-  {
-   "id": "Arbeitnow-remote-pflegefachkraft-als-teamleiter-gestalte-dein-team-deine-arbeitszeiten-eisenach-386605",
-   "title": "Pflegefachkraft als Teamleiter (m/w/d) – Gestalte dein Team & deine Arbeitszeiten",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-pflegefachkraft-als-teamleiter-gestalte-dein-team-deine-arbeitszeiten-eisenach-386605",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Leite dein Team, gestalte deinen Tag, behalte deine Freiheit. Du bist Pflegefachkraft und willst nicht mehr pflegen , sondern..."
-  },
-  {
-   "id": "Arbeitnow-remote-expansion-manager-eu-airport-transfers-all-genders-30955",
-   "title": "Expansion Manager, EU Airport transfers (all genders)",
-   "company": "Distribusion Technologies",
-   "category": "Commercial",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Commercial",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:19+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-expansion-manager-eu-airport-transfers-all-genders-30955",
-   "source": "Arbeitnow",
-   "excerpt": "About us Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-tech-operations-specialist-all-genders-159614",
-   "title": "Senior Tech Operations Specialist (all genders)",
-   "company": "Distribusion Technologies",
-   "category": "Operations",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:19+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-159614",
-   "source": "Arbeitnow",
-   "excerpt": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that..."
-  },
-  {
-   "id": "Arbeitnow-remote-public-affairs-manager-digitale-bildung-gn-berlin-148585",
-   "title": "Public Affairs Manager - digitale Bildung (gn)",
-   "company": "sofatutor GmbH",
-   "category": "Schools",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Schools",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sofatutor-gmbh/remote-public-affairs-manager-digitale-bildung-gn-berlin-148585",
-   "source": "Arbeitnow",
-   "excerpt": "sofatutor ist eine digitale Lernplattform für fast 2 Millionen Kinder, Schüler*innen, Eltern und Lehrkräfte. Als Public Affairs Manager gestaltest du die Bildungspolitik in Deutschland aktiv mit: Du vertrittst sofatutor in der Politik,..."
-  },
-  {
-   "id": "Arbeitnow-remote-praktikant-consulting-headquarter-hamburg-und-stuttgart-413866",
-   "title": "Praktikant Consulting (w/m/d) | Headquarter Hamburg und Stuttgart",
-   "company": "enomyc GmbH",
-   "category": "Remote",
-   "type": "Student College",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-praktikant-consulting-headquarter-hamburg-und-stuttgart-413866",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind die europaweit agierende Beratung für mittelständische Unternehmen, die im Digital- und KI-Zeitalter profitabel wachsen wollen. Dich erwartet ein Umfeld, in dem unternehmerische Freiheit auf höchste Professionalität trifft:..."
-  },
-  {
-   "id": "Arbeitnow-remote-interim-cro-chief-restructuring-officer-stuttgart-477276",
-   "title": "Interim CRO / Chief Restructuring Officer (m/w/d)",
-   "company": "enomyc GmbH",
-   "category": "Operations",
-   "type": "Senior Manager",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-interim-cro-chief-restructuring-officer-stuttgart-477276",
-   "source": "Arbeitnow",
-   "excerpt": "enomyc – Wir gestalten den Mittelstand von morgen. Wenn Unternehmen in herausfordernde Situationen geraten, braucht es Erfahrung, Klarheit und Menschen, die Verantwortung übernehmen. Für aktuelle und zukünftige Mandate bei..."
-  },
-  {
-   "id": "Arbeitnow-remote-service-technikerin-photovoltaik-munich-335779",
-   "title": "Service Techniker:in Photovoltaik (f/m/x)",
-   "company": "Otovo",
-   "category": "Operations",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-19T11:30:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/otovo/remote-service-technikerin-photovoltaik-munich-335779",
-   "source": "Arbeitnow",
-   "excerpt": "Über uns Otovo ist ein führendes Unternehmen im Bereich erneuerbarer Energien, spezialisiert auf die Installation von Photovoltaik-Anlagen für Privathaushalte. Gegründet 2016 in Norwegen, sind wir heute in mehreren europäischen Ländern..."
-  },
-  {
-   "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-333343",
-   "title": "Sales Account Executive - Cybersecurity",
-   "company": "Crowdsec",
-   "category": "Remote",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-19T10:30:34+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-333343",
-   "source": "Arbeitnow",
-   "excerpt": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale,..."
+   "posted": "2026-09-19T00:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+   "source": "Remote OK",
+   "excerpt": "All roles at JumpCloudÂ® are Remote unless otherwise specified in the Job Description. About JumpCloudÂ® JumpCloudÂ® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity,..."
   },
   {
    "id": "Remote OK-1137405",
