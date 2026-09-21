@@ -1,73 +1,6 @@
 {
- "updated": "2026-09-20T20:35:04+00:00",
+ "updated": "2026-09-21T04:19:42+00:00",
  "jobs": [
-  {
-   "id": "Arbeitnow-remote-senior-it-consultant-all-genders-active-directory-pki-security-nabburg-320927",
-   "title": "(Senior) IT Consultant (all genders) - Active Directory, PKI & Security",
-   "company": "teccle group GmbH",
-   "category": "Professional",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Professional",
-    "Remote"
-   ],
-   "posted": "2026-09-20T17:30:05+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-it-consultant-all-genders-active-directory-pki-security-nabburg-320927",
-   "source": "Arbeitnow",
-   "excerpt": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-account-executive-enterprise-public-accounts-18944",
-   "title": "Senior Account Executive, Enterprise (Public Accounts)",
-   "company": "veeamsoftware",
-   "category": "Field Sales",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Field Sales",
-    "Central 1000030"
-   ],
-   "posted": "2026-09-20T11:55:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-public-accounts-18944",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-account-executive-enterprise-private-accounts-199828",
-   "title": "Senior Account Executive, Enterprise (Private Accounts)",
-   "company": "veeamsoftware",
-   "category": "Field Sales",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Field Sales",
-    "Central 1000030"
-   ],
-   "posted": "2026-09-20T11:55:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-199828",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of..."
-  },
-  {
-   "id": "Arbeitnow-remote-principal-infrastructure-engineer-320329",
-   "title": "Principal Infrastructure Engineer",
-   "company": "Sezzle",
-   "category": "DV-Development",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "DV-Development"
-   ],
-   "posted": "2026-09-20T11:55:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sezzle/remote-principal-infrastructure-engineer-320329",
-   "source": "Arbeitnow",
-   "excerpt": "<p><strong>About Sezzle:</strong></p> <p>With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment..."
-  },
   {
    "id": "Jobicy-153765",
    "title": "Manager, Enterprise Business Development - APJ",
@@ -767,6 +700,44 @@
    "url": "https://jobicy.com/jobs/153706-director-global-scaled-cs",
    "source": "Jobicy",
    "excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few..."
+  },
+  {
+   "id": "Remote OK-1137411",
+   "title": "Senior .NET Software Engineer",
+   "company": "OkWhen",
+   "category": "Dev",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [
+    "dev",
+    "design",
+    "c sharp",
+    "saas"
+   ],
+   "posted": "2026-09-20T00:00:31+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+   "source": "Remote OK",
+   "excerpt": "Please note. Directly emailing us will result in immediate disqualification. Use the application form to apply. About OkWhen OkWhen builds technology that powers live, virtual, and hybrid events. Our platform supports conference..."
+  },
+  {
+   "id": "Remote OK-1137410",
+   "title": "Frontend Engineer",
+   "company": "Bjak",
+   "category": "Front End",
+   "type": "",
+   "location": "Ireland",
+   "salary": "",
+   "tags": [
+    "front end",
+    "design",
+    "react",
+    "graphql"
+   ],
+   "posted": "2026-09-20T00:00:25+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+   "source": "Remote OK",
+   "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex..."
   },
   {
    "id": "Remote OK-1137409",
