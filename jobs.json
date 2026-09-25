@@ -1,174 +1,75 @@
 {
- "updated": "2026-09-25T16:56:26+00:00",
+ "updated": "2026-09-25T21:21:04+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-telefonberater-spirituelle-und-esoterische-beratung-geesthacht-337567",
-   "title": "Telefonberater (m/w/d) spirituelle und esoterische Beratung",
-   "company": "ZUNA",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Geesthacht",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Consulting"
-   ],
-   "posted": "2026-09-25T15:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/zuna/telefonberater-spirituelle-und-esoterische-beratung-geesthacht-337567",
-   "source": "Arbeitnow",
-   "excerpt": "Willkommen bei ZUNA Media! Wir sind ein innovatives Unternehmen im Bereich der digitalen Dienstleistungen, das sich auf Online-Kommunikation und Kundeninteraktion spezialisiert hat. Zur Verstärkung unseres Teams suchen wir einen..."
-  },
-  {
-   "id": "Arbeitnow-business-analyst-insurance-wurzburg-195888",
-   "title": "Business Analyst (w/m/d) Insurance",
-   "company": "Pentadoc Gruppe",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Würzburg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Consulting"
-   ],
-   "posted": "2026-09-25T15:30:44+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/business-analyst-insurance-wurzburg-195888",
-   "source": "Arbeitnow",
-   "excerpt": "Pentadoc sucht erfahrene Business Analyst*innen (w/m/d) aus der deutschen Versicherungsbranche mit Schwerpunkt Operations. Du hast ein fundiertes Verständnis über Fachprozesse und Versicherungsprodukte und bist umfassend mit typischen..."
-  },
-  {
-   "id": "Arbeitnow-senior-business-analyst-insurance-wurzburg-35181",
-   "title": "Senior Business Analyst (w/m/d) Insurance",
-   "company": "Pentadoc Gruppe",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Würzburg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Consulting"
-   ],
-   "posted": "2026-09-25T15:30:44+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/senior-business-analyst-insurance-wurzburg-35181",
-   "source": "Arbeitnow",
-   "excerpt": "Pentadoc sucht erfahrene Senior Business Analyst*innen (w/m/d) mit dem Schwerpunkt in der deutschen Versicherungswirtschaft . Du hast ein hervorragendes Verständnis über Fachprozesse und Versicherungsprodukte und bist umfassend und breit..."
-  },
-  {
-   "id": "Arbeitnow-ugc-creator-food-content-hamburg-71984",
-   "title": "UGC Creator - Food Content",
-   "company": "ReciMe",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-09-25T15:00:31+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recime/ugc-creator-food-content-hamburg-71984",
-   "source": "Arbeitnow",
-   "excerpt": "ReciMe ist die am schnellsten wachsende Koch-App der Welt und hilft mehr als 15 Millionen Nutzern dabei, Rezepte von Social Media zu speichern und daraus Essenspläne sowie Einkaufslisten zu erstellen. Wir sind seit Monaten unter den Top 10..."
-  },
-  {
-   "id": "Arbeitnow-senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-358696",
-   "title": "Senior WEG-Verwalter:in (m/w/d) | 100 % Remote oder Hamburg",
-   "company": "Ralph Management GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-25T14:30:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ralph-management-gmbh/senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-358696",
-   "source": "Arbeitnow",
-   "excerpt": "Ralph ist Deutschlands modernste Hausverwaltung. Wir denken WEG von Grund auf neu – mit 10.000 Einheiten deutschlandweit haben wir bewiesen, dass unser Modell skaliert. Wir verbinden unsere eigene AI-Software mit der Expertise erfahrener..."
-  },
-  {
-   "id": "Arbeitnow-founders-associate-berlin-242238",
-   "title": "Founder's Associate",
-   "company": "Norman AI GmbH",
-   "category": "Remote",
-   "type": "Entry",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Online Marketing"
-   ],
-   "posted": "2026-09-25T14:30:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/norman-ai-gmbh/founders-associate-berlin-242238",
-   "source": "Arbeitnow",
-   "excerpt": "Norman is building an AI accountant that helps small businesses manage invoicing, accounting, and taxes. We’re a small team based in Berlin. As Founder's Associate, you’ll work directly with the founders across the full customer loop...."
-  },
-  {
-   "id": "Arbeitnow-product-engineer-remote-oder-karlsruhe-31994",
-   "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
-   "company": "Knuddels GmbH & Co. KG",
-   "category": "Software Development",
-   "type": "Mid",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Software Development",
-    "Remote"
-   ],
-   "posted": "2026-09-25T14:30:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-31994",
-   "source": "Arbeitnow",
-   "excerpt": "Wir bei Knuddels wollen soziale Netzwerke wieder wirklich sozial machen – weg vom Konsumieren von Content, hin zu echter menschlicher Nähe. Unser Ziel: Bei Knuddels soll jeder Mensch drei wichtige Menschen für sein echtes Leben finden. Als..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-web-analyst-leipzig-436125",
-   "title": "(Senior) Web Analyst (m/f/d)",
-   "company": "Spread Group",
-   "category": "Digital & Consumer Analytics",
+   "id": "Arbeitnow-remote-senior-ai-product-designer-berlin-166115",
+   "title": "Senior AI Product Designer (m/w/d)",
+   "company": "Recare Deutschland GmbH",
+   "category": "Product",
    "type": "Experienced",
    "location": "Remote job",
    "salary": "",
    "tags": [
-    "Digital & Consumer Analytics",
+    "Product",
     "Remote"
    ],
-   "posted": "2026-09-25T14:30:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-senior-web-analyst-leipzig-436125",
+   "posted": "2026-09-25T17:30:39+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-166115",
    "source": "Arbeitnow",
-   "excerpt": "Who We Are Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers..."
+   "excerpt": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI..."
   },
   {
-   "id": "Arbeitnow-junior-campaign-manager-augsburg-96302",
-   "title": "(Junior) Campaign Manager (m/w/d)",
-   "company": "INSIGHT GG GmbH",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Augsburg",
+   "id": "Arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
+   "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
+   "company": "Recare Deutschland GmbH",
+   "category": "Engineering",
+   "type": "Mid",
+   "location": "Remote job",
    "salary": "",
    "tags": [
-    "Remote",
-    "Marketing and Communication"
+    "Engineering",
+    "Remote"
    ],
-   "posted": "2026-09-25T14:00:37+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/insight-gg-gmbh/junior-campaign-manager-augsburg-96302",
+   "posted": "2026-09-25T17:30:39+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
    "source": "Arbeitnow",
-   "excerpt": "INSIGHT ist eine führende Influencer-Agentur im deutschen Raum für Influencer Marketing. Wir arbeiten mit einigen der bekanntesten nationalen & globalen Marken und Agenturen zusammen. Bei INSIGHT stehen immer die Communities und Talente im..."
+   "excerpt": "Software Engineer – Backend (Computer Use & Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from..."
   },
   {
-   "id": "Arbeitnow-projektleiter-b2b-in-vollzeit-munich-122007",
-   "title": "Projektleiter B2B (m/w/d) in Vollzeit",
-   "company": "Flavour Kommunikation GmbH",
-   "category": "Remote",
-   "type": "",
-   "location": "Munich",
+   "id": "Arbeitnow-remote-lead-security-engineer-berlin-30087",
+   "title": "Lead Security Engineer (m/w/d)",
+   "company": "Recare Deutschland GmbH",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
    "salary": "",
    "tags": [
-    "Remote",
-    "Marketing and Communication"
+    "Engineering",
+    "Remote"
    ],
-   "posted": "2026-09-25T13:30:38+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/flavour-kommunikation-gmbh/projektleiter-b2b-in-vollzeit-munich-122007",
+   "posted": "2026-09-25T17:30:39+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-30087",
    "source": "Arbeitnow",
-   "excerpt": "This is FLAVOUR! Warum kompliziert, wenn es auch einfach geht? Wir verpacken für unsere Kunden schwierige Themen in einfache Worte und bewegende Bilder, die ihre Botschaft klar rüberbringen. Als Agentur für Kommunikation und Werbung machen..."
+   "excerpt": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS..."
+  },
+  {
+   "id": "Arbeitnow-java-entwickler-full-remote-top-company-2026-germany-485173",
+   "title": "Java Entwickler (m/w/d) | Full Remote | Top Company 2026",
+   "company": "Kooku",
+   "category": "Project Management",
+   "type": "Full Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Project Management",
+    "Internet",
+    "Gesellschaft für innovative Personalwirtschaftssysteme mbH",
+    "Remote"
+   ],
+   "posted": "2026-09-25T17:20:11+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/kooku/java-entwickler-full-remote-top-company-2026-germany-485173",
+   "source": "Arbeitnow",
+   "excerpt": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute..."
   },
   {
    "id": "Arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
@@ -611,20 +512,6 @@
    "excerpt": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the..."
   },
   {
-   "id": "Jobicy-151575",
-   "title": "Senior Software Engineer - Next-Gen",
-   "company": "NetDocuments",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-09-25T04:20:21+00:00",
-   "url": "https://jobicy.com/jobs/151575-senior-software-engineer-next-gen",
-   "source": "Jobicy",
-   "excerpt": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com..."
-  },
-  {
    "id": "Jobicy-151574",
    "title": "Software Engineer — AI-Native CAD Integrations",
    "company": "Quilter",
@@ -905,6 +792,20 @@
    "excerpt": "Company OverviewDeepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More..."
   },
   {
+   "id": "Jobicy-149641",
+   "title": "Customer Success Engineer, LATAM (Spanish, Portugese)",
+   "company": "GitLab",
+   "category": "Customer Support & Success",
+   "type": "Full Time",
+   "location": "Brazil, Mexico, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-09-25T04:15:11+00:00",
+   "url": "https://jobicy.com/jobs/149641-customer-success-engineer-latam-spanish-portugese",
+   "source": "Jobicy",
+   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
+  },
+  {
    "id": "Remote OK-1137431",
    "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
    "company": "Mercier Consultancy Group",
@@ -922,23 +823,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
    "source": "Remote OK",
    "excerpt": "Danish Speaking Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging the gap between high-caliber talent and global industry leaders. We pride..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-clinical-scientist-immunology-europe-217428",
-   "title": "Senior Clinical Scientist Immunology",
-   "company": "Excelya",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Europe, France",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-24T10:20:05+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-clinical-scientist-immunology-europe-217428",
-   "source": "Arbeitnow",
-   "excerpt": "Join Excelya, a company driven by Audacity, Care, and Energy, where innovation and collaboration are at the heart of everything we do. As a Clinical Scientist , you will support the Study Medical Manager in the planning, execution,..."
   },
   {
    "id": "Remote OK-1137429",
