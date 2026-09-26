@@ -1,6 +1,55 @@
 {
- "updated": "2026-09-26T04:25:50+00:00",
+ "updated": "2026-09-26T11:07:38+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-forward-deployed-engineer-64304",
+   "title": "Forward Deployed Engineer",
+   "company": "Hexa",
+   "category": "Waniwani",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Waniwani"
+   ],
+   "posted": "2026-09-26T08:40:05+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-64304",
+   "source": "Arbeitnow",
+   "excerpt": "About Waniwani Waniwani builds the infrastructure that distributes insurance and banking products through AI assistants. We raised an $8M seed led by Seedcamp and work with large European banks and insurers. Each enterprise deal has to be..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-designer-simplestudy-388362",
+   "title": "Product Designer | SimpleStudy",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-09-26T05:40:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Senior Product Designer Company: SimpleStudy Location: Remote, Europe (preferably Western / continental); relocation to Lisbon possible Job Type: Full-time About SimpleStudy SimpleStudy is an AI exam prep platform that students find..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-account-executive-germany-munich-217529",
+   "title": "Senior Account Executive (Germany)",
+   "company": "Huble",
+   "category": "Marketing and Advertising",
+   "type": "",
+   "location": "Munich, Germany",
+   "salary": "",
+   "tags": [
+    "Marketing and Advertising",
+    "Remote"
+   ],
+   "posted": "2026-09-26T05:20:03+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/huble/remote-senior-account-executive-germany-munich-217529",
+   "source": "Arbeitnow",
+   "excerpt": "Welcome to Huble 👋, HubSpot’s 2024 global partner of the year! We are a global HubSpot, AI, marketing & creative consultancy enabling mid-market and enterprise businesses move faster, adapt smarter, and innovate freely—by building their..."
+  },
   {
    "id": "Arbeitnow-remote-senior-technical-project-manager-pmo-all-genders-30573",
    "title": "Senior Technical Project Manager - PMO (all genders)",
@@ -76,112 +125,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-475034",
    "source": "Arbeitnow",
    "excerpt": "Your creative field At GPORTAL , our vision is to build individual and easy-to-use online gaming experiences for the world. Driven by our “from gamer for gamer” passion, we've grown into one of the leading game server providers - offering..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-ai-product-engineer-berlin-286735",
-   "title": "(Senior) AI Product Engineer (m/w/d)",
-   "company": "Legalhero",
-   "category": "AI",
-   "type": "Experienced",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "AI",
-    "Product Engineer",
-    "AI Product Engineer",
-    "Berlin"
-   ],
-   "posted": "2026-09-26T02:09:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-286735",
-   "source": "Arbeitnow",
-   "excerpt": "What You'll Do You’ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you’ll work across our three product squads: You’ll single-handedly turn unaddressed..."
-  },
-  {
-   "id": "Arbeitnow-remote-team-lead-sap-abap-development-data-migration-berlin-368024",
-   "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Technical Migration",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Technical Migration",
-    "Remote"
-   ],
-   "posted": "2026-09-25T23:30:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-368024",
-   "source": "Arbeitnow",
-   "excerpt": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust..."
-  },
-  {
-   "id": "Arbeitnow-remote-sap-finance-fi-co-migration-architect-berlin-58106",
-   "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Technical Migration",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Technical Migration",
-    "Remote"
-   ],
-   "posted": "2026-09-25T23:30:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-58106",
-   "source": "Arbeitnow",
-   "excerpt": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-advisor-project-excellence-ai-berlin-335684",
-   "title": "Senior Advisor Project Excellence & AI (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Staffing Office",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Staffing Office",
-    "Remote"
-   ],
-   "posted": "2026-09-25T23:30:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-advisor-project-excellence-ai-berlin-335684",
-   "source": "Arbeitnow",
-   "excerpt": "Du entwickelst und optimierst unser unternehmensweites Delivery- und Projekt-Operating-Model für die erfolgreiche Umsetzung unserer Beratungsprojekte, definierst Standards und Governance-Strukturen und treibst die Integration moderner..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-seo-geo-manager-141645",
-   "title": "Senior SEO & GEO Manager (m/w/d)",
-   "company": "Auxmoney Gmbh",
-   "category": "Marketing",
-   "type": "Experienced",
-   "location": "Remote / Düsseldorf",
-   "salary": "",
-   "tags": [
-    "Marketing",
-    "SEO",
-    "GEO",
-    "Senior"
-   ],
-   "posted": "2026-09-25T23:09:46+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-seo-geo-manager-141645",
-   "source": "Arbeitnow",
-   "excerpt": "Dein neues Team: Du willst organische Sichtbarkeit so aufbauen, dass sie in Google ebenso wie in KI-Antwortsystemen zuverlässig wirkt? Dann übernimm bei auxmoney die Weiterentwicklung unserer SEO- und GEO-Strategie und setze sie end to end..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
-   "title": "Werkstudent (m/w/d) Softwareentwicklung Go / IoT & Energy",
-   "company": "initEnergy GmbH",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Cologne",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-09-25T21:00:22+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/initenergy-gmbh/werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst die Energiewende nicht nur diskutieren, sondern aktiv mit Code vorantreiben? Wir bei init Energy entwickeln die smarte Logik für intelligente Energiemanagement-Systeme. Kurz gesagt schreiben wir Algorithmen, die Batteriespeicher,..."
   },
   {
    "id": "Jobicy-154087",
