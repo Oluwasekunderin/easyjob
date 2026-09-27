@@ -1,106 +1,74 @@
 {
- "updated": "2026-09-26T20:53:21+00:00",
+ "updated": "2026-09-27T04:43:21+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-remote-deployment-lead-erp-solutions-498717",
-   "title": "Deployment Lead - ERP Solutions",
-   "company": "Rillet",
-   "category": "Customer Experience",
+   "id": "Arbeitnow-remote-software-engineer-infrastructure-self-managed-experience-smx-295441",
+   "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Customer Experience"
+    "Products"
    ],
-   "posted": "2026-09-26T18:07:21+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/rillet/remote-deployment-lead-erp-solutions-498717",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-295441",
    "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-accounting-solutions-consultant-452008",
-   "title": "Accounting Solutions Consultant",
-   "company": "Rillet",
-   "category": "Customer Experience",
+   "id": "Arbeitnow-remote-senior-software-engineer-kubernetes-165193",
+   "title": "Senior Software Engineer, Kubernetes",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Customer Experience"
+    "Products"
    ],
-   "posted": "2026-09-26T18:07:21+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/rillet/remote-accounting-solutions-consultant-452008",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-165193",
    "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-account-executive-169420",
-   "title": "Account Executive",
-   "company": "Rillet",
-   "category": "GTM",
+   "id": "Arbeitnow-remote-senior-site-reliability-engineer-292939",
+   "title": "Senior Site Reliability Engineer",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "GTM"
+    "Products"
    ],
-   "posted": "2026-09-26T18:07:21+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/rillet/remote-account-executive-169420",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-site-reliability-engineer-292939",
    "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-solutions-consultant-98685",
-   "title": "Solutions Consultant",
-   "company": "Rillet",
-   "category": "GTM",
+   "id": "Arbeitnow-remote-lead-employment-counsel-273744",
+   "title": "Lead Employment Counsel",
+   "company": "Camunda",
+   "category": "People",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "GTM"
+    "People"
    ],
-   "posted": "2026-09-26T18:07:21+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/rillet/remote-solutions-consultant-98685",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-lead-employment-counsel-273744",
    "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-deployment-lead-accounting-solutions-439704",
-   "title": "Deployment Lead - Accounting Solutions",
-   "company": "Rillet",
-   "category": "Customer Experience",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Customer Experience"
-   ],
-   "posted": "2026-09-26T18:07:21+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/rillet/remote-deployment-lead-accounting-solutions-439704",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-senior-security-engineer-remote-36825",
-   "title": "Senior Security Engineer - Remote",
-   "company": "Parity",
-   "category": "Acceleration",
-   "type": "Contract",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Acceleration"
-   ],
-   "posted": "2026-09-26T17:55:32+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/parity/senior-security-engineer-remote-36825",
-   "source": "Arbeitnow",
-   "excerpt": "About Us Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the..."
-  },
-  {
-   "id": "Arbeitnow-remote-founding-account-executive-new-business-390827",
-   "title": "Founding Account Executive, New Business",
-   "company": "Fyxer",
+   "id": "Arbeitnow-remote-senior-sales-engineer-north-america-233451",
+   "title": "Senior Sales Engineer - North America",
+   "company": "Camunda",
    "category": "Sales",
    "type": "Full Time",
    "location": "Remote",
@@ -108,79 +76,63 @@
    "tags": [
     "Sales"
    ],
-   "posted": "2026-09-26T17:40:13+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/fyxer/remote-founding-account-executive-new-business-390827",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-north-america-233451",
    "source": "Arbeitnow",
-   "excerpt": "About Fyxer Fyxer launched in May 2024 and hit $1M in revenue across 3,000 paid users without spending a dollar on marketing. We've since gone from $1M to $30M ARR and raised a Series B led by Madrona, with Lakestar, 20VC and Marc Benioff..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-product-marketing-manager-testora-241711",
-   "title": "Product Marketing Manager (Testora)",
-   "company": "Gismart",
-   "category": "Testora",
+   "id": "Arbeitnow-remote-senior-sales-engineer-life-science-north-america-164648",
+   "title": "Senior Sales Engineer - Life Science - North America",
+   "company": "Camunda",
+   "category": "Sales",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Testora"
+    "Sales"
    ],
-   "posted": "2026-09-26T17:40:11+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-product-marketing-manager-testora-241711",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-164648",
    "source": "Arbeitnow",
-   "excerpt": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-creative-production-lead-radiotech-222278",
-   "title": "Creative Production Lead (Radiotech)",
-   "company": "Gismart",
-   "category": "Radiotech",
+   "id": "Arbeitnow-remote-senior-sales-engineer-dach-423357",
+   "title": "Senior Sales Engineer - DACH",
+   "company": "Camunda",
+   "category": "Sales",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Radiotech"
+    "Sales"
    ],
-   "posted": "2026-09-26T17:40:11+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-creative-production-lead-radiotech-222278",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-dach-423357",
    "source": "Arbeitnow",
-   "excerpt": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-creative-producer-radiotech-257764",
-   "title": "Creative Producer (Radiotech)",
-   "company": "Gismart",
-   "category": "General",
+   "id": "Arbeitnow-remote-customer-success-manager-amer-27074",
+   "title": "Customer Success Manager - AMER",
+   "company": "Camunda",
+   "category": "Customer Success",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "General"
+    "Customer Success"
    ],
-   "posted": "2026-09-26T17:40:11+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-creative-producer-radiotech-257764",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-customer-success-manager-amer-27074",
    "source": "Arbeitnow",
-   "excerpt": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-initiative-application-73915",
-   "title": "Initiative Application",
-   "company": "Certa",
-   "category": "Future Opportunities",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Future Opportunities"
-   ],
-   "posted": "2026-09-26T17:40:07+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/certa/remote-initiative-application-73915",
-   "source": "Arbeitnow",
-   "excerpt": "Certa is the AI-first third-party operating system. Enterprises, from the Fortune 500 to fast-growing startups, use our no-code platform to onboard, assess, and monitor their vendors, suppliers, and partners across risk, compliance, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-growth-marketing-manager-subscriptions-102507",
-   "title": "Senior Growth Marketing Manager (Subscriptions)",
-   "company": "Duck Duck Go",
+   "id": "Arbeitnow-remote-manager-adr-emea-306186",
+   "title": "Manager, ADR - EMEA",
+   "company": "Camunda",
    "category": "Marketing",
    "type": "Full Time",
    "location": "Remote",
@@ -188,154 +140,513 @@
    "tags": [
     "Marketing"
    ],
-   "posted": "2026-09-26T17:33:48+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-subscriptions-102507",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-manager-adr-emea-306186",
    "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-staff-data-scientist-413722",
-   "title": "Staff Data Scientist",
-   "company": "Duck Duck Go",
-   "category": "Data Science",
+   "id": "Arbeitnow-remote-enterprise-account-executive-iii-na-198427",
+   "title": "Enterprise Account Executive III - NA",
+   "company": "Camunda",
+   "category": "Sales",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Data Science"
+    "Sales"
    ],
-   "posted": "2026-09-26T17:33:48+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-staff-data-scientist-413722",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-198427",
    "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-endear-product-designer-492752",
-   "title": "Endear - Product Designer",
-   "company": "Eleve Talent",
-   "category": "Endear",
+   "id": "Arbeitnow-remote-senior-manager-fpa-244217",
+   "title": "Senior Manager, FP&A",
+   "company": "Camunda",
+   "category": "Finance",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Endear"
+    "Finance"
    ],
-   "posted": "2026-09-26T17:33:43+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-endear-product-designer-492752",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-manager-fpa-244217",
    "source": "Arbeitnow",
-   "excerpt": "Location: Remote, US-based Team: Product & Design — IRL Type: Full-Time, Employee Compensation: $100K–$129K base Target Start: January 2027 or earlier Our Story At Endear, we’re building the modern CRM for retail teams — starting with the..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-knit-research-manager-16094",
-   "title": "Knit - Research Manager",
-   "company": "Eleve Talent",
-   "category": "Knit",
+   "id": "Arbeitnow-remote-senior-sales-engineer-bfsi-north-america-263961",
+   "title": "Senior Sales Engineer - BFSI - North America",
+   "company": "Camunda",
+   "category": "Sales",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Knit"
+    "Sales"
    ],
-   "posted": "2026-09-26T17:33:43+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-knit-research-manager-16094",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-bfsi-north-america-263961",
    "source": "Arbeitnow",
-   "excerpt": "Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-knit-research-director-160701",
-   "title": "Knit - Research Director",
-   "company": "Eleve Talent",
-   "category": "Knit",
+   "id": "Arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-98803",
+   "title": "Senior GTM Systems AI and Automation Engineer",
+   "company": "Camunda",
+   "category": "Revenue Operations",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Knit"
+    "Revenue Operations"
    ],
-   "posted": "2026-09-26T17:33:43+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-knit-research-director-160701",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
    "source": "Arbeitnow",
-   "excerpt": "Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-endear-account-manager-448146",
-   "title": "Endear - Account Manager",
-   "company": "Eleve Talent",
-   "category": "Endear",
+   "id": "Arbeitnow-remote-principal-product-manager-time-to-first-production-172743",
+   "title": "Principal Product Manager- Time to First Production",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Endear"
+    "Products"
    ],
-   "posted": "2026-09-26T17:33:43+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-endear-account-manager-448146",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-principal-product-manager-time-to-first-production-172743",
    "source": "Arbeitnow",
-   "excerpt": "About Us Endear is building the first modern CRM for retail teams. We empower brands to drive more in-store sales by giving their retail teams AI-powered tools to have 10x more personalized, human conversations with customers. Despite..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-forward-deployed-engineer-48525",
-   "title": "Forward Deployed Engineer",
-   "company": "Hexa",
-   "category": "Waniwani",
+   "id": "Arbeitnow-remote-software-engineer-backend-data-layer-495182",
+   "title": "Software Engineer, Backend - Data Layer",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Waniwani"
+    "Products"
    ],
-   "posted": "2026-09-26T17:30:48+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/hexa/remote-forward-deployed-engineer-48525",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-backend-data-layer-495182",
    "source": "Arbeitnow",
-   "excerpt": "About Waniwani Waniwani builds the infrastructure that distributes insurance and banking products through AI assistants. We raised an $8M seed led by Seedcamp and work with large European banks and insurers. Each enterprise deal has to be..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-software-development-engineers-in-test-python-101930",
-   "title": "Software Development Engineers in Test (Python)",
-   "company": "Xm",
-   "category": "Quality Assurance",
+   "id": "Arbeitnow-remote-senior-manager-qa-engineering-334552",
+   "title": "Senior Manager, QA Engineering",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Quality Assurance"
+    "Products"
    ],
-   "posted": "2026-09-26T17:28:02+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-manager-qa-engineering-334552",
    "source": "Arbeitnow",
-   "excerpt": "The Role: Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. You will work with world class specialists in a friendly, supportive and..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-site-reliability-engineers-sre-95334",
-   "title": "Site Reliability Engineers (SRE)",
-   "company": "Xm",
-   "category": "Cloud DevOps",
+   "id": "Arbeitnow-remote-product-builder-279818",
+   "title": "Product Builder",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Cloud DevOps"
+    "Products"
    ],
-   "posted": "2026-09-26T17:28:02+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-site-reliability-engineers-sre-95334",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-product-builder-279818",
    "source": "Arbeitnow",
-   "excerpt": "The Role: You will join a team working with Observability, Escalations, Post-mortems, Correction of Errors, and other practices that will contribute to the company's goal of cloud resiliency. You will be responsible for driving processes..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
-   "id": "Arbeitnow-remote-qa-software-test-automation-engineers-java-466766",
-   "title": "QA Software Test Automation Engineers (Java)",
-   "company": "Xm",
-   "category": "Quality Assurance",
+   "id": "Arbeitnow-remote-senior-software-engineer-engineering-operations-303835",
+   "title": "Senior Software Engineer, Engineering Operations",
+   "company": "Camunda",
+   "category": "Products",
    "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Quality Assurance"
+    "Products"
    ],
-   "posted": "2026-09-26T17:28:02+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-303835",
    "source": "Arbeitnow",
-   "excerpt": "The Role: Our team is expanding and we are hiring several high caliber QA Software Test Automation Engineers (Java) to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded..."
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-backend-data-streaming-195842",
+   "title": "Senior Software Engineer, Backend - Data Streaming",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-195842",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-backend-data-layer-216001",
+   "title": "Senior Software Engineer, Backend - Data Layer",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-216001",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-director-solutions-and-product-marketing-360036",
+   "title": "Director, Solutions and Product Marketing",
+   "company": "Camunda",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Marketing"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-director-solutions-and-product-marketing-360036",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-backend-reliability-21790",
+   "title": "Senior Software Engineer, Backend - Reliability",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-reliability-21790",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-backend-distributed-systems-321453",
+   "title": "Senior Software Engineer, Backend - Distributed Systems",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-321453",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-development-representative-i-north-america-148555",
+   "title": "Account Development Representative I - North America",
+   "company": "Camunda",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Marketing"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-account-development-representative-i-north-america-148555",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-technical-writer-232093",
+   "title": "Technical Writer",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-technical-writer-232093",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-infrastructure-102166",
+   "title": "Software Engineer - Infrastructure",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-infrastructure-102166",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-engineering-manager-infrastructure-433130",
+   "title": "Engineering Manager - Infrastructure",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-engineering-manager-infrastructure-433130",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-manager-self-managed-service-163958",
+   "title": "Product Manager, Self Managed Service",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-27T02:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-product-manager-self-managed-service-163958",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sales-engineer-mena-177403",
+   "title": "Senior Sales Engineer - MENA",
+   "company": "Sardine",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-09-27T02:40:10+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/sardine/remote-senior-sales-engineer-mena-177403",
+   "source": "Arbeitnow",
+   "excerpt": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and..."
+  },
+  {
+   "id": "Arbeitnow-remote-hardware-entwickler-elektronikentwickler-berlin-435308",
+   "title": "Hardware-Entwickler / Elektronikentwickler (m/w/d)",
+   "company": "Hypertrics GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-09-27T02:30:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-hardware-entwickler-elektronikentwickler-berlin-435308",
+   "source": "Arbeitnow",
+   "excerpt": "Hardware-Entwickler / Elektronikentwickler (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein seit über 80 Jahren international führendes, familiengeführtes Unternehmen im Bereich elektronischer Mess- und..."
+  },
+  {
+   "id": "Arbeitnow-remote-msf-access-101-project-consultation-design-consultant-geneva-141710",
+   "title": "MSF Access 101 Project - Consultation Design Consultant",
+   "company": "MSF International",
+   "category": "MSF Access",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "MSF Access",
+    "Remote"
+   ],
+   "posted": "2026-09-27T02:30:15+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/msf-international/remote-msf-access-101-project-consultation-design-consultant-geneva-141710",
+   "source": "Arbeitnow",
+   "excerpt": "Title of the function: MSF Access 101 Project - Consultation Design Consultant Contract : Consultancy - The candidate must have rights to work as a “Consultant” in their country of residence Duration: Approximately 20-25 working days..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-designer-simplestudy-149962",
+   "title": "Product Designer | SimpleStudy",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-09-26T23:40:04+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-product-designer-simplestudy-149962",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Senior Product Designer Company: SimpleStudy Location: Remote, Europe (preferably Western / continental); relocation to Lisbon possible Job Type: Full-time About SimpleStudy SimpleStudy is an AI exam prep platform that students find..."
+  },
+  {
+   "id": "Arbeitnow-remote-ux-ui-designer-intch-6052",
+   "title": "UX/UI Designer | Intch",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-09-26T23:40:04+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-ux-ui-designer-intch-6052",
+   "source": "Arbeitnow",
+   "excerpt": "About Intch Intch is a professional social network with a marketplace for part time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-manager-intch-329661",
+   "title": "Product Manager | Intch",
+   "company": "Hirehire",
+   "category": "Product Management",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Management"
+   ],
+   "posted": "2026-09-26T23:40:04+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-product-manager-intch-329661",
+   "source": "Arbeitnow",
+   "excerpt": "About Intch Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical..."
+  },
+  {
+   "id": "Arbeitnow-remote-staff-product-designer-jetbrains-442939",
+   "title": "Staff Product Designer | JetBrains",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-09-26T23:40:04+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-staff-product-designer-jetbrains-442939",
+   "source": "Arbeitnow",
+   "excerpt": "About JetBrains Air JetBrains has been building developer tools since 2000 — including IntelliJ IDEA, Kotlin, TeamCity, and more, now trusted by 15M+ developers at 287K companies worldwide. The company is 100% private, profitable, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Justice",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Justice",
+    "Remote"
+   ],
+   "posted": "2026-09-26T20:30:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Environment",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
+   ],
+   "posted": "2026-09-26T20:30:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-it-architect-karlsruhe-69206",
+   "title": "Senior IT Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Healthcare",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Healthcare",
+    "Remote"
+   ],
+   "posted": "2026-09-26T20:30:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-69206",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-java-backend-developer-karlsruhe-304395",
+   "title": "Senior Java Backend Developer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Healthcare",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Healthcare",
+    "Remote"
+   ],
+   "posted": "2026-09-26T20:30:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-304395",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-75190",
+   "title": "Senior Oracle Data Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Finance",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Finance",
+    "Remote"
+   ],
+   "posted": "2026-09-26T20:30:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
   },
   {
    "id": "Arbeitnow-remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
@@ -371,23 +682,6 @@
    "excerpt": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda..."
   },
   {
-   "id": "Arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205",
-   "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
-   "company": "teccle group GmbH",
-   "category": "Professional",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Professional",
-    "Remote"
-   ],
-   "posted": "2026-09-26T14:30:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205",
-   "source": "Arbeitnow",
-   "excerpt": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so..."
-  },
-  {
    "id": "Arbeitnow-remote-lead-product-manager-rpg-paris-453503",
    "title": "Lead Product Manager - RPG",
    "company": "Homa Games",
@@ -404,22 +698,6 @@
    "url": "https://www.arbeitnow.fr/jobs/companies/homa-games/remote-lead-product-manager-rpg-paris-453503",
    "source": "Arbeitnow",
    "excerpt": "Homa is a global mobile game developer and publisher creating games people love. We partner with studios and internally develop games, having launched over 80 titles, reached over 2 billion downloads, and seen our game All in Hole break..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-infrastructure-solutions-engineer-59844",
-   "title": "Senior Infrastructure Solutions Engineer",
-   "company": "planetlabs",
-   "category": "Infrastructure and Operations",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Infrastructure and Operations"
-   ],
-   "posted": "2026-09-26T11:55:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation..."
   },
   {
    "id": "Jobicy-151870",
@@ -1120,40 +1398,6 @@
    "url": "https://jobicy.com/jobs/151719-corporate-marketing-manager",
    "source": "Jobicy",
    "excerpt": "ABOUT THE TEAM The marketing team amplifies Mural’s story to the world through creative, strategic, and measurable programs that drive awareness and engagement. We’re a collaborative group of marketers, storytellers, and relationship..."
-  },
-  {
-   "id": "Arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-   "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-   "company": "N2JSoft",
-   "category": "Dev",
-   "type": "Mid",
-   "location": "Poste à distance",
-   "salary": "",
-   "tags": [
-    "Dev",
-    "Remote"
-   ],
-   "posted": "2026-09-25T07:30:11+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-   "source": "Arbeitnow",
-   "excerpt": "À propos de N2JSoft N2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles. Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays , faisant de N2F l’un des leaders du..."
-  },
-  {
-   "id": "Arbeitnow-remote-developpeur-confirme-ia-h-f-lyon-8868",
-   "title": "Développeur confirmé IA - H/F",
-   "company": "N2JSoft",
-   "category": "Dev",
-   "type": "Mid",
-   "location": "Poste à distance",
-   "salary": "",
-   "tags": [
-    "Dev",
-    "Remote"
-   ],
-   "posted": "2026-09-25T07:30:11+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-confirme-ia-h-f-lyon-8868",
-   "source": "Arbeitnow",
-   "excerpt": "Qui sommes-nous ? N2JSoft est une fintech B2B SaaS spécialisée dans la digitalisation des processus RH et financiers. Avec plus de 20 000 clients et 1 million d’utilisateurs dans 98 pays, nos solutions N2F et Keeple s’imposent comme des..."
   },
   {
    "id": "Remote OK-1137431",
@@ -2173,25 +2417,6 @@
    "excerpt": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on..."
   },
   {
-   "id": "Remote OK-1137169",
-   "title": "Programmatic Campaign Operations Specialist Trader",
-   "company": "VirtuHire",
-   "category": "Amazon",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "amazon",
-    "technical",
-    "customer support",
-    "quality assurance"
-   ],
-   "posted": "2026-08-27T16:00:04+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-   "source": "Remote OK",
-   "excerpt": "Location: South Africa â Remote Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently..."
-  },
-  {
    "id": "Remotive-2091101",
    "title": "Senior React Full-stack Developer",
    "company": "Lemon.io",
@@ -2662,25 +2887,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
    "source": "Remote OK",
    "excerpt": "Vacancy Number: 043183 Agency: Department of Health Number of Vacancies: 1 Work Unit: Primary Health Care â Business Support Location: Alice Springs Primary Objective: Under the general direction of the Fleet Officer and relevant remote..."
-  },
-  {
-   "id": "Remote OK-1136857",
-   "title": "Real Time Drilling Ops Centre Analyst",
-   "company": "SLB",
-   "category": "Testing",
-   "type": "",
-   "location": "Dehradun,",
-   "salary": "",
-   "tags": [
-    "testing",
-    "golang",
-    "non tech",
-    "technical"
-   ],
-   "posted": "2026-08-12T22:34:19+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857",
-   "source": "Remote OK",
-   "excerpt": "The DrillOps Field Deployment Lead is comfortable in the rig environment and has advanced knowledge and access to the IT infrastructure at the wellsite. The DrillOps Field Deployment Lead is essentially responsible for the rig-IT..."
   }
  ]
 }
