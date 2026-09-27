@@ -1,6 +1,23 @@
 {
- "updated": "2026-09-27T16:44:18+00:00",
+ "updated": "2026-09-27T21:09:51+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-data-scientist-berlin-388379",
+   "title": "Senior Data Scientist (m/f/x)",
+   "company": "Makersite GmbH",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-09-27T17:30:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-388379",
+   "source": "Arbeitnow",
+   "excerpt": "Data Scientist (m/f/x) Location: EU (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we..."
+  },
   {
    "id": "Arbeitnow-remote-data-operations-specialist-358431",
    "title": "Data & Operations Specialist",
@@ -224,23 +241,6 @@
    "url": "https://jobicy.com/jobs/154094-senior-manager-customer-success-strategic-accounts",
    "source": "Jobicy",
    "excerpt": "The Company Medely is a high-growth series-C technology start-up reimagining the future of healthcare work by providing an on-demand marketplace and workforce management tools. With the support of top-tier investors, Medely has quickly..."
-  },
-  {
-   "id": "Arbeitnow-remote-freelancer-group-fitness-instructor-bachenbulach-389715",
-   "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-   "company": "PureGym AG",
-   "category": "Live Group Fitness",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Live Group Fitness",
-    "Remote"
-   ],
-   "posted": "2026-09-27T11:30:23+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-bachenbulach-389715",
-   "source": "Arbeitnow",
-   "excerpt": "Als Mitglied der internationalen PureGym Gruppe mit mehr als 2 Millionen Mitgliedern gehören wir zu den drei größten Fitnessketten in Europa und sind damit bestens aufgestellt, um unsere ehrgeizigen Ziele weiter zu verfolgen und zu..."
   },
   {
    "id": "Arbeitnow-wellbeing-programs-advisor-london-86379",
@@ -2290,24 +2290,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
    "source": "Remote OK",
    "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the..."
-  },
-  {
-   "id": "Remote OK-1136625",
-   "title": "Gardener Handyman Driver",
-   "company": "NT Health",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Alice Springs,",
-   "salary": "",
-   "tags": [
-    "customer support",
-    "exec",
-    "medical"
-   ],
-   "posted": "2026-08-13T20:09:23+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
-   "source": "Remote OK",
-   "excerpt": "Vacancy Number: 043183 Agency: Department of Health Number of Vacancies: 1 Work Unit: Primary Health Care â Business Support Location: Alice Springs Primary Objective: Under the general direction of the Fleet Officer and relevant remote..."
   }
  ]
 }
