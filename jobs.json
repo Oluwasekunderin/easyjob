@@ -1,6 +1,38 @@
 {
- "updated": "2026-09-28T23:05:53+00:00",
+ "updated": "2026-09-29T05:11:26+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-staff-software-engineer-security-agent-321424",
+   "title": "Staff Software Engineer - Security Agent",
+   "company": "Datadog",
+   "category": "Dev Eng",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Dev Eng"
+   ],
+   "posted": "2026-09-29T02:55:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-321424",
+   "source": "Arbeitnow",
+   "excerpt": "<p>This role is part of Datadog’s Security Agent team, which powers critical security capabilities across Workload Protection, Vulnerability Management, Cloud Security products, and other emerging security offerings. As a Staff Software..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-quality-4113",
+   "title": "Senior Software Engineer, Quality",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-28T23:40:08+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
   {
    "id": "Arbeitnow-remote-senior-medical-writer-uk-london-58847",
    "title": "Senior Medical Writer | UK",
@@ -121,23 +153,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
    "source": "Arbeitnow",
    "excerpt": "This role is for one of our clients Compensation: $50 - $150 per hour We're partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We..."
-  },
-  {
-   "id": "Arbeitnow-micro-content-creator-rezepte-kochen-hamburg-125411",
-   "title": "Micro Content Creator - Rezepte & Kochen",
-   "company": "ReciMe",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-09-28T20:17:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recime/micro-content-creator-rezepte-kochen-hamburg-125411",
-   "source": "Arbeitnow",
-   "excerpt": "ReciMe ist die am schnellsten wachsende Koch-App der Welt und hilft mehr als 15 Millionen Nutzern dabei, Rezepte von Social Media zu speichern und daraus Essenspläne sowie Einkaufslisten zu erstellen. Wir sind seit Monaten unter den Top 10..."
   },
   {
    "id": "Arbeitnow-remote-werkstudent-vertrieb-stuttgart-26599",
@@ -500,74 +515,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-225660",
    "source": "Arbeitnow",
    "excerpt": "Join the AI of Manufacturing PartSpace is a f ast-growing, innovative tech company with a clear mission: with artificial intelligence and real engineering data, PartSpace is redefining the future of technical procurement. Our cloud-based..."
-  },
-  {
-   "id": "Arbeitnow-remote-principal-managed-services-consultant-229749",
-   "title": "Principal Managed Services Consultant",
-   "company": "Valiantys",
-   "category": "Managed Services",
-   "type": "Full Time Permanent Contract",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Managed Services"
-   ],
-   "posted": "2026-09-28T17:04:49+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/valiantys/remote-principal-managed-services-consultant-229749",
-   "source": "Arbeitnow",
-   "excerpt": "About Valiantys Valiantys helps organizations transform how work gets done across the enterprise, leading with transformation consulting, enterprise service management (ESM), and engineering productivity. By combining deep process..."
-  },
-  {
-   "id": "Arbeitnow-chief-technology-officer-dortmund-339770",
-   "title": "Chief Technology Officer",
-   "company": "Worldwide Placement Limited",
-   "category": "Remote",
-   "type": "Executive",
-   "location": "Dortmund",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Management",
-    "Team Leader"
-   ],
-   "posted": "2026-09-28T16:00:32+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/chief-technology-officer-dortmund-339770",
-   "source": "Arbeitnow",
-   "excerpt": "Location: Kassel , Germany Work Policy: Remote-first within Germany; optional office days; not advertised as fully remote internationally Work Experience: Several years in a CTO/VP Engineering (or similar) role within FinTech or banking..."
-  },
-  {
-   "id": "Arbeitnow-amazon-marktplatz-manager-remote-oder-hybrid-berlin-153807",
-   "title": "Amazon Marktplatz-Manager (m/w/d) remote oder hybrid",
-   "company": "EBZ Marketplaces GmbH",
-   "category": "Remote",
-   "type": "",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-09-28T15:30:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ebz-marketplaces-gmbh/amazon-marktplatz-manager-remote-oder-hybrid-berlin-153807",
-   "source": "Arbeitnow",
-   "excerpt": "Du hast Erfahrung mit Amazon gesammelt und willst jetzt richtig Marken groß machen? Bei EBZ Marketplaces bist du vollumfänglich für unseren Amazon-Hauptaccount verantwortlich – von Listing und Advertising bis zu den Lieferantenbeziehungen..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-marketing-content-video-creation-eschborn-176265",
-   "title": "Werkstudent Marketing - Content & Video Creation (m/w/d)",
-   "company": "Jamorie Consulting GmbH",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Eschborn",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-09-28T15:01:06+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/werkstudent-marketing-content-video-creation-eschborn-176265",
-   "source": "Arbeitnow",
-   "excerpt": "Du denkst in Bildern, Schnitten und Hooks? Du willst nicht nur Posts für ein Uni-Projekt bauen, sondern Kanäle mit echter Reichweite aufbauen? Dann bist du bei uns genau richtig! Bei JAMORIE machen wir Cyber Security verständlich – für..."
   },
   {
    "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-67712",
@@ -2419,25 +2366,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
    "source": "Remote OK",
    "excerpt": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent underpayment from health..."
-  },
-  {
-   "id": "Remote OK-1136701",
-   "title": "QA Tester Entry Level",
-   "company": "Ace IT Careers",
-   "category": "Testing",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "testing",
-    "dev",
-    "analyst",
-    "quality assurance"
-   ],
-   "posted": "2026-08-15T00:00:25+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
-   "source": "Remote OK",
-   "excerpt": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be..."
   }
  ]
 }
