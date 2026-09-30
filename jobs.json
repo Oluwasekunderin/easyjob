@@ -1,56 +1,265 @@
 {
- "updated": "2026-09-30T12:15:09+00:00",
+ "updated": "2026-09-30T22:04:06+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
-   "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
-   "company": "uNaice GmbH",
+   "id": "Arbeitnow-senior-account-executive-europe-100-remote-berlin-449093",
+   "title": "Senior Account Executive (Europe, 100% remote)",
+   "company": "LimeFlight",
+   "category": "Growth",
+   "type": "Executive",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Growth",
+    "Remote"
+   ],
+   "posted": "2026-09-30T20:30:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/limeflight/senior-account-executive-europe-100-remote-berlin-449093",
+   "source": "Arbeitnow",
+   "excerpt": "Join our fully remote, mission-driven team dedicated to pioneering sustainable inflight service management . Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and..."
+  },
+  {
+   "id": "Arbeitnow-werkstudentin-kundenservice-100-homeoffice-grafschaft-397791",
+   "title": "Werkstudent:in (m/w/d) Kundenservice, 100 % Homeoffice",
+   "company": "Nutrition-Plus GmbH",
    "category": "Remote",
-   "type": "",
-   "location": "Werther",
+   "type": "Working Student",
+   "location": "Grafschaft",
    "salary": "",
    "tags": [
     "Remote",
-    "Software Development"
+    "Customer Service"
    ],
-   "posted": "2026-09-30T10:00:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+   "posted": "2026-09-30T19:00:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nutrition-plus-gmbh/werkstudentin-kundenservice-100-homeoffice-grafschaft-397791",
    "source": "Arbeitnow",
-   "excerpt": "uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung. Wir entwickeln Kunden, die sich auf der Welle der Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im..."
+   "excerpt": "Bei nutri+ glauben wir an eine Welt, in der Tiere respektiert werden und niemand zurückgelassen wird. Deshalb setzen wir uns nicht nur für hochwertige vegane Produkte ein, sondern engagieren uns aktiv für den Tierschutz. Unser Online-Shop..."
   },
   {
-   "id": "Arbeitnow-lead-generation-growth-specialist-berlin-362346",
-   "title": "Lead Generation & Growth Specialist",
-   "company": "Goodstag a Brand of todo GmbH",
+   "id": "Arbeitnow-remote-enterprise-account-executive-emea-35315",
+   "title": "Enterprise Account Executive - EMEA",
+   "company": "Abacum",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-09-30T17:40:05+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/abacum/remote-enterprise-account-executive-emea-35315",
+   "source": "Arbeitnow",
+   "excerpt": "About Abacum Abacum is the leading Business Planning solution for finance teams to drive performance . By automating reporting, enabling collaboration, and simplifying planning and forecasting, we help finance teams shift from number..."
+  },
+  {
+   "id": "Arbeitnow-remote-supply-chain-manager-all-genders-berlin-308958",
+   "title": "Supply Chain Manager (all genders)",
+   "company": "Maniko Nails GmbH",
+   "category": "Operations",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Operations",
+    "Remote"
+   ],
+   "posted": "2026-09-30T17:30:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-supply-chain-manager-all-genders-berlin-308958",
+   "source": "Arbeitnow",
+   "excerpt": "Position: Vollzeit (40h) Ort: Remote (Deutschland) oder Berlin Start Datum: Ab sofort oder nach Absprache Sprachen: Deutsch (fließend) & Englisch (sehr gut) Du hast den Anspruch, dass jede Bestellung stimmt, die deinen Tisch verlässt, und..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-technical-project-manager-pmo-all-genders-289446",
+   "title": "Senior Technical Project Manager - PMO (all genders)",
+   "company": "Contabo",
+   "category": "Technical Project Management",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "Technical Project Management",
+    "IT Project Management",
+    "IT",
+    "Cloud"
+   ],
+   "posted": "2026-09-30T17:09:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-technical-project-manager-pmo-all-genders-289446",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for a full-time, permanent Technical Project Manager (all genders) to join our PMO team as soon as possible. We embrace a remote-first approach (within Germany), but you can choose whether you’d like to..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
+   "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+   "company": "Contabo",
+   "category": "software",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "software",
+    "hosting",
+    "cloud hositng",
+    "vps"
+   ],
+   "posted": "2026-09-30T17:09:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for two full-time, permanent Senior Software Developer – Platform & Infrastructure Engineering (all genders) to start as soon as possible . We live remote-first within Germany , but you have the freedom..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-network-engineer-all-genders-456157",
+   "title": "Senior Network Engineer (all genders)",
+   "company": "Contabo",
+   "category": "Senior Network Engineer",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "Senior Network Engineer",
+    "Network Engineer",
+    "Data Center Network",
+    "Leaf-Spine Architecture"
+   ],
+   "posted": "2026-09-30T17:09:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-456157",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for a full-time, permanent Senior Network Engineer to start as soon as possible. We live remote-first, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your..."
+  },
+  {
+   "id": "Arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
+   "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
+   "company": "Contabo",
+   "category": "Director Marketing",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "Director Marketing",
+    "CMO",
+    "Head of Marketing",
+    "Game Server Provider"
+   ],
+   "posted": "2026-09-30T17:09:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field At GPORTAL , our vision is to build individual and easy-to-use online gaming experiences for the world. Driven by our “from gamer for gamer” passion, we've grown into one of the leading game server providers - offering..."
+  },
+  {
+   "id": "Arbeitnow-social-media-manager-mit-fokus-ugc-creator-nuremberg-323820",
+   "title": "Social Media Manager (m/w/d) mit Fokus UGC & Creator",
+   "company": "Kaan AI GmbH",
    "category": "Remote",
-   "type": "Working Student",
+   "type": "Berufserfahren",
+   "location": "Nuremberg",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Social Media Manager"
+   ],
+   "posted": "2026-09-30T17:00:32+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/kaan-ai-gmbh/social-media-manager-mit-fokus-ugc-creator-nuremberg-323820",
+   "source": "Arbeitnow",
+   "excerpt": "Wir sind Kaan AI, ein KI-Produkt-Lab aus Nürnberg. Wir bauen und vermarkten unsere eigenen Produkte IntelliSchreiber und KalemiFlow, die zehntausende Studierende nutzen. In nur zwei Monaten haben wir eines der größten UGC-Teams..."
+  },
+  {
+   "id": "Arbeitnow-account-executive-b2b-saas-enterprise-frankfurt-am-main-428618",
+   "title": "Account Executive (m/w/d) – B2B SaaS / Enterprise",
+   "company": "Omnora GmbH",
+   "category": "Remote",
+   "type": "Berufserfahren",
+   "location": "Frankfurt am Main",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Development"
+   ],
+   "posted": "2026-09-30T16:30:41+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/account-executive-b2b-saas-enterprise-frankfurt-am-main-428618",
+   "source": "Arbeitnow",
+   "excerpt": "Introduction Als Account Executive bei Omnora übernimmst du eine zentrale Rolle im operativen B2B SaaS Vertrieb mit Fokus auf Enterprise-Kunden und gehobenen Mittelstand. Du verantwortest deine eigene Pipeline, führst Deals strukturiert..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-executive-france-paris-205180",
+   "title": "Account Executive France",
+   "company": "Peripass",
+   "category": "Sales",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Remote"
+   ],
+   "posted": "2026-09-30T16:30:17+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/peripass/remote-account-executive-france-paris-205180",
+   "source": "Arbeitnow",
+   "excerpt": "Are you prepared to fuel the growth of an exciting scale-up that's transforming the logistics industry? Do you thrive on building strategic relationships and close deals? If so, we might have the perfect opportunity for you! Logistics?..."
+  },
+  {
+   "id": "Arbeitnow-unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
+   "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",
+   "company": "IndieKidz GmbH",
+   "category": "Remote",
+   "type": "Internship",
    "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Online Marketing"
+    "Automation Engineering"
    ],
-   "posted": "2026-09-30T09:31:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/goodstag-a-brand-of-todo-gmbh/lead-generation-growth-specialist-berlin-362346",
+   "posted": "2026-09-30T15:31:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
    "source": "Arbeitnow",
-   "excerpt": "Location: Remote / Europe Type: Full-time or part-time – open to experienced students Experience: Minimum 2 years hands-on B2B lead generation experience About GoodsTag GoodsTag is a European technology company helping manufacturers and..."
+   "excerpt": "About Occibo Occibo is an AI-powered SaaS platform for children's book creation, built by IndieKidz GmbH in Berlin. We're a small, remote-first team looking for a QA intern to help us build and maintain automated testing so we can ship new..."
   },
   {
-   "id": "Arbeitnow-va-virtuelle-assistenz-social-media-content-manager-freelance-100-remote-stuttgart-379278",
-   "title": "VA (Virtuelle Assistenz) Social Media & Content Manager (w/m/d) - Freelance, 100% Remote",
-   "company": "NETSHAKE",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Stuttgart",
+   "id": "Arbeitnow-remote-forward-deployed-engineer-emea-407864",
+   "title": "Forward Deployed Engineer - EMEA",
+   "company": "gitlab",
+   "category": "Customer Experience",
+   "type": "",
+   "location": "Remote",
    "salary": "",
    "tags": [
-    "Remote",
-    "Marketing and Communication"
+    "Customer Experience"
    ],
-   "posted": "2026-09-30T09:31:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/netshake/va-virtuelle-assistenz-social-media-content-manager-freelance-100-remote-stuttgart-379278",
+   "posted": "2026-09-30T14:55:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-407864",
    "source": "Arbeitnow",
-   "excerpt": "NETSHAKE ist Shopify Premier Partner, TÜV-zertifiziert und seit 26 Jahren im E-Commerce. Mit über 1.600 Projekten gehören wir zu den erfahrensten Shopify-Agenturen im DACH-Raum. Unsere Kunden sind Onlinehändler, für die wir Shops..."
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-technicien-de-maintenance-dinstruments-de-mesure-h-f-la-chapelle-saint-aubin-243885",
+   "title": "Technicien de maintenance d'instruments de mesure (H/F)",
+   "company": "PRECIA MOLEN",
+   "category": "Precia Molen Service",
+   "type": "Experienced",
+   "location": "Poste à distance",
+   "salary": "",
+   "tags": [
+    "Precia Molen Service",
+    "Remote"
+   ],
+   "posted": "2026-09-30T13:30:12+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/precia-molen/remote-technicien-de-maintenance-dinstruments-de-mesure-h-f-la-chapelle-saint-aubin-243885",
+   "source": "Arbeitnow",
+   "excerpt": "Leader dans notre secteur, Precia Molen Service, est une filiale du groupe PRECIA MOLEN, entreprise familiale française, présente au niveau national et international, et spécialisée depuis plus de 75 ans dans la conception et la..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-experience-engineer-217975",
+   "title": "Senior Experience Engineer",
+   "company": "Parity",
+   "category": "Acceleration",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Acceleration"
+   ],
+   "posted": "2026-09-30T11:40:03+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/parity/remote-senior-experience-engineer-217975",
+   "source": "Arbeitnow",
+   "excerpt": "About Us Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the..."
   },
   {
    "id": "Arbeitnow-remote-healthcare-life-sciences-principal-emea-252569",
@@ -67,40 +276,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/purestorage/remote-healthcare-life-sciences-principal-emea-252569",
    "source": "Arbeitnow",
    "excerpt": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-full-stack-entwicklung-munich-196366",
-   "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
-   "company": "SC Media House",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Munich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-09-30T08:30:46+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind eine der führenden Influencer-Marketing-Agenturen Deutschlands und entwickeln authentische, wirkungsvolle Kampagnen für über 2.500 Partner-Brands. Gleichzeitig bauen wir unsere eigene App für Influencer-Kooperationen..."
-  },
-  {
-   "id": "Arbeitnow-business-mentorin-mannheim-363280",
-   "title": "Business Mentor:in",
-   "company": "Brand your Voice",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Mannheim",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-09-30T08:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/brand-your-voice/business-mentorin-mannheim-363280",
-   "source": "Arbeitnow",
-   "excerpt": "remote | fulltime | erfahrenes B2B-/Online-Business-Profil Aufgaben Was du mitbringst Du hast nachweislich Erfahrung in der Begleitung oder Beratung von B2B-Kundinnenidealerweise als Mentorin, Strategin, Account Managerin oder in einer..."
   },
   {
    "id": "Jobicy-154283",
@@ -717,109 +892,6 @@
    "url": "https://jobicy.com/jobs/154245-associate-payments-adoption-manager",
    "source": "Jobicy",
    "excerpt": "Associate Payments Adoption Managers are part of a purpose-driven team that provides an extraordinary product and has an extraordinary impact in customers’ lives. Based in or near Morgan Hill, California, this role will be responsible for..."
-  },
-  {
-   "id": "Arbeitnow-social-media-recruiter-minijob-homeoffice-gummersbach-99514",
-   "title": "Social Media Recruiter (m/w/d) Minijob (Homeoffice)",
-   "company": "Beutler Saghari & Partner GmbH",
-   "category": "Remote",
-   "type": "Side",
-   "location": "Gummersbach",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Recruitment and Selection"
-   ],
-   "posted": "2026-09-30T07:30:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/beutler-saghari-partner-gmbh/social-media-recruiter-minijob-homeoffice-gummersbach-99514",
-   "source": "Arbeitnow",
-   "excerpt": "Beutler Saghari & Partner ist eine bundesweit tätige Headhunting-Agentur mit Sitz in Iserlohn und Gummersbach.Unsere besondere Stärke liegt in der telefonischen Direktansprache – diskret, verbindlich und erfolgreich. Doch wir wissen:..."
-  },
-  {
-   "id": "Arbeitnow-graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
-   "title": "Graphic Designer (m/w/d) – Social Media & YouTube Thumbnails (Minijob)",
-   "company": "Hildebrandt Personal Brand",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Frankfurt am Main",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Graphic Arts and Communication Design"
-   ],
-   "posted": "2026-09-30T07:30:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/hildebrandt-personal-brand/graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
-   "source": "Arbeitnow",
-   "excerpt": "Gestalte den Look der größten Neuro-Personenmarke Deutschlands Wir haben ein klares Ziel: die größte Personenmarke für Neurowissenschaft in Deutschland aufzubauen. Hinter Henry Hildebrandt stehen über 500.000 Follower auf Instagram, ein..."
-  },
-  {
-   "id": "Arbeitnow-remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
-   "title": "Sales Support & Account Operations Specialist (Arabic, French and English)",
-   "company": "Brixio",
-   "category": "Information Technology",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Information Technology",
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-09-30T07:20:08+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
-   "source": "Arbeitnow",
-   "excerpt": "About BRIXIO BRIXIO is a dedicated Cloudflare service and delivery partner operating across the Middle East, North Africa and Europe. We specialise in Cloudflare licensing, support plans, professional services and managed offerings ,..."
-  },
-  {
-   "id": "Arbeitnow-remote-professional-services-engineer-cloudflare-implementation-france-337081",
-   "title": "Professional Services Engineer - Cloudflare Implementation",
-   "company": "Brixio",
-   "category": "Information Technology and Services",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-09-30T07:20:08+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-professional-services-engineer-cloudflare-implementation-france-337081",
-   "source": "Arbeitnow",
-   "excerpt": "About BRIXIO BRIXIO is a cybersecurity and cloud services provider and a Cloudflare Authorised Service Delivery Partner , dual certified in Application Security & Performance and Cloudflare One. We design, implement and operate Cloudflare..."
-  },
-  {
-   "id": "Arbeitnow-remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
-   "title": "MSP Engineer, Network and Security - Rotating shifts",
-   "company": "Brixio",
-   "category": "Information Technology and Services",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-09-30T07:20:08+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
-   "source": "Arbeitnow",
-   "excerpt": "About BRIXIO BRIXIO is a cybersecurity and cloud services provider and a Cloudflare Authorised Service Delivery Partner , dual certified in Core Services and Cloudflare One. We design, implement and operate Cloudflare environments for..."
-  },
-  {
-   "id": "Arbeitnow-remote-customer-success-manager-managed-services-and-support-france-93431",
-   "title": "Customer Success Manager, Managed Services and Support",
-   "company": "Brixio",
-   "category": "Information Technology and Services",
-   "type": "",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-09-30T07:20:08+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-customer-success-manager-managed-services-and-support-france-93431",
-   "source": "Arbeitnow",
-   "excerpt": "About BRIXIO BRIXIO is a cybersecurity and cloud services provider and a Cloudflare Authorised Service Delivery Partner , dual certified in Application Security & Performance and Cloudflare One. We design, implement and operate Cloudflare..."
   },
   {
    "id": "Jobicy-151931",
