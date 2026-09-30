@@ -1,6 +1,38 @@
 {
- "updated": "2026-09-29T22:04:42+00:00",
+ "updated": "2026-09-30T04:58:53+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-quality-67277",
+   "title": "Senior Software Engineer, Quality",
+   "company": "Camunda",
+   "category": "Products",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Products"
+   ],
+   "posted": "2026-09-30T02:40:13+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-348129",
+   "title": "Senior WEG-Verwalter:in (m/w/d) | 100 % Remote oder Hamburg",
+   "company": "Ralph Management GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-09-30T02:30:13+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ralph-management-gmbh/senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-348129",
+   "source": "Arbeitnow",
+   "excerpt": "Ralph ist Deutschlands modernste Hausverwaltung. Wir denken WEG von Grund auf neu – mit 10.000 Einheiten deutschlandweit haben wir bewiesen, dass unser Modell skaliert. Wir verbinden unsere eigene AI-Software mit der Expertise erfahrener..."
+  },
   {
    "id": "Arbeitnow-freelance-hr-consultant-berlin-143458",
    "title": "Freelance HR Consultant",
@@ -17,40 +49,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/ekipa-agency-gmbh/freelance-hr-consultant-berlin-143458",
    "source": "Arbeitnow",
    "excerpt": "Shaping HR at Ekipa Agency Ekipa Agency GmbH is an international artist booking agency based in Berlin, specializing in electronic music. With a unique roster of versatile artists, Ekipa facilitates club nights and festivals, operating..."
-  },
-  {
-   "id": "Arbeitnow-banking-operator-banking-expert-cologne-332432",
-   "title": "Banking Operator / Banking Expert (m/w/d)",
-   "company": "finwyz GmbH",
-   "category": "Remote",
-   "type": "",
-   "location": "Cologne",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Consulting"
-   ],
-   "posted": "2026-09-29T19:00:32+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/finwyz-gmbh/banking-operator-banking-expert-cologne-332432",
-   "source": "Arbeitnow",
-   "excerpt": "Unternehmensbeschreibung banking beyond the hype - Wir übersetzen relevante Bankingtrends und Kundenerwartungen in digitale Lösungen. Mit durchschnittlich über 15 Jahren Branchenerfahrung verstehen wir die Herausforderungen der..."
-  },
-  {
-   "id": "Arbeitnow-business-analyst-wertpapierprojekt-cologne-339588",
-   "title": "Business Analyst Wertpapierprojekt (m/w/d)",
-   "company": "finwyz GmbH",
-   "category": "Remote",
-   "type": "",
-   "location": "Cologne",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Analyst"
-   ],
-   "posted": "2026-09-29T18:30:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/finwyz-gmbh/business-analyst-wertpapierprojekt-cologne-339588",
-   "source": "Arbeitnow",
-   "excerpt": "Unternehmensbeschreibung banking beyond the hype - Wir übersetzen relevante Bankingtrends und Kundenerwartungen in digitale Lösungen. Mit durchschnittlich über 15 Jahren Branchenerfahrung verstehen wir die Herausforderungen der..."
   },
   {
    "id": "Jobicy-154239",
@@ -191,143 +189,6 @@
    "url": "https://jobicy.com/jobs/154229-implementation-manager",
    "source": "Jobicy",
    "excerpt": "Our Best-in-Class Implementation Team is leading the way and revolutionizing the automotive industry with 5 star customer service. With a thorough understanding of Shopmonkey products, and a focus on creative problem solving, every..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-it-architect-karlsruhe-287076",
-   "title": "Senior IT Architect (m/w/d)",
-   "company": "virtual7 GmbH",
-   "category": "Customer Cluster Healthcare",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Customer Cluster Healthcare",
-    "Remote"
-   ],
-   "posted": "2026-09-29T17:30:35+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-287076",
-   "source": "Arbeitnow",
-   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
-  },
-  {
-   "id": "Arbeitnow-remote-teamleiter-fur-haushaltshilfen-quereinstieg-einzelhandel-bayern-134895",
-   "title": "Teamleiter für Haushaltshilfen (m/w/d) Quereinstieg Einzelhandel",
-   "company": "Agentur für Haushaltshilfe GmbH",
-   "category": "Teamleiter",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Teamleiter",
-    "Remote"
-   ],
-   "posted": "2026-09-29T17:30:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleiter-fur-haushaltshilfen-quereinstieg-einzelhandel-bayern-134895",
-   "source": "Arbeitnow",
-   "excerpt": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Unser Ziel ist es, dafür zu sorgen, dass hilfsbedürftige Menschen da leben können, wo sie sich am wohlsten fühlen - und das ist in..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-communications-manager-germany-25167",
-   "title": "Senior Communications Manager",
-   "company": "Skeletontech",
-   "category": "Marketing",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "Marketing",
-    "Electrical/Electronic Manufacturing",
-    "Remote"
-   ],
-   "posted": "2026-09-29T17:20:12+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/skeletontech/remote-senior-communications-manager-germany-25167",
-   "source": "Arbeitnow",
-   "excerpt": "Skeleton Technologies is looking for a Senior Communications Manager to join our team. About Skeleton Skeleton Technologies is a global leader in critical power infrastructure for AI data centers and electrical grid stability, founded in..."
-  },
-  {
-   "id": "Arbeitnow-marketing-content-manager-b2b-ampfing-216001",
-   "title": "Marketing & Content Manager B2B (m/w/d)",
-   "company": "Neurawork GmbH & Co. KG",
-   "category": "Remote",
-   "type": "",
-   "location": "Ampfing",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-09-29T16:30:37+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/marketing-content-manager-b2b-ampfing-216001",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst nicht einfach Marketing machen. Du willst ein Unternehmen sichtbar machen, das eine ganze Branche verändert. Bei Neurawork begleiten wir Unternehmen in ihrer KI-Transformation – mit unserem eigenen Framework Operational AI für..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-onboarding-customer-success-berlin-281358",
-   "title": "Werkstudent (m/w/d) Onboarding Customer Success",
-   "company": "Pflegia",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Recruitment and Selection"
-   ],
-   "posted": "2026-09-29T16:30:37+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/pflegia/werkstudent-onboarding-customer-success-berlin-281358",
-   "source": "Arbeitnow",
-   "excerpt": "Du möchtest neben Deinem Studium praktische Erfahrung in Kundenberatung, Kommunikation und Customer Success sammeln und dabei gleichzeitig einen echten sozialen Beitrag leisten? Bei Pflegia unterstützen wir Pflegekräfte dabei, passende..."
-  },
-  {
-   "id": "Arbeitnow-junior-onboarding-customer-success-manager-remote-berlin-307387",
-   "title": "(Junior) Onboarding Customer Success Manager (m/w/d) - Remote",
-   "company": "Pflegia",
-   "category": "Remote",
-   "type": "Berufseinstieg",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Recruitment and Selection"
-   ],
-   "posted": "2026-09-29T16:30:34+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/pflegia/junior-onboarding-customer-success-manager-remote-berlin-307387",
-   "source": "Arbeitnow",
-   "excerpt": "Starte Deine Karriere als Onboarding Customer Success Manager (m/w/d) bei Pflegia! Du möchtest Teil eines Unternehmens sein, das nicht nur innovative Lösungen bietet , sondern auch einen echten sozialen Beitrag leistet? Bei Pflegia , dem..."
-  },
-  {
-   "id": "Arbeitnow-mitarbeiter-in-verwaltung-administration-25h-w-werther-54200",
-   "title": "Mitarbeiter (m/w/d) in Verwaltung - Administration (m/w/d) 25h/W",
-   "company": "uNaice GmbH",
-   "category": "Remote",
-   "type": "Berufseinstieg",
-   "location": "Werther",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Administration"
-   ],
-   "posted": "2026-09-29T16:00:40+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/mitarbeiter-in-verwaltung-administration-25h-w-werther-54200",
-   "source": "Arbeitnow",
-   "excerpt": "uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung. Wir entwickeln Kunden, die sich an der Schwelle zur Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player..."
-  },
-  {
-   "id": "Arbeitnow-senior-performance-marketing-manager-meta-ads-full-funnel-growth-100-remote-berlin-28423",
-   "title": "Senior Performance Marketing Manager (m/w/d) - Meta Ads & Full-Funnel Growth - 100% remote",
-   "company": "everydays",
-   "category": "Remote",
-   "type": "Teamleitung",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing Manager"
-   ],
-   "posted": "2026-09-29T16:00:37+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/everydays/senior-performance-marketing-manager-meta-ads-full-funnel-growth-100-remote-berlin-28423",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind eine stark wachsende Direct-to-Consumer-Marke im Gesundheitsbereich und verkaufen hochwertige Supplements direkt an unsere Kund:innen. Unsere wichtigste Wachstumsmaschine: Direct-Response-Marketing über Meta Ads. Ein hoher ROAS..."
   },
   {
    "id": "Jobicy-154223",
@@ -580,23 +441,6 @@
    "url": "https://jobicy.com/jobs/154207-account-executive-pharmaceutical-advertising",
    "source": "Jobicy",
    "excerpt": "Who we are: What our Clients' Service Executives do every day is quite influential and consequential. Great Agency work starts and ends with us. As the catalyst for creation, the way we influence teams will have the greatest impact on our..."
-  },
-  {
-   "id": "Arbeitnow-social-media-managerin-content-creatorin-koln-249536",
-   "title": "Social Media Managerin / Content Creatorin (m/w/d)",
-   "company": "7 Marketplace GmbH",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Köln",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-09-29T15:30:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/7-marketplace-gmbh/social-media-managerin-content-creatorin-koln-249536",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst nicht nur Social Media managen, sondern selbst das Gesicht einer Marke werden? BuddySIM macht mobiles Internet auf Reisen einfach. Mit unseren eSIMs können Reisende in über 190 Ländern direkt online gehen: 100% ohne..."
   },
   {
    "id": "Jobicy-154202",
@@ -939,22 +783,6 @@
    "excerpt": "Network Operations Engineer 1. About the role Share is the global marketplace for bandwidth. We aggregate telco infrastructure into a single layer and give ISPs, hyperscalers, and AI companies a clean path to deliver connectivity into..."
   },
   {
-   "id": "Arbeitnow-remote-senior-software-engineer-quality-4113",
-   "title": "Senior Software Engineer, Quality",
-   "company": "Camunda",
-   "category": "Products",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Products"
-   ],
-   "posted": "2026-09-28T23:40:08+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
-   "source": "Arbeitnow",
-   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
-  },
-  {
    "id": "Arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
    "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
    "company": "Weekday 1",
@@ -970,22 +798,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
    "source": "Arbeitnow",
    "excerpt": "This role is for one of our clients Compensation: $50 - $150 per hour We're partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We..."
-  },
-  {
-   "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-67712",
-   "title": "Sales Account Executive - Cybersecurity",
-   "company": "Crowdsec",
-   "category": "Remote",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-09-28T13:30:15+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-67712",
-   "source": "Arbeitnow",
-   "excerpt": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale,..."
   },
   {
    "id": "Arbeitnow-remote-senior-software-engineer-redapl-graph-engine-47394",
@@ -2318,82 +2130,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
    "source": "Remote OK",
    "excerpt": "About us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven..."
-  },
-  {
-   "id": "Remote OK-1136798",
-   "title": "Member of Technical Staff Engineering",
-   "company": "Physical Superintelligence",
-   "category": "Design",
-   "type": "",
-   "location": "Boston",
-   "salary": "",
-   "tags": [
-    "design",
-    "infosec",
-    "technical",
-    "dev"
-   ],
-   "posted": "2026-08-16T00:00:23+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-   "source": "Remote OK",
-   "excerpt": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers..."
-  },
-  {
-   "id": "Remote OK-1136797",
-   "title": "Strategic Account Executive Lodging",
-   "company": "FreedomPay",
-   "category": "Saas",
-   "type": "",
-   "location": "Select USA Remote Locations",
-   "salary": "",
-   "tags": [
-    "saas",
-    "infosec",
-    "game dev",
-    "consulting"
-   ],
-   "posted": "2026-08-16T00:00:16+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
-   "source": "Remote OK",
-   "excerpt": "The FreedomPay Commerce Platform is the technology of choice for many of the largest companies across the globe in retail, hospitality, lodging, gaming, sports and entertainment, foodservice, education, healthcare and financial services...."
-  },
-  {
-   "id": "Remote OK-1136796",
-   "title": "Staff Software Development Engineer SDM",
-   "company": "Delinea",
-   "category": "Dev",
-   "type": "",
-   "location": "Redwood City",
-   "salary": "$150,000 - $185,000",
-   "tags": [
-    "dev",
-    "design",
-    "saas",
-    "sys admin"
-   ],
-   "posted": "2026-08-16T00:00:10+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
-   "source": "Remote OK",
-   "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging..."
-  },
-  {
-   "id": "Remote OK-1136795",
-   "title": "Senior Software Engineer Case Execution",
-   "company": "Pivotal Health",
-   "category": "Dev",
-   "type": "",
-   "location": "New York City",
-   "salary": "$190,000 - $220,000",
-   "tags": [
-    "dev",
-    "front end",
-    "python",
-    "customer support"
-   ],
-   "posted": "2026-08-16T00:00:03+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-   "source": "Remote OK",
-   "excerpt": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent underpayment from health..."
   }
  ]
 }
