@@ -1,39 +1,152 @@
 {
- "updated": "2026-09-30T22:04:06+00:00",
+ "updated": "2026-10-01T05:12:24+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-senior-account-executive-europe-100-remote-berlin-449093",
-   "title": "Senior Account Executive (Europe, 100% remote)",
-   "company": "LimeFlight",
-   "category": "Growth",
-   "type": "Executive",
+   "id": "Arbeitnow-remote-forward-deployed-ai-engineer-birmingham-460033",
+   "title": "Forward Deployed AI Engineer",
+   "company": "gravity9",
+   "category": "Talent Pool",
+   "type": "Experienced",
    "location": "Remote job",
    "salary": "",
    "tags": [
-    "Growth",
+    "Talent Pool",
     "Remote"
    ],
-   "posted": "2026-09-30T20:30:24+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/limeflight/senior-account-executive-europe-100-remote-berlin-449093",
+   "posted": "2026-10-01T03:30:18+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-460033",
    "source": "Arbeitnow",
-   "excerpt": "Join our fully remote, mission-driven team dedicated to pioneering sustainable inflight service management . Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and..."
+   "excerpt": "gravity9 is a boutique IT consulting company headquartered in the UK with offices in the US, Canada, Poland, and Colombia. Our team has deep experience in engineering, experience design and product management. We enjoy a challenge and..."
   },
   {
-   "id": "Arbeitnow-werkstudentin-kundenservice-100-homeoffice-grafschaft-397791",
-   "title": "Werkstudent:in (m/w/d) Kundenservice, 100 % Homeoffice",
-   "company": "Nutrition-Plus GmbH",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Grafschaft",
+   "id": "Arbeitnow-linguist-wolof-ui-technical-marketing-remote-74389",
+   "title": "Linguist - Wolof - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Contract",
+   "location": "Remote",
    "salary": "",
    "tags": [
-    "Remote",
-    "Customer Service"
+    "LiltLancer Community"
    ],
-   "posted": "2026-09-30T19:00:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/nutrition-plus-gmbh/werkstudentin-kundenservice-100-homeoffice-grafschaft-397791",
+   "posted": "2026-10-01T02:40:07+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-74389",
    "source": "Arbeitnow",
-   "excerpt": "Bei nutri+ glauben wir an eine Welt, in der Tiere respektiert werden und niemand zurückgelassen wird. Deshalb setzen wir uns nicht nur für hochwertige vegane Produkte ein, sondern engagieren uns aktiv für den Tierschutz. Unser Online-Shop..."
+   "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Wolof-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
+  },
+  {
+   "id": "Arbeitnow-linguist-malagasy-ui-technical-marketing-remote-221104",
+   "title": "Linguist - Malagasy - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "LiltLancer Community"
+   ],
+   "posted": "2026-10-01T02:40:07+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-221104",
+   "source": "Arbeitnow",
+   "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Malagasy-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
+  },
+  {
+   "id": "Arbeitnow-linguist-shona-ui-technical-marketing-remote-196767",
+   "title": "Linguist - Shona - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "LiltLancer Community"
+   ],
+   "posted": "2026-10-01T02:40:07+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-196767",
+   "source": "Arbeitnow",
+   "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Shona-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
+  },
+  {
+   "id": "Arbeitnow-linguist-oromo-ui-technical-marketing-remote-344391",
+   "title": "Linguist - Oromo - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "LiltLancer Community"
+   ],
+   "posted": "2026-10-01T02:40:07+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-344391",
+   "source": "Arbeitnow",
+   "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Oromo-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
+  },
+  {
+   "id": "Arbeitnow-linguist-mongolian-ui-technical-marketing-remote-356539",
+   "title": "Linguist - Mongolian - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "LiltLancer Community"
+   ],
+   "posted": "2026-10-01T02:40:07+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-356539",
+   "source": "Arbeitnow",
+   "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Mongolian-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
+  },
+  {
+   "id": "Arbeitnow-remote-team-lead-marketing-campaigns-fixed-term-maternity-cover-karlsruhe-198453",
+   "title": "Team Lead, Marketing Campaigns (m/f/d) - Fixed Term (Maternity Cover)",
+   "company": "Chaos",
+   "category": "Marketing",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Remote"
+   ],
+   "posted": "2026-10-01T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-team-lead-marketing-campaigns-fixed-term-maternity-cover-karlsruhe-198453",
+   "source": "Arbeitnow",
+   "excerpt": "**This position is based in Germany with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides world-class visualization..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-director-growth-marketing-karlsruhe-185764",
+   "title": "Senior Director, Growth Marketing (m/f/d)",
+   "company": "Chaos",
+   "category": "Marketing",
+   "type": "Senior Manager",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Remote"
+   ],
+   "posted": "2026-10-01T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-director-growth-marketing-karlsruhe-185764",
+   "source": "Arbeitnow",
+   "excerpt": "**This position is based in Germany or the UK with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides world-class..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-product-marketing-manager-emea-237709",
+   "title": "Senior Product Marketing Manager - EMEA",
+   "company": "Camunda",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Marketing"
+   ],
+   "posted": "2026-09-30T23:40:07+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
   },
   {
    "id": "Arbeitnow-remote-enterprise-account-executive-emea-35315",
@@ -52,133 +165,6 @@
    "excerpt": "About Abacum Abacum is the leading Business Planning solution for finance teams to drive performance . By automating reporting, enabling collaboration, and simplifying planning and forecasting, we help finance teams shift from number..."
   },
   {
-   "id": "Arbeitnow-remote-supply-chain-manager-all-genders-berlin-308958",
-   "title": "Supply Chain Manager (all genders)",
-   "company": "Maniko Nails GmbH",
-   "category": "Operations",
-   "type": "Mid",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Operations",
-    "Remote"
-   ],
-   "posted": "2026-09-30T17:30:12+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-supply-chain-manager-all-genders-berlin-308958",
-   "source": "Arbeitnow",
-   "excerpt": "Position: Vollzeit (40h) Ort: Remote (Deutschland) oder Berlin Start Datum: Ab sofort oder nach Absprache Sprachen: Deutsch (fließend) & Englisch (sehr gut) Du hast den Anspruch, dass jede Bestellung stimmt, die deinen Tisch verlässt, und..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-technical-project-manager-pmo-all-genders-289446",
-   "title": "Senior Technical Project Manager - PMO (all genders)",
-   "company": "Contabo",
-   "category": "Technical Project Management",
-   "type": "Experienced",
-   "location": "Remote (Germany)",
-   "salary": "",
-   "tags": [
-    "Technical Project Management",
-    "IT Project Management",
-    "IT",
-    "Cloud"
-   ],
-   "posted": "2026-09-30T17:09:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-technical-project-manager-pmo-all-genders-289446",
-   "source": "Arbeitnow",
-   "excerpt": "Your creative field We are looking for a full-time, permanent Technical Project Manager (all genders) to join our PMO team as soon as possible. We embrace a remote-first approach (within Germany), but you can choose whether you’d like to..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
-   "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-   "company": "Contabo",
-   "category": "software",
-   "type": "Experienced",
-   "location": "Remote (Germany)",
-   "salary": "",
-   "tags": [
-    "software",
-    "hosting",
-    "cloud hositng",
-    "vps"
-   ],
-   "posted": "2026-09-30T17:09:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
-   "source": "Arbeitnow",
-   "excerpt": "Your creative field We are looking for two full-time, permanent Senior Software Developer – Platform & Infrastructure Engineering (all genders) to start as soon as possible . We live remote-first within Germany , but you have the freedom..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-network-engineer-all-genders-456157",
-   "title": "Senior Network Engineer (all genders)",
-   "company": "Contabo",
-   "category": "Senior Network Engineer",
-   "type": "Experienced",
-   "location": "Remote (Germany)",
-   "salary": "",
-   "tags": [
-    "Senior Network Engineer",
-    "Network Engineer",
-    "Data Center Network",
-    "Leaf-Spine Architecture"
-   ],
-   "posted": "2026-09-30T17:09:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-456157",
-   "source": "Arbeitnow",
-   "excerpt": "Your creative field We are looking for a full-time, permanent Senior Network Engineer to start as soon as possible. We live remote-first, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your..."
-  },
-  {
-   "id": "Arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
-   "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
-   "company": "Contabo",
-   "category": "Director Marketing",
-   "type": "Experienced",
-   "location": "Remote (Germany)",
-   "salary": "",
-   "tags": [
-    "Director Marketing",
-    "CMO",
-    "Head of Marketing",
-    "Game Server Provider"
-   ],
-   "posted": "2026-09-30T17:09:15+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
-   "source": "Arbeitnow",
-   "excerpt": "Your creative field At GPORTAL , our vision is to build individual and easy-to-use online gaming experiences for the world. Driven by our “from gamer for gamer” passion, we've grown into one of the leading game server providers - offering..."
-  },
-  {
-   "id": "Arbeitnow-social-media-manager-mit-fokus-ugc-creator-nuremberg-323820",
-   "title": "Social Media Manager (m/w/d) mit Fokus UGC & Creator",
-   "company": "Kaan AI GmbH",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Nuremberg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-09-30T17:00:32+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kaan-ai-gmbh/social-media-manager-mit-fokus-ugc-creator-nuremberg-323820",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Kaan AI, ein KI-Produkt-Lab aus Nürnberg. Wir bauen und vermarkten unsere eigenen Produkte IntelliSchreiber und KalemiFlow, die zehntausende Studierende nutzen. In nur zwei Monaten haben wir eines der größten UGC-Teams..."
-  },
-  {
-   "id": "Arbeitnow-account-executive-b2b-saas-enterprise-frankfurt-am-main-428618",
-   "title": "Account Executive (m/w/d) – B2B SaaS / Enterprise",
-   "company": "Omnora GmbH",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Frankfurt am Main",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-09-30T16:30:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/account-executive-b2b-saas-enterprise-frankfurt-am-main-428618",
-   "source": "Arbeitnow",
-   "excerpt": "Introduction Als Account Executive bei Omnora übernimmst du eine zentrale Rolle im operativen B2B SaaS Vertrieb mit Fokus auf Enterprise-Kunden und gehobenen Mittelstand. Du verantwortest deine eigene Pipeline, führst Deals strukturiert..."
-  },
-  {
    "id": "Arbeitnow-remote-account-executive-france-paris-205180",
    "title": "Account Executive France",
    "company": "Peripass",
@@ -194,39 +180,6 @@
    "url": "https://www.arbeitnow.fr/jobs/companies/peripass/remote-account-executive-france-paris-205180",
    "source": "Arbeitnow",
    "excerpt": "Are you prepared to fuel the growth of an exciting scale-up that's transforming the logistics industry? Do you thrive on building strategic relationships and close deals? If so, we might have the perfect opportunity for you! Logistics?..."
-  },
-  {
-   "id": "Arbeitnow-unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
-   "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",
-   "company": "IndieKidz GmbH",
-   "category": "Remote",
-   "type": "Internship",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Automation Engineering"
-   ],
-   "posted": "2026-09-30T15:31:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
-   "source": "Arbeitnow",
-   "excerpt": "About Occibo Occibo is an AI-powered SaaS platform for children's book creation, built by IndieKidz GmbH in Berlin. We're a small, remote-first team looking for a QA intern to help us build and maintain automated testing so we can ship new..."
-  },
-  {
-   "id": "Arbeitnow-remote-forward-deployed-engineer-emea-407864",
-   "title": "Forward Deployed Engineer - EMEA",
-   "company": "gitlab",
-   "category": "Customer Experience",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Customer Experience"
-   ],
-   "posted": "2026-09-30T14:55:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-407864",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
   },
   {
    "id": "Arbeitnow-remote-technicien-de-maintenance-dinstruments-de-mesure-h-f-la-chapelle-saint-aubin-243885",
@@ -1071,22 +1024,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-47394",
    "source": "Arbeitnow",
    "excerpt": "<div id=\"message-list_1786698316.066069\"> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div><strong><em>Please note that the job is only available from the locations outlined.</em></strong>&nbsp;</div> </div> </div> </div>..."
-  },
-  {
-   "id": "Arbeitnow-remote-major-account-manager-emea-126206",
-   "title": "Major Account Manager (EMEA)",
-   "company": "Datadog",
-   "category": "Enterprise Sales",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Enterprise Sales"
-   ],
-   "posted": "2026-09-28T11:55:07+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206",
-   "source": "Arbeitnow",
-   "excerpt": "<p>The Datadog Major Accounts Team is focused on driving new business and expanding the current Datadog footprint with our largest and most strategic clients. The success of the Major Accounts Team directly impacts the success of Datadog..."
   },
   {
    "id": "Remote OK-1137434",
