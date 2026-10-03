@@ -1,22 +1,213 @@
 {
- "updated": "2026-10-03T11:24:32+00:00",
+ "updated": "2026-10-03T16:00:57+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-remote-technical-sap-product-owner-berlin-10419",
-   "title": "Technical SAP Product Owner (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Product Development",
-   "type": "Experienced",
+   "id": "Arbeitnow-remote-provider-credentialing-and-practice-lead-465997",
+   "title": "Provider Credentialing and Practice Lead",
+   "company": "Neko Health",
+   "category": "Medical Excellence",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Medical Excellence"
+   ],
+   "posted": "2026-10-03T14:40:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-provider-credentialing-and-practice-lead-465997",
+   "source": "Arbeitnow",
+   "excerpt": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In..."
+  },
+  {
+   "id": "Arbeitnow-remote-project-manager-software-implementation-berlin-35325",
+   "title": "Project Manager - Software Implementation (m/f/x)",
+   "company": "Makersite GmbH",
+   "category": "Services and Data",
+   "type": "Mid",
    "location": "Remote job",
    "salary": "",
    "tags": [
-    "Product Development",
+    "Services and Data",
     "Remote"
    ],
-   "posted": "2026-10-03T08:30:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-technical-sap-product-owner-berlin-10419",
+   "posted": "2026-10-03T14:30:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-35325",
    "source": "Arbeitnow",
-   "excerpt": "Als Technical SAP Product Owner (m/w/d) übernimmst du eine Schlüsselrolle in der Weiterentwicklung unseres Natuvion DCS Produktportfolios. Du arbeitest eng mit internen Stakeholdern, Partnern, Kunden sowie funktionsübergreifenden..."
+   "excerpt": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for..."
+  },
+  {
+   "id": "Arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-305086",
+   "title": "Systemadministrator Linux (m/w/d)",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:30:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-305086",
+   "source": "Arbeitnow",
+   "excerpt": "Du willst Systemadministrator Linux nicht einfach administrieren, sondern selbst entscheiden, wie eine moderne Open Source IT Landschaft aussehen soll? 🚀 Dann bekommst du hier den Freiraum dafür. Unser Kunde ist ein wachsendes,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-bi-konsolidierung-stuttgart-287339",
+   "title": "Senior Consultant (m/w/d) BI & Konsolidierung",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:30:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-consultant-bi-konsolidierung-stuttgart-287339",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-finance-solutions-baden-wurttemberg-340850",
+   "title": "Senior Consultant (m/w/d) Finance Solutions",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:30:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-consultant-finance-solutions-baden-wurttemberg-340850",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-remote-karriereschritt-controller-zum-senior-consultant-bayern-100332",
+   "title": "Karriereschritt ✔️ Controller zum Senior Consultant (m/w/d)",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:30:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-karriereschritt-controller-zum-senior-consultant-bayern-100332",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-senior-software-engineer-data-search-remote-europe-berlin-241433",
+   "title": "Senior Software Engineer - Data Search (remote, Europe)",
+   "company": "Modash",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Berlin, Germany",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Computer Software",
+    "Data",
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:20:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-berlin-241433",
+   "source": "Arbeitnow",
+   "excerpt": "Hey, I'm Adrian . I’m hiring a Senior Software Engineer to join the Data Search team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than 2,700 companies—including Stanley..."
+  },
+  {
+   "id": "Arbeitnow-senior-backend-engineer-data-core-remote-europe-berlin-240626",
+   "title": "Senior Backend Engineer - Data Core (remote, Europe)",
+   "company": "Modash",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Berlin, Germany",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Computer Software",
+    "Data",
+    "Remote"
+   ],
+   "posted": "2026-10-03T14:20:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-backend-engineer-data-core-remote-europe-berlin-240626",
+   "source": "Arbeitnow",
+   "excerpt": "Remote — Data Core Team — Full-time Hey, I'm Andrei . I’m hiring a Senior Backend Engineer to join the Data Core team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than..."
+  },
+  {
+   "id": "Arbeitnow-remote-werkstudentin-operational-excellence-berlin-128459",
+   "title": "Werkstudent:in Operational Excellence (m/w/d)",
+   "company": "1Komma5Grad",
+   "category": "join",
+   "type": "Entry",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "join",
+    "Werkstudent",
+    "remote",
+    "Operations"
+   ],
+   "posted": "2026-10-03T14:09:35+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-operational-excellence-berlin-128459",
+   "source": "Arbeitnow",
+   "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software..."
+  },
+  {
+   "id": "Arbeitnow-remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
+   "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
+   "company": "1Komma5Grad",
+   "category": "join",
+   "type": "Student",
+   "location": "Hamburg",
+   "salary": "",
+   "tags": [
+    "join",
+    "data",
+    "analytics",
+    "remote"
+   ],
+   "posted": "2026-10-03T14:09:35+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
+   "source": "Arbeitnow",
+   "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software..."
+  },
+  {
+   "id": "Arbeitnow-b2b-business-development-crm-und-beratung-remote-freelancer-berlin-347376",
+   "title": "B2B Business Development, CRM und Beratung. Remote / Freelancer",
+   "company": "DataSmart Point GmbH",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-10-03T12:00:23+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/b2b-business-development-crm-und-beratung-remote-freelancer-berlin-347376",
+   "source": "Arbeitnow",
+   "excerpt": "Die DataSmart Point Academy ist ein innovativer Bildungsträger für Data Analytics, Data Science, Data Management und Künstliche Intelligenz . Wir begleiten Studierende, Unternehmen und Partner bei ihrer Weiterbildung im Data-Bereich,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-berater-berlin-394483",
+   "title": "Senior-Consultant / Berater (m/w/d)",
+   "company": "Meliorate GmbH",
+   "category": "Consultant",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Consultant",
+    "Remote"
+   ],
+   "posted": "2026-10-03T11:30:20+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/meliorate-gmbh/remote-senior-consultant-berater-berlin-394483",
+   "source": "Arbeitnow",
+   "excerpt": "Wer wir sind Meliorate ist eine Managementberatung mit Standorten in Berlin, Hamburg, Köln und München. Wir beraten Unternehmen mit komplexen, asset-intensiven Geschäftsmodellen – zum Beispiel Netzbetreiber aus der Energie- oder..."
   },
   {
    "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-362742",
@@ -784,25 +975,6 @@
    "excerpt": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen..."
   },
   {
-   "id": "Arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
-   "title": "Senior Software Engineer - Data Search (remote, Europe)",
-   "company": "Modash",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Paris, France",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Computer Software",
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-02T22:20:13+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
-   "source": "Arbeitnow",
-   "excerpt": "Hey, I'm Adrian . I’m hiring a Senior Software Engineer to join the Data Search team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than 2,700 companies—including Stanley..."
-  },
-  {
    "id": "Arbeitnow-remote-vip-helicopter-captain-ach135-yacht-based-mediterranean-caribbean-switzerland-290294",
    "title": "VIP Helicopter Captain - ACH135 | Yacht-Based | Mediterranean & Caribbean",
    "company": "Elesta",
@@ -837,6 +1009,25 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/elesta/remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
    "source": "Arbeitnow",
    "excerpt": "A private Family Office is seeking a licensed Helicopter Engineer to join a yacht-based VIP helicopter operation (Airbus ACH135), combining maintenance responsibility with an onboard safety-crew role. The Role Full line and base..."
+  },
+  {
+   "id": "Remote OK-1137460",
+   "title": "Junior Crypto Analyst & Trader",
+   "company": "Empire Assets",
+   "category": "Crypto",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "$60,000 - $80,000",
+   "tags": [
+    "crypto",
+    "finance",
+    "trader",
+    "remote"
+   ],
+   "posted": "2026-10-02T12:53:01+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+   "source": "Remote OK",
+   "excerpt": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern..."
   },
   {
    "id": "Arbeitnow-remote-senior-product-designer-design-systems-117305",
@@ -1163,25 +1354,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
    "source": "Remote OK",
    "excerpt": "Please note. Directly emailing us will result in immediate disqualification. Use the application form to apply. About OkWhen OkWhen builds technology that powers live, virtual, and hybrid events. Our platform supports conference..."
-  },
-  {
-   "id": "Remote OK-1137409",
-   "title": "Backend Software Engineer",
-   "company": "Airspace Link",
-   "category": "Golang",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "golang",
-    "dev",
-    "engineer",
-    "backend"
-   ],
-   "posted": "2026-09-19T20:00:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
-   "source": "Remote OK",
-   "excerpt": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal..."
   },
   {
    "id": "Remote OK-1137408",
@@ -1812,25 +1984,6 @@
    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
    "source": "Remotive",
    "excerpt": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to..."
-  },
-  {
-   "id": "Remote OK-1137307",
-   "title": "Junior Crypto Analyst & Trader",
-   "company": "Empire Assets",
-   "category": "Part Time",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$60,000 - $80,000",
-   "tags": [
-    "part time",
-    "junior",
-    "analyst",
-    "crypto"
-   ],
-   "posted": "2026-09-04T15:13:46+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-   "source": "Remote OK",
-   "excerpt": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern..."
   },
   {
    "id": "Remote OK-1137224",
