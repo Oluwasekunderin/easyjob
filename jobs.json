@@ -1,6 +1,144 @@
 {
- "updated": "2026-10-02T22:01:16+00:00",
+ "updated": "2026-10-03T04:44:27+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-ai-developer-nurnberg-350342",
+   "title": "AI Developer (m/f/d)",
+   "company": "Partspace",
+   "category": "C#",
+   "type": "Experienced",
+   "location": "Nürnberg",
+   "salary": "",
+   "tags": [
+    "C#",
+    ".NET",
+    ".NET Core",
+    "APIs"
+   ],
+   "posted": "2026-10-03T02:09:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-350342",
+   "source": "Arbeitnow",
+   "excerpt": "Join the AI of Manufacturing PartSpace is a f ast-growing, innovative tech company with a clear mission: with artificial intelligence and real engineering data, PartSpace is redefining the future of technical procurement. Our cloud-based..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-medical-writer-uk-london-285592",
+   "title": "Senior Medical Writer | UK",
+   "company": "TransPerfect",
+   "category": "Medical Writing",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Medical Writing",
+    "Remote"
+   ],
+   "posted": "2026-10-03T00:30:34+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-285592",
+   "source": "Arbeitnow",
+   "excerpt": "We’re seeking an organized, motivated, and collaborative individual for our medical writing team. The senior medical writer will partner cross-functionally with client teams in Clinical Development, Clinical Operations, Biostatistics,..."
+  },
+  {
+   "id": "Arbeitnow-remote-controller-104271",
+   "title": "Controller",
+   "company": "Notabene",
+   "category": "Finance",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Finance"
+   ],
+   "posted": "2026-10-02T23:40:07+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/notabene/remote-controller-104271",
+   "source": "Arbeitnow",
+   "excerpt": "About Notabene Notabene is building infrastructure that's transforming how money moves in the digital economy. We're evolving beyond our compliance foundations to enable the next generation of digital financial services between regulated..."
+  },
+  {
+   "id": "Arbeitnow-remote-enterprise-account-executive-iii-na-272858",
+   "title": "Enterprise Account Executive III - NA",
+   "company": "Camunda",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-02T23:40:03+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-272858",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
+   "title": "Senior Cloud Operations Engineer (all genders) CH",
+   "company": "BSI Software",
+   "category": "Services",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Services",
+    "Remote"
+   ],
+   "posted": "2026-10-02T23:30:30+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
+   "source": "Arbeitnow",
+   "excerpt": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen..."
+  },
+  {
+   "id": "Arbeitnow-oracle-fusion-erp-trainer-freelance-fully-remote-munchen-441331",
+   "title": "Oracle Fusion ERP Trainer (f/m/d) | Freelance | fully remote",
+   "company": "Pineapple Recruiting GmbH",
+   "category": "Miko",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Miko",
+    "Remote"
+   ],
+   "posted": "2026-10-02T23:30:11+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/pineapple-recruiting-gmbh/oracle-fusion-erp-trainer-freelance-fully-remote-munchen-441331",
+   "source": "Arbeitnow",
+   "excerpt": "We are seeking an experienced Oracle Fusion ERP Trainer (Freelance) to deliver a structured 12-week training program for future Oracle Fusion consultants at Accenture. Paid preparation time is included on top of the 12 weeks. This..."
+  },
+  {
+   "id": "Arbeitnow-tiktok-content-creator-video-editor-werkstudentenstelle-neckargemund-261700",
+   "title": "TikTok Content Creator & Video Editor (m/w/d), Werkstudentenstelle",
+   "company": "FLOWZOOM",
+   "category": "Remote",
+   "type": "Working Student",
+   "location": "Neckargemünd",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Social Media Manager"
+   ],
+   "posted": "2026-10-02T22:30:28+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/flowzoom/tiktok-content-creator-video-editor-werkstudentenstelle-neckargemund-261700",
+   "source": "Arbeitnow",
+   "excerpt": "Werkstudentenstelle · 15–20 h/Woche · 100 % remote Über FLOWZOOM Wir sind FLOWZOOM – eine Marke für hochwertige, innovative Reiseprodukte. Unser Fokus liegt auf Reisekissen, die Komfort, Funktionalität und ansprechendes Design verbinden...."
+  },
+  {
+   "id": "Arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
+   "title": "Senior Software Engineer - Data Search (remote, Europe)",
+   "company": "Modash",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Paris, France",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Computer Software",
+    "Data",
+    "Remote"
+   ],
+   "posted": "2026-10-02T22:20:13+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
+   "source": "Arbeitnow",
+   "excerpt": "Hey, I'm Adrian . I’m hiring a Senior Software Engineer to join the Data Search team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than 2,700 companies—including Stanley..."
+  },
   {
    "id": "Arbeitnow-remote-senior-manager-customer-success-engineering-121222",
    "title": "Senior Manager, Customer Success Engineering",
@@ -117,159 +255,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/elesta/remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
    "source": "Arbeitnow",
    "excerpt": "A private Family Office is seeking a licensed Helicopter Engineer to join a yacht-based VIP helicopter operation (Airbus ACH135), combining maintenance responsibility with an onboard safety-crew role. The Role Full line and base..."
-  },
-  {
-   "id": "Arbeitnow-remote-director-of-sales-europe-361404",
-   "title": "Director of Sales, Europe",
-   "company": "planetlabs",
-   "category": "Sales Manager",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Sales Manager"
-   ],
-   "posted": "2026-10-02T17:55:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-361404",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation..."
-  },
-  {
-   "id": "Arbeitnow-remote-strategic-account-executive-public-sector-367401",
-   "title": "Strategic Account Executive - Public Sector",
-   "company": "gitlab",
-   "category": "EMEA - Enterprise",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "EMEA - Enterprise"
-   ],
-   "posted": "2026-10-02T17:55:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-public-sector-367401",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-strategic-account-executive-17405",
-   "title": "Strategic Account Executive",
-   "company": "gitlab",
-   "category": "EMEA - Enterprise",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "EMEA - Enterprise"
-   ],
-   "posted": "2026-10-02T17:55:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-17405",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-major-account-executive-134642",
-   "title": "Major Account Executive",
-   "company": "gitlab",
-   "category": "EMEA - Enterprise",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "EMEA - Enterprise"
-   ],
-   "posted": "2026-10-02T17:55:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-major-account-executive-134642",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
-  },
-  {
-   "id": "Arbeitnow-senior-sap-hcm-solution-integration-architect-freelance-bonn-416412",
-   "title": "Senior SAP HCM Solution & Integration Architect - Freelance",
-   "company": "Sidekick Network GmbH & Co. KG",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Bonn",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-02T17:30:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-416412",
-   "source": "Arbeitnow",
-   "excerpt": "For an international enterprise environment, we are looking for an experienced Senior HR IT / SAP HCM Solution & Integration Architect to support a global HR technology transformation and transition program. The role combines HR..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-it-architect-bonn-247683",
-   "title": "Senior IT Architect (m/w/d)",
-   "company": "virtual7 GmbH",
-   "category": "Customer Cluster Defense & Public Security",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Customer Cluster Defense & Public Security",
-    "Remote"
-   ],
-   "posted": "2026-10-02T17:30:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-bonn-247683",
-   "source": "Arbeitnow",
-   "excerpt": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der..."
-  },
-  {
-   "id": "Arbeitnow-remote-lead-technical-product-manager-rail-integrations-all-genders-berlin-261229",
-   "title": "Lead Technical Product Manager, Rail Integrations (all genders)",
-   "company": "Distribusion Technologies",
-   "category": "Product",
-   "type": "Manager",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Product",
-    "Remote"
-   ],
-   "posted": "2026-10-02T17:30:13+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-lead-technical-product-manager-rail-integrations-all-genders-berlin-261229",
-   "source": "Arbeitnow",
-   "excerpt": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects..."
-  },
-  {
-   "id": "Arbeitnow-remote-backend-engineer-agentic-ai-berlin-371659",
-   "title": "Backend Engineer - Agentic AI (m/w/d)",
-   "company": "Getpress Gmbh",
-   "category": "Backend Engineer",
-   "type": "Experienced",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Backend Engineer",
-    "Backend Developer",
-    "AI Agents",
-    "KI-Agenten"
-   ],
-   "posted": "2026-10-02T17:09:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
-   "source": "Arbeitnow",
-   "excerpt": "Overview getpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-Branche Der Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte...."
-  },
-  {
-   "id": "Arbeitnow-remote-ai-product-engineer-berlin-20956",
-   "title": "AI Product Engineer (m/w/d)",
-   "company": "Getpress Gmbh",
-   "category": "Backend Engineer",
-   "type": "Experienced",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Backend Engineer",
-    "Backend Developer",
-    "AI Agents",
-    "KI-Agenten"
-   ],
-   "posted": "2026-10-02T17:09:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
-   "source": "Arbeitnow",
-   "excerpt": "Overview getpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-Branche Der Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte...."
   },
   {
    "id": "Jobicy-154432",
@@ -1068,22 +1053,6 @@
    "excerpt": "About the Opportunity We are expanding our talent network and seeking skilled Mongolian-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of..."
   },
   {
-   "id": "Arbeitnow-remote-senior-product-marketing-manager-emea-237709",
-   "title": "Senior Product Marketing Manager - EMEA",
-   "company": "Camunda",
-   "category": "Marketing",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Marketing"
-   ],
-   "posted": "2026-09-30T23:40:07+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709",
-   "source": "Arbeitnow",
-   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
-  },
-  {
    "id": "Remote OK-1137451",
    "title": "Enterprise Sales Development Representative",
    "company": "Toptal",
@@ -1099,22 +1068,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
    "source": "Remote OK",
    "excerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the..."
-  },
-  {
-   "id": "Arbeitnow-remote-enterprise-account-executive-emea-35315",
-   "title": "Enterprise Account Executive - EMEA",
-   "company": "Abacum",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Sales"
-   ],
-   "posted": "2026-09-30T17:40:05+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/abacum/remote-enterprise-account-executive-emea-35315",
-   "source": "Arbeitnow",
-   "excerpt": "About Abacum Abacum is the leading Business Planning solution for finance teams to drive performance . By automating reporting, enabling collaboration, and simplifying planning and forecasting, we help finance teams shift from number..."
   },
   {
    "id": "Remote OK-1137439",
@@ -2078,22 +2031,6 @@
    "excerpt": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern..."
   },
   {
-   "id": "Remote OK-1137302",
-   "title": "Customer Support & Success Specialist",
-   "company": "Warehance",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$50,000 - $70,000",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-09-03T19:12:26+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
-   "source": "Remote OK",
-   "excerpt": "Customer Success & Support Specialist Warehance helps businesses manage orders, inventory, shipping, and fulfillment. Weâre looking for someone who is good with people, sharp with details, and enjoys solving problems . Youâll work..."
-  },
-  {
    "id": "Remotive-1749306",
    "title": "Freelance Copywriter",
    "company": "Coalition Technologies",
@@ -2111,25 +2048,6 @@
    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
    "source": "Remotive",
    "excerpt": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English..."
-  },
-  {
-   "id": "Remote OK-1137279",
-   "title": "Regional Sales Manager",
-   "company": "OrderYOYO",
-   "category": "Exec",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "exec",
-    "customer support",
-    "marketing",
-    "scheme"
-   ],
-   "posted": "2026-09-02T16:00:07+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
-   "source": "Remote OK",
-   "excerpt": "<p><strong>Regional Sales Manager</strong></p><p></p><p class=\"MsoNormal\"><strong>Netherlands - Field based</strong></p><p class=\"MsoNormal\">We are looking for a confident and highly motivated Regional Sales Manager to strengthen our team..."
   },
   {
    "id": "Remote OK-1137224",
