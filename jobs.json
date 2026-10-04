@@ -1,6 +1,228 @@
 {
- "updated": "2026-10-03T20:51:04+00:00",
+ "updated": "2026-10-04T05:16:02+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-web-compatibility-engineer-379161",
+   "title": "Senior Web Compatibility Engineer",
+   "company": "Duck Duck Go",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-10-04T02:40:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-privacy-engineer-111342",
+   "title": "Senior Privacy Engineer",
+   "company": "Duck Duck Go",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-10-04T02:40:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+  },
+  {
+   "id": "Arbeitnow-remote-controller-358524",
+   "title": "Controller",
+   "company": "Notabene",
+   "category": "Finance",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Finance"
+   ],
+   "posted": "2026-10-03T23:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/notabene/remote-controller-358524",
+   "source": "Arbeitnow",
+   "excerpt": "About Notabene Notabene is building infrastructure that's transforming how money moves in the digital economy. We're evolving beyond our compliance foundations to enable the next generation of digital financial services between regulated..."
+  },
+  {
+   "id": "Arbeitnow-remote-market-lead-dach-senior-account-executive-frankfurt-71387",
+   "title": "Market Lead DACH / Senior Account Executive",
+   "company": "Aquablu B.V",
+   "category": "Sales",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Remote"
+   ],
+   "posted": "2026-10-03T20:30:23+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/aquablu-bv/remote-market-lead-dach-senior-account-executive-frankfurt-71387",
+   "source": "Arbeitnow",
+   "excerpt": "🌊 Who are we? We're a smart hydration company rebuilding an industry that still runs on sugar water and single-use packaging. Filtered water, functional flavors, zero bottles. Still, sparkling, cold, and hot. All poured from one tap. We..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-project-manager-koln-495722",
+   "title": "Senior Project Manager (m/w/d)",
+   "company": "epilot GmbH",
+   "category": "Projectmanagement",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Projectmanagement",
+    "Remote"
+   ],
+   "posted": "2026-10-03T20:30:19+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-project-manager-koln-495722",
+   "source": "Arbeitnow",
+   "excerpt": "Du bist jemand, der gerne Verantwortung übernimmt und Projekte von der Planung bis zum erfolgreichen Abschluss begleitet? Bei uns wirst du zentrale:r Ansprechpartner:in für unsere Kunden, steuerst deren Projekte und trägst aktiv dazu bei,..."
+  },
+  {
+   "id": "Jobicy-154483",
+   "title": "Senior Full Stack Engineer",
+   "company": "infisical",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Brazil, Canada, Europe, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:45+00:00",
+   "url": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4",
+   "source": "Jobicy",
+   "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month..."
+  },
+  {
+   "id": "Jobicy-154482",
+   "title": "Analytics Lead, Deposit Fraud Risk",
+   "company": "Affirm",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:44+00:00",
+   "url": "https://jobicy.com/jobs/154482-analytics-lead-deposit-fraud-risk",
+   "source": "Jobicy",
+   "excerpt": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Fraud team at Affirm Bank works cross-functionally with..."
+  },
+  {
+   "id": "Jobicy-154484",
+   "title": "Post-producer (Freelance)",
+   "company": "Monks",
+   "category": "Project & Program Management",
+   "type": "Contract",
+   "location": "Mexico",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:42+00:00",
+   "url": "https://jobicy.com/jobs/154484-post-producer-freelance",
+   "source": "Jobicy",
+   "excerpt": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that..."
+  },
+  {
+   "id": "Jobicy-154481",
+   "title": "Director of Engineering - Content Platform (Catalog)",
+   "company": "Spotify",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Sweden, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:42+00:00",
+   "url": "https://jobicy.com/jobs/154481-director-of-engineering-content-platform-catalog",
+   "source": "Jobicy",
+   "excerpt": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world...."
+  },
+  {
+   "id": "Jobicy-154478",
+   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+   "company": "Affirm",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "Poland",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:30+00:00",
+   "url": "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics",
+   "source": "Jobicy",
+   "excerpt": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our..."
+  },
+  {
+   "id": "Jobicy-154472",
+   "title": "Data Scientist - Music Mission",
+   "company": "Spotify",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:29+00:00",
+   "url": "https://jobicy.com/jobs/154472-data-scientist-music-mission",
+   "source": "Jobicy",
+   "excerpt": "The Music Mission enables music creators to grow, engage, and monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artists and label teams, powered by Spotify's deep..."
+  },
+  {
+   "id": "Jobicy-154479",
+   "title": "Enterprise Account Executive (DACH)",
+   "company": "infisical",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:28+00:00",
+   "url": "https://jobicy.com/jobs/154479-enterprise-account-executive-dach-4",
+   "source": "Jobicy",
+   "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month..."
+  },
+  {
+   "id": "Jobicy-154477",
+   "title": "Data Scientist - Music Promotion",
+   "company": "Spotify",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:28+00:00",
+   "url": "https://jobicy.com/jobs/154477-data-scientist-music-promotion",
+   "source": "Jobicy",
+   "excerpt": "The Music Mission enables Music creators to grow, engage & monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artist and label teams, powered by Spotify's deep knowledge..."
+  },
+  {
+   "id": "Jobicy-154474",
+   "title": "Strategic Finance",
+   "company": "infisical",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:28+00:00",
+   "url": "https://jobicy.com/jobs/154474-strategic-finance",
+   "source": "Jobicy",
+   "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month..."
+  },
+  {
+   "id": "Jobicy-154473",
+   "title": "Analyst II, Full Stack",
+   "company": "Affirm",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "Spain",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-03T19:24:27+00:00",
+   "url": "https://jobicy.com/jobs/154473-analyst-ii-full-stack",
+   "source": "Jobicy",
+   "excerpt": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for..."
+  },
   {
    "id": "Jobicy-154469",
    "title": "Business Development Manager - Strategic Cuisine (Mandarin)",
@@ -266,141 +488,6 @@
    "url": "https://jobicy.com/jobs/154453-sales-concierge",
    "source": "Jobicy",
    "excerpt": "About Atomic Atomic is a venture studio and venture capital firm that builds and scales companies from the ground up. We partner with exceptional founders to launch transformative businesses across industries including AI, fintech,..."
-  },
-  {
-   "id": "Arbeitnow-remote-provider-credentialing-and-practice-lead-465997",
-   "title": "Provider Credentialing and Practice Lead",
-   "company": "Neko Health",
-   "category": "Medical Excellence",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Medical Excellence"
-   ],
-   "posted": "2026-10-03T14:40:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-provider-credentialing-and-practice-lead-465997",
-   "source": "Arbeitnow",
-   "excerpt": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In..."
-  },
-  {
-   "id": "Arbeitnow-remote-project-manager-software-implementation-berlin-35325",
-   "title": "Project Manager - Software Implementation (m/f/x)",
-   "company": "Makersite GmbH",
-   "category": "Services and Data",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Services and Data",
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:30:31+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-35325",
-   "source": "Arbeitnow",
-   "excerpt": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for..."
-  },
-  {
-   "id": "Arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-305086",
-   "title": "Systemadministrator Linux (m/w/d)",
-   "company": "ANGEHEUERT GmbH",
-   "category": "Remote",
-   "type": "Mid",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:30:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-305086",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst Systemadministrator Linux nicht einfach administrieren, sondern selbst entscheiden, wie eine moderne Open Source IT Landschaft aussehen soll? 🚀 Dann bekommst du hier den Freiraum dafür. Unser Kunde ist ein wachsendes,..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-consultant-bi-konsolidierung-stuttgart-287339",
-   "title": "Senior Consultant (m/w/d) BI & Konsolidierung",
-   "company": "ANGEHEUERT GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:30:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-consultant-bi-konsolidierung-stuttgart-287339",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-consultant-finance-solutions-baden-wurttemberg-340850",
-   "title": "Senior Consultant (m/w/d) Finance Solutions",
-   "company": "ANGEHEUERT GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:30:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-consultant-finance-solutions-baden-wurttemberg-340850",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
-  },
-  {
-   "id": "Arbeitnow-remote-karriereschritt-controller-zum-senior-consultant-bayern-100332",
-   "title": "Karriereschritt ✔️ Controller zum Senior Consultant (m/w/d)",
-   "company": "ANGEHEUERT GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:30:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-karriereschritt-controller-zum-senior-consultant-bayern-100332",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
-  },
-  {
-   "id": "Arbeitnow-senior-software-engineer-data-search-remote-europe-berlin-241433",
-   "title": "Senior Software Engineer - Data Search (remote, Europe)",
-   "company": "Modash",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Berlin, Germany",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Computer Software",
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:20:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-berlin-241433",
-   "source": "Arbeitnow",
-   "excerpt": "Hey, I'm Adrian . I’m hiring a Senior Software Engineer to join the Data Search team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than 2,700 companies—including Stanley..."
-  },
-  {
-   "id": "Arbeitnow-senior-backend-engineer-data-core-remote-europe-berlin-240626",
-   "title": "Senior Backend Engineer - Data Core (remote, Europe)",
-   "company": "Modash",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Berlin, Germany",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Computer Software",
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-03T14:20:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-backend-engineer-data-core-remote-europe-berlin-240626",
-   "source": "Arbeitnow",
-   "excerpt": "Remote — Data Core Team — Full-time Hey, I'm Andrei . I’m hiring a Senior Backend Engineer to join the Data Core team at Modash. Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than..."
   },
   {
    "id": "Jobicy-154444",
@@ -699,162 +786,6 @@
    "excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data..."
   },
   {
-   "id": "Jobicy-144915",
-   "title": "Onboarding Project Manager",
-   "company": "Cloudbeds",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:35:06+00:00",
-   "url": "https://jobicy.com/jobs/144915-onboarding-project-manager",
-   "source": "Jobicy",
-   "excerpt": "What Makes Us Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent..."
-  },
-  {
-   "id": "Jobicy-148145",
-   "title": "Senior Solutions Architect - ACE",
-   "company": "Aviatrix",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:35:04+00:00",
-   "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
-   "source": "Jobicy",
-   "excerpt": "WHO WE ARE: Aviatrix® is pioneering the Cloud Native Security Fabric — the architecture the Containment Era requires. The Cloud Native Security Fabric governs every workload communication path across every cloud, every VPC, every..."
-  },
-  {
-   "id": "Jobicy-152394",
-   "title": "Partner Success Manager (EMEA)",
-   "company": "Litmus",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:35:03+00:00",
-   "url": "https://jobicy.com/jobs/152394-partner-success-manager-emea",
-   "source": "Jobicy",
-   "excerpt": "Who is Litmus Litmus is building the data foundation that powers industrial AI. AI doesn’t work without real-world, contextualized data - Litmus makes that data usable. As AI adoption accelerates, most industrial environments still can’t..."
-  },
-  {
-   "id": "Jobicy-150052",
-   "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
-   "company": "Softgic",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:26+00:00",
-   "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
-   "source": "Jobicy",
-   "excerpt": "This is a remote position. We are looking for a professional with hands-on experience developing in RPG/RPGLE on IBM AS400/iSeries, as well as proven experience with JD Edwards EnterpriseOne development tools. We are not looking for an..."
-  },
-  {
-   "id": "Jobicy-150064",
-   "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
-   "company": "Binance",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "APAC",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:25+00:00",
-   "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
-   "source": "Jobicy",
-   "excerpt": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user..."
-  },
-  {
-   "id": "Jobicy-150041",
-   "title": "US- Escalation Manager (Customer Support)",
-   "company": "PointClickCare",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:23+00:00",
-   "url": "https://jobicy.com/jobs/150041-us-escalation-manager-customer-support",
-   "source": "Jobicy",
-   "excerpt": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries,..."
-  },
-  {
-   "id": "Jobicy-150040",
-   "title": "Canada- Escalation Manager (Customer Support)",
-   "company": "PointClickCare",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Canada",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:22+00:00",
-   "url": "https://jobicy.com/jobs/150040-canada-escalation-manager-customer-support",
-   "source": "Jobicy",
-   "excerpt": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries,..."
-  },
-  {
-   "id": "Jobicy-152374",
-   "title": "Client Onboarding Specialist",
-   "company": "Housecall Pro",
-   "category": "Customer Support & Success",
-   "type": "Contract",
-   "location": "Mexico",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:21+00:00",
-   "url": "https://jobicy.com/jobs/152374-client-onboarding-specialist",
-   "source": "Jobicy",
-   "excerpt": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all..."
-  },
-  {
-   "id": "Jobicy-152364",
-   "title": "Director, Product & Segment Marketing Manager",
-   "company": "NetDocuments",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:17+00:00",
-   "url": "https://jobicy.com/jobs/152364-director-product-segment-marketing-manager",
-   "source": "Jobicy",
-   "excerpt": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com..."
-  },
-  {
-   "id": "Jobicy-150037",
-   "title": "Customer Success Manager - WE",
-   "company": "Bloomreach",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "UK",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-03T03:30:14+00:00",
-   "url": "https://jobicy.com/jobs/150037-customer-success-manager-we",
-   "source": "Jobicy",
-   "excerpt": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking..."
-  },
-  {
-   "id": "Arbeitnow-remote-controller-104271",
-   "title": "Controller",
-   "company": "Notabene",
-   "category": "Finance",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Finance"
-   ],
-   "posted": "2026-10-02T23:40:07+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/notabene/remote-controller-104271",
-   "source": "Arbeitnow",
-   "excerpt": "About Notabene Notabene is building infrastructure that's transforming how money moves in the digital economy. We're evolving beyond our compliance foundations to enable the next generation of digital financial services between regulated..."
-  },
-  {
    "id": "Arbeitnow-remote-enterprise-account-executive-iii-na-272858",
    "title": "Enterprise Account Executive III - NA",
    "company": "Camunda",
@@ -941,22 +872,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
    "source": "Remote OK",
    "excerpt": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-product-designer-design-systems-117305",
-   "title": "Senior Product Designer, Design Systems",
-   "company": "Duck Duck Go",
-   "category": "Design",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Design"
-   ],
-   "posted": "2026-10-02T02:40:13+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-117305",
-   "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
   },
   {
    "id": "Remote OK-1137451",
@@ -2046,25 +1961,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
    "source": "Remote OK",
    "excerpt": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el..."
-  },
-  {
-   "id": "Remote OK-1136987",
-   "title": "Consultant Implementation Engineer",
-   "company": "Harbor",
-   "category": "Consulting",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "consulting",
-    "technical",
-    "accounting",
-    "legal"
-   ],
-   "posted": "2026-08-20T00:00:15+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
-   "source": "Remote OK",
-   "excerpt": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business..."
   }
  ]
 }
