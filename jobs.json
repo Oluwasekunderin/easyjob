@@ -1,6 +1,168 @@
 {
- "updated": "2026-10-04T21:06:47+00:00",
+ "updated": "2026-10-05T05:00:07+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
+   "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+   "company": "Contabo",
+   "category": "software",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "software",
+    "hosting",
+    "cloud hositng",
+    "vps"
+   ],
+   "posted": "2026-10-04T23:09:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for two full-time, permanent Senior Software Developer – Platform & Infrastructure Engineering (all genders) to start as soon as possible . We live remote-first within Germany , but you have the freedom..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-network-engineer-all-genders-22839",
+   "title": "Senior Network Engineer (all genders)",
+   "company": "Contabo",
+   "category": "Senior Network Engineer",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "Senior Network Engineer",
+    "Network Engineer",
+    "Data Center Network",
+    "Leaf-Spine Architecture"
+   ],
+   "posted": "2026-10-04T23:09:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-22839",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for a full-time, permanent Senior Network Engineer to start as soon as possible. We live remote-first, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-frontend-developer-all-genders-372910",
+   "title": "Senior Frontend Developer (all genders)",
+   "company": "Contabo",
+   "category": "it",
+   "type": "Experienced",
+   "location": "Remote (Germany)",
+   "salary": "",
+   "tags": [
+    "it",
+    "infrastructure",
+    "code",
+    "cloud"
+   ],
+   "posted": "2026-10-04T23:09:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
+   "source": "Arbeitnow",
+   "excerpt": "Your creative field We are looking for two full-time, permanent Senior Frontend Developer (all genders) t o start as soon as possible . We live remote-first within Germany , but you have the freedom to choose whether you want to work..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-ai-product-engineer-berlin-260132",
+   "title": "(Senior) AI Product Engineer (m/w/d)",
+   "company": "Legalhero",
+   "category": "AI",
+   "type": "Experienced",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "AI",
+    "Product Engineer",
+    "AI Product Engineer",
+    "Berlin"
+   ],
+   "posted": "2026-10-04T23:09:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-260132",
+   "source": "Arbeitnow",
+   "excerpt": "What You'll Do You’ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you’ll work across our three product squads: You’ll single-handedly turn unaddressed..."
+  },
+  {
+   "id": "Arbeitnow-head-of-account-management-100-remote-b2b-berlin-94847",
+   "title": "Head of Account Management (m/w/d) - 100% Remote - B2B",
+   "company": "RealStudio GmbH",
+   "category": "Remote",
+   "type": "Teamleitung",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-10-04T21:30:37+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-account-management-100-remote-b2b-berlin-94847",
+   "source": "Arbeitnow",
+   "excerpt": "Du hast Erfahrung im B2B-Account-Management, erkennst Wachstumspotenziale bei bestehenden Kunden und kannst daraus konkrete Abschlüsse machen? Als Head of Account Management bei RealStudio übernimmst du in Vollzeit die Verantwortung für..."
+  },
+  {
+   "id": "Arbeitnow-creative-strategist-berlin-477796",
+   "title": "Creative Strategist (m/w/d)",
+   "company": "RealStudio GmbH",
+   "category": "Remote",
+   "type": "",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Marketing and Communication"
+   ],
+   "posted": "2026-10-04T21:30:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/creative-strategist-berlin-477796",
+   "source": "Arbeitnow",
+   "excerpt": "Wir sind Wachstums-Partner für über 100 der größten Deutschen B2C Brands wie zB. AG1, AirUp, TOOM Baumarkt & Smilodox und suchen aktuell Creative Strategists (m/w/d). Als Creative Strategist (m/w/d) verantwortest du die Entwicklung und..."
+  },
+  {
+   "id": "Arbeitnow-head-of-performance-marketing-bei-livom-wasserburg-am-inn-129440",
+   "title": "Head of Performance Marketing (m/w/d) bei Livom",
+   "company": "livom möbel ag",
+   "category": "Remote",
+   "type": "",
+   "location": "Wasserburg am Inn",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Online Marketing"
+   ],
+   "posted": "2026-10-04T21:00:29+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/livom-mobel-ag/head-of-performance-marketing-bei-livom-wasserburg-am-inn-129440",
+   "source": "Arbeitnow",
+   "excerpt": "Livom baut Sofas, die mit dem Leben mithalten: modular, jederzeit umstellbar, mit abnehmbaren und waschbaren Bezügen. Damit sind wir zu einer 8-stelligen D2C-Brand gewachsen. Wir verkaufen online in 5 europäischen Ländern und betreiben..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-account-executive-enterprise-private-accounts-136191",
+   "title": "Senior Account Executive, Enterprise (Private Accounts)",
+   "company": "veeamsoftware",
+   "category": "Field Sales",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Field Sales",
+    "Central 1000030"
+   ],
+   "posted": "2026-10-04T20:55:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-136191",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of..."
+  },
+  {
+   "id": "Arbeitnow-customer-success-onboarding-teilzeit-20-std-woche-hannover-15231",
+   "title": "Customer Success & Onboarding (m/w/d) – Teilzeit, 20 Std./Woche",
+   "company": "Novo AI GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Hannover",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Customer Service"
+   ],
+   "posted": "2026-10-04T20:30:43+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/novo-ai-gmbh/customer-success-onboarding-teilzeit-20-std-woche-hannover-15231",
+   "source": "Arbeitnow",
+   "excerpt": "Baue einen skalierbaren Customer-Success-Bereich auf Novo AI ist ein Technologieunternehmen aus Hannover. Mit unserer WatchMen-Plattform und KI-Sensorik helfen wir produzierenden Unternehmen, Maschinenzustände, Stillstände und..."
+  },
   {
    "id": "Arbeitnow-global-vp-food-ingredients-heidelberg-422763",
    "title": "Global VP Food Ingredients m/f/d",
@@ -87,127 +249,6 @@
    "excerpt": "Wir sind Wachstums-Partner für über 100 der größten Deutschen B2C Brands wie zB. AG1, AirUp, TOOM Baumarkt & Smilodox und suchen aktuell Creator Manager für TikTok Shop (m/w/d). Als Head of Influencer Marketing (m/w/d) verantwortest du die..."
   },
   {
-   "id": "Arbeitnow-remote-senior-seo-geo-manager-257000",
-   "title": "Senior SEO & GEO Manager (m/w/d)",
-   "company": "Auxmoney Gmbh",
-   "category": "Marketing",
-   "type": "Experienced",
-   "location": "Remote / Düsseldorf",
-   "salary": "",
-   "tags": [
-    "Marketing",
-    "SEO",
-    "GEO",
-    "Senior"
-   ],
-   "posted": "2026-10-04T17:09:58+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-seo-geo-manager-257000",
-   "source": "Arbeitnow",
-   "excerpt": "Dein neues Team: Du willst organische Sichtbarkeit so aufbauen, dass sie in Google ebenso wie in KI-Antwortsystemen zuverlässig wirkt? Dann übernimm bei auxmoney die Weiterentwicklung unserer SEO- und GEO-Strategie und setze sie end to end..."
-  },
-  {
-   "id": "Arbeitnow-tiktok-shop-creator-manager-berlin-28953",
-   "title": "TikTok Shop - Creator Manager (m/w/d)",
-   "company": "RealStudio GmbH",
-   "category": "Remote",
-   "type": "",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-10-04T17:00:38+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/tiktok-shop-creator-manager-berlin-28953",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Wachstums-Partner für über 100 der größten Deutschen B2C Brands wie zB. AG1, AirUp, TOOM Baumarkt & Smilodox und suchen aktuell Creator Manager für TikTok Shop (m/w/d). Als Creator Manager (m/w/d) verantwortest du die Entwicklung..."
-  },
-  {
-   "id": "Arbeitnow-quality-assurance-rater-german-germany-berlin-112725",
-   "title": "Quality Assurance Rater - German (Germany)",
-   "company": "TELUS Digital",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Database Administration"
-   ],
-   "posted": "2026-10-04T16:00:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-germany-berlin-112725",
-   "source": "Arbeitnow",
-   "excerpt": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This flexible, remote..."
-  },
-  {
-   "id": "Arbeitnow-product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
-   "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
-   "company": "Time to hire",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Marktbreit",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Product Design",
-    "Industrial Design"
-   ],
-   "posted": "2026-10-04T14:30:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
-   "source": "Arbeitnow",
-   "excerpt": "For my client, an established direct-to-consumer home decor brand, I’m looking for a talented Product Designer to join the team on a long-term basis. The company creates distinctive wooden home decor for customers primarily in the US, with..."
-  },
-  {
-   "id": "Arbeitnow-senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-433811",
-   "title": "Senior WEG-Verwalter:in (m/w/d) | 100 % Remote oder Hamburg",
-   "company": "Ralph Management GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-04T14:30:06+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ralph-management-gmbh/senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-433811",
-   "source": "Arbeitnow",
-   "excerpt": "Ralph ist Deutschlands modernste Hausverwaltung. Wir denken WEG von Grund auf neu – mit 10.000 Einheiten deutschlandweit haben wir bewiesen, dass unser Modell skaliert. Wir verbinden unsere eigene AI-Software mit der Expertise erfahrener..."
-  },
-  {
-   "id": "Arbeitnow-microsoft-365-engineer-100-remote-stuttgart-432756",
-   "title": "Microsoft 365 Engineer (m/w/d), 100 % remote",
-   "company": "Kigen IT-Systemhaus",
-   "category": "Remote",
-   "type": "",
-   "location": "Stuttgart",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-04T11:30:36+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/microsoft-365-engineer-100-remote-stuttgart-432756",
-   "source": "Arbeitnow",
-   "excerpt": "Kigen IT ist ein spezialisiertes IT-Systemhaus für Microsoft 365, Security und Compliance. Wir betreuen Kunden in ganz Deutschland, fast komplett remote. Für unsere Managed-Service-Kunden suchen wir Verstärkung im Technikteam. Aufgaben Du..."
-  },
-  {
-   "id": "Arbeitnow-ugc-creator-social-media-creator-munster-189757",
-   "title": "UGC Creator / Social Media Creator (m/w/d)",
-   "company": "paselo GmbH",
-   "category": "Remote",
-   "type": "Side",
-   "location": "Münster",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-04T10:30:26+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/ugc-creator-social-media-creator-munster-189757",
-   "source": "Arbeitnow",
-   "excerpt": "paselo ist ein junges, schnell wachsendes Unternehmen für hochwertige Ergänzungsfuttermittel für Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig fördern – mit natürlichen, laborgeprüften Produkten, die..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-account-executive-166089",
    "title": "Senior Account Executive",
    "company": "gitlab",
@@ -222,55 +263,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/gitlab/remote-senior-account-executive-166089",
    "source": "Arbeitnow",
    "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-web-compatibility-engineer-426717",
-   "title": "Senior Web Compatibility Engineer",
-   "company": "Duck Duck Go",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Engineering"
-   ],
-   "posted": "2026-10-04T08:40:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-426717",
-   "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-privacy-engineer-115042",
-   "title": "Senior Privacy Engineer",
-   "company": "Duck Duck Go",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Engineering"
-   ],
-   "posted": "2026-10-04T08:40:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-115042",
-   "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
-  },
-  {
-   "id": "Arbeitnow-remote-qa-engineer-mobile-berlin-166747",
-   "title": "QA Engineer Mobile",
-   "company": "ScholarshipOwl",
-   "category": "Development",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Development",
-    "Remote"
-   ],
-   "posted": "2026-10-04T08:30:08+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
-   "source": "Arbeitnow",
-   "excerpt": "About ScholarshipOwl ScholarshipOwl is the largest scholarship marketplace in the US, using AI to connect 14 million students who are looking for scholarships with companies that are looking for students. Our mission is to make education..."
   },
   {
    "id": "Jobicy-154514",
@@ -313,20 +305,6 @@
    "url": "https://jobicy.com/jobs/154512-solutions-engineer-latam",
    "source": "Jobicy",
    "excerpt": "Veriff is looking for a commercially minded Solutions Engineer to join our LATAM team and partner closely with Sales to drive new business and accelerate revenue growth across Spanish- and Portuguese-speaking markets. This role is an..."
-  },
-  {
-   "id": "Jobicy-154511",
-   "title": "Forward Deployed Engineer - Software Engineer - Sweden",
-   "company": "Elevenlabs",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Sweden",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-04T05:45:38+00:00",
-   "url": "https://jobicy.com/jobs/154511-forward-deployed-engineer-software-engineer-sweden",
-   "source": "Jobicy",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
   },
   {
    "id": "Jobicy-154508",
@@ -971,6 +949,52 @@
    "url": "https://jobicy.com/jobs/152485-b2b-seo-aeo-expert",
    "source": "Jobicy",
    "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Jobicy-152404",
+   "title": "SDET II, tvScientific",
+   "company": "Pinterest",
+   "category": "QA & Testing",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-04T04:30:45+00:00",
+   "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific",
+   "source": "Jobicy",
+   "excerpt": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-web-compatibility-engineer-379161",
+   "title": "Senior Web Compatibility Engineer",
+   "company": "Duck Duck Go",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-10-04T02:40:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-privacy-engineer-111342",
+   "title": "Senior Privacy Engineer",
+   "company": "Duck Duck Go",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-10-04T02:40:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
   },
   {
    "id": "Remote OK-1137461",
