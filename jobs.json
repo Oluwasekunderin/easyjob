@@ -1,6 +1,175 @@
 {
- "updated": "2026-10-05T23:54:52+00:00",
+ "updated": "2026-10-06T05:47:35+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-lead-enterprise-architect-professional-services-london-460241",
+   "title": "Lead Enterprise Architect, Professional Services",
+   "company": "Intelance",
+   "category": "Remote",
+   "type": "Freelance",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Consulting",
+    "Engineering"
+   ],
+   "posted": "2026-10-06T04:30:25+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/lead-enterprise-architect-professional-services-london-460241",
+   "source": "Arbeitnow",
+   "excerpt": "Intelance helps organisations make clear, evidence based decisions about technology. We are looking for a freelance Lead Enterprise Architect to run a fixed scope enterprise architecture review for a large UK professional services firm,..."
+  },
+  {
+   "id": "Arbeitnow-remote-slovenian-language-trainer-anywhere-in-emea-region-9652",
+   "title": "Slovenian language trainer",
+   "company": "TransPerfect",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-06T03:30:37+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-slovenian-language-trainer-anywhere-in-emea-region-9652",
+   "source": "Arbeitnow",
+   "excerpt": "Company TransPerfect Language & Cultural Training is part of the TransPerfect solutions, the world’s largest language service and technology solutions provider for global businesses with offices in more than 100 cities around the globe...."
+  },
+  {
+   "id": "Arbeitnow-remote-croatian-language-trainer-anywhere-in-emea-region-94411",
+   "title": "Croatian language trainer",
+   "company": "TransPerfect",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-06T03:30:37+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-croatian-language-trainer-anywhere-in-emea-region-94411",
+   "source": "Arbeitnow",
+   "excerpt": "Company TransPerfect Language & Cultural Training is part of the TransPerfect solutions, the world’s largest language service and technology solutions provider for global businesses with offices in more than 100 cities around the globe...."
+  },
+  {
+   "id": "Arbeitnow-senior-technical-product-manager-keet-100-remote-united-kindom-492479",
+   "title": "Senior Technical Product Manager - Keet (100% Remote)",
+   "company": "Tether Operations Limited",
+   "category": "Product​",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Product​",
+    "Remote"
+   ],
+   "posted": "2026-10-06T03:30:35+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-technical-product-manager-keet-100-remote-united-kindom-492479",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-data-scientist-product-analytics-431439",
+   "title": "Data Scientist - Product Analytics",
+   "company": "ElevenLabs",
+   "category": "Engineering & Product",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering & Product"
+   ],
+   "posted": "2026-10-05T23:40:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-marketing-data-scientist-186335",
+   "title": "Marketing Data Scientist",
+   "company": "ElevenLabs",
+   "category": "Growth",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Growth"
+   ],
+   "posted": "2026-10-05T23:40:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-marketing-data-scientist-186335",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-legal-operations-lead-270903",
+   "title": "Legal Operations Lead",
+   "company": "ElevenLabs",
+   "category": "Operations",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Operations"
+   ],
+   "posted": "2026-10-05T23:40:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-legal-operations-lead-270903",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-recruiter-talent-acquisition-manager-essen-234319",
+   "title": "Recruiter / Talent Acquisition Manager (m/w/d)",
+   "company": "Hypertrics GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-05T23:30:29+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-recruiter-talent-acquisition-manager-essen-234319",
+   "source": "Arbeitnow",
+   "excerpt": "Recruiter / Talent Acquisition Manager (m/w/d) Standort: Essen | Vollzeit | Unbefristet Hypertrics ist eine wachstumsstarke HR-Tech-Plattform mit Sitz in Essen, die mittelständische Unternehmen und Konzerne bei der zielgerichteten,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-data-analytics-koln-379643",
+   "title": "Senior Consultant Data Analytics (w/m/d)",
+   "company": "Timetoact Group",
+   "category": "Professional",
+   "type": "Experienced",
+   "location": "Köln",
+   "salary": "",
+   "tags": [
+    "Professional",
+    "Jobs",
+    "remote",
+    "Homeoffice"
+   ],
+   "posted": "2026-10-05T23:09:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-senior-consultant-data-analytics-koln-379643",
+   "source": "Arbeitnow",
+   "excerpt": "Wofür wir dich suchen Daten sind überall. Wir machen daraus Entscheidungen mit Wirkung. Die meisten Unternehmen kämpfen nicht mit fehlenden Daten, sondern mit etwas anderem: zu vielen Systemen, widersprüchlichen Zahlen und der Frage,..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-program-manager-hamburg-schellerdamm-147992",
+   "title": "AI Program Manager (w/m/d)",
+   "company": "Timetoact Group",
+   "category": "Home Office",
+   "type": "Experienced",
+   "location": "Hamburg Schellerdamm",
+   "salary": "",
+   "tags": [
+    "Home Office",
+    "Hamburg",
+    "Köln",
+    "Remote"
+   ],
+   "posted": "2026-10-05T23:09:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-147992",
+   "source": "Arbeitnow",
+   "excerpt": "Werde Teil unseres Teams! Wofür wir dich suchen Als AI Program Manager (w/m/d) übernimmst du eine neu geschaffene Position und verantwortest den internen Einsatz von Künstlicher Intelligenz bei catworkx, von der Ausrichtung über die..."
+  },
   {
    "id": "Arbeitnow-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-393048",
    "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
@@ -503,23 +672,6 @@
    "excerpt": "Werkstudent (m/w/d) Executive Search & Active Sourcing 20 Stunden/Woche | Hybrid/Remote Finde mit uns die besten Köpfe für den deutschen Mittelstand. Du hast Spaß daran, Menschen zu recherchieren, Zusammenhänge zu erkennen und die..."
   },
   {
-   "id": "Arbeitnow-contract-golang-software-engineer-remote-europe-berlin-280012",
-   "title": "Contract Golang Software Engineer (Remote Europe)",
-   "company": "YLD.com",
-   "category": "Remote",
-   "type": "Freelance",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Engineering"
-   ],
-   "posted": "2026-10-05T16:30:40+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-280012",
-   "source": "Arbeitnow",
-   "excerpt": "Location: Remote (EU based, GMT timezone) Department: Engineering Employment Type: Contract Contract Length: 6 months (with potential for extension) About YLD: Our goal is to help our clients keep moving forward. We work with them to build..."
-  },
-  {
    "id": "Jobicy-154629",
    "title": "Staff Engineer",
    "company": "Dutchie",
@@ -742,23 +894,6 @@
    "url": "https://jobicy.com/jobs/154620-regional-sales-manager-singapore",
    "source": "Jobicy",
    "excerpt": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI..."
-  },
-  {
-   "id": "Arbeitnow-nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-359111",
-   "title": "Nebenjob als Online-Testbenutzer (m/w/d) - Studien für Apps, Websites & digitale Produkte",
-   "company": "TPnet Marktforschung",
-   "category": "Remote",
-   "type": "Side",
-   "location": "Leipzig",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-10-05T15:00:32+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tpnet-marktforschung/nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-359111",
-   "source": "Arbeitnow",
-   "excerpt": "Wie gut funktionieren neue Apps? Sind Websites verständlich aufgebaut? Und wie kommen neue Produkte bei Nutzern wirklich an? Genau solche Fragen untersuchen Unternehmen gemeinsam mit der Plattform TestingTime . Dafür werden regelmäßig..."
   },
   {
    "id": "Jobicy-154607",
@@ -2182,25 +2317,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
    "source": "Remote OK",
    "excerpt": "More than one million people in the United States today are fighting blood cancer. While a traditional allogeneic stem cell transplant has been the best hope for many, the transplant itself can prove fatal or lead to serious conditions,..."
-  },
-  {
-   "id": "Remote OK-1137062",
-   "title": "DESARROLLADOR FULL STACK",
-   "company": "Kruger NearShore LLC - Rekluti",
-   "category": "Full Stack",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "full stack",
-    "front end",
-    "python",
-    "dev"
-   ],
-   "posted": "2026-08-22T00:00:12+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-   "source": "Remote OK",
-   "excerpt": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el..."
   }
  ]
 }
