@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annotation Work Tracker</title>
+<style>
+:root{--bg:#f3f6f8;--card:#fff;--ink:#14232b;--mute:#5b6b74;--line:#d5dee3;--acc:#1f5fbf;--accbg:#e4edfb}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0f1a20;--card:#17262e;--ink:#e8eff2;--mute:#9db0ba;--line:#2a3d47;--acc:#7fb0ff;--accbg:#1d3550}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:860px;margin:0 auto;padding:20px 14px 60px}
+h1{font-size:1.7rem;margin:.2em 0 .1em;letter-spacing:-.01em}
+.sub{color:var(--mute);margin:0 0 18px;max-width:60ch}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;font-size:.9rem}
+.stat b{font-size:1.1rem;margin-right:4px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+input,select,textarea,button{font:inherit;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+input[type=search]{flex:1 1 200px}
+button{cursor:pointer}
+button.p{background:var(--acc);color:#fff;border-color:var(--acc)}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.row{background:var(--card);border:1px solid var(--line);border-radius:10px;margin-bottom:10px;padding:12px 14px}
+.top{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.name{font-weight:650;font-size:1.05rem}
+.name a{color:var(--acc);text-decoration:none}
+.name a:hover{text-decoration:underline}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.tag{background:var(--accbg);color:var(--acc);border-radius:20px;padding:1px 10px;font-size:.8rem}
+.desc{color:var(--mute);font-size:.92rem;margin:6px 0 0}
+.more{display:none;margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);gap:10px;flex-wrap:wrap}
+.row.open .more{display:flex}
+.more label{display:flex;flex-direction:column;font-size:.85rem;color:var(--mute);flex:1 1 150px}
+.more textarea{flex:1 1 100%;min-height:70px;resize:vertical}
+.more .full{flex:1 1 100%}
+.s-none{border-left:4px solid var(--line)}
+.s-applied,.s-assess{border-left:4px solid #d19a1e}
+.s-interview{border-left:4px solid #8a5cd6}
+.s-active{border-left:4px solid #2e9e5b}
+.s-rejected{border-left:4px solid #c2493d}
+.due{color:#c2493d;font-weight:600;font-size:.85rem}
+dialog{border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);max-width:440px;width:92%}
+dialog form{display:flex;flex-direction:column;gap:10px}
+.empty{text-align:center;color:var(--mute);padding:30px 0}
+.foot{color:var(--mute);font-size:.82rem;margin-top:24px}
+</style>
+</head>
+<body>
+<main>
+  <h1>Annotation Work Tracker</h1>
+  <p class="sub">Find platforms that hire for data annotation, AI training and evaluation, then track where you stand with each one. Your progress is saved in this browser only.</p>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="bar">
+    <input type="search" id="q" placeholder="Search platforms" aria-label="Search platforms">
+    <select id="fType" aria-label="Filter by work type"><option value="">All work types</option></select>
+    <select id="fStatus" aria-label="Filter by status"><option value="">All statuses</option></select>
+    <button class="p" id="addBtn">Add platform</button>
+  </div>
+
+  <div id="list"></div>
+  <p class="foot">Platform details change often. Check each official site for current requirements, pay and availability in your country before you apply.</p>
+</main>
+
+<dialog id="dlg">
+  <form method="dialog" id="addForm">
+    <strong>Add a platform</strong>
+    <input id="aName" placeholder="Platform name" required>
+    <input id="aUrl" type="url" placeholder="Website (https://...)">
+    <input id="aTypes" placeholder="Work types, separated by commas">
+    <textarea id="aDesc" placeholder="Short note (optional)"></textarea>
+    <div style="display:flex;gap:8px;justify-content:flex-end">
+      <button type="button" id="aCancel">Cancel</button>
+      <button class="p" type="submit">Save platform</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+var STATUS={none:"Not applied",applied:"Applied",assess:"Assessment",interview:"Interview",active:"Active",rejected:"Rejected"};
+var BASE=[
+{id:"dataannotation",name:"DataAnnotation",url:"https://www.dataannotation.tech",types:["AI training","Evaluation","Writing"],desc:"Project-based AI training and evaluation tasks. Starts with an assessment."},
+{id:"outlier",name:"Outlier",url:"https://outlier.ai",types:["AI training","Evaluation","Domain experts"],desc:"AI training projects across general and expert domains."},
+{id:"alignerr",name:"Alignerr",url:"https://www.alignerr.com",types:["AI training","Evaluation"],desc:"Contract work reviewing and training AI models."},
+{id:"mercor",name:"Mercor",url:"https://mercor.com",types:["AI training","Evaluation","Multilingual"],desc:"Matches experts to AI evaluation roles. Some roles use skills assessments."},
+{id:"appen",name:"Appen",url:"https://appen.com",types:["Annotation","Transcription","Search evaluation","Multilingual"],desc:"Long-running crowd platform with annotation, rating and language projects."},
+{id:"telus",name:"TELUS Digital AI",url:"https://www.telusdigital.com",types:["Annotation","Search evaluation","Multilingual"],desc:"AI data programs such as rating and annotation, often by language."},
+{id:"welocalize",name:"Welocalize",url:"https://www.welocalize.com",types:["Multilingual","Transcription","Annotation"],desc:"Language services company with AI data and localization work."},
+{id:"toloka",name:"Toloka",url:"https://toloka.ai",types:["Annotation","Microtasks"],desc:"Crowd platform for labeling and data collection microtasks."},
+{id:"clickworker",name:"Clickworker",url:"https://www.clickworker.com",types:["Microtasks","Transcription","Data collection"],desc:"Microtask marketplace including transcription and data collection."},
+{id:"prolific",name:"Prolific",url:"https://www.prolific.com",types:["Data collection","Surveys"],desc:"Paid research studies and AI data collection tasks."}
+];
+var KEY="annotTracker.v1";
+var db=load();
+function load(){try{var d=JSON.parse(localStorage.getItem(KEY));if(d&&d.progress)return d}catch(e){}return{progress:{},custom:[]}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(db))}catch(e){}}
+function all(){return BASE.concat(db.custom)}
+function prog(id){return db.progress[id]||(db.progress[id]={status:"none",applied:"",follow:"",notes:""})}
+function esc(s){var d=document.createElement("div");d.textContent=s==null?"":s;return d.innerHTML}
+function today(){return new Date().toISOString().slice(0,10)}
+
+var q=document.getElementById("q"),fT=document.getElementById("fType"),fS=document.getElementById("fStatus");
+Object.keys(STATUS).forEach(function(k){fS.insertAdjacentHTML("beforeend","<option value='"+k+"'>"+STATUS[k]+"</option>")});
+function buildTypes(){
+  var set={};all().forEach(function(p){p.types.forEach(function(t){set[t]=1})});
+  var cur=fT.value;fT.innerHTML="<option value=''>All work types</option>";
+  Object.keys(set).sort().forEach(function(t){fT.insertAdjacentHTML("beforeend","<option>"+esc(t)+"</option>")});
+  fT.value=cur;
+}
+function stats(){
+  var c={};all().forEach(function(p){var s=prog(p.id).status;c[s]=(c[s]||0)+1});
+  var h="<div class='stat'><b>"+all().length+"</b>platforms</div>";
+  ["applied","assess","interview","active"].forEach(function(k){h+="<div class='stat'><b>"+(c[k]||0)+"</b>"+STATUS[k].toLowerCase()+"</div>"});
+  document.getElementById("stats").innerHTML=h;
+}
+var openId=null;
+function render(){
+  var term=q.value.toLowerCase(),t=fT.value,s=fS.value,out="";
+  all().forEach(function(p){
+    var pr=prog(p.id);
+    if(t&&p.types.indexOf(t)<0)return;
+    if(s&&pr.status!==s)return;
+    if(term&&(p.name+" "+p.desc+" "+p.types.join(" ")).toLowerCase().indexOf(term)<0)return;
+    var due=pr.follow&&pr.follow<=today()&&pr.status!=="active"&&pr.status!=="rejected";
+    var opts=Object.keys(STATUS).map(function(k){return "<option value='"+k+"'"+(k===pr.status?" selected":"")+">"+STATUS[k]+"</option>"}).join("");
+    out+="<div class='row s-"+pr.status+(openId===p.id?" open":"")+"' data-id='"+esc(p.id)+"'>"+
+      "<div class='top'><div><div class='name'>"+(p.url?"<a href='"+esc(p.url)+"' target='_blank' rel='noopener'>"+esc(p.name)+"</a>":esc(p.name))+"</div>"+
+      "<div class='tags'>"+p.types.map(function(x){return "<span class='tag'>"+esc(x)+"</span>"}).join("")+"</div></div>"+
+      "<div style='display:flex;gap:6px;align-items:center'>"+(due?"<span class='due'>Follow up</span>":"")+
+      "<select data-f='status' aria-label='Status for "+esc(p.name)+"'>"+opts+"</select>"+
+      "<button data-act='toggle' aria-label='Details for "+esc(p.name)+"'>Details</button></div></div>"+
+      "<p class='desc'>"+esc(p.desc)+"</p>"+
+      "<div class='more'><label>Date applied<input type='date' data-f='applied' value='"+esc(pr.applied)+"'></label>"+
+      "<label>Follow up on<input type='date' data-f='follow' value='"+esc(pr.follow)+"'></label>"+
+      "<label class='full'>Notes<textarea data-f='notes' placeholder='Login email, test score, recruiter name, next step'>"+esc(pr.notes)+"</textarea></label>"+
+      (p.custom?"<button data-act='del' class='full'>Remove this platform</button>":"")+"</div></div>";
+  });
+  document.getElementById("list").innerHTML=out||"<div class='empty'>No platforms match. Clear the filters or add your own.</div>";
+  stats();
+}
+document.getElementById("list").addEventListener("change",function(e){
+  var row=e.target.closest(".row");if(!row)return;var f=e.target.dataset.f;if(!f)return;
+  var pr=prog(row.dataset.id);pr[f]=e.target.value;
+  if(f==="status"&&e.target.value==="applied"&&!pr.applied)pr.applied=today();
+  save();if(f!=="notes")render();else stats();
+});
+document.getElementById("list").addEventListener("click",function(e){
+  var b=e.target.closest("button");if(!b)return;var row=b.closest(".row"),id=row.dataset.id;
+  if(b.dataset.act==="toggle"){openId=openId===id?null:id;render()}
+  if(b.dataset.act==="del"&&confirm("Remove this platform and its notes?")){
+    db.custom=db.custom.filter(function(p){return p.id!==id});delete db.progress[id];save();buildTypes();render()}
+});
+[q,fT,fS].forEach(function(el){el.addEventListener("input",render)});
+var dlg=document.getElementById("dlg");
+document.getElementById("addBtn").onclick=function(){dlg.showModal()};
+document.getElementById("aCancel").onclick=function(){dlg.close()};
+document.getElementById("addForm").addEventListener("submit",function(){
+  var n=document.getElementById("aName").value.trim();if(!n)return;
+  var types=document.getElementById("aTypes").value.split(",").map(function(x){return x.trim()}).filter(Boolean);
+  db.custom.push({id:"c"+Date.now(),name:n,url:document.getElementById("aUrl").value.trim(),types:types.length?types:["Other"],desc:document.getElementById("aDesc").value.trim(),custom:true});
+  save();this.reset();buildTypes();render();
+});
+buildTypes();render();
+</script>
+</body>
+</html>
