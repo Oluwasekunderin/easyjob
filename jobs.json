@@ -1,6 +1,143 @@
 {
- "updated": "2026-10-09T22:28:25+00:00",
+ "updated": "2026-10-10T05:16:21+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Justice",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Justice",
+    "Remote"
+   ],
+   "posted": "2026-10-10T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-120261",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Environment",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
+   ],
+   "posted": "2026-10-10T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-120261",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-java-backend-developer-karlsruhe-355121",
+   "title": "Senior Java Backend Developer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Healthcare",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Healthcare",
+    "Remote"
+   ],
+   "posted": "2026-10-10T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-355121",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
+   "title": "Senior Oracle Data Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Finance",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Finance",
+    "Remote"
+   ],
+   "posted": "2026-10-10T02:30:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-senior-procurement-manager-berlin-263230",
+   "title": "Senior Procurement Manager",
+   "company": "Eberhardt Service Group GmbH",
+   "category": "Remote",
+   "type": "Temporary Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-10-10T02:00:34+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/eberhardt-service-group-gmbh/senior-procurement-manager-berlin-263230",
+   "source": "Arbeitnow",
+   "excerpt": "We are seeking a Procurement Manager to lead sourcing, supplier management, and purchasing operations while ensuring a reliable, cost-effective supply of materials that supports production, inventory, and business growth. The Procurement..."
+  },
+  {
+   "id": "Arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
+   "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+   "company": "Bling",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-10T00:30:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
+   "source": "Arbeitnow",
+   "excerpt": "Deine Mission Wir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an..."
+  },
+  {
+   "id": "Arbeitnow-initiativbewerbung-berlin-16430",
+   "title": "Initiativbewerbung (m/w/d)",
+   "company": "Nitrado (marbis GmbH)",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-10T00:30:33+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-16430",
+   "source": "Arbeitnow",
+   "excerpt": "Einleitung Es ist momentan keine für dich passende Stelle ausgeschrieben? Wir sind immer auf der Suche nach motivierten und kreativen Köpfen, die Ihren Beruf mit Leidenschaft machen. Das trifft auf dich zu? Dann lass uns gerne eine..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-data-scientist-180788",
+   "title": "Senior Data Scientist",
+   "company": "Duck Duck Go",
+   "category": "Data Science",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Data Science"
+   ],
+   "posted": "2026-10-09T23:40:02+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-data-scientist-180788",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
+  },
   {
    "id": "Arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
    "title": "IT Solution Architect / IT Inhouse Consultant – Microsoft (m/w/d)",
@@ -610,57 +747,6 @@
    "url": "https://jobicy.com/jobs/154918-communications-manager-global",
    "source": "Jobicy",
    "excerpt": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user..."
-  },
-  {
-   "id": "Arbeitnow-junior-country-manager-dach-frankfurt-am-main-228604",
-   "title": "(Junior) Country Manager DACH (m/w/d)",
-   "company": "LILLYDOO GmbH",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Frankfurt am Main",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-10-09T17:31:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/lillydoo-gmbh/junior-country-manager-dach-frankfurt-am-main-228604",
-   "source": "Arbeitnow",
-   "excerpt": "Jobbeschreibung ab sofort | Vollzeit | befristet | remote in Deutschland oder in unserem Frankfurter Office Hallo! Wir sind LILLYDOO. Schön, Dich kennenzulernen! Unsere Vision ist es, LILLYDOO als Lovebrand im Bereich Babypflege zu..."
-  },
-  {
-   "id": "Arbeitnow-ma-manager-berlin-141709",
-   "title": "M&A Manager (m/f/d)",
-   "company": "Onepage GmbH",
-   "category": "Remote",
-   "type": "Berufserfahren",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-09T17:02:04+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/onepage-gmbh/ma-manager-berlin-141709",
-   "source": "Arbeitnow",
-   "excerpt": "Deine Aufgaben Die Onepage GmbH ist ein AI-first-SaaS-Unternehmen mit 19.000 zahlenden Kunden und über 250.000 Usern und zählt damit zu den größten Plattformen im Bereich Web-Präsenz im deutschsprachigen Raum. Mit Onepage AI 2.0 entstehen..."
-  },
-  {
-   "id": "Arbeitnow-digitaler-bestandskundenbetreuer-outbound-berlin-261596",
-   "title": "Digitaler Bestandskundenbetreuer (Outbound) (m/w/d)",
-   "company": "Clark Germany GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-09T17:02:03+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/clark-germany-gmbh/digitaler-bestandskundenbetreuer-outbound-berlin-261596",
-   "source": "Arbeitnow",
-   "excerpt": "Deine Aufgaben Unsere Vision – Versicherungen in easy Stell dir vor, du hast deinen Versicherungsprofi und all deine Verträge jederzeit übersichtlich in deiner Hosentasche: Das ist CLARK! Wir machen es dir leicht, dich optimal zu..."
   },
   {
    "id": "Jobicy-154909",
@@ -2197,23 +2283,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
    "source": "Remote OK",
    "excerpt": "GiveWellâs mission is to help people in need as much as we can by researching the most costâeffective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good...."
-  },
-  {
-   "id": "Remote OK-1137378",
-   "title": "Senior People & Talent Operations Partner",
-   "company": "TestGorilla",
-   "category": "Hr",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$70,000 - $80,000",
-   "tags": [
-    "hr",
-    "non tech"
-   ],
-   "posted": "2026-09-10T21:13:22+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
-   "source": "Remote OK",
-   "excerpt": "â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â ð Where..."
   },
   {
    "id": "Remote OK-1137375",
