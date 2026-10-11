@@ -1,6 +1,185 @@
 {
- "updated": "2026-10-10T21:24:59+00:00",
+ "updated": "2026-10-11T05:07:12+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-veeam-data-cloud-vault-solution-specialist-93212",
+   "title": "Veeam Data Cloud Vault Solution Specialist",
+   "company": "veeamsoftware",
+   "category": "Public Cloud Solutions 1008239",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Public Cloud Solutions 1008239"
+   ],
+   "posted": "2026-10-10T23:55:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-data-cloud-vault-solution-specialist-93212",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of..."
+  },
+  {
+   "id": "Arbeitnow-remote-head-of-product-berlin-329328",
+   "title": "Head of Product (m/w/d)",
+   "company": "Dr. Ansay Ltd.",
+   "category": "Product",
+   "type": "Manager",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Product",
+    "Remote"
+   ],
+   "posted": "2026-10-10T23:30:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/dr-ansay-ltd/remote-head-of-product-berlin-329328",
+   "source": "Arbeitnow",
+   "excerpt": "Über DrAnsay DrAnsay wurde 2018 gegründet und gehört heute zu den führenden digitalen Gesundheitsplattformen in Deutschland. Als digitales HealthTech-Unternehmen verbinden wir Patient:innen, Ärzt:innen und Apotheken und entwickeln..."
+  },
+  {
+   "id": "Arbeitnow-remote-value-strategist-187622",
+   "title": "Value Strategist",
+   "company": "ElevenLabs",
+   "category": "Revenue",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Revenue"
+   ],
+   "posted": "2026-10-10T20:40:11+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-value-strategist-187622",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-enterprise-account-executive-ii-dach-180240",
+   "title": "Enterprise Account Executive II - DACH",
+   "company": "Camunda",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-10T20:40:07+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-ii-dach-180240",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sales-engineer-uk-496085",
+   "title": "Senior Sales Engineer - UK",
+   "company": "Camunda",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-10T20:40:07+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-496085",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-enterprise-account-executive-uki-426314",
+   "title": "Enterprise Account Executive UKI",
+   "company": "Camunda",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-10T20:40:07+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-uki-426314",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-senior-consultant-finance-komplett-remote-stuttgart-407421",
+   "title": "Senior Consultant (m/w/d) Finance | komplett remote",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-10T20:30:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-consultant-finance-komplett-remote-stuttgart-407421",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-bi-konsolidierung-baden-wurttemberg-128747",
+   "title": "Senior Consultant (m/w/d) BI & Konsolidierung",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-10T20:30:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-consultant-bi-konsolidierung-baden-wurttemberg-128747",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-remote-vom-controller-zum-senior-consultant-bayern-155542",
+   "title": "🚀 Vom Controller zum Senior Consultant (m/w/d)",
+   "company": "ANGEHEUERT GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-10T20:30:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-vom-controller-zum-senior-consultant-bayern-155542",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-qa-engineer-all-genders-berlin-68172",
+   "title": "Senior QA Engineer (All genders)",
+   "company": "Distribusion Technologies",
+   "category": "Technology",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-10-10T20:30:22+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
+   "source": "Arbeitnow",
+   "excerpt": "About us Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-product-engineer-ims-all-genders-berlin-277725",
+   "title": "Senior Product Engineer, IMS (all genders)",
+   "company": "Distribusion Technologies",
+   "category": "Technology",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-10-10T20:30:22+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ims-all-genders-berlin-277725",
+   "source": "Arbeitnow",
+   "excerpt": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that..."
+  },
   {
    "id": "Arbeitnow-werkstudentin-social-media-und-newsletter-remote-munchen-32254",
    "title": "Werkstudent:in Social Media und Newsletter (m/w/d), remote",
@@ -17,42 +196,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/steuerberaterin-nadine-brandstatter/werkstudentin-social-media-und-newsletter-remote-munchen-32254",
    "source": "Arbeitnow",
    "excerpt": "Ich bin Nadine Brandstätter, Steuerberaterin mit dem Schwerpunkt auf Kapitalgesellschaften. Meine Kanzlei ist komplett digital und ortsunabhängig. Ich begleite GmbH-Geschäftsführer:innen dabei, ihre Struktur steuerlich zu nutzen und..."
-  },
-  {
-   "id": "Arbeitnow-remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-381642",
-   "title": "Werkstudent (m/w/d) als Sprachdozent Deutsch/ Englisch",
-   "company": "Education Partners",
-   "category": "Werkstudent",
-   "type": "Entry",
-   "location": "Hessen BBI",
-   "salary": "",
-   "tags": [
-    "Werkstudent",
-    "Sprache",
-    "Lehre",
-    "Gesprächssituationen"
-   ],
-   "posted": "2026-10-10T17:09:44+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-381642",
-   "source": "Arbeitnow",
-   "excerpt": "Über uns - Berger Bildungsinstitut Das Berger Bildungsinstitut ist ein zertifizierter Bildungsträger nach AZAV und bietet berufliche Weiterbildungen sowie Umschulungen in verschiedenen Fachbereichen an. An über 100 Standorten bundesweit..."
-  },
-  {
-   "id": "Arbeitnow-sap-drc-e-invoicing-delivery-lead-scrum-master-freelance-bonn-467175",
-   "title": "SAP DRC / E-Invoicing Delivery Lead / Scrum Master (Freelance)",
-   "company": "Sidekick Network GmbH & Co. KG",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Bonn",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Project Management"
-   ],
-   "posted": "2026-10-10T17:00:44+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/sap-drc-e-invoicing-delivery-lead-scrum-master-freelance-bonn-467175",
-   "source": "Arbeitnow",
-   "excerpt": "For a large-scale international SAP S/4HANA transformation program, we are looking for an experienced SAP DRC / E-Invoicing Delivery Lead / Scrum Master to support the coordination of the e-invoicing workstream. The role sits at the..."
   },
   {
    "id": "Jobicy-154977",
@@ -319,74 +462,6 @@
    "url": "https://jobicy.com/jobs/154967-senior-fullstack-engineer-br-based-only",
    "source": "Jobicy",
    "excerpt": "About Double Bookkeepers today are stuck working in excel spreadsheets and homegrown project management solutions to support their clients. Double is on a mission to change that. With our all-in-one tool, bookkeepers can manage their work,..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-praktikant-marketing-sales-hotel-tech-startup-munich-213982",
-   "title": "Werkstudent / Praktikant (m/w/d) Marketing & Sales – Hotel-Tech-Startup",
-   "company": "SUITEe Spectrum GmbH",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Munich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "posted": "2026-10-10T15:00:56+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/suitee-spectrum-gmbh/werkstudent-praktikant-marketing-sales-hotel-tech-startup-munich-213982",
-   "source": "Arbeitnow",
-   "excerpt": "Das Unternehmen und deine Rolle SUITEe Spectrum GmbH entwickelt intelligente Smart-Home- und IoT-Lösungen für die digitale Verwaltung von Unterkünften. Unsere Systeme vernetzen Türschlösser, Thermostate und Sensoren und helfen unseren..."
-  },
-  {
-   "id": "Arbeitnow-remote-machine-learning-scientist-berlin-216070",
-   "title": "Machine Learning Scientist",
-   "company": "Nucs AI",
-   "category": "Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Remote"
-   ],
-   "posted": "2026-10-10T14:30:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-216070",
-   "source": "Arbeitnow",
-   "excerpt": "About Nucs AI Nucs AI is revolutionizing cancer care through cutting-edge AI and medical imaging technology. Founded in 2024 by a multidisciplinary team of oncologists, AI researchers, and healthcare innovators, we’re tackling one of..."
-  },
-  {
-   "id": "Arbeitnow-partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-90415",
-   "title": "Partner(m/w/d): Für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
-   "company": "thexton armstrong Nord und Ost Deutschland",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Consulting"
-   ],
-   "posted": "2026-10-10T14:00:59+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-90415",
-   "source": "Arbeitnow",
-   "excerpt": "Sie arbeiten als Interim Manager oder Berater und kennen die Grenzen des Projektgeschäfts: Jeder Auftrag beginnt mit einer unbezahlten Angebotsphase und endet mit dem Abschlussbericht. Wir bieten Ihnen ein Modell, in dem Mandate über..."
-  },
-  {
-   "id": "Arbeitnow-video-editorin-berlin-350139",
-   "title": "Video Editor:in",
-   "company": "ROCC Film",
-   "category": "Remote",
-   "type": "Temporary Employment",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Graphic Arts and Communication Design"
-   ],
-   "posted": "2026-10-10T11:31:03+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rocc-film/video-editorin-berlin-350139",
-   "source": "Arbeitnow",
-   "excerpt": "About ROCC Film ROCC FILM is a creative agency specializing in film production. We create advertising films, image films, and recruiting films. As a full-service film production company, we produce high-quality videos and films. We are..."
   },
   {
    "id": "Jobicy-154382",
@@ -839,6 +914,63 @@
    "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
   },
   {
+   "id": "Remote OK-1137480",
+   "title": "Junior Sales Development Representative IT Industry",
+   "company": "Huzzle",
+   "category": "Saas",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [
+    "saas",
+    "technical",
+    "marketing",
+    "finance"
+   ],
+   "posted": "2026-10-10T00:00:17+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+   "source": "Remote OK",
+   "excerpt": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and..."
+  },
+  {
+   "id": "Remote OK-1137479",
+   "title": "Academic Dean for MiaPrep Online Academy of Ohio",
+   "company": "Miaplaza",
+   "category": "Design",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "$40 - $48",
+   "tags": [
+    "design",
+    "infosec",
+    "teaching",
+    "education"
+   ],
+   "posted": "2026-10-10T00:00:11+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
+   "source": "Remote OK",
+   "excerpt": "Location : 100% remote (Ohio residency required) Classification : Full-time, exempt Reports to : School Leader Pay Range : $40.00 - $48.00 per hour Welcome to Miaplaza! Our vision is to elevate online learning by applying the most..."
+  },
+  {
+   "id": "Remote OK-1137478",
+   "title": "Product Engineering Lead",
+   "company": "Tether Operations Limited",
+   "category": "Design",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [
+    "design",
+    "bitcoin",
+    "react",
+    "exec"
+   ],
+   "posted": "2026-10-10T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+   "source": "Remote OK",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and wallets to payment..."
+  },
+  {
    "id": "Remote OK-1137475",
    "title": "Senior React Full stack Developer",
    "company": "Lemon.io",
@@ -1166,39 +1298,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
    "source": "Arbeitnow",
    "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
-  },
-  {
-   "id": "Arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
-   "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-   "company": "PureGym AG",
-   "category": "Live Group Fitness",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Live Group Fitness",
-    "Remote"
-   ],
-   "posted": "2026-10-08T17:30:26+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
-   "source": "Arbeitnow",
-   "excerpt": "En tant que membre du groupe international PureGym , qui compte plus de 2 millions de membres, nous faisons partie des trois plus grandes chaînes de fitness en Europe. Nous sommes ainsi idéalement positionnés pour poursuivre et réaliser..."
-  },
-  {
-   "id": "Arbeitnow-remote-ios-developer-radiotech-406158",
-   "title": "iOS Developer (Radiotech)",
-   "company": "Gismart",
-   "category": "Mobile Engineering",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Mobile Engineering"
-   ],
-   "posted": "2026-10-08T05:40:06+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
-   "source": "Arbeitnow",
-   "excerpt": "About us Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently reached an important milestone of 1B+ downloads worldwide , moving closer to our..."
   },
   {
    "id": "Remote OK-1137469",
@@ -2273,44 +2372,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
    "source": "Remote OK",
    "excerpt": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by integrating the ecosystem..."
-  },
-  {
-   "id": "Remote OK-1137156",
-   "title": "Senior Level Designer",
-   "company": "Blackbird Interactive",
-   "category": "Design",
-   "type": "",
-   "location": "Vancouver, BC, Canada",
-   "salary": "",
-   "tags": [
-    "design",
-    "game dev",
-    "designer",
-    "technical"
-   ],
-   "posted": "2026-08-27T00:00:23+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-   "source": "Remote OK",
-   "excerpt": "Blackbird Interactive is a creative-fueled, future-driven, independent game studio where the best talent in the industry can find long-term careers to help grow their abilities while working on a wide range of projects, which encompass..."
-  },
-  {
-   "id": "Remote OK-1137155",
-   "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-   "company": "Tessera Labs",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$30 - $36",
-   "tags": [
-    "design",
-    "sys admin",
-    "consulting",
-    "testing"
-   ],
-   "posted": "2026-08-27T00:00:17+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-   "source": "Remote OK",
-   "excerpt": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore,..."
   }
  ]
 }
