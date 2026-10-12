@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-11T21:41:59+00:00",
+ "updated": "2026-10-12T05:21:07+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-devops-engineer-munich-369656",
+   "title": "DevOps Engineer (m/w/d)",
+   "company": "ICT Digital Solutions",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Munich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-11T23:00:35+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
+   "source": "Arbeitnow",
+   "excerpt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen DevOps-Engineer (m/w/d) am Standort München oder hybrid . Deine Aufgaben Du konzeptionierst, erstellst und verwaltest Infrastruktur-Landschaften Du beschäftigst..."
+  },
+  {
+   "id": "Arbeitnow-fullstack-entwickler-munich-359972",
+   "title": "Fullstack Entwickler (m/w/d)",
+   "company": "ICT Digital Solutions",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Munich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-11T22:30:48+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
+   "source": "Arbeitnow",
+   "excerpt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Fullstack Entwickler (m/w/d) am Standort München oder hybrid . Deine Aufgaben Entwicklung von Webapplikationen im Full-Stack-Bereich. Design und..."
+  },
+  {
+   "id": "Arbeitnow-embedded-softwareentwickler-munich-475195",
+   "title": "Embedded Softwareentwickler (m/w/d)",
+   "company": "ICT Digital Solutions",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Munich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-11T22:00:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-475195",
+   "source": "Arbeitnow",
+   "excerpt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Embedded Softwareentwickler (m/w/d) am Standort München oder hybrid. Deine Aufgaben Entwicklung und Implementierung von Embedded-Softwarelösungen in C und C++..."
+  },
+  {
+   "id": "Arbeitnow-technical-outsource-manager-munich-234288",
+   "title": "Technical Outsource Manager (m/w/d)",
+   "company": "ICT Digital Solutions",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Munich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-11T21:30:35+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-234288",
+   "source": "Arbeitnow",
+   "excerpt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Technical Outsource Manager (m/w/d) in Berlin. Unser Team bietet eine einzigartige Gelegenheit für einen Technischen Outsourcing-Manager (m/w/d), der als..."
+  },
+  {
+   "id": "Arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
+   "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
+   "company": "Naviro GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Karlsruhe",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT Security"
+   ],
+   "posted": "2026-10-11T20:32:30+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
+   "source": "Arbeitnow",
+   "excerpt": "Remote-first, Büro in Karlsruhe | ab sofort | unbefristet ab Tag eins 4.500–7.000 EUR Bruttofixgehalt pro Monat. Deine Einordnung im Fixgehaltsband richtet sich nach deiner relevanten Erfahrung und der Abschlussverantwortung, die du..."
+  },
   {
    "id": "Arbeitnow-social-media-content-manager-vollzeit-oder-teilzeit-ab-20h-100-remote-kevelaer-205313",
    "title": "Social Media & Content Manager (m/w/d), Vollzeit oder Teilzeit ab 20h, 100% Remote",
@@ -51,40 +136,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/visca-marketing-gmbh/tiktok-shop-social-commerce-manager-hassloch-382313",
    "source": "Arbeitnow",
    "excerpt": "Visca Marketing | Vollzeit | Remote-first | Mid–Senior Level Wir glauben, dass Influencer Marketing mehr ist als Reichweite – nämlich ein echter Performance- und Wachstumskanal. Gemeinsam treiben wir genau das voran: Kampagnen..."
-  },
-  {
-   "id": "Arbeitnow-automation-engineer-n8n-und-integrationen-hannover-344526",
-   "title": "Automation Engineer (m/w/d), n8n und Integrationen",
-   "company": "JH Automations",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Hannover",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-11T13:01:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
-   "source": "Arbeitnow",
-   "excerpt": "Über JH Automations JH Automations entwickelt Automatisierungen für den Mittelstand im DACH Raum: digitale Mitarbeiter, Workflows, KI Systeme und eigene Software bis hin zu Dashboards, die im Alltag genutzt werden. Uns geht es um..."
-  },
-  {
-   "id": "Arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-   "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
-   "company": "Naviro GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Karlsruhe",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT Security"
-   ],
-   "posted": "2026-10-11T12:01:13+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-   "source": "Arbeitnow",
-   "excerpt": "Remote-first, Büro in Karlsruhe | ab sofort | unbefristet ab Tag eins 4.500–7.000 EUR Bruttofixgehalt pro Monat plus 1–3 % Provision auf den provisionsfähigen Ertrag deiner abgeschlossenen Aufträge. Deine Einordnung im Fixgehaltsband..."
   },
   {
    "id": "Jobicy-155052",
@@ -806,6 +857,25 @@
    "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
   },
   {
+   "id": "Remote OK-1137482",
+   "title": "Technical Account Manager",
+   "company": "DEUNA",
+   "category": "Exec",
+   "type": "",
+   "location": "Ciudad de MÃ©xico, Mexico",
+   "salary": "",
+   "tags": [
+    "exec",
+    "hr",
+    "technical",
+    "customer support"
+   ],
+   "posted": "2026-10-11T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
+   "source": "Remote OK",
+   "excerpt": "About DEUNA ð§¡ DEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce costs, and unlock new revenue...."
+  },
+  {
    "id": "Arbeitnow-remote-value-strategist-187622",
    "title": "Value Strategist",
    "company": "ElevenLabs",
@@ -998,22 +1068,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
    "source": "Remote OK",
    "excerpt": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences..."
-  },
-  {
-   "id": "Arbeitnow-remote-technical-customer-support-specialist-54073",
-   "title": "Technical Customer Support Specialist",
-   "company": "Happyrobot.ai",
-   "category": "Engineering",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Engineering"
-   ],
-   "posted": "2026-10-09T05:40:03+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
-   "source": "Arbeitnow",
-   "excerpt": "About HappyRobot HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously..."
   },
   {
    "id": "Remotive-2086540",
