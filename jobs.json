@@ -1,109 +1,176 @@
 {
- "updated": "2026-10-16T11:05:01+00:00",
+ "updated": "2026-10-16T16:23:55+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-karriereberaterin-admission-fur-bootcamps-berlin-33116",
-   "title": "Karriereberater:in / Admission für Bootcamps (m/w/d)",
-   "company": "Digitale Leute School",
+   "id": "Arbeitnow-hiring-manager-wigan-335778",
+   "title": "Hiring Manager",
+   "company": "Skinnify",
    "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
+   "type": "Freelancer / Indepedent Contractor",
+   "location": "Wigan",
    "salary": "",
    "tags": [
     "Remote",
     "Recruitment and Selection"
    ],
-   "posted": "2026-10-16T09:00:54+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/karriereberaterin-admission-fur-bootcamps-berlin-33116",
+   "posted": "2026-10-16T14:31:45+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/skinnify/hiring-manager-wigan-335778",
    "source": "Arbeitnow",
-   "excerpt": "Bootcamp Admission Team Remote · Vollzeit · Digitale Leute School (DL Education GmbH) Hilf Menschen dabei, ihre Karriere neu zu starten – und begleite sie bis zum Ja. Jeden Tag melden sich Menschen bei uns, die etwas verändern wollen: rein..."
+   "excerpt": "Full-Time Hiring Manager (40h/week) | Remote | Fast-Growing E-Commerce Startup 🚀 At Skinnify (www.skinnify.co), we make clothing with built-in resistance—leggings, sleeves, shoes, and more—that turn everyday movements into a passive..."
   },
   {
-   "id": "Arbeitnow-system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
-   "title": "System Engineer im Service Desk (w/m/d) | Heilbronn & Remote",
-   "company": "perinova IT-Management GmbH",
+   "id": "Arbeitnow-remote-founding-platform-engineer-germany-308426",
+   "title": "Founding Platform Engineer",
+   "company": "Mlabs",
+   "category": "ADE",
+   "type": "",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "ADE",
+    "Remote"
+   ],
+   "posted": "2026-10-16T14:20:04+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-founding-platform-engineer-germany-308426",
+   "source": "Arbeitnow",
+   "excerpt": "We are hiring on behalf of our client, a fast-growing innovator in the crypto and decentralized finance space who is seeking a Founding Platform Engineer (Staff+ level) to join the team. This organization is behind a leading decentralized..."
+  },
+  {
+   "id": "Arbeitnow-e-commerce-manager-pleidelsheim-436336",
+   "title": "E-Commerce Manager (m/w/d)",
+   "company": "AYLASHES",
    "category": "Remote",
    "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Stuttgart",
+   "location": "Pleidelsheim",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Marketing Manager"
+   ],
+   "posted": "2026-10-16T13:01:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/aylashes/e-commerce-manager-pleidelsheim-436336",
+   "source": "Arbeitnow",
+   "excerpt": "Bei AYLASHES dreht sich alles um Beauty-Produkte für zu Hause. Für unseren Onlineshop und unsere nächsten Projekte suchen wir jemanden, der gerne organisiert, eigene Ideen einbringt und Dinge zuverlässig umsetzt. Du betreust unseren Shop..."
+  },
+  {
+   "id": "Arbeitnow-frontend-softwareentwickler-berlin-250708",
+   "title": "Frontend Softwareentwickler (m/w/d)",
+   "company": "TecFox GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Web Development"
+   ],
+   "posted": "2026-10-16T13:01:21+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708",
+   "source": "Arbeitnow",
+   "excerpt": "Über uns: Begeisterst du dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in deiner Karriere. Wir, die TecFox GmbH,..."
+  },
+  {
+   "id": "Arbeitnow-senior-consultant-digital-workplace-berlin-388402",
+   "title": "Senior Consultant Digital Workplace (m/w/d)",
+   "company": "TEQWERK GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Consulting"
+   ],
+   "posted": "2026-10-16T13:01:21+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/teqwerk-gmbh/senior-consultant-digital-workplace-berlin-388402",
+   "source": "Arbeitnow",
+   "excerpt": "Du baust moderne Arbeitsplätze, die Menschen wirklich gern nutzen. Nicht nur sauber konfiguriert – sondern durchdacht, sicher und mit echtem Mehrwert. Aufgaben Du berätst unsere Kunden zu Digital-Workplace-Strategien auf Basis von..."
+  },
+  {
+   "id": "Arbeitnow-crm-retention-manager-remote-berlin-284467",
+   "title": "CRM & Retention Manager (m/w/d) – Remote",
+   "company": "Löwenanteil",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "CRM",
+    "Direct Marketing"
+   ],
+   "posted": "2026-10-16T13:01:21+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lowenanteil/crm-retention-manager-remote-berlin-284467",
+   "source": "Arbeitnow",
+   "excerpt": "Über Löwenanteil Unsere Mission ist es, allen Menschen eine ausgewogene und hochwertige Ernährung so leicht wie möglich zu machen. Unsere Bio-Gerichte sind proteinreich, aus besten Zutaten und verdammt lecker. Denn wir machen Essen wieder..."
+  },
+  {
+   "id": "Arbeitnow-fullstack-softwareentwickler-berlin-149961",
+   "title": "Fullstack Softwareentwickler (m/w/d)",
+   "company": "TecFox GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Web Development"
+   ],
+   "posted": "2026-10-16T12:31:06+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
+   "source": "Arbeitnow",
+   "excerpt": "Aufgaben Entwicklung und Pflege skalierbarer Anwendungen auf Basis moderner Microservice-Architekturen Fullstack-Entwicklung mit Spring Boot, Kafka, REST APIs und Angular (ab Version 18) Enge Zusammenarbeit mit UI/UX-Designern sowie..."
+  },
+  {
+   "id": "Arbeitnow-customer-success-manager-fintech-fibu-datev-erfahrung-100-remote-berlin-494565",
+   "title": "Customer Success Manager (m/w/d) / FinTech - FiBu / Datev Erfahrung - 100% remote",
+   "company": "BuchhaltungsButler",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
     "Customer Service"
    ],
-   "posted": "2026-10-16T09:00:54+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
+   "posted": "2026-10-16T12:00:52+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/buchhaltungsbutler/customer-success-manager-fintech-fibu-datev-erfahrung-100-remote-berlin-494565",
    "source": "Arbeitnow",
-   "excerpt": "Deine Aufgaben Das macht Deinen Job spannend und interessant – Deine Aufgaben! 1st und 2nd Level Support im Client-Management (O365, M365, AzureAD,…) Administration, Support von Clients und Anwender Direkter Kontakt mit Endanwendern am..."
+   "excerpt": "Bei BuchhaltungsButler glauben wir an die Förderung von Talenten und die Schaffung eines Umfelds, in dem Kreativität und Zusammenarbeit im Vordergrund unserer Erfolgsgeschichte stehen. Unser Unternehmen ist stolz auf die Kombination aus..."
   },
   {
-   "id": "Arbeitnow-sales-trainerin-fur-das-gebiet-mitteldeutschland-berlin-396568",
-   "title": "Sales Trainer:in (m/w/d) für das Gebiet Mitteldeutschland",
-   "company": "JEAN D'ARCEL Cosmétique GmbH & Co. KG",
+   "id": "Arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
+   "title": "Senior Scientific Data Engineer",
+   "company": "Tetrascience",
+   "category": "Computer Software",
+   "type": "Full Time",
+   "location": "Switzerland",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Remote"
+   ],
+   "posted": "2026-10-16T11:20:05+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
+   "source": "Arbeitnow",
+   "excerpt": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native..."
+  },
+  {
+   "id": "Arbeitnow-founding-engineer-remote-eea-uk-berlin-162955",
+   "title": "Founding Engineer (Remote - EEA/UK)",
+   "company": "Tarebase",
    "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
+   "type": "Permanent Employment",
    "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Training",
-    "Development"
+    "Software Development"
    ],
-   "posted": "2026-10-16T09:00:53+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jean-darcel-cosmetique-gmbh-co-kg/sales-trainerin-fur-das-gebiet-mitteldeutschland-berlin-396568",
+   "posted": "2026-10-16T11:00:56+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
    "source": "Arbeitnow",
-   "excerpt": "Die JDA Cosmetic Group ist ein international tätiger Hersteller von High-End-Wirkstoffkosmetik. Wir vereinen Tradition, Innovation und Leidenschaft für hochwertige Produkte. Zur Unternehmensgruppe gehören die renommierte Marke JEAN D‘ARCEL..."
-  },
-  {
-   "id": "Arbeitnow-ml-engineer-computer-vision-ml-ops-berlin-240466",
-   "title": "ML Engineer (Computer Vision & ML Ops)",
-   "company": "StellDirVor GmbH",
-   "category": "Remote",
-   "type": "Fixed Term Contract (Befristeter Arbeitsvertrag)",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Engineering"
-   ],
-   "posted": "2026-10-16T08:01:01+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
-   "source": "Arbeitnow",
-   "excerpt": "StellDirVor is an independent consulting, trade and technology company specializing in immersive technologies for healthcare. We support organizations in implementing digital innovations — Virtual, Augmented and Mixed Reality as well as AI..."
-  },
-  {
-   "id": "Arbeitnow-senior-designer-london-121026",
-   "title": "Senior Designer",
-   "company": "Tangible",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Media",
-    "Screen and Web Design"
-   ],
-   "posted": "2026-10-16T08:01:01+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-designer-london-121026",
-   "source": "Arbeitnow",
-   "excerpt": "About Tangible Tangible Markets builds secondary market infrastructure for private fund LP interests. Our platforms help investors, wealth managers, fund managers and lenders buy, sell, price, finance and close secondary transactions. Our..."
-  },
-  {
-   "id": "Arbeitnow-marketplace-manager-berlin-272866",
-   "title": "Marketplace Manager (m/w/d)",
-   "company": "Neolymp",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-16T07:30:56+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/neolymp/marketplace-manager-berlin-272866",
-   "source": "Arbeitnow",
-   "excerpt": "Über Neolymp NEOLYMP ist eine Fitnessmarke aus Berlin, die 2018 gegründet wurde und hochwertige Fitnessprodukte entwickelt – von Klimmzugstangen über Fitnessbänder bis hin zu Walking-Pads. Im DACH-Raum sind wir auf den großen Marktplätzen..."
+   "excerpt": "Founding Engineer Role can be based remotely in the EEA or hybrid in our London or Munich offices. Fixed software is the wrong shape for logistics, because every team runs its processes differently. Tare is our solution. Combining agentic..."
   },
   {
    "id": "Arbeitnow-remote-senior-lead-security-engineer-detection-response-france-104833",
@@ -121,39 +188,6 @@
    "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833",
    "source": "Arbeitnow",
    "excerpt": "Fuse is an AI-first energy company on a mission to make energy abundant and affordable, fast. We combine first-principles thinking with cutting-edge technology to build a radically better energy system. We've raised over $200M from..."
-  },
-  {
-   "id": "Arbeitnow-product-expert-e-invoicing-all-genders-100-homeoffice-berlin-120034",
-   "title": "Product Expert E-Invoicing (all genders) - 100% Homeoffice",
-   "company": "fino data services GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Product Management"
-   ],
-   "posted": "2026-10-16T06:31:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/product-expert-e-invoicing-all-genders-100-homeoffice-berlin-120034",
-   "source": "Arbeitnow",
-   "excerpt": "Dein Team: Menschen, die etwas bewegen wollen, ziehen Menschen an, die etwas bewegen wollen. Bei der fino data services arbeitest du mit Menschen, die neugierig sind, schnell denken und Dinge gerne selbst in die Hand nehmen. Die sich..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-strategic-finance-manager-277426",
-   "title": "Senior Strategic Finance Manager",
-   "company": "Duck Duck Go",
-   "category": "Finance",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Finance"
-   ],
-   "posted": "2026-10-16T05:40:20+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-strategic-finance-manager-277426",
-   "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions..."
   },
   {
    "id": "Jobicy-147750",
@@ -872,6 +906,44 @@
    "excerpt": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By..."
   },
   {
+   "id": "Remote OK-1137528",
+   "title": "Account Manager Mid Market",
+   "company": "Allego",
+   "category": "Exec",
+   "type": "",
+   "location": "Waltham",
+   "salary": "",
+   "tags": [
+    "exec",
+    "saas",
+    "customer support",
+    "marketing"
+   ],
+   "posted": "2026-10-15T16:00:21+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+   "source": "Remote OK",
+   "excerpt": "Allego is a rapidly growing SaaS technology company in the Boston area and creator of the market-leading Revenue Enablement Platform. Our technology helps Go-To-Market teams build the skills and access the knowledge they need to succeed in..."
+  },
+  {
+   "id": "Remote OK-1137527",
+   "title": "Senior Software Engineer II Applied AI",
+   "company": "Wrapbook",
+   "category": "Dev",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [
+    "dev",
+    "design",
+    "amazon",
+    "sys admin"
+   ],
+   "posted": "2026-10-15T16:00:03+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+   "source": "Remote OK",
+   "excerpt": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and..."
+  },
+  {
    "id": "Remote OK-1137525",
    "title": "Director US Tax & Accounting #35344",
    "company": "Manila Recruitment",
@@ -984,23 +1056,6 @@
    "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user..."
   },
   {
-   "id": "Arbeitnow-remote-stage-lopen-bij-cordaan-je-opleiding-in-de-praktijk-amsterdam-en-omgeving-363183",
-   "title": "Stage lopen bij Cordaan: Je opleiding in de praktijk",
-   "company": "Cordaan",
-   "category": "Stage",
-   "type": "Student School",
-   "location": "Werken op afstand",
-   "salary": "",
-   "tags": [
-    "Stage",
-    "Remote"
-   ],
-   "posted": "2026-10-14T20:32:33+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/cordaan/remote-stage-lopen-bij-cordaan-je-opleiding-in-de-praktijk-amsterdam-en-omgeving-363183",
-   "source": "Arbeitnow",
-   "excerpt": "Cordaan biedt zorg binnen en buiten Amsterdam aan en wil zich onderscheiden als leerbedrijf. Wij hebben voor diverse beroepsopleidingen in de zorg een stageplek op maat. Dus ook voor jou! Er is veel aandacht voor je persoonlijke..."
-  },
-  {
    "id": "Arbeitnow-remote-software-test-engineer-bern-277047",
    "title": "Software Test Engineer",
    "company": "SwissPeak Partners GmbH",
@@ -1032,22 +1087,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
    "source": "Arbeitnow",
    "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing..."
-  },
-  {
-   "id": "Arbeitnow-remote-servicenow-crm-architect-zurich-296402",
-   "title": "ServiceNow CRM Architect",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-14T20:32:27+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-296402",
-   "source": "Arbeitnow",
-   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within..."
   },
   {
    "id": "Remote OK-1137514",
