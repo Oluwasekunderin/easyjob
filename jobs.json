@@ -1,6 +1,208 @@
 {
- "updated": "2026-10-15T21:09:24+00:00",
+ "updated": "2026-10-16T03:59:43+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-engagement-manager-214193",
+   "title": "Senior Engagement Manager",
+   "company": "Clickup",
+   "category": "Customer Experience",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Customer Experience"
+   ],
+   "posted": "2026-10-15T23:40:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/clickup/remote-senior-engagement-manager-214193",
+   "source": "Arbeitnow",
+   "excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is..."
+  },
+  {
+   "id": "Arbeitnow-remote-client-delivery-lead-payments-276415",
+   "title": "Client Delivery Lead - Payments",
+   "company": "Kraken",
+   "category": "Delivery Tech",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Delivery Tech"
+   ],
+   "posted": "2026-10-15T23:40:15+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/kraken/remote-client-delivery-lead-payments-276415",
+   "source": "Arbeitnow",
+   "excerpt": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By..."
+  },
+  {
+   "id": "Arbeitnow-bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-57091",
+   "title": "Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (m/w/d)",
+   "company": "Smava GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Credit Analysis"
+   ],
+   "posted": "2026-10-15T21:30:53+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-57091",
+   "source": "Arbeitnow",
+   "excerpt": "Hey hey Bankkaufleute! Bankausbildung abgeschlossen, aber keine Lust mehr auf nur eine Bank, Anzugpflicht oder Krawatte? Dann komm zu smava und wähle für deine Kund*innen die Bank aus, die am besten zu ihnen passt und trage dabei jederzeit..."
+  },
+  {
+   "id": "Arbeitnow-call-center-agent-kreditabsicherung-im-homeoffice-berlin-139231",
+   "title": "Call Center Agent - Kreditabsicherung im Homeoffice (w/m/d)",
+   "company": "Smava GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT"
+   ],
+   "posted": "2026-10-15T21:30:52+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/call-center-agent-kreditabsicherung-im-homeoffice-berlin-139231",
+   "source": "Arbeitnow",
+   "excerpt": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite..."
+  },
+  {
+   "id": "Arbeitnow-kundenberater-kreditabsicherung-im-homeoffice-berlin-80174",
+   "title": "Kundenberater - Kreditabsicherung im Homeoffice (w/m/d)",
+   "company": "Smava GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT"
+   ],
+   "posted": "2026-10-15T21:30:52+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/kundenberater-kreditabsicherung-im-homeoffice-berlin-80174",
+   "source": "Arbeitnow",
+   "excerpt": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite..."
+  },
+  {
+   "id": "Arbeitnow-vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-62870",
+   "title": "Vertriebsmitarbeiter Kreditvermittlung im Homeoffice (w/m/d)",
+   "company": "FFG FINANZCHECK Finanzportale GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Credit Analysis"
+   ],
+   "posted": "2026-10-15T21:30:52+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-62870",
+   "source": "Arbeitnow",
+   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
+  },
+  {
+   "id": "Arbeitnow-quereinsteiger-im-vertrieb-im-homeoffice-berlin-205963",
+   "title": "Quereinsteiger im Vertrieb im Homeoffice (w/m/d)",
+   "company": "FFG FINANZCHECK Finanzportale GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Credit Analysis"
+   ],
+   "posted": "2026-10-15T21:30:51+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/quereinsteiger-im-vertrieb-im-homeoffice-berlin-205963",
+   "source": "Arbeitnow",
+   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
+  },
+  {
+   "id": "Arbeitnow-quereinsteiger-im-vertrieb-im-homeoffice-berlin-301391",
+   "title": "Quereinsteiger im Vertrieb im Homeoffice (w/m/d)",
+   "company": "Smava GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Credit Analysis"
+   ],
+   "posted": "2026-10-15T21:30:51+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/quereinsteiger-im-vertrieb-im-homeoffice-berlin-301391",
+   "source": "Arbeitnow",
+   "excerpt": "Hey hey Kommunikationsprofi! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und..."
+  },
+  {
+   "id": "Arbeitnow-absicherungsspezialist-kredit-im-homeoffice-berlin-273796",
+   "title": "Absicherungsspezialist - Kredit im Homeoffice (w/m/d)",
+   "company": "Smava GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT"
+   ],
+   "posted": "2026-10-15T21:30:51+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/absicherungsspezialist-kredit-im-homeoffice-berlin-273796",
+   "source": "Arbeitnow",
+   "excerpt": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite..."
+  },
+  {
+   "id": "Arbeitnow-bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-133178",
+   "title": "Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (w/m/d)",
+   "company": "FFG FINANZCHECK Finanzportale GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Credit Analysis"
+   ],
+   "posted": "2026-10-15T21:30:51+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-133178",
+   "source": "Arbeitnow",
+   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
+  },
+  {
+   "id": "Arbeitnow-objektbesichtiger-auf-freiberuflicher-basis-berlin-241545",
+   "title": "Objektbesichtiger (m/w/d) auf freiberuflicher Basis",
+   "company": "CERTA",
+   "category": "Remote",
+   "type": "Freiberufler / Selbstständiger",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Finance"
+   ],
+   "posted": "2026-10-15T21:30:49+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/certa/objektbesichtiger-auf-freiberuflicher-basis-berlin-241545",
+   "source": "Arbeitnow",
+   "excerpt": "Ihre Aufgaben Sie sind bereits in der Immobilienbranche tätig, zum Beispiel als Makler/in, Darlehensvermittler/in oder Sachverständige/r und möchten sich eine flexible, zusätzlich vergütete Tätigkeit auf freiberuflicher Basis sichern? Dann..."
+  },
+  {
+   "id": "Arbeitnow-initiative-application-berlin-76265",
+   "title": "Initiative application (m/f/x)",
+   "company": "Nitrado (marbis GmbH)",
+   "category": "Remote",
+   "type": "Permanent Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-15T21:30:48+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiative-application-berlin-76265",
+   "source": "Arbeitnow",
+   "excerpt": "Einleitung There is no vacant position suitable for you at the moment? We are always looking for motivated and creative people who are passionate about their job. Does this apply to you? Then send us an initiative application! Your mission..."
+  },
   {
    "id": "Jobicy-155402",
    "title": "SVP, Partners",
@@ -142,75 +344,6 @@
    "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
   },
   {
-   "id": "Arbeitnow-customer-support-managerin-berlin-279105",
-   "title": "Customer Support Manager:in (m/w/d)",
-   "company": "heycare",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-15T15:30:58+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/heycare/customer-support-managerin-berlin-279105",
-   "source": "Arbeitnow",
-   "excerpt": "heycare ist ein all-in-one Corporate Benefit, das Mitarbeitenden Unterstützung und Entlastung in den Bereichen mentale Gesundheit, Kinderbetreuung, Pflege von Angehörigen und Haustierbetreuung bietet: Mit Beratungsangeboten, einer..."
-  },
-  {
-   "id": "Arbeitnow-junior-operations-assistant-healthtech-berlin-77476",
-   "title": "Junior Operations Assistant (m/w/d) – HealthTech",
-   "company": "Veni Solutions",
-   "category": "Remote",
-   "type": "Side",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Operations"
-   ],
-   "posted": "2026-10-15T14:31:21+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/veni-solutions/junior-operations-assistant-healthtech-berlin-77476",
-   "source": "Arbeitnow",
-   "excerpt": "About Veni Solutions: Veni Solutions is an early-stage Berlin HealthTech startup developing VeniCare—an ambient, privacy-first sensor and AI ecosystem that helps seniors live safely and independently at home. The Opportunity: Looking to..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-scientific-data-engineer-germany-163831",
-   "title": "Senior Scientific Data Engineer",
-   "company": "Tetrascience",
-   "category": "Computer Software",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "Computer Software",
-    "Remote"
-   ],
-   "posted": "2026-10-15T14:20:08+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
-   "source": "Arbeitnow",
-   "excerpt": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native..."
-  },
-  {
-   "id": "Arbeitnow-embedded-fw-engineer-qualcomm-soc-london-140302",
-   "title": "Embedded FW Engineer - Qualcomm SoC",
-   "company": "Bragi",
-   "category": "Remote",
-   "type": "Fixed Term Contract",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Embedded Systems",
-    "Firmware Development"
-   ],
-   "posted": "2026-10-15T14:01:11+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bragi/embedded-fw-engineer-qualcomm-soc-london-140302",
-   "source": "Arbeitnow",
-   "excerpt": "Bragi is the audio platform that enables anyone to build smart audio products people love. We were founded in Munich in 2013 and invented the true wireless category with The Dash, a full year before AirPods. Since then, we've invested more..."
-  },
-  {
    "id": "Jobicy-155392",
    "title": "Senior Technical Account Manager",
    "company": "Recorded Future, Inc.",
@@ -349,40 +482,6 @@
    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
    "source": "Jobicy",
    "excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are..."
-  },
-  {
-   "id": "Arbeitnow-senior-fullstack-engineer-berlin-242271",
-   "title": "Senior Fullstack Engineer (w/m/d)",
-   "company": "Protofy GmbH & Co. KG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-15T13:31:12+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/protofy-gmbh-co-kg/senior-fullstack-engineer-berlin-242271",
-   "source": "Arbeitnow",
-   "excerpt": "Aktuell suchen wir einen erfahrenen Senior Fullstack Engineer (w/m/d). Du bringst 5+ Jahre Erfahrung in der Backend- und Web-Entwicklung mit und hast Lust auf spannende Aufgaben und Herausforderungen? Let’s talk! Deine Rolle Du baust..."
-  },
-  {
-   "id": "Arbeitnow-platform-engineer-gitlab-automation-berlin-178094",
-   "title": "Platform Engineer - GitLab & Automation (m/w/d)",
-   "company": "CPU Consulting & Software GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-15T13:31:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
-   "source": "Arbeitnow",
-   "excerpt": "Deine Rolle: Gestalte und betreibe eine zentrale GitLab-Plattform, auf die zahlreiche Entwicklungsteams täglich vertrauen. Für unseren Kunden, einen führenden IT-Dienstleister im Bankenumfeld, suchen wir einen erfahrenen Platform Engineer..."
   },
   {
    "id": "Jobicy-155382",
@@ -824,22 +923,59 @@
    "excerpt": "Ingénieur Terrain / Field Engineer 🌍 Genetec - Protect the everyday Entreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d'un large éventail de solutions qui englobent l'intelligence, la..."
   },
   {
-   "id": "Arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
-   "title": "Director, Luxury Market Intelligence & Insights",
-   "company": "Cxg",
-   "category": "Luxury Goods & Jewelry",
-   "type": "Full Time",
-   "location": "France",
+   "id": "Remote OK-1137523",
+   "title": "Sr REACT NATIVE",
+   "company": "Somnio Software",
+   "category": "React Native",
+   "type": "",
+   "location": "Anywhere",
    "salary": "",
    "tags": [
-    "Luxury Goods & Jewelry",
-    "CXG",
-    "Remote"
+    "react native",
+    "react",
+    "dev",
+    "python"
    ],
-   "posted": "2026-10-14T22:20:19+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/cxg/remote-director-luxury-market-intelligence-insights-france-407041",
-   "source": "Arbeitnow",
-   "excerpt": "We are growing! We are currently looking to hire a Director, Luxury Market Intelligence & Insights . About CXG: Founded in 2006, CXG is a global customer experience company uniquely positioned at the intersection of data-driven retail..."
+   "posted": "2026-10-15T00:00:19+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+   "source": "Remote OK",
+   "excerpt": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia..."
+  },
+  {
+   "id": "Remote OK-1137522",
+   "title": "Contracts Manager Federal",
+   "company": "Akicita Federal, LLC",
+   "category": "Exec",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "exec",
+    "medical",
+    "recruiter"
+   ],
+   "posted": "2026-10-15T00:00:13+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+   "source": "Remote OK",
+   "excerpt": "\\n \\n $100,000 - $120,000 a year Akicita Federal, LLC is a growing 8(a) small business that delivers healthcare, professional, and administrative services to federal agencies. We're adding a contracts manager to help us grow beyond our..."
+  },
+  {
+   "id": "Remote OK-1137521",
+   "title": "Federal Account Manager Client Relationships",
+   "company": "Akicita Federal, LLC",
+   "category": "Exec",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "exec",
+    "golang",
+    "recruiter"
+   ],
+   "posted": "2026-10-15T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+   "source": "Remote OK",
+   "excerpt": "\\n \\n $100,000 - $120,000 a year Akicita Federal, LLC is a growing 8(a) small business serving federal agencies. We're looking for someone who has been the go-to contact for a federal client: the person the agency calls first, who knows..."
   },
   {
    "id": "Arbeitnow-remote-stage-lopen-bij-cordaan-je-opleiding-in-de-praktijk-amsterdam-en-omgeving-363183",
@@ -857,23 +993,6 @@
    "url": "https://www.arbeitnow.nl/jobs/companies/cordaan/remote-stage-lopen-bij-cordaan-je-opleiding-in-de-praktijk-amsterdam-en-omgeving-363183",
    "source": "Arbeitnow",
    "excerpt": "Cordaan biedt zorg binnen en buiten Amsterdam aan en wil zich onderscheiden als leerbedrijf. Wij hebben voor diverse beroepsopleidingen in de zorg een stageplek op maat. Dus ook voor jou! Er is veel aandacht voor je persoonlijke..."
-  },
-  {
-   "id": "Arbeitnow-remote-staff-site-reliability-engineer-paris-357394",
-   "title": "Staff Site Reliability Engineer",
-   "company": "Adikteev",
-   "category": "Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Remote"
-   ],
-   "posted": "2026-10-14T20:32:27+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
-   "source": "Arbeitnow",
-   "excerpt": "WHO WE ARE Adikteev is an AdTech company that helps mobile app publishers grow their revenue through targeted advertising. We deliver personalized ads that drive users to install an app or re-engage with one they've stopped using. Our..."
   },
   {
    "id": "Arbeitnow-remote-software-test-engineer-bern-277047",
@@ -1901,25 +2020,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
    "source": "Remote OK",
    "excerpt": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The..."
-  },
-  {
-   "id": "Remote OK-1137399",
-   "title": "SI agent engineer",
-   "company": "Sticker Mule",
-   "category": "Golang",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$150,000 - $250,000",
-   "tags": [
-    "golang",
-    "ai",
-    "javascript",
-    "typescript"
-   ],
-   "posted": "2026-09-16T12:44:27+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
-   "source": "Remote OK",
-   "excerpt": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. We're hiring an engineer to build, run and manage a team of SI agents to help us..."
   },
   {
    "id": "Remotive-2091129",
