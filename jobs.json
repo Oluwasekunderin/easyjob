@@ -1,6 +1,248 @@
 {
- "updated": "2026-10-16T20:46:37+00:00",
+ "updated": "2026-10-17T03:50:14+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
+   "title": "Interim Senior BI Analyst (All Genders)",
+   "company": "Shiftmove",
+   "category": "Computer Software",
+   "type": "Contract",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Remote"
+   ],
+   "posted": "2026-10-17T02:20:08+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-interim-senior-bi-analyst-all-genders-germany-169194",
+   "source": "Arbeitnow",
+   "excerpt": "Across Europe, fleets are under enormous pressure. Fuel costs are rising. Regulatory requirements are tightening. The shift to low-emission vehicles is accelerating. And yet around 70% of European businesses still manage their fleets..."
+  },
+  {
+   "id": "Arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
+   "title": "Working Student — AI Engineering & Document Intelligence",
+   "company": "Tracium GmbH",
+   "category": "Remote",
+   "type": "Working Student",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-16T23:00:34+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Hamburg, Germany · Part-time alongside your studies About Tracium Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine document intelligence with..."
+  },
+  {
+   "id": "Arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
+   "title": "Full-Stack Engineer — AI Authoring Platform",
+   "company": "Tracium GmbH",
+   "category": "Remote",
+   "type": "Freelancer / Indepedent Contractor",
+   "location": "Hamburg",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-16T23:00:34+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
+   "source": "Arbeitnow",
+   "excerpt": "About Tracium Tracium builds AI-assisted technical documentation software for teams working with complex manuals and engineering information. Our platform combines document intelligence with S1000D authoring, initially serving maritime use..."
+  },
+  {
+   "id": "Arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
+   "title": "Senior Data Engineer — Document & AI Pipelines",
+   "company": "Tracium GmbH",
+   "category": "Remote",
+   "type": "Fixed Term Contract",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Data Processing",
+    "Data Engineer"
+   ],
+   "posted": "2026-10-16T23:00:34+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
+   "source": "Arbeitnow",
+   "excerpt": "About Tracium Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Starting with maritime, we help technical teams extract maintenance..."
+  },
+  {
+   "id": "Arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
+   "title": "Senior AI Engineer — Document Intelligence",
+   "company": "Tracium GmbH",
+   "category": "Remote",
+   "type": "Freelancer / Indepedent Contractor",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-16T23:00:34+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
+   "source": "Arbeitnow",
+   "excerpt": "About Tracium Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Our initial focus is maritime, with applications across manufacturing,..."
+  },
+  {
+   "id": "Arbeitnow-remote-head-of-urology-232681",
+   "title": "Head of Urology",
+   "company": "Engagedmd",
+   "category": "Market Expansion",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Market Expansion"
+   ],
+   "posted": "2026-10-16T20:40:23+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-head-of-urology-232681",
+   "source": "Arbeitnow",
+   "excerpt": "We’re EngagedMD, and our patient journey platform has supported more than 3 million users across the United States and internationally. As adoption continues to grow among medical clinics across multiple markets, we remain focused on our..."
+  },
+  {
+   "id": "Jobicy-155540",
+   "title": "Manager, Technical Accounting",
+   "company": "Liftoff",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "Canada",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:31+00:00",
+   "url": "https://jobicy.com/jobs/155540-manager-technical-accounting",
+   "source": "Jobicy",
+   "excerpt": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across..."
+  },
+  {
+   "id": "Jobicy-155538",
+   "title": "Director, Revenue Systems",
+   "company": "Wpromote",
+   "category": "Product & Operations",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:31+00:00",
+   "url": "https://jobicy.com/jobs/155538-director-revenue-systems",
+   "source": "Jobicy",
+   "excerpt": "The Role The Director, Revenue Systems is responsible for the strategy, architecture, governance, and optimization of Wpromote's revenue technology ecosystem. As an individual contributor, you will optimize and scale systems, integrations,..."
+  },
+  {
+   "id": "Jobicy-155535",
+   "title": "Director, Programmatic B2B",
+   "company": "Wpromote",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:31+00:00",
+   "url": "https://jobicy.com/jobs/155535-director-programmatic-b2b",
+   "source": "Jobicy",
+   "excerpt": "The Role We are looking for a Director, Programmatic to oversee day-to-day operations and manage the programmatic buying division of multiple B2B clients! This role begins as an individual contributor with the opportunity to build and..."
+  },
+  {
+   "id": "Jobicy-155534",
+   "title": "Fraud Analyst",
+   "company": "Pleo",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "Denmark, Germany, Portugal, Spain, Sweden, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:31+00:00",
+   "url": "https://jobicy.com/jobs/155534-fraud-analyst",
+   "source": "Jobicy",
+   "excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering,..."
+  },
+  {
+   "id": "Jobicy-155539",
+   "title": "Director, Strategic Partnerships & Digital Media Investment",
+   "company": "Wpromote",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:30+00:00",
+   "url": "https://jobicy.com/jobs/155539-director-strategic-partnerships-digital-media-investment",
+   "source": "Jobicy",
+   "excerpt": "The Role Wpromote is looking for a Director, Digital Media Investment to lead the day-to-day management and continued development of our media investment function. Initially operating as an individual contributor, you will ensure agency..."
+  },
+  {
+   "id": "Jobicy-155537",
+   "title": "Analytics Engineer",
+   "company": "Pleo",
+   "category": "Data Science & Analytics",
+   "type": "Full Time",
+   "location": "Denmark, Portugal, Spain, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:30+00:00",
+   "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
+   "source": "Jobicy",
+   "excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering,..."
+  },
+  {
+   "id": "Jobicy-155536",
+   "title": "User Acquisition Manager (PPC)",
+   "company": "capital.com",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "Poland, UAE, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:30+00:00",
+   "url": "https://jobicy.com/jobs/155536-user-acquisition-manager-ppc",
+   "source": "Jobicy",
+   "excerpt": "Capital.com is hiring a UA Manager (PPC) to own paid acquisition performance across our Asia and Australia markets. You'll join a team of regional specialists with day-to-day accountability for campaign performance, budget efficiency, and..."
+  },
+  {
+   "id": "Jobicy-155533",
+   "title": "Senior Product Designer (Web)",
+   "company": "capital.com",
+   "category": "Web, UI & UX Design",
+   "type": "Full Time",
+   "location": "Bulgaria, Cyprus, Poland, Serbia, Spain",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:30+00:00",
+   "url": "https://jobicy.com/jobs/155533-senior-product-designer-web",
+   "source": "Jobicy",
+   "excerpt": "We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only..."
+  },
+  {
+   "id": "Jobicy-155532",
+   "title": "Commercial Legal Counsel (Contractor)",
+   "company": "Liftoff",
+   "category": "Legal & Compliance",
+   "type": "Contract",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:29+00:00",
+   "url": "https://jobicy.com/jobs/155532-commercial-legal-counsel-contractor",
+   "source": "Jobicy",
+   "excerpt": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across..."
+  },
+  {
+   "id": "Jobicy-155531",
+   "title": "Founding Recruiter",
+   "company": "Ataraxis AI",
+   "category": "HR & Recruiting",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-16T18:32:29+00:00",
+   "url": "https://jobicy.com/jobs/155531-founding-recruiter",
+   "source": "Jobicy",
+   "excerpt": "About Ataraxis AI Ataraxis is a clinical AI research lab working at the intersection of multi-modal AI and precision medicine. Our goal is to make disease predictable. To accomplish this, we develop new AI methods that predict patient..."
+  },
   {
    "id": "Arbeitnow-remote-senior-engineering-operations-manager-128137",
    "title": "Senior Engineering Operations Manager",
@@ -504,23 +746,6 @@
    "excerpt": "Hopkins ist eine auf die Rechte von Privatpersonen spezialisierte, deutschlandweit tätige Kanzlei. Gegründet 2019 durch Arend Liese, zuvor Rechtsanwalt bei Freshfields Bruckhaus Deringer, denkt Hopkins das Prinzip Kanzlei und..."
   },
   {
-   "id": "Arbeitnow-weiterbildung-zum-growth-performance-marketing-manager-100-forderbar-berlin-55455",
-   "title": "Weiterbildung zum Growth & Performance Marketing Manager (m/w/d) – (100 % förderbar)",
-   "company": "velpTEC GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Online Marketing"
-   ],
-   "posted": "2026-10-16T17:00:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-growth-performance-marketing-manager-100-forderbar-berlin-55455",
-   "source": "Arbeitnow",
-   "excerpt": "Als Growth & Performance Marketing Manager (m/w/d) entwickelst du datengetriebene Marketingstrategien, optimierst digitale Kampagnen und steigerst nachhaltig Reichweite, Conversions und Unternehmenserfolg. In dieser Weiterbildung vertiefst..."
-  },
-  {
    "id": "Jobicy-155490",
    "title": "Director, GTM Finance",
    "company": "Customer.io",
@@ -647,163 +872,6 @@
    "excerpt": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and..."
   },
   {
-   "id": "Arbeitnow-social-media-opener-im-gesundheitsbereich-munich-203591",
-   "title": "Social Media Opener im Gesundheitsbereich (m/w/d)",
-   "company": "Melanie Fleischmann",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Munich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-16T16:01:21+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/melanie-fleischmann/social-media-opener-im-gesundheitsbereich-munich-203591",
-   "source": "Arbeitnow",
-   "excerpt": "Hinweis: Die Angabe zur Beschäftigungsdauer ist ein Platzhalter und wird vom System verlangt! Für mein Team im Gesundheitsbereich suche ich Unterstützung bei der Gewinnung neuer Interessenten über Social Media. Social Media ist fester..."
-  },
-  {
-   "id": "Jobicy-155441",
-   "title": "Lead Product Manager, Digital Assets",
-   "company": "CertiK",
-   "category": "Product & Operations",
-   "type": "Contract",
-   "location": "APAC",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:37+00:00",
-   "url": "https://jobicy.com/jobs/155441-lead-product-manager-digital-assets",
-   "source": "Jobicy",
-   "excerpt": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through..."
-  },
-  {
-   "id": "Jobicy-155450",
-   "title": "Senior Backend Engineer, Platform",
-   "company": "Apaleo",
-   "category": "DevOps & Infrastructure",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:35+00:00",
-   "url": "https://jobicy.com/jobs/155450-senior-backend-engineer-platform",
-   "source": "Jobicy",
-   "excerpt": "Join Apaleo and shape the future of hospitality tech Apaleo is the world’s most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers..."
-  },
-  {
-   "id": "Jobicy-155447",
-   "title": "Growth Lead, Northeast Asia",
-   "company": "OKX",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "APAC",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:35+00:00",
-   "url": "https://jobicy.com/jobs/155447-growth-lead-northeast-asia",
-   "source": "Jobicy",
-   "excerpt": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading..."
-  },
-  {
-   "id": "Jobicy-155446",
-   "title": "Business Strategy & Operations Manager",
-   "company": "Motive",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:35+00:00",
-   "url": "https://jobicy.com/jobs/155446-business-strategy-operations-manager",
-   "source": "Jobicy",
-   "excerpt": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles,..."
-  },
-  {
-   "id": "Jobicy-155445",
-   "title": "Sales Solutions Manager (f/m/d)",
-   "company": "Apaleo",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:34+00:00",
-   "url": "https://jobicy.com/jobs/155445-sales-solutions-manager-f-m-d",
-   "source": "Jobicy",
-   "excerpt": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work,..."
-  },
-  {
-   "id": "Jobicy-155448",
-   "title": "Security Research Internship",
-   "company": "CertiK",
-   "category": "Cybersecurity",
-   "type": "Internship",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:32:33+00:00",
-   "url": "https://jobicy.com/jobs/155448-security-research-internship",
-   "source": "Jobicy",
-   "excerpt": "About CertiK One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 3,200 Enterprise clients, secured over $310 billion worth of digital assets,..."
-  },
-  {
-   "id": "Jobicy-155440",
-   "title": "Staff Research Engineer - Multimodal Generative Modelling",
-   "company": "Synthesia",
-   "category": "Data Science & Analytics",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:31:03+00:00",
-   "url": "https://jobicy.com/jobs/155440-staff-research-engineer-multimodal-generative-modelling",
-   "source": "Jobicy",
-   "excerpt": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the..."
-  },
-  {
-   "id": "Jobicy-155432",
-   "title": "Regional Sales Director",
-   "company": "Tenable",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Belgium, France, Netherlands",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:31:03+00:00",
-   "url": "https://jobicy.com/jobs/155432-regional-sales-director-2",
-   "source": "Jobicy",
-   "excerpt": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the..."
-  },
-  {
-   "id": "Jobicy-155438",
-   "title": "P2P Growth Operations Manager (CIS/CEE)",
-   "company": "Binance",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "Ukraine",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:31:02+00:00",
-   "url": "https://jobicy.com/jobs/155438-p2p-growth-operations-manager-cis-cee",
-   "source": "Jobicy",
-   "excerpt": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user..."
-  },
-  {
-   "id": "Jobicy-155439",
-   "title": "Software Engineer II",
-   "company": "Cision",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Hungary",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-16T13:31:01+00:00",
-   "url": "https://jobicy.com/jobs/155439-software-engineer-ii",
-   "source": "Jobicy",
-   "excerpt": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
    "title": "Senior Scientific Data Engineer",
    "company": "Tetrascience",
@@ -836,6 +904,63 @@
    "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833",
    "source": "Arbeitnow",
    "excerpt": "Fuse is an AI-first energy company on a mission to make energy abundant and affordable, fast. We combine first-principles thinking with cutting-edge technology to build a radically better energy system. We've raised over $200M from..."
+  },
+  {
+   "id": "Remote OK-1137531",
+   "title": "Associate Data Scientist",
+   "company": "AlgaeCal",
+   "category": "Design",
+   "type": "",
+   "location": "Vancouver",
+   "salary": "",
+   "tags": [
+    "design",
+    "python",
+    "customer support",
+    "marketing"
+   ],
+   "posted": "2026-10-16T00:00:56+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+   "source": "Remote OK",
+   "excerpt": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel..."
+  },
+  {
+   "id": "Remote OK-1137530",
+   "title": "Director of IT and Workplace",
+   "company": "Hippocratic AI",
+   "category": "Exec",
+   "type": "",
+   "location": "Menlo Park",
+   "salary": "",
+   "tags": [
+    "exec",
+    "saas",
+    "infosec",
+    "python"
+   ],
+   "posted": "2026-10-16T00:00:50+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+   "source": "Remote OK",
+   "excerpt": "The Role We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the..."
+  },
+  {
+   "id": "Remote OK-1137529",
+   "title": "Customer Success Associate",
+   "company": "Voltus",
+   "category": "Customer Support",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "customer support",
+    "testing",
+    "exec",
+    "ops"
+   ],
+   "posted": "2026-10-16T00:00:43+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+   "source": "Remote OK",
+   "excerpt": "Voltus represents the potential of us to better manage energy through simple, cost and risk-free demand response programs. Our commercial and industrial customers earn cash by letting us maximize the value of their operational flexibility..."
   },
   {
    "id": "Arbeitnow-remote-client-delivery-lead-payments-276415",
@@ -1002,23 +1127,6 @@
    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
    "source": "Remotive",
    "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user..."
-  },
-  {
-   "id": "Arbeitnow-remote-software-test-engineer-bern-277047",
-   "title": "Software Test Engineer",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Software Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Software Engineering",
-    "Remote"
-   ],
-   "posted": "2026-10-14T20:32:27+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
-   "source": "Arbeitnow",
-   "excerpt": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest..."
   },
   {
    "id": "Remote OK-1137514",
@@ -2072,25 +2180,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
    "source": "Remote OK",
    "excerpt": "Location: South Korea | Remote Engagement: Freelance / Independent Contractor | Project-Based | Part-Time About the Project We are looking for English-speaking Image Quality Evaluators based in South Korea to support AI training and..."
-  },
-  {
-   "id": "Remote OK-1137396",
-   "title": "Principal Product Manager",
-   "company": "DomainTools",
-   "category": "Product Manager",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "product manager",
-    "exec",
-    "infosec",
-    "marketing"
-   ],
-   "posted": "2026-09-16T00:00:13+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-   "source": "Remote OK",
-   "excerpt": "DomainTools is looking for a Principal Product Manager to join its Product team. Data is the backbone of our products, and this role will be responsible for growing and refining the data products that drive our threat intelligence..."
   },
   {
    "id": "Remote OK-1137394",
