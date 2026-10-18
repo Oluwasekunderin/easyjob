@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-18T10:43:21+00:00",
+ "updated": "2026-10-18T15:39:42+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+   "title": "Staff Solutions Architect, AI Subject Matter Expert",
+   "company": "gitlab",
+   "category": "SA",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "SA"
+   ],
+   "posted": "2026-10-18T11:55:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+   "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+   "company": "AlmavivA de Belgique",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-18T11:31:16+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+   "source": "Arbeitnow",
+   "excerpt": "• Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq); • Participate in the .NET implementation of a micro-services solution, being able to..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-new-business-sales-manager-active-travel-smart-mobility-silverstone-259589",
+   "title": "Senior New Business Sales Manager – Active Travel / Smart Mobility",
+   "company": "ECO COMPTEUR",
+   "category": "TRAFFIC TECHNOLOGY",
+   "type": "Experienced",
+   "location": "Poste à distance",
+   "salary": "",
+   "tags": [
+    "TRAFFIC TECHNOLOGY",
+    "Remote"
+   ],
+   "posted": "2026-10-18T11:31:14+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/eco-compteur/remote-senior-new-business-sales-manager-active-travel-smart-mobility-silverstone-259589",
+   "source": "Arbeitnow",
+   "excerpt": "SENIOR NEW BUSINES SALES MANAGER - SILVERSTONE OR HOME OFFICE - FULL TIME At Eco Counter (Traffic Technology), we help cities, transport authorities and public organisations understand and improve mobility through innovative counting and..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-product-manager-claims-berlin-42003",
+   "title": "Senior Product Manager Claims",
+   "company": "TechBiz Global GmbH",
+   "category": "Product",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Product",
+    "Remote"
+   ],
+   "posted": "2026-10-18T11:31:13+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-product-manager-claims-berlin-42003",
+   "source": "Arbeitnow",
+   "excerpt": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking an Senior Product Manager specialist to join one of our clients ' teams. If you're looking for an exciting opportunity..."
+  },
+  {
+   "id": "Arbeitnow-founders-associate-full-time-berlin-450287",
+   "title": "Founders Associate - full-time (m/w/d)",
+   "company": "RealStudio GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Operations"
+   ],
+   "posted": "2026-10-18T11:31:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/founders-associate-full-time-berlin-450287",
+   "source": "Arbeitnow",
+   "excerpt": "NUR VOLLZEIT! Du bist ein Allrounder mit Unternehmergeist und willst VOLLZEIT in einer der schnellst wachsenden Agenturen im deutschsprachigen Raum mitgestalten? Bei RealStudio haben wir aktuell ein Team aus 22 Leuten und wachsen stark...."
+  },
+  {
+   "id": "Arbeitnow-leadership-personal-growth-consultant-danehill-67703",
+   "title": "Leadership & Personal Growth Consultant",
+   "company": "RiseBeyond.Today",
+   "category": "Remote",
+   "type": "Freelancer / Indepedent Contractor",
+   "location": "Danehill",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Training",
+    "Development"
+   ],
+   "posted": "2026-10-18T10:31:05+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/risebeyondtoday/leadership-personal-growth-consultant-danehill-67703",
+   "source": "Arbeitnow",
+   "excerpt": "About the job Are you looking for greater flexibility, personal growth and purpose in the next chapter of your career? Perhaps you’ve built a successful career in Talent - Acquisition or Recruiting, Learning & Development, Consulting,..."
+  },
+  {
+   "id": "Jobicy-155709",
+   "title": "Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)",
+   "company": "Welo Global",
+   "category": "Content & Editorial",
+   "type": "Contract",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-18T08:58:23+00:00",
+   "url": "https://jobicy.com/jobs/155709-hebrew-freelance-translator-copy-editor-product-marketing-ui-content",
+   "source": "Jobicy",
+   "excerpt": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over..."
+  },
+  {
+   "id": "Jobicy-155708",
+   "title": "English to Burmese (Myanmar) Linguist & Copy Editor for Product, Marketing & UI Content",
+   "company": "Welo Global",
+   "category": "Content & Editorial",
+   "type": "Contract",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-18T08:58:22+00:00",
+   "url": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content",
+   "source": "Jobicy",
+   "excerpt": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over..."
+  },
+  {
+   "id": "Jobicy-155707",
+   "title": "Copywriter II",
+   "company": "Affirm",
+   "category": "Content & Editorial",
+   "type": "Full Time",
+   "location": "Canada",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-18T08:58:22+00:00",
+   "url": "https://jobicy.com/jobs/155707-copywriter-ii",
+   "source": "Jobicy",
+   "excerpt": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Team This role is based on the Creative Content..."
+  },
   {
    "id": "Arbeitnow-remote-senior-strategic-customer-success-manager-growth-expansion-koln-274029",
    "title": "Senior Strategic Customer Success Manager – Growth & Expansion (m/w/d)",
@@ -875,82 +1018,6 @@
    "excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and..."
   },
   {
-   "id": "Arbeitnow-remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-112218",
-   "title": "Werkstudent (m/w/d) als Sprachdozent Deutsch/ Englisch",
-   "company": "Education Partners",
-   "category": "Werkstudent",
-   "type": "Entry",
-   "location": "Hessen BBI",
-   "salary": "",
-   "tags": [
-    "Werkstudent",
-    "Sprache",
-    "Lehre",
-    "Gesprächssituationen"
-   ],
-   "posted": "2026-10-18T05:13:18+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-112218",
-   "source": "Arbeitnow",
-   "excerpt": "Über uns - Berger Bildungsinstitut Das Berger Bildungsinstitut ist ein zertifizierter Bildungsträger nach AZAV und bietet berufliche Weiterbildungen sowie Umschulungen in verschiedenen Fachbereichen an. An über 100 Standorten bundesweit..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-sales-manager-uk-hamburg-191665",
-   "title": "Senior Sales Manager UK",
-   "company": "Moebel De",
-   "category": "Vertrieb",
-   "type": "Experienced",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Vertrieb",
-    "AI",
-    "KI",
-    "Online"
-   ],
-   "posted": "2026-10-18T05:13:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-uk-hamburg-191665",
-   "source": "Arbeitnow",
-   "excerpt": "Our project for you: moebel.de is Europe's leading price comparison site for furniture and home furnishings. Our family of portals operates in nine European countries, including Germany, France, Spain, the Netherlands, Italy and Poland...."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-sales-manager-polen-hamburg-56008",
-   "title": "Senior Sales Manager Polen (m/w/d)",
-   "company": "Moebel De",
-   "category": "Vertrieb",
-   "type": "Experienced",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Vertrieb",
-    "AI",
-    "KI",
-    "Online"
-   ],
-   "posted": "2026-10-18T05:13:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-polen-hamburg-56008",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Projekt für dich: moebel.de ist Europas führender Preisvergleich für Möbel und Einrichtung. Mit unserer Portalfamilie sind wir in neun europäischen Ländern aktiv, darunter Deutschland, Frankreich, Spanien, die Niederlande und..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-sales-manager-italien-hamburg-468848",
-   "title": "Senior Sales Manager Italien (m/w/d)",
-   "company": "Moebel De",
-   "category": "Vertrieb",
-   "type": "Experienced",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Vertrieb",
-    "AI",
-    "KI",
-    "Online"
-   ],
-   "posted": "2026-10-18T05:13:11+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-italien-hamburg-468848",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Projekt für dich: moebel.de ist Europas führender Preisvergleich für Möbel und Einrichtung. Mit unserer Portalfamilie sind wir in neun europäischen Ländern aktiv, darunter Deutschland, Frankreich, Spanien, die Niederlande und Polen...."
-  },
-  {
    "id": "Jobicy-155650",
    "title": "Consultant Psychiatrist PAYE",
    "company": "Montu UK",
@@ -1007,65 +1074,6 @@
    "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly..."
   },
   {
-   "id": "Jobicy-155655",
-   "title": "Senior Fullstack Engineer",
-   "company": "Spotify",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Sweden, UK",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-18T04:35:01+00:00",
-   "url": "https://jobicy.com/jobs/155655-senior-fullstack-engineer-3",
-   "source": "Jobicy",
-   "excerpt": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work, creating..."
-  },
-  {
-   "id": "Jobicy-155649",
-   "title": "Ads Quality Rater - Lithuanian (Lithuania)",
-   "company": "Welo Global",
-   "category": "QA & Testing",
-   "type": "Contract",
-   "location": "Lithuania",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-18T04:35:01+00:00",
-   "url": "https://jobicy.com/jobs/155649-ads-quality-rater-lithuanian-lithuania",
-   "source": "Jobicy",
-   "excerpt": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help..."
-  },
-  {
-   "id": "Jobicy-155648",
-   "title": "Senior Applied Research Scientist - Personalization",
-   "company": "Spotify",
-   "category": "Data Science & Analytics",
-   "type": "Full Time",
-   "location": "Sweden, UK",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-18T04:35:01+00:00",
-   "url": "https://jobicy.com/jobs/155648-senior-applied-research-scientist-personalization",
-   "source": "Jobicy",
-   "excerpt": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music..."
-  },
-  {
-   "id": "Arbeitnow-sales-manager-account-executives-100-remote-europe-london-234680",
-   "title": "Sales Manager (Account Executives) - 100% remote - Europe",
-   "company": "Hostaway",
-   "category": "Sales",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Sales",
-    "Remote"
-   ],
-   "posted": "2026-10-18T02:32:17+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hostaway/sales-manager-account-executives-100-remote-europe-london-234680",
-   "source": "Arbeitnow",
-   "excerpt": "NOTE: This is a FULLY remote role, but the candidate must be based within Europe to collaborate with their team, peers, and customers. You do not have to be in the specific country or city shown in this listing, but please only apply if..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
    "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
    "company": "Tellent",
@@ -1098,90 +1106,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/limeflight/senior-account-executive-airline-or-airline-catering-europe-100-remote-zurich-351127",
    "source": "Arbeitnow",
    "excerpt": "Join our fully remote, mission-driven team dedicated to pioneering sustainable inflight service management . Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
-   "title": "SQL Developer – AI Prompting & Context Engineering",
-   "company": "Bromcom Computers Plc",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-18T02:32:13+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
-   "source": "Arbeitnow",
-   "excerpt": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software..."
-  },
-  {
-   "id": "Arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-   "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
-   "company": "Tether Operations Limited",
-   "category": "Data",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-18T02:32:11+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-   "source": "Arbeitnow",
-   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
-  },
-  {
-   "id": "Arbeitnow-fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-   "title": "Fullstack Engineer - AgenticOps (100% Remote)",
-   "company": "Tether Operations Limited",
-   "category": "Data",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-18T02:32:11+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-   "source": "Arbeitnow",
-   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
-  },
-  {
-   "id": "Arbeitnow-solution-architect-remote-from-eu-the-hague-438335",
-   "title": "Solution Architect - Remote from EU",
-   "company": "AlmavivA de Belgique",
-   "category": "Europol",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Europol",
-    "Remote"
-   ],
-   "posted": "2026-10-17T23:31:42+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/solution-architect-remote-from-eu-the-hague-438335",
-   "source": "Arbeitnow",
-   "excerpt": "DESCRIPTION OF THE TASKS: Perform market analysis and/or proof of concept work to validate intended designs and/or identify suitable technologies and products for the purpose of the delivery stream domain and scope; Follow-up on..."
-  },
-  {
-   "id": "Arbeitnow-remote-founding-platform-engineer-netherlands-152205",
-   "title": "Founding Platform Engineer",
-   "company": "Mlabs",
-   "category": "ADE",
-   "type": "",
-   "location": "Netherlands",
-   "salary": "",
-   "tags": [
-    "ADE",
-    "Remote"
-   ],
-   "posted": "2026-10-17T12:20:05+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
-   "source": "Arbeitnow",
-   "excerpt": "We are hiring on behalf of our client, a fast-growing innovator in the crypto and decentralized finance space who is seeking a Founding Platform Engineer (Staff+ level) to join the team. This organization is behind a leading decentralized..."
   },
   {
    "id": "Remote OK-1137542",
@@ -1255,25 +1179,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
    "source": "Remote OK",
    "excerpt": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag..."
-  },
-  {
-   "id": "Arbeitnow-remote-lead-solutions-engineer-france-354209",
-   "title": "Lead Solutions Engineer",
-   "company": "Exotec",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Sales",
-    "Logistics and Supply Chain",
-    "Marketing & Sales",
-    "Remote"
-   ],
-   "posted": "2026-10-17T07:20:14+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-lead-solutions-engineer-france-354209",
-   "source": "Arbeitnow",
-   "excerpt": "At Exotec, we are at the forefront of technological excellence in order to redefine the relationship between humans and robots. Our solutions are contributing to the success of some of the largest brands in retail and e-Commerce by..."
   },
   {
    "id": "Remote OK-1137538",
