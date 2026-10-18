@@ -1,6 +1,512 @@
 {
- "updated": "2026-10-17T20:22:48+00:00",
+ "updated": "2026-10-18T03:56:49+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
+   "title": "Senior Frontend Web Developer (all genders) Full Remote",
+   "company": "Holzland Becker",
+   "category": "IT/Tech OFB",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "IT/Tech OFB",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
+   "source": "Arbeitnow",
+   "excerpt": "With our brands Holzprofi24 and Leondo, we operate some of the leading e-commerce platforms for home & garden in Europe. We combine cutting-edge web technologies, data-driven online marketing and powerful logistics to deliver an..."
+  },
+  {
+   "id": "Arbeitnow-remote-fullstack-softwareentwickler-dusseldorf-237759",
+   "title": "Fullstack-Softwareentwickler (m/w/d)",
+   "company": "Lippe Personal GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lippe-personal-gmbh/remote-fullstack-softwareentwickler-dusseldorf-237759",
+   "source": "Arbeitnow",
+   "excerpt": "Wir suchen jemanden, der wirklich mitbaut. Lippe Personal ist seit 2017 auf einen Markt spezialisiert, der gerade unter Druck steht: Arztpraxen, Zahnarztpraxen, Physiotherapeuten und Apotheken in Deutschland finden kaum noch qualifiziertes..."
+  },
+  {
+   "id": "Arbeitnow-remote-graduate-program-all-genders-berlin-426568",
+   "title": "Graduate Program (all genders)",
+   "company": "Distribusion Technologies",
+   "category": "Product",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Product",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-graduate-program-all-genders-berlin-426568",
+   "source": "Arbeitnow",
+   "excerpt": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects..."
+  },
+  {
+   "id": "Arbeitnow-sales-manager-account-executives-100-remote-europe-london-234680",
+   "title": "Sales Manager (Account Executives) - 100% remote - Europe",
+   "company": "Hostaway",
+   "category": "Sales",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:17+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hostaway/sales-manager-account-executives-100-remote-europe-london-234680",
+   "source": "Arbeitnow",
+   "excerpt": "NOTE: This is a FULLY remote role, but the candidate must be based within Europe to collaborate with their team, peers, and customers. You do not have to be in the specific country or city shown in this listing, but please only apply if..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
+   "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
+   "company": "Tellent",
+   "category": "1. R&D",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "1. R&D",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:17+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
+   "source": "Arbeitnow",
+   "excerpt": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location. About the Role As a Senior Quality Engineer – Tellent Intelligence (AI) , you'll own and grow the quality of the AI-powered..."
+  },
+  {
+   "id": "Arbeitnow-senior-game-producer-casual-games-fully-remote-berlin-467290",
+   "title": "Senior Game Producer (Casual Games) - Fully Remote",
+   "company": "SOFTGAMES",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-producer-casual-games-fully-remote-berlin-467290",
+   "source": "Arbeitnow",
+   "excerpt": "At SOFTGAMES , we’re looking for a Senior Game Producer to lead one of our most exciting casual games on Facebook Instant. You’ll be at the heart of a small, agile team, defining the product vision, shaping the creative direction, and..."
+  },
+  {
+   "id": "Arbeitnow-senior-account-executive-airline-or-airline-catering-europe-100-remote-zurich-351127",
+   "title": "Senior Account Executive - Airline or Airline Catering (Europe, 100% remote)",
+   "company": "LimeFlight",
+   "category": "Growth",
+   "type": "Executive",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Growth",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:16+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/limeflight/senior-account-executive-airline-or-airline-catering-europe-100-remote-zurich-351127",
+   "source": "Arbeitnow",
+   "excerpt": "Join our fully remote, mission-driven team dedicated to pioneering sustainable inflight service management . Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+   "title": "SQL Developer – AI Prompting & Context Engineering",
+   "company": "Bromcom Computers Plc",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:13+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+   "source": "Arbeitnow",
+   "excerpt": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software..."
+  },
+  {
+   "id": "Arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
+   "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Data",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Data",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:11+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-fullstack-engineer-agenticops-100-remote-united-kindom-441724",
+   "title": "Fullstack Engineer - AgenticOps (100% Remote)",
+   "company": "Tether Operations Limited",
+   "category": "Data",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Data",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:11+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-head-of-engineering-kassel-421863",
+   "title": "Head of Engineering (m/w/d)",
+   "company": "Hypertrics GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-head-of-engineering-kassel-421863",
+   "source": "Arbeitnow",
+   "excerpt": "Head of Engineering (m/w/d) Standort: Kassel | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Unternehmen aus dem Sondermaschinenbau , suchen wir im exklusiven Auftrag zum nächstmöglichen Zeitpunkt einen Head of Engineering..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-fullstack-entwickler-ratingen-428615",
+   "title": "Senior Fullstack Entwickler (m/w/d)",
+   "company": "HyPlus Technology GmbH",
+   "category": "HyPlus Solutions",
+   "type": "Executive",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "HyPlus Solutions",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-fullstack-entwickler-ratingen-428615",
+   "source": "Arbeitnow",
+   "excerpt": "Über uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-devops-engineer-ratingen-155414",
+   "title": "(Senior) DevOps Engineer (m/w/d)",
+   "company": "HyPlus Technology GmbH",
+   "category": "HyPlus Solutions",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "HyPlus Solutions",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-155414",
+   "source": "Arbeitnow",
+   "excerpt": "Über uns: Die HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-7781",
+   "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
+   "company": "ScholarshipOwl",
+   "category": "Development",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Development",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-7781",
+   "source": "Arbeitnow",
+   "excerpt": "About ScholarshipOwl ScholarshipOwl is the largest scholarship marketplace in the US, using AI to connect 14 million students who are looking for scholarships with companies that are looking for students. Our mission is to make education..."
+  },
+  {
+   "id": "Arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-273136",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Justice",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Justice",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-273136",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-38768",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Environment",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-38768",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-it-architect-karlsruhe-210495",
+   "title": "Senior IT Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Healthcare",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Healthcare",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-210495",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-java-backend-developer-karlsruhe-419711",
+   "title": "Senior Java Backend Developer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Healthcare",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Healthcare",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-419711",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-352477",
+   "title": "Senior Oracle Data Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Finance",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Finance",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:32:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-352477",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-qa-automation-engineer-ai-focused-germany-395255",
+   "title": "Senior QA Automation Engineer (AI-Focused)",
+   "company": "Workmotion",
+   "category": "WorkMotion",
+   "type": "Full Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "WorkMotion",
+    "Remote"
+   ],
+   "posted": "2026-10-18T02:20:03+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-qa-automation-engineer-ai-focused-germany-395255",
+   "source": "Arbeitnow",
+   "excerpt": "Senior QA Automation Engineer (AI-Focused) Contract type: Full-time Salary: Starting from €40,000 per annum gross, subject to location, skills and experience Not Your Typical Workplace: Tired of the 9-to-5 grind? Imagine a World without..."
+  },
+  {
+   "id": "Arbeitnow-remote-director-data-science-440507",
+   "title": "Director, Data Science",
+   "company": "Duck Duck Go",
+   "category": "Data Science",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Data Science"
+   ],
+   "posted": "2026-10-17T23:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-director-data-science-440507",
+   "source": "Arbeitnow",
+   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions..."
+  },
+  {
+   "id": "Arbeitnow-uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+   "title": "UK Nominee Director (Remote, Compliance Support Role)",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+   "source": "Arbeitnow",
+   "excerpt": "An opportunity is available for a UK resident to act as a Nominee Director in support of corporate compliance requirements. This is a non-management position that does not involve operational decision-making or day-to-day business..."
+  },
+  {
+   "id": "Arbeitnow-uk-nominee-director-part-time-remote-chalkhouse-green-432426",
+   "title": "UK Nominee Director (Part-Time, Remote)",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-part-time-remote-chalkhouse-green-432426",
+   "source": "Arbeitnow",
+   "excerpt": "We are seeking a reliable UK-based individual to serve as a Nominee Director to support company compliance requirements. This is a non-executive, non-operational position with minimal time commitment. The initial onboarding may require..."
+  },
+  {
+   "id": "Arbeitnow-remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
+   "title": "Remote UK Nominee Director | Easy Part-Time Opportunity",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
+   "source": "Arbeitnow",
+   "excerpt": "We're looking for a UK resident to join us as a Nominee Director in a simple, low-commitment remote role. This position is ideal for someone who wants a small additional monthly income without the demands of regular work. The initial setup..."
+  },
+  {
+   "id": "Arbeitnow-remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
+   "title": "UK Resident Required for Nominee Director Position",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
+   "source": "Arbeitnow",
+   "excerpt": "Earn a Monthly Retainer for Minimal Ongoing Involvement We are looking for a UK-based individual to act as a Nominee Director for an established company. This role is primarily administrative and compliance-focused, with very little time..."
+  },
+  {
+   "id": "Arbeitnow-remote-uk-nominee-director-chalkhouse-green-20287",
+   "title": "UK Nominee Director",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-chalkhouse-green-20287",
+   "source": "Arbeitnow",
+   "excerpt": "About the Role: We are looking for a UK Nominee Director to support ongoing corporate compliance. This is a part-time, non-operational position with minimal involvement. The initial setup may require 1–2 hours in the first month, followed..."
+  },
+  {
+   "id": "Arbeitnow-remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
+   "title": "Part-Time UK Nominee Director Needed",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
+   "source": "Arbeitnow",
+   "excerpt": "We are looking for a UK resident to act as a Nominee Director for corporate compliance purposes. This role is entirely remote and requires very little time. The first month may involve around 1-2 hours to help complete initial setup and..."
+  },
+  {
+   "id": "Arbeitnow-flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
+   "title": "Flexible Remote Opportunity: UK Nominee Director",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
+   "source": "Arbeitnow",
+   "excerpt": "Looking for a flexible role with minimal time commitment? We are seeking a UK-based Nominee Director to support a company's corporate compliance requirements. This is not an operational management position and does not involve day-to-day..."
+  },
+  {
+   "id": "Arbeitnow-remote-non-operational-nominee-director-chalkhouse-green-166749",
+   "title": "Remote Non-Operational Nominee Director",
+   "company": "Emplyfy",
+   "category": "Nominee Director",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Nominee Director",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-non-operational-nominee-director-chalkhouse-green-166749",
+   "source": "Arbeitnow",
+   "excerpt": "We are seeking a UK-based Nominee Director to support corporate compliance requirements. This is a remote, non-operational position and does not involve the day-to-day management or running of the business. The role requires very little..."
+  },
+  {
+   "id": "Arbeitnow-solution-architect-remote-from-eu-the-hague-438335",
+   "title": "Solution Architect - Remote from EU",
+   "company": "AlmavivA de Belgique",
+   "category": "Europol",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Europol",
+    "Remote"
+   ],
+   "posted": "2026-10-17T23:31:42+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/solution-architect-remote-from-eu-the-hague-438335",
+   "source": "Arbeitnow",
+   "excerpt": "DESCRIPTION OF THE TASKS: Perform market analysis and/or proof of concept work to validate intended designs and/or identify suitable technologies and products for the purpose of the delivery stream domain and scope; Follow-up on..."
+  },
   {
    "id": "Arbeitnow-business-development-partner-london-235618",
    "title": "Business Development Partner",
@@ -17,72 +523,6 @@
    "url": "https://www.arbeitnow.co.uk/jobs/companies/procjet/business-development-partner-london-235618",
    "source": "Arbeitnow",
    "excerpt": "Business Development Partner, UK ProcJet Ltd | Remote | Flexible Working | Commission-Based Partnership Contract Type: Self-Employed / Independent Contractor Remuneration: Commission Only, No Fixed Salary This is a commission-based..."
-  },
-  {
-   "id": "Arbeitnow-remote-technical-analystin-homeoffice-364462",
-   "title": "Technical Analyst:in (w/m/d) - HomeOffice",
-   "company": "Enpal",
-   "category": "Installation PV",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Installation PV"
-   ],
-   "posted": "2026-10-17T17:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-technical-analystin-homeoffice-364462",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über..."
-  },
-  {
-   "id": "Arbeitnow-remote-junior-baubegleiterin-pv-quereinsteigerinnen-willkommen-320843",
-   "title": "(Junior) Baubegleiter:in PV (w/m/d) | Quereinsteiger:innen willkommen",
-   "company": "Enpal",
-   "category": "Installation PV",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Installation PV"
-   ],
-   "posted": "2026-10-17T17:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-junior-baubegleiterin-pv-quereinsteigerinnen-willkommen-320843",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über..."
-  },
-  {
-   "id": "Arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
-   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-   "company": "Auralis Group",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-17T14:32:18+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Java-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten..."
-  },
-  {
-   "id": "Arbeitnow-sales-partner-manager-for-spain-portugal-gastronomy-berlin-343976",
-   "title": "Sales & Partner Manager for Spain & Portugal - Gastronomy (m/w/d)",
-   "company": "Assistent.ai Software GmbH",
-   "category": "Remote",
-   "type": "Permanent Employment (Unbefristeter Arbeitsvertrag)",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-17T14:30:50+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/assistentai-software-gmbh/sales-partner-manager-for-spain-portugal-gastronomy-berlin-343976",
-   "source": "Arbeitnow",
-   "excerpt": "Every day, owners, waitstaff and chefs pour their hearts into crafting dining experiences. Yet they are expected to keep up in an always-on world with relentless technological change. We build solutions for them to keep up – and yes, with..."
   },
   {
    "id": "Jobicy-155615",
@@ -352,190 +792,6 @@
    "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
    "source": "Arbeitnow",
    "excerpt": "We are hiring on behalf of our client, a fast-growing innovator in the crypto and decentralized finance space who is seeking a Founding Platform Engineer (Staff+ level) to join the team. This organization is behind a leading decentralized..."
-  },
-  {
-   "id": "Arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
-   "title": "Working Student — AI Engineering & Document Intelligence",
-   "company": "Tracium GmbH",
-   "category": "Remote",
-   "type": "Working Student",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-17T11:47:21+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
-   "source": "Arbeitnow",
-   "excerpt": "Location: Hamburg, Germany · Part-time alongside your studies About Tracium https://www.linkedin.com/company/tracium/ Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable..."
-  },
-  {
-   "id": "Arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
-   "title": "Full-Stack Engineer — AI Authoring Platform",
-   "company": "Tracium GmbH",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Hamburg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-17T11:47:20+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
-   "source": "Arbeitnow",
-   "excerpt": "About Tracium https://www.linkedin.com/company/tracium/ Tracium builds AI-assisted technical documentation software for teams working with complex manuals and engineering information. Our platform combines document intelligence with S1000D..."
-  },
-  {
-   "id": "Arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
-   "title": "Senior Data Engineer — Document & AI Pipelines",
-   "company": "Tracium GmbH",
-   "category": "Remote",
-   "type": "Fixed Term Contract",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Data Processing",
-    "Data Engineer"
-   ],
-   "posted": "2026-10-17T11:47:19+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
-   "source": "Arbeitnow",
-   "excerpt": "About Tracium https://www.linkedin.com/company/tracium/ Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Starting with maritime, we..."
-  },
-  {
-   "id": "Arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
-   "title": "Senior AI Engineer — Document Intelligence",
-   "company": "Tracium GmbH",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-17T11:47:18+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
-   "source": "Arbeitnow",
-   "excerpt": "About Tracium https://www.linkedin.com/company/tracium/ Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Our initial focus is maritime,..."
-  },
-  {
-   "id": "Arbeitnow-remote-account-executive-enterprise-sports-specialist-3930",
-   "title": "Account Executive - Enterprise - Sports Specialist",
-   "company": "ElevenLabs",
-   "category": "Revenue",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Revenue"
-   ],
-   "posted": "2026-10-17T11:40:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-enterprise-sports-specialist-3930",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-gtm-enablement-product-455044",
-   "title": "GTM Enablement - Product",
-   "company": "ElevenLabs",
-   "category": "Revenue",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Revenue"
-   ],
-   "posted": "2026-10-17T11:40:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-product-455044",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-adoption-strategist-north-america-250766",
-   "title": "Adoption Strategist - North America",
-   "company": "ElevenLabs",
-   "category": "Revenue",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Revenue"
-   ],
-   "posted": "2026-10-17T11:40:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-adoption-strategist-north-america-250766",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-gtm-enablement-sales-execution-north-america-lead-104725",
-   "title": "GTM Enablement - Sales Execution & North America Lead",
-   "company": "ElevenLabs",
-   "category": "Revenue",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Revenue"
-   ],
-   "posted": "2026-10-17T11:40:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-sales-execution-north-america-lead-104725",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-executive-assistant-apac-203903",
-   "title": "Executive Assistant - APAC",
-   "company": "ElevenLabs",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Operations"
-   ],
-   "posted": "2026-10-17T11:40:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-executive-assistant-apac-203903",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-cloud-engineer-mit-karriereambitionen-berlin-312024",
-   "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
-   "company": "Auralis Group",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "System and Network Administration"
-   ],
-   "posted": "2026-10-17T10:31:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten..."
-  },
-  {
-   "id": "Arbeitnow-software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
-   "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
-   "company": "Auralis Group",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Markt Indersdorf",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Quality Assurance",
-    "Inspection"
-   ],
-   "posted": "2026-10-17T10:00:50+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind ein fast zwei Jahre altes IT-Unternehmen mit aktuell 90 MA und wachsen weiter 🚀 Dafür suchen wir Verstärkung im Bereich Software Testing & Testautomatisierung, um spannende Projekte bei unseren Kunden umzusetzen. Aufgaben Du..."
   },
   {
    "id": "Jobicy-155586",
@@ -1005,37 +1261,23 @@
    "excerpt": "Summary The Senior Clinical Applications Associate provides technical and operational support for Epic applications supporting patient engagement, access, and digital front door capabilities at Baylor College of Medicine. This role..."
   },
   {
-   "id": "Arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
-   "title": "Interim Senior BI Analyst (All Genders)",
-   "company": "Shiftmove",
-   "category": "Computer Software",
-   "type": "Contract",
-   "location": "Germany",
-   "salary": "",
+   "id": "Remote OK-1137538",
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "category": "Dev",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "$10,000 - $10,000",
    "tags": [
-    "Computer Software",
-    "Remote"
+    "dev",
+    "python",
+    "javascript",
+    "typescript"
    ],
-   "posted": "2026-10-17T02:20:08+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-interim-senior-bi-analyst-all-genders-germany-169194",
-   "source": "Arbeitnow",
-   "excerpt": "Across Europe, fleets are under enormous pressure. Fuel costs are rising. Regulatory requirements are tightening. The shift to low-emission vehicles is accelerating. And yet around 70% of European businesses still manage their fleets..."
-  },
-  {
-   "id": "Arbeitnow-remote-head-of-urology-232681",
-   "title": "Head of Urology",
-   "company": "Engagedmd",
-   "category": "Market Expansion",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Market Expansion"
-   ],
-   "posted": "2026-10-16T20:40:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-head-of-urology-232681",
-   "source": "Arbeitnow",
-   "excerpt": "We’re EngagedMD, and our patient journey platform has supported more than 3 million users across the United States and internationally. As adoption continues to grow among medical clinics across multiple markets, we remain focused on our..."
+   "posted": "2026-10-17T01:09:20+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+   "source": "Remote OK",
+   "excerpt": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that..."
   },
   {
    "id": "Remote OK-1137537",
