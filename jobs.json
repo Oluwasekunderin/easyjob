@@ -1,56 +1,262 @@
 {
- "updated": "2026-10-18T20:23:00+00:00",
+ "updated": "2026-10-19T04:05:42+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-digital-workplace-engineer-lausanne-380509",
-   "title": "Digital Workplace Engineer",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Interim",
-   "location": "Lausanne",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-18T19:01:00+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/digital-workplace-engineer-lausanne-380509",
-   "source": "Arbeitnow",
-   "excerpt": "................ For our client in Lausanne , we are looking for an experienced Digital Workplace Engineer - 3rd Level Support. In this role, youwill provide ongoing support for enterprise information systems and apply strong analytical..."
-  },
-  {
-   "id": "Arbeitnow-remote-job-resp-home-office-job-als-mitarbeiter-in-social-media-sales-und-admin-zurich-11300",
-   "title": "Remote Job resp. Home Office Job als Mitarbeiter/in Social Media, Sales und Admin",
-   "company": "HomeOfficeClub.ch",
+   "id": "Arbeitnow-head-of-growth-berlin-309647",
+   "title": "Head of Growth (m/w/d)",
+   "company": "nara GmbH",
    "category": "Remote",
    "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Zürich",
+   "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Marketing and Communication"
+    "Management",
+    "Team Leader"
    ],
-   "posted": "2026-10-18T19:00:57+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-resp-home-office-job-als-mitarbeiter-in-social-media-sales-und-admin-zurich-11300",
+   "posted": "2026-10-19T02:31:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nara-gmbh/head-of-growth-berlin-309647",
    "source": "Arbeitnow",
-   "excerpt": "Der Home Office Club bietet ein Jobabo mit einer Übersicht über Remote Jobs / Homeoffice Jobs in der Schweiz aus den Bereich Admin / Sekretariat, Kundenberatung / Verkauf und Marketing / Kommunikation. Wir durchsuchen während vielen..."
+   "excerpt": "Über nara nara erledigt die Arbeit, die in IT-Abteilungen jeden Tag anfällt. Mitarbeitende schreiben nara in Microsoft Teams oder rufen an. nara findet die Ursache und löst das Problem direkt in den Systemen, auf Servern und Geräten, vom..."
   },
   {
-   "id": "Arbeitnow-entra-id-active-directory-engineer-zurich-281717",
-   "title": "Entra ID & Active Directory Engineer",
+   "id": "Arbeitnow-remote-recruitment-stagiair-stageplek-bij-de-afdeling-recruitment-van-cordaan-amsterdam-44820",
+   "title": "Recruitment Stagiair - Stageplek bij de Afdeling Recruitment van Cordaan",
+   "company": "Cordaan",
+   "category": "Management & diensten",
+   "type": "Student College",
+   "location": "Werken op afstand",
+   "salary": "",
+   "tags": [
+    "Management & diensten",
+    "Remote"
+   ],
+   "posted": "2026-10-18T23:51:51+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/cordaan/remote-recruitment-stagiair-stageplek-bij-de-afdeling-recruitment-van-cordaan-amsterdam-44820",
+   "source": "Arbeitnow",
+   "excerpt": "Ben jij de volgende stagiair bij onze afdeling Recruitment van Cordaan? Wij zijn namelijk op zoek naar jou! Als stagiair ga je nauw samenwerken met ons team van ervaren recruiters en krijg je de kans om bij verschillende taken en events te..."
+  },
+  {
+   "id": "Arbeitnow-business-development-partner-london-344562",
+   "title": "Business Development Partner",
+   "company": "ProcJet",
+   "category": "Remote",
+   "type": "Self Employed Contractor (Freelancer)",
+   "location": "London",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Development"
+   ],
+   "posted": "2026-10-18T21:00:40+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/procjet/business-development-partner-london-344562",
+   "source": "Arbeitnow",
+   "excerpt": "Business Development Partner (Commission-Based) ProcJet Ltd | United Kingdom | Remote | Flexible Contract: Self-Employed / Independent Contractor Remuneration: Commission Only, No Fixed Salary About ProcJet ProcJet Ltd is a UK-based..."
+  },
+  {
+   "id": "Arbeitnow-studentische-hilfskraft-governance-risk-compliance-berlin-415968",
+   "title": "Studentische Hilfskraft (m/w/d) Governance, Risk & Compliance",
+   "company": "Compliance Compass GmbH",
+   "category": "Remote",
+   "type": "Werkstudent",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Compliance",
+    "Security"
+   ],
+   "posted": "2026-10-18T20:00:56+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/compliance-compass-gmbh/studentische-hilfskraft-governance-risk-compliance-berlin-415968",
+   "source": "Arbeitnow",
+   "excerpt": "Compliance Compass GmbH Mit Compliance Compass machen wir aus Compliance ein echtes Steuerungsinstrument statt eines lästigen Pflichtprogramms. Unsere Plattform vereint mehrere aufeinander abgestimmte Frameworks aus der IT-Sicherheit –..."
+  },
+  {
+   "id": "Arbeitnow-enterprise-it-architect-industrie-fertigung-berlin-234174",
+   "title": "Enterprise IT Architect (m/w/d) – Industrie & Fertigung",
+   "company": "Strategy & Transformation Consulting GmbH",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Information Systems"
+   ],
+   "posted": "2026-10-18T20:00:56+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/strategy-transformation-consulting-gmbh/enterprise-it-architect-industrie-fertigung-berlin-234174",
+   "source": "Arbeitnow",
+   "excerpt": "Über Strategy & Transformation Consulting GmbH Strategy & Transformation Consulting (S&T) ist eine unabhängige Strategie- und Transformationsberatung und unterstützt Unternehmen dabei, die Opportunitäten der digitalen Transformation stets..."
+  },
+  {
+   "id": "Arbeitnow-partenaire-commercial-independant-h-f-paris-226230",
+   "title": "Partenaire commercial indépendant (H/F)",
+   "company": "PropertyOS",
+   "category": "Remote",
+   "type": "Auto Entrepreneur/Indépendant",
+   "location": "Paris",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Development"
+   ],
+   "posted": "2026-10-18T20:00:53+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/propertyos/partenaire-commercial-independant-h-f-paris-226230",
+   "source": "Arbeitnow",
+   "excerpt": "À propos de PropertyOS PropertyOS est une solution SaaS dédiée à la digitalisation de la gestion immobilière. Notre ambition : permettre aux propriétaires et gestionnaires de centraliser leurs biens, leurs locataires, leurs finances, leurs..."
+  },
+  {
+   "id": "Arbeitnow-creation-de-contenu-tiktokshop-paris-487068",
+   "title": "Création de contenu TikTokShop",
+   "company": "Curculia",
+   "category": "Remote",
+   "type": "Auto Entrepreneur/Indépendant",
+   "location": "Paris",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Social Media Manager"
+   ],
+   "posted": "2026-10-18T20:00:50+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/curculia/creation-de-contenu-tiktokshop-paris-487068",
+   "source": "Arbeitnow",
+   "excerpt": "✨ À propos de Curculia Curculia est une marque de cosmétiques spécialisée dans les soins anti-taches et l'hyperpigmentation. Dans le cadre de notre développement sur TikTok Shop, nous recherchons une personne dynamique, spontanée et à..."
+  },
+  {
+   "id": "Arbeitnow-ai-coach-zurich-150892",
+   "title": "AI Coach",
    "company": "Coopers Group AG",
    "category": "Remote",
-   "type": "Interim",
+   "type": "Freiberufler / Selbstständiger",
    "location": "Zürich",
    "salary": "",
    "tags": [
     "Remote",
     "IT"
    ],
-   "posted": "2026-10-18T19:00:55+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/entra-id-active-directory-engineer-zurich-281717",
+   "posted": "2026-10-18T20:00:49+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/ai-coach-zurich-150892",
    "source": "Arbeitnow",
-   "excerpt": "................ Für ein langfristiges Projekt suchen wir für unseren Kunden in Zürich eine engagierte und erfahrene Persönlichkeit als Entra ID & Active Directory Engineer . In dieser vielseitigen Position übernimmst du Verantwortung für..."
+   "excerpt": "................ Für unseren Kunden in Luzern , suchen wir eine:n erfahrene:n AI Adoption & Enablement Specialist:in. Deine Aufgaben: Unterstützung von drei internen Teams einer Schweizer Bank bei der Einführung, Integration und..."
+  },
+  {
+   "id": "Arbeitnow-azure-devops-engineer-zurich-45145",
+   "title": "Azure DevOps Engineer",
+   "company": "Coopers Group AG",
+   "category": "Remote",
+   "type": "Befristeter Arbeitsvertrag",
+   "location": "Zürich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT"
+   ],
+   "posted": "2026-10-18T20:00:49+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/azure-devops-engineer-zurich-45145",
+   "source": "Arbeitnow",
+   "excerpt": "................ Für unseren Kunden in Hannover , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Azure DevOps Engineer (50%) . In dieser Rolle unterstützt du ein Unternehmen aus der Leasing- und..."
+  },
+  {
+   "id": "Arbeitnow-pega-business-architekt-zurich-358763",
+   "title": "PEGA Business Architekt",
+   "company": "Coopers Group AG",
+   "category": "Remote",
+   "type": "Befristeter Arbeitsvertrag",
+   "location": "Zürich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "IT"
+   ],
+   "posted": "2026-10-18T20:00:47+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pega-business-architekt-zurich-358763",
+   "source": "Arbeitnow",
+   "excerpt": "................ For our client in Zurich/Vienna, we are looking for a PEGA Business Architect (70%). Your tasks: Gather, analyze, and document business requirements in collaboration with stakeholders and business departments Facilitate..."
+  },
+  {
+   "id": "Arbeitnow-full-stack-mobile-engineer-berlin-182046",
+   "title": "Full-Stack & Mobile Engineer",
+   "company": "NAIRON",
+   "category": "Remote",
+   "type": "Permanent Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "System and Network Administration"
+   ],
+   "posted": "2026-10-18T19:30:58+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
+   "source": "Arbeitnow",
+   "excerpt": "Intro For this position we are only looking for candidates located in Greece, Germany or Austria . Nairon GmbH is a Swiss startup building AI voice agents that answer and make phone calls for businesses. Our platform runs real-time..."
+  },
+  {
+   "id": "Arbeitnow-voice-ai-engineer-berlin-373637",
+   "title": "Voice AI Engineer",
+   "company": "NAIRON",
+   "category": "Remote",
+   "type": "Permanent Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Engineering"
+   ],
+   "posted": "2026-10-18T19:30:58+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nairon/voice-ai-engineer-berlin-373637",
+   "source": "Arbeitnow",
+   "excerpt": "Intro For this position we are only looking for candidates located in Greece, Germany or Austria . Nairon GmbH is a Swiss startup building AI voice agents that answer and make phone calls for businesses. Our platform runs real-time..."
+  },
+  {
+   "id": "Arbeitnow-forward-deployed-engineer-berlin-454478",
+   "title": "Forward Deployed Engineer",
+   "company": "NAIRON",
+   "category": "Remote",
+   "type": "Permanent Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Engineering"
+   ],
+   "posted": "2026-10-18T19:30:58+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nairon/forward-deployed-engineer-berlin-454478",
+   "source": "Arbeitnow",
+   "excerpt": "Intro For this position we are only looking for candidates located in Germany, Austria or Switzerland . Nairon GmbH is a Swiss startup building AI voice agents that answer and make phone calls for businesses. Our platform runs real-time..."
+  },
+  {
+   "id": "Arbeitnow-online-marketing-manager-berlin-456953",
+   "title": "Online Marketing Manager",
+   "company": "NAIRON",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Online Marketing"
+   ],
+   "posted": "2026-10-18T19:30:58+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nairon/online-marketing-manager-berlin-456953",
+   "source": "Arbeitnow",
+   "excerpt": "Intro Für diese Position suchen wir ausschließlich Kandidat:innen mit Wohnsitz in Deutschland oder Österreich . Die Nairon GmbH ist ein Schweizer Startup, das KI-Sprachagenten entwickelt, die für Unternehmen Telefonate annehmen und führen...."
+  },
+  {
+   "id": "Arbeitnow-account-manager-customer-success-psychologie-bildung-teilzeit-oder-vollzeit-remote-berlin-28282",
+   "title": "Account Manager / Customer Success (m/w/d) | Psychologie & Bildung | Teilzeit oder Vollzeit | remote",
+   "company": "TEACHY Education",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Customer Service"
+   ],
+   "posted": "2026-10-18T19:30:57+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/teachy-education/account-manager-customer-success-psychologie-bildung-teilzeit-oder-vollzeit-remote-berlin-28282",
+   "source": "Arbeitnow",
+   "excerpt": "Du willst keine Tickets abarbeiten, sondern Partnerschaften führen, die junge Menschen messbar weiterbringen? Und das in Teilzeit oder Vollzeit, komplett remote? Dann lies weiter. Worum es geht TEACHY ist ein junges, mehrfach..."
   },
   {
    "id": "Arbeitnow-content-creator-berlin-212505",
@@ -68,57 +274,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/mwa-media-works-agency-gmbh/content-creator-berlin-212505",
    "source": "Arbeitnow",
    "excerpt": "Wir sind die MWX Agency die Social-Media-Kanäle von Kunden aus der ästhetischen Medizin und der Beauty-Branche betreut. Gedreht wird bei mir mit dem Smartphone: schnell, nah dran und gemacht für Instagram, TikTok und Meta Ads. Bisher drehe..."
-  },
-  {
-   "id": "Arbeitnow-conseiller-financier-pour-les-industries-lourdes-paris-112057",
-   "title": "Conseiller financier pour les industries lourdes",
-   "company": "Authority.inc",
-   "category": "Remote",
-   "type": "Cdd (Contrat À Durée Déterminée)",
-   "location": "Paris",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-18T18:31:13+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/authorityinc/conseiller-financier-pour-les-industries-lourdes-paris-112057",
-   "source": "Arbeitnow",
-   "excerpt": "Authority développe une plateforme d’intelligence sectorielle qui associe expertise humaine et données afin d’améliorer les articles en ligne et les prévisions portant sur des résultats économiques, financiers et commerciaux. Nous..."
-  },
-  {
-   "id": "Arbeitnow-conseiller-en-financement-immobilier-paris-360492",
-   "title": "Conseiller en financement immobilier",
-   "company": "Authority.inc",
-   "category": "Remote",
-   "type": "Cdd (Contrat À Durée Déterminée)",
-   "location": "Paris",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-18T18:31:13+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/authorityinc/conseiller-en-financement-immobilier-paris-360492",
-   "source": "Arbeitnow",
-   "excerpt": "Authority développe une plateforme d’intelligence sectorielle qui associe expertise humaine et données afin d’améliorer les articles en ligne et les prévisions portant sur des résultats économiques, financiers et commerciaux. Nous..."
-  },
-  {
-   "id": "Arbeitnow-creative-strategist-social-ads-francais-natif-paris-234102",
-   "title": "Creative Strategist Social Ads (français natif)",
-   "company": "Circles - Better Womanhood",
-   "category": "Remote",
-   "type": "Travailleur Indépendant / Freelance",
-   "location": "Paris",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-18T18:31:07+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/circles-better-womanhood/creative-strategist-social-ads-francais-natif-paris-234102",
-   "source": "Arbeitnow",
-   "excerpt": "Freelance — minimum 2 jours/semaine Circles est une marque française DNVB dédiée à l'équilibre hormonal féminin, de la puberté à la ménopause, avec une gamme de compléments alimentaires et cosmétiques naturels et des contenus éducatifs..."
   },
   {
    "id": "Arbeitnow-freelance-acquisition-paid-media-google-ads-meta-ads-berlin-11498",
@@ -877,7 +1032,7 @@
    "excerpt": "Job type: Part-Time (less than 20hrs/week) Location: Remote within the United States (US-Based, Fully Remote) Intended Start Date: As soon as possible Pay Range: $20–25/hr Who we are: Think Academy US (www.TheThinkAcademy.com), a 100%..."
   },
   {
-   "id": "Arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+   "id": "Arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-67927",
    "title": "Staff Solutions Architect, AI Subject Matter Expert",
    "company": "gitlab",
    "category": "SA",
@@ -887,26 +1042,10 @@
    "tags": [
     "SA"
    ],
-   "posted": "2026-10-18T11:55:27+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+   "posted": "2026-10-18T11:55:25+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927",
    "source": "Arbeitnow",
    "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
-  },
-  {
-   "id": "Arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
-   "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-   "company": "AlmavivA de Belgique",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-18T11:31:16+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
-   "source": "Arbeitnow",
-   "excerpt": "• Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq); • Participate in the .NET implementation of a micro-services solution, being able to..."
   },
   {
    "id": "Jobicy-155709",
@@ -935,23 +1074,6 @@
    "url": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content",
    "source": "Jobicy",
    "excerpt": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
-   "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
-   "company": "Tellent",
-   "category": "1. R&D",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "1. R&D",
-    "Remote"
-   ],
-   "posted": "2026-10-18T02:32:17+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
-   "source": "Arbeitnow",
-   "excerpt": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location. About the Role As a Senior Quality Engineer – Tellent Intelligence (AI) , you'll own and grow the quality of the AI-powered..."
   },
   {
    "id": "Remote OK-1137542",
