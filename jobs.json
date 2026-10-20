@@ -1,6 +1,139 @@
 {
- "updated": "2026-10-19T22:10:49+00:00",
+ "updated": "2026-10-20T04:18:22+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-product-designer-growth-website-deel-422078",
+   "title": "Senior Product Designer - Growth/Website | Deel",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-10-20T02:40:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-product-designer-growth-website-deel-422078",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Senior Product Designer, Growth/Website Company: Deel Location: Remote (Europe, UK, Israel, Brazil) Job type: Full-time About Deel Deel is an all-in-one payroll and HR platform for global teams. It covers HRIS, payroll, compliance,..."
+  },
+  {
+   "id": "Arbeitnow-remote-staff-product-designer-growth-deel-327661",
+   "title": "Staff Product Designer - Growth | Deel",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-10-20T02:40:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-growth-deel-327661",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Staff Product Designer, Growth Company: Deel Location: Fully remote Job type: Full-time About Deel Deel is an all-in-one payroll and HR platform for global teams. It covers HRIS, payroll, compliance, benefits and equipment for every..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-staff-product-designer-ai-deel-425222",
+   "title": "Senior Staff Product Designer - AI | Deel",
+   "company": "Hirehire",
+   "category": "Product Design",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product Design"
+   ],
+   "posted": "2026-10-20T02:40:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-staff-product-designer-ai-deel-425222",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Senior Staff Product Designer, AI | Deel Company: Deel Location: Fully remote Job type: Full-time About Deel Deel is an all-in-one payroll and HR platform for global teams. It covers HRIS, payroll, compliance, benefits and equipment..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-native-account-executive-compute-56125",
+   "title": "AI Native Account Executive, Compute",
+   "company": "Fal Ai",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-20T02:40:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/fal-ai/remote-ai-native-account-executive-compute-56125",
+   "source": "Arbeitnow",
+   "excerpt": "fal is the generative media ecosystem powering the next generation of AI products. We build the infrastructure, tools, and model access that teams need to move from idea to production, and do it at scale without compromise. For developers..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-uitvoerder-kabels-leidingen-railinfra-utrecht-406773",
+   "title": "Senior Uitvoerder kabels & leidingen Railinfra",
+   "company": "Dura Vermeer",
+   "category": "Railinfra",
+   "type": "Mid",
+   "location": "Werken op afstand",
+   "salary": "",
+   "tags": [
+    "Railinfra",
+    "Remote"
+   ],
+   "posted": "2026-10-20T02:31:50+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/dura-vermeer/remote-senior-uitvoerder-kabels-leidingen-railinfra-utrecht-406773",
+   "source": "Arbeitnow",
+   "excerpt": "Ambitie Jij zorgt dat het buiten gebeurt. Veilig, volgens afspraak en met een team dat weet wat het moet doen. Als senior uitvoerder kabels & leidingen werk je aan ondergrondse infra rond het spoor en op stations door heel Nederland. Je..."
+  },
+  {
+   "id": "Arbeitnow-remote-engineering-manager-search-engine-all-genders-berlin-201029",
+   "title": "Engineering Manager, Search Engine (all genders)",
+   "company": "Distribusion Technologies",
+   "category": "Technology",
+   "type": "Manager",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-10-20T02:31:44+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-search-engine-all-genders-berlin-201029",
+   "source": "Arbeitnow",
+   "excerpt": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-events-manager-emea-19628",
+   "title": "Senior Events Manager- EMEA",
+   "company": "Camunda",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Marketing"
+   ],
+   "posted": "2026-10-19T23:40:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-events-manager-emea-19628",
+   "source": "Arbeitnow",
+   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
+   "title": "Senior Analytics Engineer - EMEA",
+   "company": "Seeq",
+   "category": "Data Analyst",
+   "type": "Full Time",
+   "location": "France",
+   "salary": "",
+   "tags": [
+    "Data Analyst",
+    "Computer Software",
+    "Analytics Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-19T22:20:11+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/seeq/remote-senior-analytics-engineer-emea-france-234875",
+   "source": "Arbeitnow",
+   "excerpt": "Seeq builds advanced analytics software that unlocks insights from industrial process data—empowering companies in sectors like pharmaceuticals, oil & gas, chemicals, and power generation to optimize operations and drive business value. As..."
+  },
   {
    "id": "Arbeitnow-remote-cloud-engineer-cologne-307668",
    "title": "Cloud Engineer (f/m/d)",
@@ -397,20 +530,6 @@
    "excerpt": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the..."
   },
   {
-   "id": "Jobicy-155924",
-   "title": "QA Analyst (Mexico, Remote)",
-   "company": "Varicent",
-   "category": "QA & Testing",
-   "type": "Full Time",
-   "location": "Mexico",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-19T17:09:53+00:00",
-   "url": "https://jobicy.com/jobs/155924-qa-analyst-mexico-remote-2",
-   "source": "Jobicy",
-   "excerpt": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter..."
-  },
-  {
    "id": "Arbeitnow-full-stack-developer-paris-258791",
    "title": "Full-stack Developer",
    "company": "ADOMIK",
@@ -764,20 +883,6 @@
    "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
   },
   {
-   "id": "Jobicy-155891",
-   "title": "Senior Performance Marketer (Full Remote - Cyprus)",
-   "company": "EverAI",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "Cyprus",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-19T16:50:57+00:00",
-   "url": "https://jobicy.com/jobs/155891-senior-performance-marketer-full-remote-cyprus",
-   "source": "Jobicy",
-   "excerpt": "Our Vision & Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it..."
-  },
-  {
    "id": "Jobicy-155890",
    "title": "Senior Affiliate Manager (Full Remote - UK)",
    "company": "EverAI",
@@ -890,6 +995,20 @@
    "excerpt": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our..."
   },
   {
+   "id": "Jobicy-155886",
+   "title": "Senior Affiliate Manager (Full Remote - Cyprus)",
+   "company": "EverAI",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "Cyprus",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-19T16:50:53+00:00",
+   "url": "https://jobicy.com/jobs/155886-senior-affiliate-manager-full-remote-cyprus-2",
+   "source": "Jobicy",
+   "excerpt": "Our Vision & Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it..."
+  },
+  {
    "id": "Arbeitnow-freelance-grant-writer-fundraising-consultant-berlin-64738",
    "title": "Freelance Grant Writer & Fundraising Consultant",
    "company": "Startupistan Impact Ventures gUG",
@@ -905,6 +1024,20 @@
    "url": "https://www.arbeitnow.com/jobs/companies/startupistan-impact-ventures-gug/freelance-grant-writer-fundraising-consultant-berlin-64738",
    "source": "Arbeitnow",
    "excerpt": "Help us unlock funding for education, employment, and social impact initiatives. At Startupistan Impact Ventures gUG, we develop and scale initiatives that connect education, digital skills, and employment opportunities, particularly for..."
+  },
+  {
+   "id": "Jobicy-155881",
+   "title": "Group Copy Supervisor, Market Access",
+   "company": "Precision Medicine Group",
+   "category": "Content & Editorial",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-19T16:11:24+00:00",
+   "url": "https://jobicy.com/jobs/155881-group-copy-supervisor-market-access",
+   "source": "Jobicy",
+   "excerpt": "PRECISION AQ, the top payer marketing agency, supports global pharmaceutical and life sciences clients in the achievement of commercial excellence. We excel at demonstrating the economic, clinical, and societal value of creative medical..."
   },
   {
    "id": "Arbeitnow-controller-mit-perspektive-head-of-finance-teilzeit-moglich-berlin-387902",
@@ -1027,93 +1160,6 @@
    "excerpt": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen die #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher,..."
   },
   {
-   "id": "Arbeitnow-lead-consultant-cyber-security-berlin-402652",
-   "title": "Lead Consultant Cyber Security (m/w/d)",
-   "company": "Jamorie Consulting GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Consulting"
-   ],
-   "posted": "2026-10-19T13:01:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/lead-consultant-cyber-security-berlin-402652",
-   "source": "Arbeitnow",
-   "excerpt": "Du möchtest Verantwortung übernehmen, Projekte zum Erfolg führen und innovative Lösungen aktiv umsetzen? Dann bist du bei uns genau richtig! Bei JAMORIE suchen wir motivierte Menschen, die Lust haben, neue Wege zu gehen und unser..."
-  },
-  {
-   "id": "Arbeitnow-business-development-manager-cyber-security-aufbau-neukundengeschaft-berlin-332205",
-   "title": "Business Development Manager Cyber Security (m/w/d) – Aufbau Neukundengeschäft",
-   "company": "Jamorie Consulting GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-19T13:01:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/business-development-manager-cyber-security-aufbau-neukundengeschaft-berlin-332205",
-   "source": "Arbeitnow",
-   "excerpt": "Deine Mission Cyber Security entscheidet heute über die Zukunftsfähigkeit von Unternehmen. Als Sales Manager (m/w/d) für unsere Cyber-Security-Beratung erschließt du neue Kundenbeziehungen, vertiefst bestehende Partnerschaften und..."
-  },
-  {
-   "id": "Arbeitnow-saas-business-development-growth-manager-100-remote-berlin-362855",
-   "title": "SaaS Business Development & Growth Manager (m/w/d) 100% remote",
-   "company": "Intercon Solutions GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-19T13:01:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/saas-business-development-growth-manager-100-remote-berlin-362855",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst nicht nur verkaufen, sondern aktiv etwas aufbauen? Du hast Spaß am Vertrieb, verstehst digitale Marketingkanäle und möchtest deine Ideen eigenverantwortlich umsetzen? Dann erwartet dich eine vielseitige Position, in der du den..."
-  },
-  {
-   "id": "Arbeitnow-senior-designer-london-441009",
-   "title": "Senior Designer",
-   "company": "Tangible",
-   "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Media",
-    "Screen and Web Design"
-   ],
-   "posted": "2026-10-19T12:01:22+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-designer-london-441009",
-   "source": "Arbeitnow",
-   "excerpt": "About Tangible Tangible Markets builds secondary market infrastructure for private fund LP interests. Our platforms help investors, wealth managers, fund managers and lenders buy, sell, price, finance and close secondary transactions. Our..."
-  },
-  {
-   "id": "Arbeitnow-sap-security-authorizations-consultant-berlin-417832",
-   "title": "SAP Security & Authorizations Consultant",
-   "company": "Cypher Consulting Europe",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "SAP/ERP Consulting",
-    "Development"
-   ],
-   "posted": "2026-10-19T11:31:12+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/cypher-consulting-europe/sap-security-authorizations-consultant-berlin-417832",
-   "source": "Arbeitnow",
-   "excerpt": "About Cypher Consulting Europe Cypher Consulting Europe delivers expert consultants across a wide spectrum of technologies and industry sectors. As an independent contractor working 40 hours per week on a 12-month contract remotely across..."
-  },
-  {
    "id": "Arbeitnow-remote-sap-s-4hana-finance-tax-consultant-zurich-245808",
    "title": "Remote SAP S/4HANA Finance & Tax Consultant",
    "company": "PROSTAFF Schweiz GmbH",
@@ -1218,39 +1264,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
    "source": "Remote OK",
    "excerpt": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-integrity-engineer-tricht-72924",
-   "title": "Senior Integrity Engineer",
-   "company": "Intero Integrity Services",
-   "category": "ISP",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "ISP",
-    "Remote"
-   ],
-   "posted": "2026-10-18T14:31:41+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/intero-integrity-services/remote-senior-integrity-engineer-tricht-72924",
-   "source": "Arbeitnow",
-   "excerpt": "Senior Integrity Engineer Europe | Remote (hybrid near an Intero office) | 32-40 hours An inspection shows a client what is wrong. You show them what to do about it. Are you the integrity engineer people turn to when the inspection data is..."
-  },
-  {
-   "id": "Arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-67927",
-   "title": "Staff Solutions Architect, AI Subject Matter Expert",
-   "company": "gitlab",
-   "category": "SA",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "SA"
-   ],
-   "posted": "2026-10-18T11:55:25+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
   },
   {
    "id": "Remotive-2091158",
@@ -2474,25 +2487,6 @@
    "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex..."
   },
   {
-   "id": "Remote OK-1137408",
-   "title": "Software Deployment Engineer",
-   "company": "KPI Solutions",
-   "category": "Dev",
-   "type": "",
-   "location": "Cincinnati",
-   "salary": "",
-   "tags": [
-    "dev",
-    "design",
-    "sys admin",
-    "education"
-   ],
-   "posted": "2026-09-19T08:00:34+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
-   "source": "Remote OK",
-   "excerpt": "About KPI Solutions KPI Solutions is a national supply chain consulting and warehouse automation systems integrator, helping some of the biggest names in e-commerce, retail, and distribution move product faster and smarter. Formed in 2021..."
-  },
-  {
    "id": "Remote OK-1137407",
    "title": "VP Pricing & Packaging",
    "company": "Delinea",
@@ -2510,25 +2504,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
    "source": "Remote OK",
    "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging..."
-  },
-  {
-   "id": "Remote OK-1137406",
-   "title": "Customer Success Manager Mexico",
-   "company": "JumpCloud",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Mexico City, Mexico - Remote",
-   "salary": "",
-   "tags": [
-    "customer support",
-    "exec",
-    "saas",
-    "sys admin"
-   ],
-   "posted": "2026-09-19T00:00:06+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
-   "source": "Remote OK",
-   "excerpt": "All roles at JumpCloudÂ® are Remote unless otherwise specified in the Job Description. About JumpCloudÂ® JumpCloudÂ® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity,..."
   },
   {
    "id": "Remotive-2091140",
