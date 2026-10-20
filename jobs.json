@@ -1,39 +1,553 @@
 {
- "updated": "2026-10-20T11:13:48+00:00",
+ "updated": "2026-10-20T16:38:14+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-dealer-training-and-renewal-performance-lead-berlin-246498",
-   "title": "Dealer Training and Renewal Performance Lead (w/m/d)",
-   "company": "Honda Bank GmbH",
+   "id": "Arbeitnow-remote-software-engineer-applied-ai-430890",
+   "title": "Software Engineer, Applied AI",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-product-297213",
+   "title": "Software Engineer, Product",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-product-297213",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-front-end-design-8654",
+   "title": "Software Engineer, Front End & Design",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-computer-vision-401580",
+   "title": "Software Engineer, Computer Vision",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-robotics-169035",
+   "title": "Software Engineer, Robotics",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-engineer-haskell-207329",
+   "title": "Software Engineer, Haskell",
+   "company": "Circuithub",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Software Engineering"
+   ],
+   "posted": "2026-10-20T14:40:40+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-haskell-207329",
+   "source": "Arbeitnow",
+   "excerpt": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied..."
+  },
+  {
+   "id": "Arbeitnow-remote-knit-research-manager-384858",
+   "title": "Knit - Research Manager",
+   "company": "Eleve Talent",
+   "category": "Knit",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Knit"
+   ],
+   "posted": "2026-10-20T14:40:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-research-manager-384858",
+   "source": "Arbeitnow",
+   "excerpt": "Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for..."
+  },
+  {
+   "id": "Arbeitnow-remote-knit-research-director-362690",
+   "title": "Knit - Research Director",
+   "company": "Eleve Talent",
+   "category": "Knit",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Knit"
+   ],
+   "posted": "2026-10-20T14:40:36+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-research-director-362690",
+   "source": "Arbeitnow",
+   "excerpt": "Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
+   "title": "Senior / Lead Developer - Core Data Services (SAP BTP) (m/f/d)",
+   "company": "Fioneer",
+   "category": "Information Technology and Services",
+   "type": "",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Information Technology and Services",
+    "Lending",
+    "Remote"
+   ],
+   "posted": "2026-10-20T14:20:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
+   "source": "Arbeitnow",
+   "excerpt": "Innovation is and will always be the core of SAP Fioneer, and it is the promise of why we were spun out of SAP: agility, innovation, and delivery. SAP Fioneer builds on a heritage of outstanding technology and a deep understanding of..."
+  },
+  {
+   "id": "Arbeitnow-senior-technical-product-manager-munich-271301",
+   "title": "Senior Technical Product Manager (m/w/d)",
+   "company": "Digital Loop GmbH",
    "category": "Remote",
    "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Munich",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Product Management"
+   ],
+   "posted": "2026-10-20T13:30:49+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/digital-loop-gmbh/senior-technical-product-manager-munich-271301",
+   "source": "Arbeitnow",
+   "excerpt": "Über Digital Loop Digital Loop ist ein in Deutschland ansässiges Beratungs- und Lösungsunternehmen. Wir unterstützen Geschäftskunden bei der Identifizierung und Bewältigung von Herausforderungen in den Bereichen Marketingtechnologie, KI,..."
+  },
+  {
+   "id": "Arbeitnow-apporteur-daffaires-independant-paris-277424",
+   "title": "Apporteur d’affaires indépendant",
+   "company": "PropertyOS",
+   "category": "Remote",
+   "type": "Auto Entrepreneur/Indépendant",
+   "location": "Paris",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Business Development"
+   ],
+   "posted": "2026-10-20T13:30:49+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/propertyos/apporteur-daffaires-independant-paris-277424",
+   "source": "Arbeitnow",
+   "excerpt": "🚀 Apporteur d’affaires indépendant — Développez votre réseau avec PropertyOS 100 % à distance · Organisation libre · Commission sur les ventes issues de vos recommandations Vous aimez créer des contacts, repérer des opportunités et mettre..."
+  },
+  {
+   "id": "Arbeitnow-recruiter-headhunter-nur-fur-unser-unternehmen-remote-konz-458655",
+   "title": "Recruiter (m/w/d) - Headhunter (w/m/d) - nur für unser Unternehmen - Remote",
+   "company": "Barz-Bürodienstleistung",
+   "category": "Remote",
+   "type": "Nebentätigkeit",
+   "location": "Konz",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Recruitment and Selection"
+   ],
+   "posted": "2026-10-20T12:31:03+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/barz-burodienstleistung/recruiter-headhunter-nur-fur-unser-unternehmen-remote-konz-458655",
+   "source": "Arbeitnow",
+   "excerpt": "Einleitung Wir (J.Poppe& Partner) sind in der Unternehmerberatung tätig. Unsere Aufgabe ist es, die Einnahmen und Ausgaben gewinnbringend zu optimieren. Dies machen wir für kleine und mittelständische Unternehmen, zusätzlich bieten wir das..."
+  },
+  {
+   "id": "Arbeitnow-systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
+   "title": "Systems Analyst/ IT Project Manager as Freelancer (all genders)",
+   "company": "Vexcash AG",
+   "category": "Remote",
+   "type": "Freelancer / Indepedent Contractor",
    "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Training",
-    "Development"
+    "Project Management"
    ],
-   "posted": "2026-10-20T10:01:01+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/honda-bank-gmbh/dealer-training-and-renewal-performance-lead-berlin-246498",
+   "posted": "2026-10-20T12:00:50+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
    "source": "Arbeitnow",
-   "excerpt": "Ihre Aufgaben Durchführung praxisorientierter Trainings, Workshops und On-the-Job-Coachings für Verkaufsmitarbeiter und Führungskräfte im Händlernetz. Unterstützung von Motorradhändlern bei der professionellen Kundenberatung und dem..."
+   "excerpt": "About Vexcash AGVEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our..."
   },
   {
-   "id": "Arbeitnow-remote-regional-sales-director-142142",
-   "title": "Regional Sales Director",
-   "company": "gitlab",
-   "category": "EMEA - Enterprise",
+   "id": "Arbeitnow-quality-and-assurance-manager-as-freelancer-all-genders-berlin-432924",
+   "title": "Quality and Assurance Manager as Freelancer (all genders)",
+   "company": "Vexcash AG",
+   "category": "Remote",
+   "type": "Freelancer / Indepedent Contractor",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Quality Management"
+   ],
+   "posted": "2026-10-20T12:00:50+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-and-assurance-manager-as-freelancer-all-genders-berlin-432924",
+   "source": "Arbeitnow",
+   "excerpt": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-executive-commercial-455658",
+   "title": "Account Executive, Commercial",
+   "company": "purestorage",
+   "category": "Sales",
    "type": "",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "EMEA - Enterprise"
+    "Sales"
    ],
-   "posted": "2026-10-20T08:55:26+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-regional-sales-director-142142",
+   "posted": "2026-10-20T11:55:21+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-account-executive-commercial-455658",
    "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+   "excerpt": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda..."
+  },
+  {
+   "id": "Arbeitnow-senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
+   "title": "Senior Software Engineer (all identities) - Healthcare Integrations",
+   "company": "Caspar Health",
+   "category": "Remote",
+   "type": "Permanent Employment",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Software Development"
+   ],
+   "posted": "2026-10-20T11:30:57+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
+   "source": "Arbeitnow",
+   "excerpt": "Das erwartet Dich Caspar Health connects digital rehabilitation with personal therapeutic care. We help people receive care during and after their clinic stay, wherever they are. We are looking for a Senior Software Engineer to join our..."
+  },
+  {
+   "id": "Arbeitnow-senior-sales-manager-mobile-performance-advertising-berlin-207173",
+   "title": "Senior Sales Manager – Mobile Performance Advertising",
+   "company": "REPLUG",
+   "category": "Remote",
+   "type": "Fixed Term Contract",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-10-20T11:30:57+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/replug/senior-sales-manager-mobile-performance-advertising-berlin-207173",
+   "source": "Arbeitnow",
+   "excerpt": "About REPLUG REPLUG is a Mobile Revenue Growth partner that helps companies turn mobile into a measurable driver of revenue, customer value, and long-term business growth. From global app publishers to established brands looking to unlock..."
+  },
+  {
+   "id": "Jobicy-155966",
+   "title": "Staff Systems Engineer",
+   "company": "Paddle",
+   "category": "Cybersecurity",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:43+00:00",
+   "url": "https://jobicy.com/jobs/155966-staff-systems-engineer",
+   "source": "Jobicy",
+   "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
+  },
+  {
+   "id": "Jobicy-155963",
+   "title": "Senior AI Engineer (GTM)",
+   "company": "Paddle",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Canada, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:43+00:00",
+   "url": "https://jobicy.com/jobs/155963-senior-ai-engineer-gtm",
+   "source": "Jobicy",
+   "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
+  },
+  {
+   "id": "Jobicy-155962",
+   "title": "Microsoft 365 Engineer",
+   "company": "Nebius",
+   "category": "Cybersecurity",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:43+00:00",
+   "url": "https://jobicy.com/jobs/155962-microsoft-365-engineer",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155965",
+   "title": "Strategic Account Executive, Life Science",
+   "company": "Databricks",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Denmark",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:42+00:00",
+   "url": "https://jobicy.com/jobs/155965-strategic-account-executive-life-science",
+   "source": "Jobicy",
+   "excerpt": "SLSQ327R4 Do you want to help solve the world's toughest problems with big data and AI? This is what we do every day at Databricks. We are looking for a creative, execution-oriented Strategic Account Executive to join the team to maximise..."
+  },
+  {
+   "id": "Jobicy-155958",
+   "title": "Senior FP&A Analyst",
+   "company": "Paddle",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "Canada, Ireland, UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:42+00:00",
+   "url": "https://jobicy.com/jobs/155958-senior-fpa-analyst",
+   "source": "Jobicy",
+   "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
+  },
+  {
+   "id": "Jobicy-155964",
+   "title": "ML Infrastructure Engineer",
+   "company": "Nebius",
+   "category": "DevOps & Infrastructure",
+   "type": "Full Time",
+   "location": "Europe, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:41+00:00",
+   "url": "https://jobicy.com/jobs/155964-ml-infrastructure-engineer",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155961",
+   "title": "Product Marketing Lead, Billing",
+   "company": "Paddle",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:41+00:00",
+   "url": "https://jobicy.com/jobs/155961-product-marketing-lead-billing",
+   "source": "Jobicy",
+   "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
+  },
+  {
+   "id": "Jobicy-155959",
+   "title": "Engineering Manager, Compose",
+   "company": "Mural",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Spain, UK, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:41+00:00",
+   "url": "https://jobicy.com/jobs/155959-engineering-manager-compose",
+   "source": "Jobicy",
+   "excerpt": "ABOUT THE TEAM The Mural Compose team is ambitious and fast-moving. We are passionate builders who love to experiment and iterate. Our project is seeking to leverage the latest technology in AI to acquire new customers and expand our..."
+  },
+  {
+   "id": "Jobicy-155957",
+   "title": "Proposal Manager",
+   "company": "D2L",
+   "category": "Content & Editorial",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T10:01:39+00:00",
+   "url": "https://jobicy.com/jobs/155957-proposal-manager",
+   "source": "Jobicy",
+   "excerpt": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New..."
+  },
+  {
+   "id": "Jobicy-155952",
+   "title": "Founding Enterprise Account Executive, UK - Tavily",
+   "company": "Nebius",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:33+00:00",
+   "url": "https://jobicy.com/jobs/155952-founding-enterprise-account-executive-uk-tavily",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155956",
+   "title": "Manager, ML Solutions Architecture - Token Factory",
+   "company": "Nebius",
+   "category": "Product & Operations",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155955",
+   "title": "Learning Experience Designer, Nebius Academy",
+   "company": "Nebius",
+   "category": "Education & E-learning",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155951",
+   "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+   "company": "Nebius",
+   "category": "DevOps & Infrastructure",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155950",
+   "title": "Full Stack Engineer",
+   "company": "infisical",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Brazil, Canada, Europe, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155950-full-stack-engineer-7",
+   "source": "Jobicy",
+   "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month..."
+  },
+  {
+   "id": "Jobicy-155949",
+   "title": "Senior Full Stack Engineer",
+   "company": "infisical",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Brazil, Canada, Europe, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155949-senior-full-stack-engineer-8",
+   "source": "Jobicy",
+   "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month..."
+  },
+  {
+   "id": "Jobicy-155947",
+   "title": "Director of MSSP Sales, EMEA",
+   "company": "ExtraHop",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:32+00:00",
+   "url": "https://jobicy.com/jobs/155947-director-of-mssp-sales-emea",
+   "source": "Jobicy",
+   "excerpt": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems,..."
+  },
+  {
+   "id": "Jobicy-155954",
+   "title": "Head of Employee Relations",
+   "company": "Nebius",
+   "category": "HR & Recruiting",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:31+00:00",
+   "url": "https://jobicy.com/jobs/155954-head-of-employee-relations",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155948",
+   "title": "3PL Operations Manager",
+   "company": "Nebius",
+   "category": "Product & Operations",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:31+00:00",
+   "url": "https://jobicy.com/jobs/155948-3pl-operations-manager",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
+  },
+  {
+   "id": "Jobicy-155953",
+   "title": "Group Product Manager - Platform Experience",
+   "company": "Nebius",
+   "category": "Product & Operations",
+   "type": "Full Time",
+   "location": "Europe",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-20T09:59:30+00:00",
+   "url": "https://jobicy.com/jobs/155953-group-product-manager-platform-experience",
+   "source": "Jobicy",
+   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
   },
   {
    "id": "Arbeitnow-remote-hoofdmonteur-warmtepompen-85022",
@@ -50,176 +564,6 @@
    "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/remote-hoofdmonteur-warmtepompen-85022",
    "source": "Arbeitnow",
    "excerpt": "Bij DeWarmte maken we slimme en betaalbare warmtepompen waarmee we woningen van het gas af helpen. We ontwerpen onze producten zelf, assembleren ze in Utrecht en zorgen samen met onze installatiepartners dat ze bij steeds meer mensen thuis..."
-  },
-  {
-   "id": "Arbeitnow-telesales-agent-im-home-office-outbound-berlin-401656",
-   "title": "Telesales Agent (w/m/d) im Home-Office (Outbound)",
-   "company": "FFG FINANZCHECK Finanzportale GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:44+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/telesales-agent-im-home-office-outbound-berlin-401656",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
-  },
-  {
-   "id": "Arbeitnow-kundenberater-kreditabsicherung-im-homeoffice-berlin-213195",
-   "title": "Kundenberater - Kreditabsicherung im Homeoffice (w/m/d)",
-   "company": "FFG FINANZCHECK Finanzportale GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-20T08:30:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/kundenberater-kreditabsicherung-im-homeoffice-berlin-213195",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
-  },
-  {
-   "id": "Arbeitnow-absicherungsspezialist-kredit-im-homeoffice-berlin-262929",
-   "title": "Absicherungsspezialist - Kredit im Homeoffice (w/m/d)",
-   "company": "FFG FINANZCHECK Finanzportale GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-20T08:30:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/absicherungsspezialist-kredit-im-homeoffice-berlin-262929",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
-  },
-  {
-   "id": "Arbeitnow-vertriebsmitarbeiter-im-homeoffice-deutschlandweit-berlin-96695",
-   "title": "Vertriebsmitarbeiter im Homeoffice deutschlandweit (w/m/d)",
-   "company": "FFG FINANZCHECK Finanzportale GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-im-homeoffice-deutschlandweit-berlin-96695",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
-  },
-  {
-   "id": "Arbeitnow-sales-manager-im-homeoffice-deutschlandweit-berlin-229940",
-   "title": "Sales Manager im Homeoffice deutschlandweit (w/m/d)",
-   "company": "FFG FINANZCHECK Finanzportale GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/sales-manager-im-homeoffice-deutschlandweit-berlin-229940",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer..."
-  },
-  {
-   "id": "Arbeitnow-vertriebsprofi-kreditberatung-im-homeoffice-berlin-247462",
-   "title": "Vertriebsprofi - Kreditberatung im Homeoffice (w/m/d)",
-   "company": "Smava GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/vertriebsprofi-kreditberatung-im-homeoffice-berlin-247462",
-   "source": "Arbeitnow",
-   "excerpt": "Du bist im Vertrieb zu Hause und weißt genau, dass Leistung sich lohnen muss? Dann bist du bei smava genau richtig. Wir sind eines der führenden Online-Kreditportale in Deutschland und bringen seit Jahren erfolgreich Kund*innen und Banken..."
-  },
-  {
-   "id": "Arbeitnow-telesales-agent-im-home-office-outbound-berlin-388259",
-   "title": "Telesales Agent (w/m/d) im Home-Office (Outbound)",
-   "company": "Smava GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/telesales-agent-im-home-office-outbound-berlin-388259",
-   "source": "Arbeitnow",
-   "excerpt": "Hey hey Kommunikationsprofi! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und..."
-  },
-  {
-   "id": "Arbeitnow-vertriebsmitarbeiter-im-homeoffice-deutschlandweit-berlin-112795",
-   "title": "Vertriebsmitarbeiter im Homeoffice - deutschlandweit (w/m/d)",
-   "company": "Smava GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/vertriebsmitarbeiter-im-homeoffice-deutschlandweit-berlin-112795",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst etwas erreichen? Dann mach. smava ist Deutschlands Online-Kreditvergleich — wir machen Kredite transparent, fair und günstig. Für unsere Kreditberatung suchen wir Teammitglieder, die Bock haben, mit starker Beratung echte..."
-  },
-  {
-   "id": "Arbeitnow-sales-manager-im-homeoffice-deutschlandweit-berlin-235918",
-   "title": "Sales Manager im Homeoffice deutschlandweit (w/m/d)",
-   "company": "Smava GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Credit Analysis"
-   ],
-   "posted": "2026-10-20T08:30:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/sales-manager-im-homeoffice-deutschlandweit-berlin-235918",
-   "source": "Arbeitnow",
-   "excerpt": "Du willst etwas erreichen? Dann mach. smava ist Deutschlands Online-Kreditvergleich — wir machen Kredite transparent, fair und günstig. Für unsere Kreditberatung suchen wir Teammitglieder, die Bock haben, mit starker Beratung echte..."
-  },
-  {
-   "id": "Arbeitnow-homeoffice-kundensupport-in-vollzeit-monheim-am-rhein-30496",
-   "title": "Homeoffice Kundensupport (m/w/d) in Vollzeit",
-   "company": "Simplyright GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Monheim am Rhein",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-20T06:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/homeoffice-kundensupport-in-vollzeit-monheim-am-rhein-30496",
-   "source": "Arbeitnow",
-   "excerpt": "Über Simplyright Wir bei Simplyright helfen unseren Kunden dabei, ihr Recht schnell und unkompliziert durchzusetzen. Unser Fokus liegt unter anderem darauf, unzulässige Kontogebühren von Banken zurückzufordern oder zu viel gezahlte..."
   },
   {
    "id": "Jobicy-153642",
@@ -656,272 +1000,6 @@
    "excerpt": "NetBox Labs is seeking a Senior Account Executive (AE) to play a pivotal role in the growth and expansion of our business in the DACH region. You will be tasked with proactive outbound prospecting and managing inbound leads. Given the..."
   },
   {
-   "id": "Jobicy-153629",
-   "title": "Manager, Software Engineering, Operations",
-   "company": "Jobber",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Canada, USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:23+00:00",
-   "url": "https://jobicy.com/jobs/153629-manager-software-engineering-operations",
-   "source": "Jobicy",
-   "excerpt": "Want to lead engineers building software that helps pros get the job done and know exactly how their business is doing? Then Jobber might be the place for you! We’re looking for a Manager, Software Engineering to be part of our SP (Service..."
-  },
-  {
-   "id": "Jobicy-153634",
-   "title": "Named Technical Support Engineer",
-   "company": "Roboflow",
-   "category": "Technical Support",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:21+00:00",
-   "url": "https://jobicy.com/jobs/153634-named-technical-support-engineer",
-   "source": "Jobicy",
-   "excerpt": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the..."
-  },
-  {
-   "id": "Jobicy-151003",
-   "title": "Testing a Financial App for Italian Business Owners",
-   "company": "Testlio",
-   "category": "QA & Testing",
-   "type": "Full Time",
-   "location": "EMEA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:20+00:00",
-   "url": "https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners",
-   "source": "Jobicy",
-   "excerpt": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote..."
-  },
-  {
-   "id": "Jobicy-153638",
-   "title": "Data Engineer (FedD024)",
-   "company": "Defense Unicorns",
-   "category": "Data Science & Analytics",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:18+00:00",
-   "url": "https://jobicy.com/jobs/153638-data-engineer-fedd024",
-   "source": "Jobicy",
-   "excerpt": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE U.S. CITIZENSHIP. Responsibilities: Designing data workflows, pipelines, and pathways to support ETL/ELT, while ensuring data-quality and exchange of sensitive..."
-  },
-  {
-   "id": "Jobicy-151014",
-   "title": "Associate Linux Support Engineer",
-   "company": "Canonical",
-   "category": "Technical Support",
-   "type": "Full Time",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:16+00:00",
-   "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
-   "source": "Jobicy",
-   "excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data..."
-  },
-  {
-   "id": "Jobicy-153641",
-   "title": "Engineering Manager (Platform - Application Excellence)",
-   "company": "Paddle",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Ireland, Portugal, UK",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:15+00:00",
-   "url": "https://jobicy.com/jobs/153641-engineering-manager-platform-application-excellence",
-   "source": "Jobicy",
-   "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record..."
-  },
-  {
-   "id": "Jobicy-153648",
-   "title": "Enterprise Sales Engineer - DACH",
-   "company": "Chainguard",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:13+00:00",
-   "url": "https://jobicy.com/jobs/153648-enterprise-sales-engineer-dach",
-   "source": "Jobicy",
-   "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and..."
-  },
-  {
-   "id": "Jobicy-153649",
-   "title": "Senior Software Engineer - Go",
-   "company": "Paddle",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Ireland, Portugal, UK",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:12+00:00",
-   "url": "https://jobicy.com/jobs/153649-senior-software-engineer-go",
-   "source": "Jobicy",
-   "excerpt": "What do we do? Paddle offers SaaS companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we act as a Merchant of Record for..."
-  },
-  {
-   "id": "Jobicy-150994",
-   "title": "Software Engineer - Secure Container Images",
-   "company": "Canonical",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:10+00:00",
-   "url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
-   "source": "Jobicy",
-   "excerpt": "With more than 10 billion pulls, Canonical's container images are trusted by developers worldwide to build and run software securely and at scale. That trust rests on our commitment to hardened, production-ready images.We are advancing the..."
-  },
-  {
-   "id": "Jobicy-153640",
-   "title": "Director, EMEA Government Affairs & Public Policy",
-   "company": "Chainguard",
-   "category": "Legal & Compliance",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:09+00:00",
-   "url": "https://jobicy.com/jobs/153640-director-emea-government-affairs-public-policy",
-   "source": "Jobicy",
-   "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and..."
-  },
-  {
-   "id": "Jobicy-153628",
-   "title": "Associate Director, B2B Strategy",
-   "company": "Wpromote",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:08+00:00",
-   "url": "https://jobicy.com/jobs/153628-associate-director-b2b-strategy",
-   "source": "Jobicy",
-   "excerpt": "The Role As the Associate Director of B2B Media Strategy, you will lead enterprise and growth-stage clients in translating complex business goals into measurable marketing outcomes. You’ll shape integrated go-to-market strategies that..."
-  },
-  {
-   "id": "Jobicy-153621",
-   "title": "Director, Software Engineering (AI Workflows & Ecosystem)",
-   "company": "Jobber",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:06+00:00",
-   "url": "https://jobicy.com/jobs/153621-director-software-engineering-ai-workflows-ecosystem-2",
-   "source": "Jobicy",
-   "excerpt": "Are you driven to bring people, technology, and strategy together to build impactful software? Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, painters,..."
-  },
-  {
-   "id": "Jobicy-153625",
-   "title": "Staff Product Manager, Fintech New Bets",
-   "company": "Jobber",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "Canada",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:25:05+00:00",
-   "url": "https://jobicy.com/jobs/153625-staff-product-manager-fintech-new-bets",
-   "source": "Jobicy",
-   "excerpt": "Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, electricians, painters, and landscapers, to transform the way service is delivered through technology...."
-  },
-  {
-   "id": "Jobicy-151147",
-   "title": "Customer Success Manager",
-   "company": "SOCi",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Canada",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:32+00:00",
-   "url": "https://jobicy.com/jobs/151147-customer-success-manager-13",
-   "source": "Jobicy",
-   "excerpt": "SOCi, the leader in AI-powered marketing solutions for multi-location businesses, is currently looking for a Customer Success Manager to grow long-term profitable customer relationships by making strategic, operational and measurable..."
-  },
-  {
-   "id": "Jobicy-151131",
-   "title": "Senior UICC/eUICC/eSIM Engineer",
-   "company": "emnify",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Austria, Germany, Poland, Switzerland",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:31+00:00",
-   "url": "https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer",
-   "source": "Jobicy",
-   "excerpt": "Your Role We are looking for a hands-on UICC/eUICC/eSIM specialist to take ownership of the engineering, interoperability, and certification readiness of our Consumer eSIM (SGP.22) and IoT eUICC (SGP.32) products. You will operate across..."
-  },
-  {
-   "id": "Jobicy-151126",
-   "title": "Senior Loan Fulfillment Specialist",
-   "company": "Happy Money",
-   "category": "Finance & Accounting",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:29+00:00",
-   "url": "https://jobicy.com/jobs/151126-senior-loan-fulfillment-specialist",
-   "source": "Jobicy",
-   "excerpt": "ABOUT HAPPY MONEY Happy Money is a consumer finance company that empowers people to achieve their goals through simple, transparent loans funded by trusted financial institutions. Through its proprietary lending platform, Hive, Happy Money..."
-  },
-  {
-   "id": "Jobicy-146131",
-   "title": "Customer Experience Analyst",
-   "company": "TechMagic",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Ukraine",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:26+00:00",
-   "url": "https://jobicy.com/jobs/146131-customer-experience-analyst",
-   "source": "Jobicy",
-   "excerpt": "We are looking for a Customer Experience Analyst to join our client — a globally recognized leader in the luxury hospitality sector. This is an enterprise-level project involving high-traffic web solutions and complex integrations. You..."
-  },
-  {
-   "id": "Jobicy-151124",
-   "title": "Senior Software Engineer (SmartCard Development)",
-   "company": "emnify",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "Germany, Poland",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:25+00:00",
-   "url": "https://jobicy.com/jobs/151124-senior-software-engineer-smartcard-development",
-   "source": "Jobicy",
-   "excerpt": "1"
-  },
-  {
-   "id": "Jobicy-151164",
-   "title": "Director of Product Marketing",
-   "company": "ActiveCampaign",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-20T03:20:24+00:00",
-   "url": "https://jobicy.com/jobs/151164-director-of-product-marketing",
-   "source": "Jobicy",
-   "excerpt": "AI is fundamentally changing how product strategy and market strategy work together. The boundary between building the right product and bringing it to market the right way is disappearing — and the companies that recognize this will build..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-uitvoerder-kabels-leidingen-railinfra-utrecht-406773",
    "title": "Senior Uitvoerder kabels & leidingen Railinfra",
    "company": "Dura Vermeer",
@@ -958,72 +1036,6 @@
    "excerpt": "Seeq builds advanced analytics software that unlocks insights from industrial process data—empowering companies in sectors like pharmaceuticals, oil & gas, chemicals, and power generation to optimize operations and drive business value. As..."
   },
   {
-   "id": "Arbeitnow-remote-software-test-engineer-bern-226881",
-   "title": "Software Test Engineer",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Software Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Software Engineering",
-    "Remote"
-   ],
-   "posted": "2026-10-19T17:31:28+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-226881",
-   "source": "Arbeitnow",
-   "excerpt": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest..."
-  },
-  {
-   "id": "Arbeitnow-remote-servicenow-ai-architect-zurich-117232",
-   "title": "ServiceNow AI Architect",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-19T17:31:28+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-117232",
-   "source": "Arbeitnow",
-   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing..."
-  },
-  {
-   "id": "Arbeitnow-remote-servicenow-crm-architect-zurich-146244",
-   "title": "ServiceNow CRM Architect",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-19T17:31:28+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-146244",
-   "source": "Arbeitnow",
-   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within..."
-  },
-  {
-   "id": "Arbeitnow-remote-responsable-commercial-epi-h-f-bordeaux-70175",
-   "title": "Responsable commercial EPI H/F",
-   "company": "RH Partners",
-   "category": "Commerce et Vente",
-   "type": "Mid",
-   "location": "Poste à distance",
-   "salary": "",
-   "tags": [
-    "Commerce et Vente",
-    "Remote"
-   ],
-   "posted": "2026-10-19T17:31:27+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-epi-h-f-bordeaux-70175",
-   "source": "Arbeitnow",
-   "excerpt": "L’entreprise Notre client est un groupe belge reconnu à l’échelle européenne pour son expertise dans les équipements de protection individuelle. À travers sa marque SIP Protection, il conçoit des vêtements et équipements techniques dédiés..."
-  },
-  {
    "id": "Arbeitnow-remote-data-privacy-compliance-specialist-amsterdam-rotterdam-445275",
    "title": "Data Privacy Compliance Specialist",
    "company": "DeepHealth",
@@ -1043,38 +1055,23 @@
    "excerpt": "The Data Privacy Compliance Specialist supports DeepHealth's global data privacy programs, including HIPAA and GDPR. Reporting to the Data Privacy Compliance Lead, this role collaborates across the organization to help ensure personal data..."
   },
   {
-   "id": "Arbeitnow-full-stack-developer-paris-258791",
-   "title": "Full-stack Developer",
-   "company": "ADOMIK",
-   "category": "Remote",
-   "type": "Self Employed/Freelance (Auto Entrepreneur/Indépendant)",
-   "location": "Paris",
+   "id": "Remote OK-1137547",
+   "title": "Customer Support Consultant hospitality",
+   "company": "SupportYourApp",
+   "category": "Consulting",
+   "type": "",
+   "location": "Anywhere",
    "salary": "",
    "tags": [
-    "Remote",
-    "Development"
+    "consulting",
+    "customer support",
+    "saas",
+    "infosec"
    ],
-   "posted": "2026-10-19T17:00:57+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
-   "source": "Arbeitnow",
-   "excerpt": "As a leading ad tech company, we help publishers thrive in an increasingly challenging and complex digital world dominated by GAFAs. Our unique AI-based SaaS platform offers a range of products that help publishers optimize their revenue..."
-  },
-  {
-   "id": "Arbeitnow-remote-sap-s-4hana-finance-tax-consultant-zurich-245808",
-   "title": "Remote SAP S/4HANA Finance & Tax Consultant",
-   "company": "PROSTAFF Schweiz GmbH",
-   "category": "Remote",
-   "type": "Permanent Employment",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-19T09:31:37+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-sap-s-4hana-finance-tax-consultant-zurich-245808",
-   "source": "Arbeitnow",
-   "excerpt": "For an international SAP S/4HANA transformation project, we are looking for an experienced SAP S/4HANA Finance & Tax Consultant to support Finance, Tax, and Compliance activities. The role focuses on SAP ECC to S/4HANA migration, finance..."
+   "posted": "2026-10-19T16:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+   "source": "Remote OK",
+   "excerpt": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical..."
   },
   {
    "id": "Arbeitnow-remote-recruitment-stagiair-stageplek-bij-de-afdeling-recruitment-van-cordaan-amsterdam-44820",
