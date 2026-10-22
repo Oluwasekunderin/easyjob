@@ -1,22 +1,127 @@
 {
- "updated": "2026-10-21T21:27:20+00:00",
+ "updated": "2026-10-22T04:07:44+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-senior-talent-agent-all-genders-berlin-151891",
-   "title": "(Senior) Talent Agent (all genders)",
-   "company": "Representing Artists",
+   "id": "Arbeitnow-remote-initiative-application-387420",
+   "title": "Initiative Application",
+   "company": "Certa",
+   "category": "Future Opportunities",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Future Opportunities"
+   ],
+   "posted": "2026-10-22T02:40:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/certa/remote-initiative-application-387420",
+   "source": "Arbeitnow",
+   "excerpt": "Certa is the AI-first third-party operating system. Enterprises, from the Fortune 500 to fast-growing startups, use our no-code platform to onboard, assess, and monitor their vendors, suppliers, and partners across risk, compliance, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-seo-digital-marketing-specialist-switzerland-427846",
+   "title": "SEO & Digital Marketing Specialist",
+   "company": "Pavago",
+   "category": "Staffing and Recruiting",
+   "type": "",
+   "location": "Switzerland",
+   "salary": "",
+   "tags": [
+    "Staffing and Recruiting",
+    "Remote"
+   ],
+   "posted": "2026-10-22T02:20:19+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/pavago/remote-seo-digital-marketing-specialist-switzerland-427846",
+   "source": "Arbeitnow",
+   "excerpt": "SEO & Digital Marketing Specialist – Technical SEO, Google Ads & Lead Generation | Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours Experience Level: Mid-Level to Senior Department: Digital Marketing / Growth..."
+  },
+  {
+   "id": "Arbeitnow-technical-outsource-manager-munich-193500",
+   "title": "Technical Outsource Manager (m/w/d)",
+   "company": "ICT Digital Solutions",
    "category": "Remote",
    "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
+   "location": "Munich",
    "salary": "",
    "tags": [
     "Remote",
-    "Recruitment and Selection"
+    "Software Development"
    ],
-   "posted": "2026-10-21T19:17:34+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/representing-artists/senior-talent-agent-all-genders-berlin-151891",
+   "posted": "2026-10-21T22:00:45+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-193500",
    "source": "Arbeitnow",
-   "excerpt": "Representing Artists ist eine Künstleragentur für Kreativschaffende aus Film, Fernsehen und Theater. Wir verbinden persönliche, strategische Repräsentation mit einer innovativen digitalen Infrastruktur, die Raum für das Wesentliche..."
+   "excerpt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Technical Outsource Manager (m/w/d) in Berlin. Unser Team bietet eine einzigartige Gelegenheit für einen Technischen Outsourcing-Manager (m/w/d), der als..."
+  },
+  {
+   "id": "Arbeitnow-remote-marketing-manager-fertility-314188",
+   "title": "Marketing Manager, Fertility",
+   "company": "Engagedmd",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Marketing"
+   ],
+   "posted": "2026-10-21T20:40:20+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-marketing-manager-fertility-314188",
+   "source": "Arbeitnow",
+   "excerpt": "You’re a well-rounded marketing professional who knows how to translate complex products into compelling messaging, enable sales teams, and execute marketing initiatives that drive business growth. We’re EngagedMD, a Patient Journey..."
+  },
+  {
+   "id": "Arbeitnow-founding-deployment-strategist-erp-ai-paris-114494",
+   "title": "Founding Deployment Strategist [ERP + AI]",
+   "company": "Piston",
+   "category": "Remote",
+   "type": "Permanent Contract (Cdi   Contrat À Durée Indéterminée)",
+   "location": "Paris",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "SAP/ERP Consulting",
+    "Development"
+   ],
+   "posted": "2026-10-21T20:30:37+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/piston/founding-deployment-strategist-erp-ai-paris-114494",
+   "source": "Arbeitnow",
+   "excerpt": "TL;DR We're building the SAP/NetSuite of the AI era for mid-sized companies in the real-world economy, starting with their supply chain operations (buy, sell, stock, produce) Founding deployment strategist : you deploy two things into real..."
+  },
+  {
+   "id": "Arbeitnow-remote-performance-marketing-manager-paid-social-switzerland-8022",
+   "title": "Performance Marketing Manager - Paid Social (m/f/d)",
+   "company": "Hilobyaktiia",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Switzerland",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Medical Devices",
+    "Marketing/Brand",
+    "Remote"
+   ],
+   "posted": "2026-10-21T20:20:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hilobyaktiia/remote-performance-marketing-manager-paid-social-switzerland-8022",
+   "source": "Arbeitnow",
+   "excerpt": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of..."
+  },
+  {
+   "id": "Arbeitnow-remote-performance-marketing-manager-paid-search-switzerland-114969",
+   "title": "Performance Marketing Manager - Paid Search (m/f/d)",
+   "company": "Hilobyaktiia",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "Switzerland",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Medical Devices",
+    "Marketing/Brand",
+    "Remote"
+   ],
+   "posted": "2026-10-21T20:20:09+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hilobyaktiia/remote-performance-marketing-manager-paid-search-switzerland-114969",
+   "source": "Arbeitnow",
+   "excerpt": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of..."
   },
   {
    "id": "Arbeitnow-copywriter-direct-response-100-remote-berlin-444204",
@@ -35,6 +140,118 @@
    "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/copywriter-direct-response-100-remote-berlin-444204",
    "source": "Arbeitnow",
    "excerpt": "Du willst Texte schreiben, die wirklich verkaufen? Dann lies weiter. Viele Copywriter kennen das: Jeder Text wird von fünf Leuten zerredet. Man schreibt für zehn Kunden gleichzeitig und kann für keinen richtig tief gehen. Für jede..."
+  },
+  {
+   "id": "Jobicy-156261",
+   "title": "Mid-Market Account Executive",
+   "company": "MaintainX",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:51+00:00",
+   "url": "https://jobicy.com/jobs/156261-mid-market-account-executive-7",
+   "source": "Jobicy",
+   "excerpt": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better..."
+  },
+  {
+   "id": "Jobicy-156262",
+   "title": "Legal Operations Manager",
+   "company": "Amplitude",
+   "category": "Legal & Compliance",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:50+00:00",
+   "url": "https://jobicy.com/jobs/156262-legal-operations-manager",
+   "source": "Jobicy",
+   "excerpt": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform,..."
+  },
+  {
+   "id": "Jobicy-156257",
+   "title": "Senior Director, BSS Engineering & Product​",
+   "company": "Vonage",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Spain",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:50+00:00",
+   "url": "https://jobicy.com/jobs/156257-senior-director-bss-engineering-product",
+   "source": "Jobicy",
+   "excerpt": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: BSS Engineering and Product is a critical enabler of Vonage's commercial platform, ensuring our business support systems are scalable,..."
+  },
+  {
+   "id": "Jobicy-156263",
+   "title": "Enterprise Solution Engineer - South East / Mid Atlantic",
+   "company": "Sigma Computing",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:49+00:00",
+   "url": "https://jobicy.com/jobs/156263-enterprise-solution-engineer-south-east-mid-atlantic",
+   "source": "Jobicy",
+   "excerpt": "Sigma’s vision is to create an insight-driven world where people, organizations, and, ultimately, humanity are transformed for the better by data. At Sigma, we are building a cloud-native business intelligence platform that allows users to..."
+  },
+  {
+   "id": "Jobicy-156260",
+   "title": "Mid-Market Account Executive - EMEA",
+   "company": "MaintainX",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "UK",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:49+00:00",
+   "url": "https://jobicy.com/jobs/156260-mid-market-account-executive-emea-2",
+   "source": "Jobicy",
+   "excerpt": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better..."
+  },
+  {
+   "id": "Jobicy-156259",
+   "title": "Sr. Marketing Automation Specialist",
+   "company": "Amplitude",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:48+00:00",
+   "url": "https://jobicy.com/jobs/156259-sr-marketing-automation-specialist",
+   "source": "Jobicy",
+   "excerpt": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform,..."
+  },
+  {
+   "id": "Jobicy-156258",
+   "title": "Inside Sales Representative - Enterprise",
+   "company": "MaintainX",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:48+00:00",
+   "url": "https://jobicy.com/jobs/156258-inside-sales-representative-enterprise",
+   "source": "Jobicy",
+   "excerpt": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better..."
+  },
+  {
+   "id": "Jobicy-156254",
+   "title": "Partner Solutions Architect - AWS",
+   "company": "Amplitude",
+   "category": "DevOps & Infrastructure",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-21T18:39:47+00:00",
+   "url": "https://jobicy.com/jobs/156254-partner-solutions-architect-aws",
+   "source": "Jobicy",
+   "excerpt": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform,..."
   },
   {
    "id": "Jobicy-156253",
@@ -676,20 +893,6 @@
    "excerpt": "Flex is building the AI-native private bank for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real..."
   },
   {
-   "id": "Jobicy-156205",
-   "title": "Sales & Marketing Operations Specialist - Mexico",
-   "company": "Brafton",
-   "category": "Marketing & Sales",
-   "type": "Contract",
-   "location": "Mexico",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T16:10:53+00:00",
-   "url": "https://jobicy.com/jobs/156205-sales-marketing-operations-specialist-mexico",
-   "source": "Jobicy",
-   "excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and..."
-  },
-  {
    "id": "Arbeitnow-signalling-security-specialist-paris-142621",
    "title": "Signalling Security Specialist",
    "company": "P1 Security",
@@ -777,118 +980,6 @@
    "excerpt": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung..."
   },
   {
-   "id": "Arbeitnow-remote-senior-sales-engineer-mena-384139",
-   "title": "Senior Sales Engineer - MENA",
-   "company": "Sardine",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Sales"
-   ],
-   "posted": "2026-10-21T14:40:19+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-384139",
-   "source": "Arbeitnow",
-   "excerpt": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-software-engineer-backend-distributed-systems-443737",
-   "title": "Senior Software Engineer, Backend - Distributed Systems",
-   "company": "Camunda",
-   "category": "Products",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Products"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-443737",
-   "source": "Arbeitnow",
-   "excerpt": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight,..."
-  },
-  {
-   "id": "Arbeitnow-remote-deployment-lead-erp-solutions-176661",
-   "title": "Deployment Lead - ERP Solutions",
-   "company": "Rillet",
-   "category": "Customer Experience",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Customer Experience"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-deployment-lead-erp-solutions-176661",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-remote-accounting-solutions-consultant-388307",
-   "title": "Accounting Solutions Consultant",
-   "company": "Rillet",
-   "category": "Customer Experience",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Customer Experience"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-accounting-solutions-consultant-388307",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-remote-account-executive-301718",
-   "title": "Account Executive",
-   "company": "Rillet",
-   "category": "GTM",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "GTM"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-account-executive-301718",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-remote-solutions-consultant-230567",
-   "title": "Solutions Consultant",
-   "company": "Rillet",
-   "category": "GTM",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "GTM"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-solutions-consultant-230567",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-remote-deployment-lead-accounting-solutions-400540",
-   "title": "Deployment Lead - Accounting Solutions",
-   "company": "Rillet",
-   "category": "Customer Experience",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Customer Experience"
-   ],
-   "posted": "2026-10-21T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-deployment-lead-accounting-solutions-400540",
-   "source": "Arbeitnow",
-   "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
    "id": "Arbeitnow-h3c-expert-fur-infrastruktur-migration-basel-429539",
    "title": "H3C Expert für Infrastruktur Migration",
    "company": "Coopers Group AG",
@@ -906,57 +997,6 @@
    "excerpt": "................ Für ein anspruchsvolles Infrastruktur-Transformationsprojekt in Basel suchen wir eine:n erfahrene: H3C Expert . Im Rahmen des Projekts wird eine bestehende Server-, Storage- und Virtualisierungslandschaft durch moderne..."
   },
   {
-   "id": "Arbeitnow-werkstudent-customer-success-support-berlin-240190",
-   "title": "Werkstudent Customer Success & Support (m/w/d)",
-   "company": "FunnelCockpit",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-21T14:31:01+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/funnelcockpit/werkstudent-customer-success-support-berlin-240190",
-   "source": "Arbeitnow",
-   "excerpt": "Wir sind FunnelCockpit – ein innovatives Software-Unternehmen. Unsere Mission: das beste All-in-One-Marketing-Tool für kleine und mittelständische Unternehmen zu bauen. Und wir sind auf einem sehr guten Weg dorthin. Damit wir weiter..."
-  },
-  {
-   "id": "Arbeitnow-remote-product-designer-germany-348547",
-   "title": "Product Designer",
-   "company": "Mlabs",
-   "category": "STE",
-   "type": "",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "STE",
-    "Remote"
-   ],
-   "posted": "2026-10-21T14:20:22+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-product-designer-germany-348547",
-   "source": "Arbeitnow",
-   "excerpt": "Location: UK, central Europe, and Latin America Remote | Full-time Compensation: Competitive Compensation Our client is seeking an experienced, full-time Product Designer to shape the core user experience of their trend intelligence..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-social-media-content-creator-berlin-283882",
-   "title": "Werkstudent Social Media & Content Creator (m/w/d)",
-   "company": "femsure GmbH",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-21T14:01:20+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/femsure-gmbh/werkstudent-social-media-content-creator-berlin-283882",
-   "source": "Arbeitnow",
-   "excerpt": "Berlin / Remote | 15 bis 20 Stunden pro Woche We make finance female. Versicherungen und Finanzen? Klingt erstmal nicht besonders sexy. Wir finden: Das muss sich ändern. femsure ist ein junges InsurTech Startup aus Berlin. Unsere Mission:..."
-  },
-  {
    "id": "Arbeitnow-scrum-master-safe-bern-234132",
    "title": "Scrum Master (SAFe)",
    "company": "Coopers Group AG",
@@ -972,23 +1012,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/scrum-master-safe-bern-234132",
    "source": "Arbeitnow",
    "excerpt": "................ Für ein langfristiges und technologisch anspruchsvolles Transformationsprogramm suchen wir für unseren Kunden aus Bern mehrere erfahrene In diesem Projekt unterstützt du die agile Umsetzung eines komplexen und..."
-  },
-  {
-   "id": "Arbeitnow-werkstudentin-chat-beratung-abends-samstag-100-remote-tierversicherung-startup-berlin-263644",
-   "title": "Werkstudent:in (m/w/d) Chat-Beratung | Abends + Samstag | 100% Remote | Tierversicherung-Startup",
-   "company": "LWB Group",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-21T13:31:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/lwb-group/werkstudentin-chat-beratung-abends-samstag-100-remote-tierversicherung-startup-berlin-263644",
-   "source": "Arbeitnow",
-   "excerpt": "Du hast Bock, ein Startup in der spannenden Welt der digitalen Tierversicherungen mit aufzubauen? Du tippst schneller, als andere denken , hast selbst ein Tier und willst neben dem Studium abends und am Samstag fest mitarbeiten? Dann bist..."
   },
   {
    "id": "Arbeitnow-remote-1186-senior-data-architect-french-speaking-france-176800",
@@ -1025,104 +1048,6 @@
    "excerpt": "................ For our banking client in Zurich , we are looking for an experienced Senior AI-Native Software Engineer / Coach to drive the transformation of software development through the practical application of AI. The objective of..."
   },
   {
-   "id": "Jobicy-156198",
-   "title": "Enterprise Account Executive - Singapore",
-   "company": "GitLab",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Singapore",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:02+00:00",
-   "url": "https://jobicy.com/jobs/156198-enterprise-account-executive-singapore",
-   "source": "Jobicy",
-   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
-  },
-  {
-   "id": "Jobicy-156197",
-   "title": "Senior Product Manager",
-   "company": "Envato",
-   "category": "Product & Operations",
-   "type": "Contract",
-   "location": "Australia, New Zealand",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:02+00:00",
-   "url": "https://jobicy.com/jobs/156197-senior-product-manager-11",
-   "source": "Jobicy",
-   "excerpt": "The role Envato is an all in one creative asset toolkit, bringing together world class creative assets and AI tools to help creative professionals bring their ideas to life. We’re looking for an experienced Senior Product Manager to join..."
-  },
-  {
-   "id": "Jobicy-156196",
-   "title": "Senior Sales Manager",
-   "company": "StackAdapt",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Australia",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:02+00:00",
-   "url": "https://jobicy.com/jobs/156196-senior-sales-manager-2",
-   "source": "Jobicy",
-   "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly..."
-  },
-  {
-   "id": "Jobicy-156195",
-   "title": "Customer Success Architect, Japan",
-   "company": "GitLab",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Japan",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:02+00:00",
-   "url": "https://jobicy.com/jobs/156195-customer-success-architect-japan",
-   "source": "Jobicy",
-   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
-  },
-  {
-   "id": "Jobicy-156194",
-   "title": "Senior Brand Lead",
-   "company": "Envato",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "Australia, New Zealand",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:01+00:00",
-   "url": "https://jobicy.com/jobs/156194-senior-brand-lead",
-   "source": "Jobicy",
-   "excerpt": "Help shape how Envato’s product shows up in the world Envato is an all-in-one creative asset toolkit, bringing together millions of creative assets and AI tools to help creative professionals make better work, faster. Everything we do in..."
-  },
-  {
-   "id": "Jobicy-156193",
-   "title": "Senior Manager, Inventory Development",
-   "company": "StackAdapt",
-   "category": "Business Development",
-   "type": "Full Time",
-   "location": "Australia",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:01+00:00",
-   "url": "https://jobicy.com/jobs/156193-senior-manager-inventory-development",
-   "source": "Jobicy",
-   "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly..."
-  },
-  {
-   "id": "Jobicy-156190",
-   "title": "Head of APAC Client Services",
-   "company": "StackAdapt",
-   "category": "Customer Support & Success",
-   "type": "Full Time",
-   "location": "Australia, Singapore",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-21T11:05:01+00:00",
-   "url": "https://jobicy.com/jobs/156190-head-of-apac-client-services",
-   "source": "Jobicy",
-   "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly..."
-  },
-  {
    "id": "Arbeitnow-remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-197556",
    "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
    "company": "HomeOfficeClub.ch",
@@ -1157,37 +1082,23 @@
    "excerpt": "ennovationHUB is a rapidly growing international e-commerce group operating in the home & living category, with a strong focus on furniture. From our hubs in Belgrade, Barcelona, and London, we serve customers across the UK, North America,..."
   },
   {
-   "id": "Arbeitnow-full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-   "title": "Full Stack Blockchain Engineer for RWA market",
-   "company": "Blockvora",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Zug",
+   "id": "Remote OK-1137550",
+   "title": "Clinical Data Manager",
+   "company": "Penumbra",
+   "category": "Exec",
+   "type": "",
+   "location": "Your Remote US Home Office",
    "salary": "",
    "tags": [
-    "Remote",
-    "Software Development"
+    "exec",
+    "sys admin",
+    "infosec",
+    "education"
    ],
-   "posted": "2026-10-20T16:01:05+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-   "source": "Arbeitnow",
-   "excerpt": "About Blockvora Blockvora is scaling its engineering capacity with 5 new Full Stack Blockchain Engineer positions for the real-world asset (RWA) market. Operating as a fully remote team across the globe, we build infrastructure that..."
-  },
-  {
-   "id": "Arbeitnow-remote-hoofdmonteur-warmtepompen-85022",
-   "title": "Hoofdmonteur Warmtepompen",
-   "company": "DeWarmte",
-   "category": "Installations",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Installations"
-   ],
-   "posted": "2026-10-20T08:40:18+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/remote-hoofdmonteur-warmtepompen-85022",
-   "source": "Arbeitnow",
-   "excerpt": "Bij DeWarmte maken we slimme en betaalbare warmtepompen waarmee we woningen van het gas af helpen. We ontwerpen onze producten zelf, assembleren ze in Utrecht en zorgen samen met onze installatiepartners dat ze bij steeds meer mensen thuis..."
+   "posted": "2026-10-21T00:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+   "source": "Remote OK",
+   "excerpt": "General Summary The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of clinical trials to..."
   },
   {
    "id": "Remote OK-1137548",
@@ -2357,25 +2268,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
    "source": "Remote OK",
    "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the..."
-  },
-  {
-   "id": "Remote OK-1137418",
-   "title": "Junior Digital Assets Operations Analyst",
-   "company": "Omega Enterprises",
-   "category": "Other",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$60,000 - $80,000",
-   "tags": [
-    "other",
-    "crypto",
-    "remote",
-    "education"
-   ],
-   "posted": "2026-09-22T14:36:54+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
-   "source": "Remote OK",
-   "excerpt": "Application URL https://omegadg.com/work/remoteok Omega Enterprises is an international digital-assets company focused on cryptocurrency markets, market intelligence, and data-based financial operations. We are expanding our team and..."
   },
   {
    "id": "Remote OK-1137415",
