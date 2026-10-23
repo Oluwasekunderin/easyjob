@@ -1,22 +1,417 @@
 {
- "updated": "2026-10-22T21:22:40+00:00",
+ "updated": "2026-10-23T04:11:29+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-head-of-marketing-b2b-food-ingredients-distribution-london-481941",
-   "title": "Head of Marketing B2B Food Ingredients Distribution",
-   "company": "GFIC",
+   "id": "Arbeitnow-remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+   "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
+   "company": "Nomios",
+   "category": "Advisory Services",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Advisory Services",
+    "Remote"
+   ],
+   "posted": "2026-10-23T02:31:11+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+   "source": "Arbeitnow",
+   "excerpt": "Location This role offers flexibility to work remotely, with regular visits to client sites. Alternatively, you can choose a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred and UK based. Why join Dionach by..."
+  },
+  {
+   "id": "Arbeitnow-remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+   "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
+   "company": "Nomios",
+   "category": "Advisory Services",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Advisory Services",
+    "Remote"
+   ],
+   "posted": "2026-10-23T02:31:11+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+   "source": "Arbeitnow",
+   "excerpt": "Location This role offers flexibility to work remotely from your own home, or as a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred. There is also a requirement for flexibility from employees to visit client..."
+  },
+  {
+   "id": "Arbeitnow-solution-architect-remote-from-eu-the-hague-200819",
+   "title": "Solution Architect - Remote from EU",
+   "company": "AlmavivA de Belgique",
+   "category": "Europol",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Europol",
+    "Remote"
+   ],
+   "posted": "2026-10-23T02:31:10+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/solution-architect-remote-from-eu-the-hague-200819",
+   "source": "Arbeitnow",
+   "excerpt": "DESCRIPTION OF THE TASKS: Perform market analysis and/or proof of concept work to validate intended designs and/or identify suitable technologies and products for the purpose of the delivery stream domain and scope; Follow-up on..."
+  },
+  {
+   "id": "Arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+   "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+   "company": "AlmavivA de Belgique",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-23T02:31:10+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+   "source": "Arbeitnow",
+   "excerpt": "• Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq); • Participate in the .NET implementation of a micro-services solution, being able to..."
+  },
+  {
+   "id": "Arbeitnow-remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+   "title": "Participate in the OpenAI Experience Lab – AI Enthusiasts Wanted! Location: London, UK (In-Person) Date: 9 November",
+   "company": "Tester Work",
+   "category": "Usability Research",
+   "type": "Entry",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Usability Research",
+    "Remote"
+   ],
+   "posted": "2026-10-23T02:31:08+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tester-work/remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+   "source": "Arbeitnow",
+   "excerpt": "Calling all AI enthusiasts, early adopters, and power users! We are hosting an exclusive in-person OpenAI Experience Lab in London on the 9th of November, and we want you to be a part of it. If you actively use generative AI tools (like..."
+  },
+  {
+   "id": "Arbeitnow-remote-project-manager-software-implementation-berlin-396785",
+   "title": "Project Manager - Software Implementation (m/f/x)",
+   "company": "Makersite GmbH",
+   "category": "Services and Data",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Services and Data",
+    "Remote"
+   ],
+   "posted": "2026-10-22T23:31:10+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-396785",
+   "source": "Arbeitnow",
+   "excerpt": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for..."
+  },
+  {
+   "id": "Arbeitnow-senior-projektmanager-shopify-michendorf-152870",
+   "title": "Senior Projektmanager (Shopify)",
+   "company": "beyondservice GmbH",
    "category": "Remote",
    "type": "Permanent Employment",
-   "location": "London",
+   "location": "Michendorf",
    "salary": "",
    "tags": [
     "Remote",
-    "Marketing Manager"
+    "Project Management"
    ],
-   "posted": "2026-10-22T18:31:20+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/gfic/head-of-marketing-b2b-food-ingredients-distribution-london-481941",
+   "posted": "2026-10-22T21:00:39+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/beyondservice-gmbh/senior-projektmanager-shopify-michendorf-152870",
    "source": "Arbeitnow",
-   "excerpt": "About Our Client Our client is a leading international ingredients distributor connecting customers and suppliers across multiple markets. Products are valued added Ingredients from leading suppliers. As the organisation continues to..."
+   "excerpt": "Our Vision: Define and dominate data-driven e-commerce design with the world's best strategists, designers, copywriters, data analysts, and developers. The last 4 years we created a new niche, that never existed: aesthetic design combined..."
+  },
+  {
+   "id": "Arbeitnow-remote-community-lead-multiple-langs-491904",
+   "title": "Community Lead | Multiple Langs",
+   "company": "LILT (Production)",
+   "category": "LiltLancer Community",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "LiltLancer Community"
+   ],
+   "posted": "2026-10-22T20:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-community-lead-multiple-langs-491904",
+   "source": "Arbeitnow",
+   "excerpt": "ABOUT THE OPPORTUNITY LILT is building speech and language datasets for AI in five languages: Balochi, Guarani, Luxembourgish, Turkmen and Uyghur. We are looking for Community Leads who are active in these language communities to help..."
+  },
+  {
+   "id": "Arbeitnow-remote-project-manager-gaming-localization-production-314188",
+   "title": "Project Manager, Gaming Localization Production",
+   "company": "LILT (Production)",
+   "category": "Production",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Production"
+   ],
+   "posted": "2026-10-22T20:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-314188",
+   "source": "Arbeitnow",
+   "excerpt": "About the Role We're looking for a Project Manager to own the day-to-day delivery of a large-scale localization program for a multinational gaming publisher. This customer ships localized content across dozens of titles, platforms and..."
+  },
+  {
+   "id": "Jobicy-156465",
+   "title": "Senior Backend Engineer",
+   "company": "Tala",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "APAC",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:14+00:00",
+   "url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+   "source": "Jobicy",
+   "excerpt": "Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To..."
+  },
+  {
+   "id": "Jobicy-156472",
+   "title": "Medical Science Liaison",
+   "company": "Veracyte",
+   "category": "Healthcare & Medical",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:11+00:00",
+   "url": "https://jobicy.com/jobs/156472-medical-science-liaison",
+   "source": "Jobicy",
+   "excerpt": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a..."
+  },
+  {
+   "id": "Jobicy-156464",
+   "title": "Technical Account Manager",
+   "company": "Spreedly",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:10+00:00",
+   "url": "https://jobicy.com/jobs/156464-technical-account-manager-9",
+   "source": "Jobicy",
+   "excerpt": "About Us: Spreedly is the Intelligent Payments Platform for businesses that want to own their payments strategy. Founded in 2007 and headquartered in Durham, NC, we give merchants, platforms, and fintechs a single API to connect to 150+..."
+  },
+  {
+   "id": "Jobicy-156469",
+   "title": "Senior Manager Expansion Risk",
+   "company": "Tala",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "APAC",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:09+00:00",
+   "url": "https://jobicy.com/jobs/156469-senior-manager-expansion-risk",
+   "source": "Jobicy",
+   "excerpt": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at..."
+  },
+  {
+   "id": "Jobicy-156467",
+   "title": "Senior IT Operations Engineer",
+   "company": "BigID",
+   "category": "DevOps & Infrastructure",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:09+00:00",
+   "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
+   "source": "Jobicy",
+   "excerpt": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business..."
+  },
+  {
+   "id": "Jobicy-156466",
+   "title": "Manager Software Test Automation",
+   "company": "Veracyte",
+   "category": "QA & Testing",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:09+00:00",
+   "url": "https://jobicy.com/jobs/156466-manager-software-test-automation",
+   "source": "Jobicy",
+   "excerpt": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a..."
+  },
+  {
+   "id": "Jobicy-156468",
+   "title": "Customer Success Manager II - EMEA",
+   "company": "Tines",
+   "category": "Customer Support & Success",
+   "type": "Full Time",
+   "location": "Ireland",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T20:38:08+00:00",
+   "url": "https://jobicy.com/jobs/156468-customer-success-manager-ii-emea",
+   "source": "Jobicy",
+   "excerpt": "Tines is the intelligent workflow company that powers some of the world's most important workflows. Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin..."
+  },
+  {
+   "id": "Arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Justice",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Justice",
+    "Remote"
+   ],
+   "posted": "2026-10-22T20:31:37+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-255821",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Environment",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
+   ],
+   "posted": "2026-10-22T20:31:37+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-177938",
+   "title": "Senior Oracle Data Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Finance",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Finance",
+    "Remote"
+   ],
+   "posted": "2026-10-22T20:31:37+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-177938",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Jobicy-156454",
+   "title": "Senior Manager, Marketing Strategy & Operations",
+   "company": "GiveDirectly",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "Canada, Germany, Netherlands, Poland, Portugal, Spain, Türkiye, UK, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:18+00:00",
+   "url": "https://jobicy.com/jobs/156454-senior-manager-marketing-strategy-operations",
+   "source": "Jobicy",
+   "excerpt": "About GiveDirectly What if the most effective way to fight poverty was also the simplest: give people money and trust them to decide what they need? Since 2011, GiveDirectly has proven that idea at scale. We’ve delivered more than $1B in..."
+  },
+  {
+   "id": "Jobicy-156459",
+   "title": "Full-Time LSAT Tutor",
+   "company": "Inspira Education",
+   "category": "Education & E-learning",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:16+00:00",
+   "url": "https://jobicy.com/jobs/156459-full-time-lsat-tutor",
+   "source": "Jobicy",
+   "excerpt": "About Inspira Education Inspira Education Group is one of the fastest-growing edtech startups in the US. We started with a simple mission to democratize access to high-quality coaching so that every student in the world has an equal..."
+  },
+  {
+   "id": "Jobicy-156457",
+   "title": "Software Development Manager",
+   "company": "Lightspeed Commerce",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Canada",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:15+00:00",
+   "url": "https://jobicy.com/jobs/156457-software-development-manager",
+   "source": "Jobicy",
+   "excerpt": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! Lightspeed Financial Services is looking for a Software Development Manager in North..."
+  },
+  {
+   "id": "Jobicy-156456",
+   "title": "Senior Software Engineer (PHP)",
+   "company": "NFQ",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "Poland",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:15+00:00",
+   "url": "https://jobicy.com/jobs/156456-senior-software-engineer-php",
+   "source": "Jobicy",
+   "excerpt": "NFQ is a core technology partner for HomeToGo – a dedicated team of software engineers and data science professionals driving innovation to power a marketplace with the world’s largest selection of vacation rentals. We are expanding..."
+  },
+  {
+   "id": "Jobicy-156463",
+   "title": "Full-Time MCAT Tutor",
+   "company": "Inspira Education",
+   "category": "Education & E-learning",
+   "type": "Full Time",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:14+00:00",
+   "url": "https://jobicy.com/jobs/156463-full-time-mcat-tutor",
+   "source": "Jobicy",
+   "excerpt": "About Inspira Education Inspira Education Group is one of the fastest-growing edtech startups in the US. We started with a simple mission to democratize access to high-quality coaching so that every student in the world has an equal..."
+  },
+  {
+   "id": "Jobicy-156461",
+   "title": "Local Visibility Optimization",
+   "company": "SOCi",
+   "category": "SEO",
+   "type": "Full Time",
+   "location": "Canada",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:14+00:00",
+   "url": "https://jobicy.com/jobs/156461-local-visibility-optimization",
+   "source": "Jobicy",
+   "excerpt": "Who We Are: SOCi is the leader in AI-powered marketing solutions for multi-location businesses. With its proprietary Genius AI™ and suite of Genius Agents™, SOCi provides a first-of-its-kind, AI-powered digital workforce capable of..."
+  },
+  {
+   "id": "Jobicy-156460",
+   "title": "Senior Director, Agentic Engineering",
+   "company": "Lightspeed Commerce",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:14+00:00",
+   "url": "https://jobicy.com/jobs/156460-senior-director-agentic-engineering",
+   "source": "Jobicy",
+   "excerpt": "Hi there! Thanks for stopping by We’re looking for a Senior Director, Agentic Engineering to build and lead the platform, capabilities, and operating model that enable Lightspeed’s Product & Technology teams to work effectively with AI..."
+  },
+  {
+   "id": "Jobicy-156455",
+   "title": "BS/MD Admissions Consultant",
+   "company": "Inspira Education",
+   "category": "Education & E-learning",
+   "type": "Contract",
+   "location": "Canada, USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-22T18:57:14+00:00",
+   "url": "https://jobicy.com/jobs/156455-bs-md-admissions-consultant-2",
+   "source": "Jobicy",
+   "excerpt": "About Inspira Education Inspira Education Group is one of the fastest-growing edtech startups in the US. We started with a simple mission to democratize access to high-quality coaching so that every student in the world has an equal..."
   },
   {
    "id": "Arbeitnow-senior-product-manager-heating-cooling-berlin-303797",
@@ -529,90 +924,6 @@
    "excerpt": "Wir glauben, dass Influencer Marketing mehr ist als Reichweite – nämlich ein echter Performance- und Wachstumskanal. Du willst verstehen, wie erfolgreiche Influencer-Kampagnen entstehen, wie Brands mit Creatorn zusammenarbeiten und was..."
   },
   {
-   "id": "Arbeitnow-remote-senior-client-delivery-lead-generationflex-496091",
-   "title": "Senior Client Delivery Lead - GenerationFlex (w/f/d)",
-   "company": "Kraken",
-   "category": "Delivery Tech",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Delivery Tech"
-   ],
-   "posted": "2026-10-22T14:40:16+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kraken/remote-senior-client-delivery-lead-generationflex-496091",
-   "source": "Arbeitnow",
-   "excerpt": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By..."
-  },
-  {
-   "id": "Arbeitnow-content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
-   "title": "Content Creator(in) / Social Media Mitarbeiter(in) (m/w/d) – Werkstudent",
-   "company": "Mini Milkys",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-22T14:01:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/mini-milkys/content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
-   "source": "Arbeitnow",
-   "excerpt": "Du liebst Social Media, sprudelst vor Ideen und hast Lust, mit deiner Kreativität wirklich etwas zu bewegen? Dann bist du bei MINI MILKYS® genau richtig! Wir sind ein junges, wachsendes Label für nachhaltige Babybekleidung mit einer..."
-  },
-  {
-   "id": "Arbeitnow-content-creatorin-social-media-mitarbeiterin-minijob-berlin-5559",
-   "title": "Content Creator(in) / Social Media Mitarbeiter(in) (m/w/d) – Minijob",
-   "company": "Mini Milkys",
-   "category": "Remote",
-   "type": "Minijob (Geringfügige Beschäftigung)",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-22T14:01:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/mini-milkys/content-creatorin-social-media-mitarbeiterin-minijob-berlin-5559",
-   "source": "Arbeitnow",
-   "excerpt": "Du liebst Social Media, sprudelst vor Ideen und hast Lust, mit deiner Kreativität wirklich etwas zu bewegen? Dann bist du bei MINI MILKYS® genau richtig! Wir sind ein junges, wachsendes Label für nachhaltige Babybekleidung mit einer..."
-  },
-  {
-   "id": "Arbeitnow-junior-customer-success-managerin-berlin-172870",
-   "title": "(Junior) Customer Success Manager:in (m/w/d)",
-   "company": "mika",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-22T13:31:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/mika/junior-customer-success-managerin-berlin-172870",
-   "source": "Arbeitnow",
-   "excerpt": "mika macht Buchhaltung für kleine und mittlere Unternehmen einfach: KI übernimmt die Fleißarbeit, unser Team sorgt dafür, dass am Ende alles stimmt. Wir wachsen schnell, betreuen inzwischen mehrere hundert Kund:innen und genau deshalb..."
-  },
-  {
-   "id": "Arbeitnow-netzwerkadministrator-gn-berlin-179702",
-   "title": "Netzwerkadministrator (gn)",
-   "company": "Broeder Ruckh Consulting GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "System and Network Administration"
-   ],
-   "posted": "2026-10-22T13:31:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/broeder-ruckh-consulting-gmbh/netzwerkadministrator-gn-berlin-179702",
-   "source": "Arbeitnow",
-   "excerpt": "Unser Mandant ist ein Unternehmen aus dem Großraum Nürnberg und sucht einen Netzwerkadministrator (gn) zur Verstärkung des IT-Teams. Die Position bietet ein hohes Maß an Flexibilität: Eine Präsenz vor Ort ist etwa alle sechs Wochen für ein..."
-  },
-  {
    "id": "Jobicy-156402",
    "title": "Growth Product Manager",
    "company": "YipitData",
@@ -697,99 +1008,6 @@
    "excerpt": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing..."
   },
   {
-   "id": "Jobicy-156395",
-   "title": "Director of Brand and Creative",
-   "company": "Proof",
-   "category": "Creative & Design",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T13:26:39+00:00",
-   "url": "https://jobicy.com/jobs/156395-director-of-brand-and-creative",
-   "source": "Jobicy",
-   "excerpt": "Proof is the world's first identity-assured transaction management platform and we are on a mission to digitize trust for all of life’s most critical transactions. Developed by the same market leaders and experts who brought notarization..."
-  },
-  {
-   "id": "Jobicy-156394",
-   "title": "Trust & Integrity Manager",
-   "company": "Solace",
-   "category": "Healthcare & Medical",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T13:26:39+00:00",
-   "url": "https://jobicy.com/jobs/156394-trust-integrity-manager",
-   "source": "Jobicy",
-   "excerpt": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing..."
-  },
-  {
-   "id": "Jobicy-156400",
-   "title": "Telehealth Physician (Missouri-Remote)",
-   "company": "Solace",
-   "category": "Healthcare & Medical",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T13:26:38+00:00",
-   "url": "https://jobicy.com/jobs/156400-telehealth-physician-missouri-remote",
-   "source": "Jobicy",
-   "excerpt": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing..."
-  },
-  {
-   "id": "Arbeitnow-senior-fullstack-softwareentwickler-berlin-133162",
-   "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
-   "company": "TecFox GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-22T13:01:09+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-133162",
-   "source": "Arbeitnow",
-   "excerpt": "Über uns: Du möchtest moderne Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend mitwirken? Du hast Freude an skalierbaren Systemarchitekturen, modernen Technologien und der Zusammenarbeit in agilen Teams? Dann..."
-  },
-  {
-   "id": "Arbeitnow-senior-frontend-softwareentwickler-berlin-422309",
-   "title": "Senior Frontend-Softwareentwickler (m/w/d)",
-   "company": "TecFox GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-22T13:01:08+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-422309",
-   "source": "Arbeitnow",
-   "excerpt": "Über uns: Begeisterst Du Dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in Deiner Karriere. Wir, die TecFox GmbH,..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-sales-business-development-berlin-17919",
-   "title": "Werkstudent (m/w/d) Sales & Business Development",
-   "company": "Aivisory",
-   "category": "Remote",
-   "type": "Werkstudent",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-22T13:01:08+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/aivisory/werkstudent-sales-business-development-berlin-17919",
-   "source": "Arbeitnow",
-   "excerpt": "Bist Du bereit, als Werkstudent (m/w/d) Sales & Business Development unseren Vertriebsprozess gemeinsam mit unseren beiden Gründer:innen auszubauen und umzusetzen? Bei Aivisory, einer aufstrebenden KI-Boutique-Consulting-Agentur, suchen..."
-  },
-  {
    "id": "Arbeitnow-customer-care-analyst-ops-cdi-paris-370550",
    "title": "Customer Care Analyst & Ops - CDI",
    "company": "Green-Got",
@@ -824,191 +1042,6 @@
    "excerpt": "The Challenge We connect over 500’000 callers in 190 countries: that represents 36,000 calling corridors and over 100 million calling minutes. We work with various global suppliers optimising for call quality. It’s complex. Each calling..."
   },
   {
-   "id": "Arbeitnow-remote-co-founder-cto-gn-industrial-data-for-ai-paris-24714",
-   "title": "Co-Founder & CTO (gn), Industrial Data for AI, Paris",
-   "company": "FoodLabs",
-   "category": "Founder & Entrepreneurs in Residence",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Founder & Entrepreneurs in Residence",
-    "Remote"
-   ],
-   "posted": "2026-10-22T11:51:49+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/foodlabs/remote-co-founder-cto-gn-industrial-data-for-ai-paris-24714",
-   "source": "Arbeitnow",
-   "excerpt": "About FoodLabs FoodLabs is Europe's leading early-stage VC and venture studio, backing founders who are shaping the future of the food, health, and climate value chains. We build companies from zero, putting capital, our own team, and..."
-  },
-  {
-   "id": "Jobicy-156387",
-   "title": "Principal Solutions Architect Middle East",
-   "company": "Nebius",
-   "category": "DevOps & Infrastructure",
-   "type": "Full Time",
-   "location": "UAE",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:32+00:00",
-   "url": "https://jobicy.com/jobs/156387-principal-solutions-architect-middle-east",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156384",
-   "title": "Firefox Enterprise Partnership Lead (France)",
-   "company": "Mozilla",
-   "category": "Business Development",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:31+00:00",
-   "url": "https://jobicy.com/jobs/156384-firefox-enterprise-partnership-lead-france",
-   "source": "Jobicy",
-   "excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than..."
-  },
-  {
-   "id": "Jobicy-156388",
-   "title": "Product Manager - Commercial Agreements & Pricing Mechanics",
-   "company": "Nebius",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:30+00:00",
-   "url": "https://jobicy.com/jobs/156388-product-manager-commercial-agreements-pricing-mechanics",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156386",
-   "title": "Offensive Security Engineer",
-   "company": "Nebius",
-   "category": "Cybersecurity",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:30+00:00",
-   "url": "https://jobicy.com/jobs/156386-offensive-security-engineer-2",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156382",
-   "title": "Key Customers Solutions Architect MEA",
-   "company": "Nebius",
-   "category": "Technical Support",
-   "type": "Full Time",
-   "location": "UAE",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:30+00:00",
-   "url": "https://jobicy.com/jobs/156382-key-customers-solutions-architect-mea",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156389",
-   "title": "Product Manager - Security",
-   "company": "Nebius",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:29+00:00",
-   "url": "https://jobicy.com/jobs/156389-product-manager-security",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156385",
-   "title": "Network Security Engineer",
-   "company": "Nebius",
-   "category": "Cybersecurity",
-   "type": "Full Time",
-   "location": "Europe",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:29+00:00",
-   "url": "https://jobicy.com/jobs/156385-network-security-engineer",
-   "source": "Jobicy",
-   "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production..."
-  },
-  {
-   "id": "Jobicy-156380",
-   "title": "Software Engineer/C Developer-PGD",
-   "company": "EDB",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "EMEA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:29+00:00",
-   "url": "https://jobicy.com/jobs/156380-software-engineer-c-developer-pgd",
-   "source": "Jobicy",
-   "excerpt": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk,..."
-  },
-  {
-   "id": "Jobicy-156383",
-   "title": "Firefox Enterprise Partnership Lead (DACH)",
-   "company": "Mozilla",
-   "category": "Business Development",
-   "type": "Full Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:28+00:00",
-   "url": "https://jobicy.com/jobs/156383-firefox-enterprise-partnership-lead-dach",
-   "source": "Jobicy",
-   "excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than..."
-  },
-  {
-   "id": "Jobicy-156381",
-   "title": "Staff Software Engineer-ClickHouse Committer",
-   "company": "EDB",
-   "category": "Software Engineering",
-   "type": "Full Time",
-   "location": "EMEA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T11:37:27+00:00",
-   "url": "https://jobicy.com/jobs/156381-staff-software-engineer-clickhouse-committer",
-   "source": "Jobicy",
-   "excerpt": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk,..."
-  },
-  {
-   "id": "Jobicy-156377",
-   "title": "Senior Enterprise Account Executive, Acquisition | Tokyo, Japan",
-   "company": "Grafana Labs",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Japan",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T10:36:04+00:00",
-   "url": "https://jobicy.com/jobs/156377-senior-enterprise-account-executive-acquisition-tokyo-japan",
-   "source": "Jobicy",
-   "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and..."
-  },
-  {
-   "id": "Jobicy-156378",
-   "title": "Business Development Manager",
-   "company": "ICEYE",
-   "category": "Business Development",
-   "type": "Full Time",
-   "location": "Australia",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-22T10:36:03+00:00",
-   "url": "https://jobicy.com/jobs/156378-business-development-manager-6",
-   "source": "Jobicy",
-   "excerpt": "Role highlights: Business Development Manager Location: Any Australian state capital city, Canberra preferred Department: Data Sales Reports to: Data Sales Director, Australia & New Zealand Employment type: Permanent Workplace model:..."
-  },
-  {
    "id": "Arbeitnow-it-vertragsmanagerin-zurich-363153",
    "title": "IT-Vertragsmanager:in",
    "company": "Coopers Group AG",
@@ -1041,6 +1074,62 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/pavago/remote-seo-digital-marketing-specialist-switzerland-427846",
    "source": "Arbeitnow",
    "excerpt": "SEO & Digital Marketing Specialist – Technical SEO, Google Ads & Lead Generation | Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours Experience Level: Mid-Level to Senior Department: Digital Marketing / Growth..."
+  },
+  {
+   "id": "Remote OK-1137555",
+   "title": "Accounting & Finance Manager",
+   "company": "Political Asylum Lawyers",
+   "category": "Exec",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "",
+   "tags": [
+    "exec",
+    "accounting",
+    "design",
+    "sys admin"
+   ],
+   "posted": "2026-10-22T00:00:21+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
+   "source": "Remote OK",
+   "excerpt": "Who We Are Political Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect..."
+  },
+  {
+   "id": "Remote OK-1137554",
+   "title": "Accounting Operations",
+   "company": "Plaid",
+   "category": "Accounting",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "$110,000 - $170,000",
+   "tags": [
+    "accounting",
+    "technical",
+    "customer support",
+    "marketing"
+   ],
+   "posted": "2026-10-22T00:00:15+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+   "source": "Remote OK",
+   "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to..."
+  },
+  {
+   "id": "Remote OK-1137553",
+   "title": "lkjlkjxcv",
+   "company": "scvsdv",
+   "category": "Marketing",
+   "type": "",
+   "location": "Anywhere",
+   "salary": "$60,000 - $210,000",
+   "tags": [
+    "marketing",
+    "medical",
+    "engineer"
+   ],
+   "posted": "2026-10-21T23:33:07+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
+   "source": "Remote OK",
+   "excerpt": "sdfsdfsdf Please mention the word **LOVELINESS** and tag RMjAuNTUuODYuMTgw when applying to show you read the job post completely (#RMjAuNTUuODYuMTgw). This is a beta feature to avoid spam applicants. Companies can search these words to..."
   },
   {
    "id": "Arbeitnow-remote-performance-marketing-manager-paid-social-switzerland-8022",
@@ -1115,23 +1204,6 @@
    "excerpt": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung..."
   },
   {
-   "id": "Arbeitnow-h3c-expert-fur-infrastruktur-migration-basel-429539",
-   "title": "H3C Expert für Infrastruktur Migration",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Interim",
-   "location": "Basel",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-21T14:31:02+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/h3c-expert-fur-infrastruktur-migration-basel-429539",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für ein anspruchsvolles Infrastruktur-Transformationsprojekt in Basel suchen wir eine:n erfahrene: H3C Expert . Im Rahmen des Projekts wird eine bestehende Server-, Storage- und Virtualisierungslandschaft durch moderne..."
-  },
-  {
    "id": "Remote OK-1137551",
    "title": "Senior Backend Engineer",
    "company": "DuckDuckGo",
@@ -1149,23 +1221,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
    "source": "Remote OK",
    "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions..."
-  },
-  {
-   "id": "Arbeitnow-scrum-master-safe-bern-234132",
-   "title": "Scrum Master (SAFe)",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Bern",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Project Management"
-   ],
-   "posted": "2026-10-21T14:01:19+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/scrum-master-safe-bern-234132",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für ein langfristiges und technologisch anspruchsvolles Transformationsprogramm suchen wir für unseren Kunden aus Bern mehrere erfahrene In diesem Projekt unterstützt du die agile Umsetzung eines komplexen und..."
   },
   {
    "id": "Remote OK-1137550",
@@ -2354,23 +2409,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
    "source": "Remote OK",
    "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the..."
-  },
-  {
-   "id": "Remote OK-1137415",
-   "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
-   "company": "Mindrift - Data annotation",
-   "category": "Data Annotation",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "data annotation",
-    "c"
-   ],
-   "posted": "2026-09-22T00:00:13+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
-   "source": "Remote OK",
-   "excerpt": "Gana dinero grabando actividades de tu vida diaria Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil. Puedes grabar tareas que ya realizas normalmente, como: â¢..."
   },
   {
    "id": "Remote OK-1137414",
