@@ -1,22 +1,86 @@
 {
- "updated": "2026-10-23T21:14:01+00:00",
+ "updated": "2026-10-24T04:03:22+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-telefonist-kundenservice-remote-gross-gerau-12314",
-   "title": "Telefonist / Kundenservice (m/w/d) – Remote",
-   "company": "Toptaner - Office Dienstleistung",
+   "id": "Arbeitnow-remote-gtm-enablement-global-onboarding-operations-355228",
+   "title": "GTM Enablement - Global Onboarding & Operations",
+   "company": "ElevenLabs",
+   "category": "Revenue",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Revenue"
+   ],
+   "posted": "2026-10-24T02:40:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-355228",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-gtm-enablement-partner-program-57458",
+   "title": "GTM Enablement - Partner Program",
+   "company": "ElevenLabs",
+   "category": "Revenue",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Revenue"
+   ],
+   "posted": "2026-10-24T02:40:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-57458",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-ios-engineer-creative-app-247930",
+   "title": "iOS Engineer - Creative App",
+   "company": "ElevenLabs",
+   "category": "Engineering & Product",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering & Product"
+   ],
+   "posted": "2026-10-24T02:40:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-247930",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-remote-android-engineer-creative-app-68934",
+   "title": "Android Engineer - Creative App",
+   "company": "ElevenLabs",
+   "category": "Engineering & Product",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering & Product"
+   ],
+   "posted": "2026-10-24T02:40:24+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-68934",
+   "source": "Arbeitnow",
+   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
+  },
+  {
+   "id": "Arbeitnow-senior-ki-beraterin-microsoft-ai-und-copilot-umsetzung-befahigung-berlin-401910",
+   "title": "Senior KI-Berater:in Microsoft AI und Copilot: Umsetzung & Befähigung (m/w/d)",
+   "company": "Blümlein AI & Automation GmbH",
    "category": "Remote",
-   "type": "Nebentätigkeit",
-   "location": "Groß-Gerau",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Customer Service"
+    "Business Consulting"
    ],
-   "posted": "2026-10-23T19:47:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/toptaner-office-dienstleistung/telefonist-kundenservice-remote-gross-gerau-12314",
+   "posted": "2026-10-23T21:30:41+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/blumlein-ai-automation-gmbh/senior-ki-beraterin-microsoft-ai-und-copilot-umsetzung-befahigung-berlin-401910",
    "source": "Arbeitnow",
-   "excerpt": "Wir suchen im Auftrag unseres Klienten J. Poppe & Partner Unterstützung im Bereich Kundenservice / Telefonie. Das Unternehmen berät kleine und mittelständische Unternehmen sowie private Haushalte mit dem Ziel, Einnahmen und Ausgaben..."
+   "excerpt": "Du arbeitest im Konzern mit Copilot, Power Automate oder Microsoft 365 und hast gemerkt, wie viel möglich wäre. Du willst nicht nur Konzepte schreiben, sondern Lösungen wirklich bauen. Und du willst anderen beibringen, sie selbst zu..."
   },
   {
    "id": "Arbeitnow-graphic-designer-puchheim-347117",
@@ -51,6 +115,132 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
    "source": "Arbeitnow",
    "excerpt": "The role We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role..."
+  },
+  {
+   "id": "Jobicy-156686",
+   "title": "Billing Operations Lead",
+   "company": "Instacart",
+   "category": "Finance & Accounting",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:36+00:00",
+   "url": "https://jobicy.com/jobs/156686-billing-operations-lead",
+   "source": "Jobicy",
+   "excerpt": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need..."
+  },
+  {
+   "id": "Jobicy-156681",
+   "title": "Solutions Engineer - Critical Infrastructure",
+   "company": "Echodyne",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:36+00:00",
+   "url": "https://jobicy.com/jobs/156681-solutions-engineer-critical-infrastructure",
+   "source": "Jobicy",
+   "excerpt": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles,..."
+  },
+  {
+   "id": "Jobicy-156682",
+   "title": "Bilingual CX Specialist (French)",
+   "company": "Instacart",
+   "category": "Customer Support & Success",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:35+00:00",
+   "url": "https://jobicy.com/jobs/156682-bilingual-cx-specialist-french",
+   "source": "Jobicy",
+   "excerpt": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need..."
+  },
+  {
+   "id": "Jobicy-156680",
+   "title": "Senior Android Engineer",
+   "company": "Medium",
+   "category": "Software Engineering",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:35+00:00",
+   "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4",
+   "source": "Jobicy",
+   "excerpt": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply and takes real ownership of the problems we tackle, moving..."
+  },
+  {
+   "id": "Jobicy-156678",
+   "title": "Associate Manager, Influencer Marketing",
+   "company": "Instacart",
+   "category": "Marketing & Sales",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:35+00:00",
+   "url": "https://jobicy.com/jobs/156678-associate-manager-influencer-marketing",
+   "source": "Jobicy",
+   "excerpt": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need..."
+  },
+  {
+   "id": "Jobicy-156685",
+   "title": "Staff Product Designer",
+   "company": "Medium",
+   "category": "Web, UI & UX Design",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:34+00:00",
+   "url": "https://jobicy.com/jobs/156685-staff-product-designer-6",
+   "source": "Jobicy",
+   "excerpt": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply and takes real ownership of the problems we tackle, moving..."
+  },
+  {
+   "id": "Jobicy-156683",
+   "title": "Senior Paralegal",
+   "company": "Homebound",
+   "category": "Legal & Compliance",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:33+00:00",
+   "url": "https://jobicy.com/jobs/156683-senior-paralegal",
+   "source": "Jobicy",
+   "excerpt": "About Us: Homebound is on a mission to make it possible for anyone, anywhere, to build a home using technology. Created by an experienced team of construction, real estate, design, and technology experts, Homebound is transforming the..."
+  },
+  {
+   "id": "Jobicy-156677",
+   "title": "Project Manager",
+   "company": "Echodyne",
+   "category": "Project & Program Management",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:33+00:00",
+   "url": "https://jobicy.com/jobs/156677-project-manager-6",
+   "source": "Jobicy",
+   "excerpt": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles,..."
+  },
+  {
+   "id": "Jobicy-156679",
+   "title": "Administrative Assistant",
+   "company": "Homebound",
+   "category": "Admin & Virtual Assistance",
+   "type": "Full Time",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-10-23T18:57:32+00:00",
+   "url": "https://jobicy.com/jobs/156679-administrative-assistant-2",
+   "source": "Jobicy",
+   "excerpt": "About Us: Homebound is on a mission to make it possible for anyone, anywhere, to build a home using technology. Created by an experienced team of construction, real estate, design, and technology experts, Homebound is transforming the..."
   },
   {
    "id": "Jobicy-156674",
@@ -644,149 +834,6 @@
    "excerpt": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the..."
   },
   {
-   "id": "Jobicy-156619",
-   "title": "Business Development Associate (Consumer)",
-   "company": "AppLovin",
-   "category": "Business Development",
-   "type": "Full Time",
-   "location": "China",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:26+00:00",
-   "url": "https://jobicy.com/jobs/156619-business-development-associate-consumer",
-   "source": "Jobicy",
-   "excerpt": "About AppLovin AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For..."
-  },
-  {
-   "id": "Jobicy-156626",
-   "title": "Insights Sector Lead, Emerging Verticals",
-   "company": "YipitData",
-   "category": "Data Science & Analytics",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:25+00:00",
-   "url": "https://jobicy.com/jobs/156626-insights-sector-lead-emerging-verticals",
-   "source": "Jobicy",
-   "excerpt": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of..."
-  },
-  {
-   "id": "Jobicy-156618",
-   "title": "Regional General Manager, Market Performance Central US",
-   "company": "Luna Physical Therapy",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:25+00:00",
-   "url": "https://jobicy.com/jobs/156618-regional-general-manager-market-performance-central-us",
-   "source": "Jobicy",
-   "excerpt": "Reports to: President Status: Exempt Location: Remote, must reside in our Central US territory (TX, OK, UT, AZ, CO, IL, MN, IA, WI, MO, IN, OH, MI, TN) Pay Grade: 18 Job Summary The Regional General Manager, Market Performance is central..."
-  },
-  {
-   "id": "Jobicy-156625",
-   "title": "Insights Associate - Retail",
-   "company": "YipitData",
-   "category": "Data Science & Analytics",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:24+00:00",
-   "url": "https://jobicy.com/jobs/156625-insights-associate-retail",
-   "source": "Jobicy",
-   "excerpt": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of..."
-  },
-  {
-   "id": "Jobicy-156624",
-   "title": "Head of Talent Acquisition",
-   "company": "YipitData",
-   "category": "HR & Recruiting",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:24+00:00",
-   "url": "https://jobicy.com/jobs/156624-head-of-talent-acquisition-2",
-   "source": "Jobicy",
-   "excerpt": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of..."
-  },
-  {
-   "id": "Jobicy-156623",
-   "title": "Head of Data Feeds",
-   "company": "YipitData",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:24+00:00",
-   "url": "https://jobicy.com/jobs/156623-head-of-data-feeds",
-   "source": "Jobicy",
-   "excerpt": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of..."
-  },
-  {
-   "id": "Jobicy-156622",
-   "title": "Clinical Research associate II",
-   "company": "Precision Medicine Group",
-   "category": "Healthcare & Medical",
-   "type": "Full Time",
-   "location": "Belgium, Netherlands",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:23+00:00",
-   "url": "https://jobicy.com/jobs/156622-clinical-research-associate-ii-2",
-   "source": "Jobicy",
-   "excerpt": "Precision for Medicine is not your typical CRO. At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life sciences improve the speed, cost and success rate of bringing..."
-  },
-  {
-   "id": "Jobicy-156621",
-   "title": "Associate Demand Generation Manager",
-   "company": "YipitData",
-   "category": "Marketing & Sales",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:23+00:00",
-   "url": "https://jobicy.com/jobs/156621-associate-demand-generation-manager",
-   "source": "Jobicy",
-   "excerpt": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of..."
-  },
-  {
-   "id": "Jobicy-156620",
-   "title": "Regional General Manager, Market Performance Western US",
-   "company": "Luna Physical Therapy",
-   "category": "Product & Operations",
-   "type": "Full Time",
-   "location": "USA",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-10-23T16:38:23+00:00",
-   "url": "https://jobicy.com/jobs/156620-regional-general-manager-market-performance-western-us",
-   "source": "Jobicy",
-   "excerpt": "Reports to: President Status: Exempt Location: Remote, must reside in our Western US territory (WA, OR, NV, CA) Pay Grade: 18 Job Summary The Regional General Manager, Market Performance is central to scaling a regionalized operating model..."
-  },
-  {
-   "id": "Arbeitnow-quality-control-expert-warmepumpe-berlin-420083",
-   "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
-   "company": "1KOMMA5˚",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Operations"
-   ],
-   "posted": "2026-10-23T16:01:06+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-420083",
-   "source": "Arbeitnow",
-   "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software..."
-  },
-  {
    "id": "Arbeitnow-b2b-sales-managerin-dach-markt-homeoffice-50-freelance-zurich-157831",
    "title": "B2B Sales Manager:in – DACH-Markt (Homeoffice, 50 %) – Freelance",
    "company": "aeroTELEGRAPH",
@@ -803,23 +850,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/aerotelegraph/b2b-sales-managerin-dach-markt-homeoffice-50-freelance-zurich-157831",
    "source": "Arbeitnow",
    "excerpt": "Über aeroTELEGRAPH aeroTELEGRAPH ist das führende Luftfahrtportal im deutschsprachigen Raum und versorgt die Branche sowie interessierte Leser mit tagesaktuellen, verständlichen und fundierten Berichten rund um die zivile Luftfahrt. Ihre..."
-  },
-  {
-   "id": "Arbeitnow-senior-sap-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-89296",
-   "title": "Senior SAP Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-   "company": "Auralis Group",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Engineering"
-   ],
-   "posted": "2026-10-23T15:31:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-sap-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-89296",
-   "source": "Arbeitnow",
-   "excerpt": "Wir arbeiten in unserem SAP-Bereich mit unseren Kunden an anspruchsvollen Projekten rund um SAP S/4HANA, SAP ABAP (inkl. Fiori/UI5), SAP MM/SD, FI/CO und weiteren Modulen (z.B. IS-U, HCM, EWM). Unsere Projekte umfassen alles von..."
   },
   {
    "id": "Arbeitnow-remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
@@ -854,57 +884,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-systems-engineer-zurich-94036",
    "source": "Arbeitnow",
    "excerpt": "80-100% | as soon as possible | Germany or Switzerland About Exeon Exeon is a Swiss cyber security company based in Zurich. Since 2016, we have been protecting critical infrastructures, financial institutions and enterprises whose..."
-  },
-  {
-   "id": "Arbeitnow-devops-engineer-100-remote-united-kindom-97107",
-   "title": "DevOps Engineer (100% remote)",
-   "company": "Tether Operations Limited",
-   "category": "Data",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Data",
-    "Remote"
-   ],
-   "posted": "2026-10-23T11:51:30+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-97107",
-   "source": "Arbeitnow",
-   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
-  },
-  {
-   "id": "Arbeitnow-remote-account-executive-uk-london-403786",
-   "title": "Account Executive - UK",
-   "company": "AnywhereNow",
-   "category": "Sales & Partners",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Sales & Partners",
-    "Remote"
-   ],
-   "posted": "2026-10-23T11:51:26+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-account-executive-uk-london-403786",
-   "source": "Arbeitnow",
-   "excerpt": "About AnywhereNow Founded in 2010 in The Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued. With around 240 employees..."
-  },
-  {
-   "id": "Arbeitnow-remote-commercial-operations-director-london-349059",
-   "title": "Commercial Operations Director",
-   "company": "AnywhereNow",
-   "category": "Cloud & Delivery - Cloud Operations",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Cloud & Delivery - Cloud Operations",
-    "Remote"
-   ],
-   "posted": "2026-10-23T11:51:26+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-commercial-operations-director-london-349059",
-   "source": "Arbeitnow",
-   "excerpt": "About AnywhereNow Founded in 2010 in The Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued. With around 240 employees..."
   },
   {
    "id": "Arbeitnow-remote-test-automation-engineer-strasbourg-449366",
@@ -1008,6 +987,25 @@
    "excerpt": "• Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq); • Participate in the .NET implementation of a micro-services solution, being able to..."
   },
   {
+   "id": "Remote OK-1137559",
+   "title": "Travel Support Specialist",
+   "company": "Aisles & Abroad",
+   "category": "Travel",
+   "type": "",
+   "location": "Seattle, Washington",
+   "salary": "",
+   "tags": [
+    "travel",
+    "education",
+    "customer support",
+    "non tech"
+   ],
+   "posted": "2026-10-23T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+   "source": "Remote OK",
+   "excerpt": "Position Overview We are seeking dependable and customer-focused individuals to join our team as a Travel Support Specialist. This remote role focuses on assisting clients with travel-related inquiries, supporting reservation coordination,..."
+  },
+  {
    "id": "Remote OK-1137557",
    "title": "Senior DevOps Engineer",
    "company": "Lemon.io",
@@ -1082,24 +1080,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
    "source": "Remote OK",
    "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to..."
-  },
-  {
-   "id": "Remote OK-1137553",
-   "title": "lkjlkjxcv",
-   "company": "scvsdv",
-   "category": "Marketing",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$60,000 - $210,000",
-   "tags": [
-    "marketing",
-    "medical",
-    "engineer"
-   ],
-   "posted": "2026-10-21T23:33:07+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
-   "source": "Remote OK",
-   "excerpt": "sdfsdfsdf Please mention the word **LOVELINESS** and tag RNC4yNDIuMTk1LjE0Nw== when applying to show you read the job post completely (#RNC4yNDIuMTk1LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these..."
   },
   {
    "id": "Remote OK-1137551",
