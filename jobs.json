@@ -1,6 +1,40 @@
 {
- "updated": "2026-10-25T15:51:28+00:00",
+ "updated": "2026-10-25T20:38:49+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-e-mail-marketing-account-manager-elsdorf-43435",
+   "title": "E-Mail Marketing / Account Manager (m/w/d)",
+   "company": "Bendt Brothers",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Elsdorf",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "CRM",
+    "Direct Marketing"
+   ],
+   "posted": "2026-10-25T18:30:48+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-account-manager-elsdorf-43435",
+   "source": "Arbeitnow",
+   "excerpt": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
+   "title": "Senior SAP Logistics Consultant - Vollzeit (m/w/d)",
+   "company": "24-LOG GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-25T15:31:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
+   "source": "Arbeitnow",
+   "excerpt": "ÜBER UNS: Wir sind die 24 Log GmbH, ein innovatives und wachsendes Unternehmen im Bereich der SAP Logistik. Unsere Mission ist es, die komplexen Herausforderungen der modernen Logistik mit intelligenten, zielstrebigen und..."
+  },
   {
    "id": "Arbeitnow-social-media-content-creater-vrijwillig-capelle-aan-den-ijssel-151324",
    "title": "Social media content creater (vrijwillig)",
@@ -883,6 +917,25 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-276543",
    "source": "Arbeitnow",
    "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within..."
+  },
+  {
+   "id": "Remote OK-1137569",
+   "title": "Field Phlebotomy Supervisor Northern California",
+   "company": "Getlabs",
+   "category": "Supervisor",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "supervisor",
+    "testing",
+    "marketing",
+    "exec"
+   ],
+   "posted": "2026-10-24T16:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+   "source": "Remote OK",
+   "excerpt": "Getlabs is the leading platform for at-home diagnostics. Healthcare organizations use Getlabs to send mobile phlebotomists to patientsâ homes and collect labs, vitals, and advanced diagnostics. By leveraging Getlabs, partners can improve..."
   },
   {
    "id": "Remote OK-1137568",
@@ -2416,24 +2469,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
    "source": "Remote OK",
    "excerpt": "GiveWellâs mission is to help people in need as much as we can by researching the most costâeffective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good...."
-  },
-  {
-   "id": "Remote OK-1137375",
-   "title": "External Data Specialist",
-   "company": "eClinical Solutions",
-   "category": "Cloud",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "cloud",
-    "exec",
-    "stats"
-   ],
-   "posted": "2026-09-10T16:00:15+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-   "source": "Remote OK",
-   "excerpt": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the..."
   }
  ]
 }
