@@ -1,6 +1,74 @@
 {
- "updated": "2026-10-26T22:29:54+00:00",
+ "updated": "2026-10-27T04:28:48+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-analyst-investor-relations-marketing-france-365338",
+   "title": "Analyst, Investor Relations & Marketing",
+   "company": "Re7 Capital",
+   "category": "Marketing",
+   "type": "Full Time",
+   "location": "France",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Information Technology and Services",
+    "Capital",
+    "Remote"
+   ],
+   "posted": "2026-10-27T02:20:11+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338",
+   "source": "Arbeitnow",
+   "excerpt": "Remote-First | Working hours: UK or CET time zone | Full-time The role Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping..."
+  },
+  {
+   "id": "Arbeitnow-remote-technical-product-manager-132288",
+   "title": "Technical Product Manager",
+   "company": "Swarmaero",
+   "category": "Legion",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Legion"
+   ],
+   "posted": "2026-10-27T00:40:11+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
+   "source": "Arbeitnow",
+   "excerpt": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-designer-15490",
+   "title": "Product Designer",
+   "company": "Swarmaero",
+   "category": "Legion",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Legion"
+   ],
+   "posted": "2026-10-27T00:40:11+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+   "source": "Arbeitnow",
+   "excerpt": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-backend-engineer-paris-287438",
+   "title": "Senior Backend Engineer",
+   "company": "Payflows",
+   "category": "Tech",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Tech",
+    "Remote"
+   ],
+   "posted": "2026-10-26T21:51:29+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438",
+   "source": "Arbeitnow",
+   "excerpt": "About Payflows At Payflows, we build software that helps large companies manage and automate their payment workflows. It’s not the flashiest part of a business, but it’s one of the most critical: invoices, approvals, payments, and..."
+  },
   {
    "id": "Arbeitnow-gtm-manager-ai-startup-berlin-58998",
    "title": "GTM Manager - AI Startup",
@@ -834,24 +902,6 @@
    "excerpt": "Über RocketAds RocketAds ist eine Performance-Marketing-Agentur. Wir verbinden High-Scale Media Buying auf Meta und TikTok mit Performance Creatives, Advertorial-Funnels und täglicher Budgetsteuerung. Unsere Kunden sind Brands aus Health,..."
   },
   {
-   "id": "Arbeitnow-trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-   "title": "Trainer/Dozent (m/w/x) für ITIL 5® Foundation Kurse (remote)",
-   "company": "GFN GmbH",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Heidelberg",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Training",
-    "Development"
-   ],
-   "posted": "2026-10-26T13:31:01+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-   "source": "Arbeitnow",
-   "excerpt": "Die GFN GmbH begleitet als Bildungsanbieter mit IT-Spezialisierung deutschlandweit Menschen bei ihrer Weiterbildung und beruflichen Neuorientierung. Wir suchen freiberufliche Trainer (m/w/x) für einwöchige ITIL® 5 Foundation Kurse im..."
-  },
-  {
    "id": "Arbeitnow-customer-experience-consultant-zurich-344116",
    "title": "Customer Experience Consultant",
    "company": "Coopers Group AG",
@@ -868,23 +918,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-experience-consultant-zurich-344116",
    "source": "Arbeitnow",
    "excerpt": "................ For our client from the Insurance sector in Zurich, we are looking for an experienced, motivated and open-minded Customer Experience Consultant . Our client is looking for a motivated professional to help translate..."
-  },
-  {
-   "id": "Arbeitnow-business-mentor-partner-berlin-332713",
-   "title": "Business Mentor & Partner (m/w/d)",
-   "company": "thexton armstrong Nord und Ost Deutschland",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Consulting"
-   ],
-   "posted": "2026-10-26T13:30:59+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/business-mentor-partner-berlin-332713",
-   "source": "Arbeitnow",
-   "excerpt": "Über thexton armstrong \"Wir glauben: Nicht jeder Unternehmer ist ein geborener Entrepreneur. Aber jeder Unternehmer kann einer werden – mit der richtigen Begleitung.\" thexton armstrong wurde 2011 in den Niederlanden gegründet mit einer..."
   },
   {
    "id": "Jobicy-157202",
@@ -955,25 +988,6 @@
    "url": "https://jobicy.com/jobs/157206-salesforce-business-systems-administrator-2",
    "source": "Jobicy",
    "excerpt": "ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue —..."
-  },
-  {
-   "id": "Arbeitnow-remote-analyst-investor-relations-marketing-switzerland-434020",
-   "title": "Analyst, Investor Relations & Marketing",
-   "company": "Re7 Capital",
-   "category": "Marketing",
-   "type": "Full Time",
-   "location": "Switzerland",
-   "salary": "",
-   "tags": [
-    "Marketing",
-    "Information Technology and Services",
-    "Capital",
-    "Remote"
-   ],
-   "posted": "2026-10-26T12:20:11+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020",
-   "source": "Arbeitnow",
-   "excerpt": "Remote-First | Working hours: UK or CET time zone | Full-time The role Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping..."
   },
   {
    "id": "Arbeitnow-junior-marketing-manager-london-44573",
