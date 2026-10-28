@@ -1,6 +1,88 @@
 {
- "updated": "2026-10-27T21:59:30+00:00",
+ "updated": "2026-10-28T04:59:29+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-freelance-customer-success-manager-slovenian-speaking-1065",
+   "title": "Freelance Customer Success Manager – Slovenian-Speaking",
+   "company": "Rootglobal",
+   "category": "Account Management",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Account Management"
+   ],
+   "posted": "2026-10-28T03:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/rootglobal/remote-freelance-customer-success-manager-slovenian-speaking-1065",
+   "source": "Arbeitnow",
+   "excerpt": "No previous experience in the climate space? Don't worry, we are happy to help you grow into a climate expert at Root! 🌎 What we do We build software that helps companies along the food system get to Net Zero. ~31% of global GHG emissions..."
+  },
+  {
+   "id": "Arbeitnow-remote-director-of-sales-europe-185522",
+   "title": "Director of Sales, Europe",
+   "company": "planetlabs",
+   "category": "Sales Manager",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales Manager"
+   ],
+   "posted": "2026-10-28T00:55:18+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-185522",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation..."
+  },
+  {
+   "id": "Arbeitnow-remote-teamleider-werktuigbouwkundige-installaties-barneveld-341180",
+   "title": "Teamleider Werktuigbouwkundige Installaties",
+   "company": "VDK Groep B.V.",
+   "category": "Management & Staff",
+   "type": "Mid",
+   "location": "Werken op afstand",
+   "salary": "",
+   "tags": [
+    "Management & Staff",
+    "Remote"
+   ],
+   "posted": "2026-10-28T00:31:46+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-teamleider-werktuigbouwkundige-installaties-barneveld-341180",
+   "source": "Arbeitnow",
+   "excerpt": "Teamleider Werktuigbouwkundige Installaties Ben jij een ervaren installatietechnicus die klaar is voor een leidinggevende rol? Of geef je al leiding aan monteurs en wil je meer verantwoordelijkheid binnen de werktuigbouwkundige..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
+   "title": "Senior SAP AMS Support Consultant (SAP SD, SAP MM, SAP PP)",
+   "company": "The Config Team",
+   "category": "Application Management Services (AMS)",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Application Management Services (AMS)",
+    "Remote"
+   ],
+   "posted": "2026-10-28T00:31:44+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
+   "source": "Arbeitnow",
+   "excerpt": "Job title: Senior SAP AMS Support Consultant (SAP SD, SAP MM, SAP PP) Employment: Permanent Location: UK based Salary: Excellent basic salary Benefits: 24 days holiday, paid birthday day off, paid volunteer day, holiday buy & sell, Bupa..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sap-logistics-consultant-s-4hana-add-ons-ki-gestutzte-entwicklung-passau-95163",
+   "title": "Senior SAP® Logistics Consultant (m/w/d) – S/4HANA, Add-ons, KI-gestützte Entwicklung",
+   "company": "24-LOG GmbH",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-28T00:31:42+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-consultant-s-4hana-add-ons-ki-gestutzte-entwicklung-passau-95163",
+   "source": "Arbeitnow",
+   "excerpt": "ÜBER UNS Die 24-LOG GmbH aus Passau entwickelt seit 2013 SAP®-Lösungen für Logistik und Produktion. Wir bringen fertige Add-ons mit – für Integration, Intralogistik, Versand und Belege – und passen sie an das System unserer Kunden an,..."
+  },
   {
    "id": "Arbeitnow-marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
    "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
@@ -14,7 +96,7 @@
     "Management",
     "Team Leader"
    ],
-   "posted": "2026-10-27T19:30:44+00:00",
+   "posted": "2026-10-27T23:47:31+00:00",
    "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
    "source": "Arbeitnow",
    "excerpt": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT-..."
@@ -196,57 +278,6 @@
    "excerpt": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform..."
   },
   {
-   "id": "Arbeitnow-senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-   "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-27T18:17:35+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze..."
-  },
-  {
-   "id": "Arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-430479",
-   "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-27T18:17:34+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-430479",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze..."
-  },
-  {
-   "id": "Arbeitnow-fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-   "title": "Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-27T18:17:34+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze..."
-  },
-  {
    "id": "Arbeitnow-freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
    "title": "Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d",
    "company": "easybill GmbH",
@@ -280,56 +311,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/kizuna-personalberatung-gmbh/technical-director-berlin-237667",
    "source": "Arbeitnow",
    "excerpt": "Im Auftrag unseres Mandanten, einem international führenden Dienstleister für die Automobilindustrie, suchen wir eine erfahrene operative Führungskraft. Unser Mandant unterstützt renommierte Automobilhersteller (OEMs) und Zulieferer..."
-  },
-  {
-   "id": "Arbeitnow-callcenter-telefonistin-berlin-320904",
-   "title": "Callcenter - Telefonist:in",
-   "company": "Templar Hausverwaltung GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-27T16:31:12+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/templar-hausverwaltung-gmbh/callcenter-telefonistin-berlin-320904",
-   "source": "Arbeitnow",
-   "excerpt": "Kommunikation auf Augenhöhe im Kundenservice Templar Hausverwaltung GmbH sucht drei neue Kolleginnen und Kollegen für den Bereich Kundenservice. Sie bearbeiten telefonische Anfragen unserer Mieter und Eigentümer, koordinieren Anliegen rund..."
-  },
-  {
-   "id": "Arbeitnow-mitarbeiter-kundenservice-e-commerce-100-remote-berlin-267473",
-   "title": "Mitarbeiter Kundenservice & E-Commerce (m/w/d) - 100% Remote",
-   "company": "1ASOL GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-27T16:00:46+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/1asol-gmbh/mitarbeiter-kundenservice-e-commerce-100-remote-berlin-267473",
-   "source": "Arbeitnow",
-   "excerpt": "1ASOL ist eines der am schnellsten wachsenden E-Commerce-Unternehmen im Bereich Photovoltaiktechnik in Deutschland. Über unseren Onlineshop vertreiben wir Solarmodule, Wechselrichter, Batteriespeicher und weitere Komponenten für eine..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-account-executive-americas-281211",
-   "title": "Senior Account Executive - Americas",
-   "company": "Hopae",
-   "category": "Revenue",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Revenue"
-   ],
-   "posted": "2026-10-27T15:40:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-senior-account-executive-americas-281211",
-   "source": "Arbeitnow",
-   "excerpt": "🌍 About Hopae At Hopae , we're building the world's most trusted digital identity platform — private, secure, and built for real life. We believe identity should be in your control — not locked behind outdated systems or centralized..."
   },
   {
    "id": "Jobicy-157434",
@@ -456,23 +437,6 @@
    "url": "https://jobicy.com/jobs/157425-staff-software-engineer-12",
    "source": "Jobicy",
    "excerpt": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and..."
-  },
-  {
-   "id": "Arbeitnow-remote-seo-specialist-berlin-428615",
-   "title": "SEO Specialist",
-   "company": "TransPerfect",
-   "category": "Project Management",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Project Management",
-    "Remote"
-   ],
-   "posted": "2026-10-27T15:31:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615",
-   "source": "Arbeitnow",
-   "excerpt": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. We're looking for a freelance..."
   },
   {
    "id": "Jobicy-157424",
@@ -613,126 +577,6 @@
    "url": "https://jobicy.com/jobs/157412-business-analyst-clinical-reimbursement-policy-2",
    "source": "Jobicy",
    "excerpt": "At Clover Health, we’re focused on improving the health of our members by leveraging technology and data-driven insights to provide personalized, high-quality care. As a Medicare Advantage plan, we aim to empower our members by helping..."
-  },
-  {
-   "id": "Arbeitnow-pflichtpraktikum-ubersetzung-sprachprufung-chinesisch-hindi-spanisch-oder-russisch-kitzingen-482760",
-   "title": "Pflichtpraktikum Übersetzung & Sprachprüfung (Chinesisch, Hindi, Spanisch oder Russisch)",
-   "company": "Landsiedel NLP Training",
-   "category": "Remote",
-   "type": "Praktikum",
-   "location": "Kitzingen",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Online Marketing"
-   ],
-   "posted": "2026-10-27T15:01:03+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflichtpraktikum-ubersetzung-sprachprufung-chinesisch-hindi-spanisch-oder-russisch-kitzingen-482760",
-   "source": "Arbeitnow",
-   "excerpt": "Du studierst Übersetzen, Dolmetschen, Sprachwissenschaften oder eine Fremdsprache (Chinesisch, Hindi, Spanisch oder Russisch) und suchst ein Pflichtpraktikum mit echtem Praxisbezug? Du möchtest nicht nur Texte übersetzen, sondern..."
-  },
-  {
-   "id": "Arbeitnow-pflicht-praktikum-im-bereich-grafik-design-content-creation-und-mediengestaltung-magazin-social-media-und-webseite-kitzingen-278588",
-   "title": "Pflicht-Praktikum im Bereich Grafik-Design, Content Creation und Mediengestaltung (Magazin, Social Media und Webseite)",
-   "company": "Landsiedel NLP Training",
-   "category": "Remote",
-   "type": "Praktikum",
-   "location": "Kitzingen",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Media",
-    "Screen and Web Design"
-   ],
-   "posted": "2026-10-27T15:01:02+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflicht-praktikum-im-bereich-grafik-design-content-creation-und-mediengestaltung-magazin-social-media-und-webseite-kitzingen-278588",
-   "source": "Arbeitnow",
-   "excerpt": "Landsiedel Seminare ist in Deutschlands führender Anbieter von NLP Seminaren, Ausbildungen und Online-Akademie. Unsere Mission ist es, Menschen dabei zu unterstützen, ihre Potentiale zu entdecken, zu entwickeln, und den Mut zu haben, sie..."
-  },
-  {
-   "id": "Arbeitnow-pflichtpraktikum-informatik-webprogrammierung-seo-kitzingen-206022",
-   "title": "Pflichtpraktikum Informatik (Webprogrammierung + SEO)",
-   "company": "Landsiedel NLP Training",
-   "category": "Remote",
-   "type": "Praktikum",
-   "location": "Kitzingen",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-27T15:01:02+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflichtpraktikum-informatik-webprogrammierung-seo-kitzingen-206022",
-   "source": "Arbeitnow",
-   "excerpt": "Du bist Informatikstudent und suchst ein Praktikum, das mehr bietet als nur Zahlen, Daten und Fakten? Du möchtest Dich nicht nur fachlich, sondern gerne auch persönlich weiterentwickeln – und Teil eines Teams werden, in dem Du nicht..."
-  },
-  {
-   "id": "Arbeitnow-pflicht-praktikum-e-commerce-suchmaschinenoptimierer-in-kitzingen-269255",
-   "title": "Pflicht-Praktikum E-Commerce (Suchmaschinenoptimierer/in) (w/m/d)",
-   "company": "Landsiedel NLP Training",
-   "category": "Remote",
-   "type": "Praktikum",
-   "location": "Kitzingen",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing Assistant"
-   ],
-   "posted": "2026-10-27T15:01:02+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflicht-praktikum-e-commerce-suchmaschinenoptimierer-in-kitzingen-269255",
-   "source": "Arbeitnow",
-   "excerpt": "Wir freuen uns sehr, dass Du Dich für eine Mitarbeit bei uns interessierst. Wir bieten ein Pflicht-Praktikum in einem dynamischen Team, mit eigenem, adäquat ausgestattetem Arbeitsplatz in unserem Institut in Kitzingen oder REMOTE (also von..."
-  },
-  {
-   "id": "Arbeitnow-customer-support-specialist-saas-digitale-produkte-berlin-291774",
-   "title": "Customer Support Specialist (m/w/d) – SaaS & digitale Produkte",
-   "company": "Cannaleo Digital GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-10-27T15:01:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/customer-support-specialist-saas-digitale-produkte-berlin-291774",
-   "source": "Arbeitnow",
-   "excerpt": "Über Cannaleo Digital Wir gehören zu den führenden Softwareanbietern im Bereich Medizinal Cannabis. Über 400 Apotheken nutzen bereits unsere Lösungen und mehr als 3 Millionen Bestellungen wurden über unsere Systeme verarbeitet. Wir..."
-  },
-  {
-   "id": "Arbeitnow-ki-entwickler-llm-rag-agenten-python-oder-typescript-berlin-207271",
-   "title": "KI-Entwickler LLM / RAG / Agenten – Python oder TypeScript (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-27T14:31:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/ki-entwickler-llm-rag-agenten-python-oder-typescript-berlin-207271",
-   "source": "Arbeitnow",
-   "excerpt": "Du baust KI-Anwendungen, die beim Kunden im Regelbetrieb laufen: Dialogsysteme, semantische Suche, RAG-Pipelines, Agenten mit Werkzeuganbindung. Kein Prototyp für die Schublade. Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim,..."
-  },
-  {
-   "id": "Arbeitnow-fullstack-entwickler-typescript-nodejs-angular-ki-integration-berlin-298234",
-   "title": "Fullstack Entwickler TypeScript – Node.js / Angular, KI-Integration (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-27T14:31:07+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-typescript-nodejs-angular-ki-integration-berlin-298234",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze..."
   },
   {
    "id": "Arbeitnow-ai-research-scientist-scientific-evaluation-ml-ai-zurich-74951",
@@ -1058,92 +902,6 @@
    "url": "https://jobicy.com/jobs/157385-sr-bioinformatics-scientist",
    "source": "Jobicy",
    "excerpt": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a..."
-  },
-  {
-   "id": "Arbeitnow-werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
-   "title": "Werkstudent/in UX/UI Design (15-20 Std./Woche - 100% Remote)",
-   "company": "BlickSolutions GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Media",
-    "Screen and Web Design"
-   ],
-   "posted": "2026-10-27T13:31:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/blicksolutions-gmbh/werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
-   "source": "Arbeitnow",
-   "excerpt": "Du hast schon mehr als ein paar Figma-Tutorials hinter dir, kommunizierst klar und nutzt KI selbstverständlich in deinem Designalltag? Dann steig ein bei BlickSolutions, einer Shopify-Agentur, die E-Commerce neu denkt. Wir gestalten nicht..."
-  },
-  {
-   "id": "Arbeitnow-vp-sales-f-md-berlin-68736",
-   "title": "VP Sales (f/md/)",
-   "company": "Clariness GmbH",
-   "category": "Remote",
-   "type": "Permanent Employment",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Management",
-    "Team Leader"
-   ],
-   "posted": "2026-10-27T13:30:58+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/clariness-gmbh/vp-sales-f-md-berlin-68736",
-   "source": "Arbeitnow",
-   "excerpt": "Clariness is looking for a VP Sales (f/md/) based in US. - Full-time; unlimited - About the role: Clariness helps patients access clinical trials faster through our ClinLife® platform, active in 50+ countries. In this role, you will turn..."
-  },
-  {
-   "id": "Arbeitnow-praktikant-praktikum-marketing-prasentationsgestaltung-berlin-155248",
-   "title": "Praktikant (m/w/d) - Praktikum Marketing & Präsentationsgestaltung (m/w/d)",
-   "company": "select if Personalberatung",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Marketing Assistant"
-   ],
-   "posted": "2026-10-27T13:00:52+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/select-if-personalberatung/praktikant-praktikum-marketing-prasentationsgestaltung-berlin-155248",
-   "source": "Arbeitnow",
-   "excerpt": "Karriereservice,de steht für professionelle Karriereberatung, praxisnahe Führungstrainings und modernes Outplacement. Wir begleiten Menschen auf ihrem beruflichen Weg – ob beim Karriereeinstieg, in der Neuorientierung oder beim nächsten..."
-  },
-  {
-   "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-23147",
-   "title": "Sales Account Executive - Cybersecurity",
-   "company": "Crowdsec",
-   "category": "Remote",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-10-27T12:51:34+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-23147",
-   "source": "Arbeitnow",
-   "excerpt": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale,..."
-  },
-  {
-   "id": "Arbeitnow-benevole-developpeur-testeur-dapplication-association-startup-de-tech-solidaire-teletravail-montpellier-45193",
-   "title": "Bénévole Développeur Testeur d’Application- Association Startup de Tech Solidaire - Télétravail",
-   "company": "LA FAMILLE MAGHEN",
-   "category": "Remote",
-   "type": "Bénévolat",
-   "location": "Montpellier",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-27T12:01:06+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevole-developpeur-testeur-dapplication-association-startup-de-tech-solidaire-teletravail-montpellier-45193",
-   "source": "Arbeitnow",
-   "excerpt": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour concevoir, tester et développer nos applications d'inclusion sociale, notamment sur le projet e-PhotoID. Vous participez à la phase de test, identifiez les..."
   },
   {
    "id": "Arbeitnow-customer-success-manager-french-speaking-airline-or-airline-catering-80-100-europe-100-remote-zurich-289719",
