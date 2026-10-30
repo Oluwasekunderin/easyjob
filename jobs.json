@@ -1,22 +1,388 @@
 {
- "updated": "2026-10-29T22:37:21+00:00",
+ "updated": "2026-10-30T05:11:47+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-ai-engeneer-berlin-74953",
-   "title": "AI Engeneer",
-   "company": "JETPLAN",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
+   "id": "Arbeitnow-remote-senior-manager-global-benefits-206561",
+   "title": "Senior Manager, Global Benefits",
+   "company": "dataiku",
+   "category": "Total Rewards",
+   "type": "",
+   "location": "Remote",
    "salary": "",
    "tags": [
-    "Remote",
-    "Data Scientist"
+    "Total Rewards"
    ],
-   "posted": "2026-10-29T20:30:40+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/jetplan/ai-engeneer-berlin-74953",
+   "posted": "2026-10-30T00:55:19+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-senior-manager-global-benefits-206561",
    "source": "Arbeitnow",
-   "excerpt": "Was Sie bei JETPLAN bewegen JETPLAN entwickelt Software, mit der Elektrikerinnen und Elektriker Kundenprojekte mobil, digital und direkt vor Ort im Grundriss planen. Als AI Engineer (m/w/d) treiben Sie die KI-Entwicklung unserer Plattform..."
+   "excerpt": "<div class=\"content-intro\"><p><a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\">Dataiku</a> is the Platform for AI Success, the enterprise..."
+  },
+  {
+   "id": "Arbeitnow-remote-director-of-strategic-accounts-407977",
+   "title": "Director of Strategic Accounts",
+   "company": "tanium",
+   "category": "Enterprise Sales",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Enterprise Sales"
+   ],
+   "posted": "2026-10-30T00:55:17+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/tanium/remote-director-of-strategic-accounts-407977",
+   "source": "Arbeitnow",
+   "excerpt": "<p><strong>The Basics</strong></p> <p><span class=\"TextRun SCXW233177632 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW233177632 BCX0\">As a Director of Strategic Accounts (DSA) on the Tanium field sales team, you..."
+  },
+  {
+   "id": "Arbeitnow-remote-sales-engineer-emea-473220",
+   "title": "Sales Engineer (EMEA)",
+   "company": "Constructor",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-10-30T00:40:16+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sales-engineer-emea-473220",
+   "source": "Arbeitnow",
+   "excerpt": "About Us Constructor.io powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you've probably seen our results somewhere and used our product without knowing it...."
+  },
+  {
+   "id": "Arbeitnow-remote-staff-engineer-voyagu-195754",
+   "title": "Staff Engineer | Voyagu",
+   "company": "Hirehire",
+   "category": "AI/ML/Tech",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "AI/ML/Tech"
+   ],
+   "posted": "2026-10-30T00:40:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-engineer-voyagu-195754",
+   "source": "Arbeitnow",
+   "excerpt": "Role: Staff Engineer (Integrations / Supply, air travel) Company: Voyagu Location: Fully remote, Europe preferred. European time zone; about two hours of difference is fine. About eight hours online, and some overlap with US time zones..."
+  },
+  {
+   "id": "Arbeitnow-remote-recruitment-partner-467351",
+   "title": "Recruitment Partner",
+   "company": "Hirehire",
+   "category": "Roles at hirehire",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Roles at hirehire"
+   ],
+   "posted": "2026-10-30T00:40:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-recruitment-partner-467351",
+   "source": "Arbeitnow",
+   "excerpt": "Who we are hirehire agency is built around deep product and design expertise. Our expert network is made up of senior designers and PMs who have worked at companies like Intercom, Stripe, Revolut, and others. They interview and evaluate..."
+  },
+  {
+   "id": "Arbeitnow-remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+   "title": "SQL Developer – AI Prompting & Context Engineering",
+   "company": "Bromcom Computers Plc",
+   "category": "Software & QA",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Software & QA",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:29+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+   "source": "Arbeitnow",
+   "excerpt": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software..."
+  },
+  {
+   "id": "Arbeitnow-remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+   "title": "Research Engineer Intern (Multimodal LLM)",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
+   "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
+   "company": "Tether Operations Limited",
+   "category": "Regulatory Affairs and Licensing",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Regulatory Affairs and Licensing",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
+   "title": "AI Research Engineer (Agentic Post-training) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
+   "title": "AI Research Engineer (Multi-Modal Reinforcement Learning) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
+   "title": "AI Research Engineer (Multi-Modal & Vision) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
+   "title": "AI Research Engineer (Model Compression & Quantization)",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
+   "title": "AI Research Engineer (Model Compression & Quantization) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-senior-business-analyst-mining-100-remote-london-480772",
+   "title": "Senior Business Analyst Mining (100% remote)",
+   "company": "Tether Operations Limited",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-business-analyst-mining-100-remote-london-480772",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
+   "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-research-engineer-multi-modal-vision-london-236862",
+   "title": "AI Research Engineer (Multi-Modal & Vision)",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-vision-london-236862",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-engagement-manager-ai-implementations-london-439998",
+   "title": "Engagement Manager, AI Implementations",
+   "company": "Tether Operations Limited",
+   "category": "Expansion",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Expansion",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-439998",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
+   "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "category": "Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:26+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
+   "source": "Arbeitnow",
+   "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors..."
+  },
+  {
+   "id": "Arbeitnow-remote-software-test-engineer-bern-463546",
+   "title": "Software Test Engineer",
+   "company": "SwissPeak Partners GmbH",
+   "category": "Software Engineering",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Software Engineering",
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:24+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
+   "source": "Arbeitnow",
+   "excerpt": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest..."
+  },
+  {
+   "id": "Arbeitnow-remote-servicenow-ai-architect-zurich-341724",
+   "title": "ServiceNow AI Architect",
+   "company": "SwissPeak Partners GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:24+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-341724",
+   "source": "Arbeitnow",
+   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing..."
+  },
+  {
+   "id": "Arbeitnow-remote-servicenow-crm-architect-zurich-281720",
+   "title": "ServiceNow CRM Architect",
+   "company": "SwissPeak Partners GmbH",
+   "category": "Remote",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-10-30T00:31:24+00:00",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-281720",
+   "source": "Arbeitnow",
+   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-sales-engineer-berlin-220891",
+   "title": "Senior Sales Engineer (m/w/d)",
+   "company": "Natuvion GmbH",
+   "category": "Sales",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Remote"
+   ],
+   "posted": "2026-10-29T21:31:09+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-220891",
+   "source": "Arbeitnow",
+   "excerpt": "Als Senior Sales Engineer (m/w/d) fungierst du als zentrale Schnittstelle zwischen Vertrieb, Consulting und Projektumsetzung . Du unterstützt den Sales-Prozess, indem du komplexe Kundenanforderungen analysierst, strukturierst und daraus..."
+  },
+  {
+   "id": "Arbeitnow-werkstudent-marketing-remote-118440",
+   "title": "Werkstudent Marketing (m/w/d) · Remote",
+   "company": "Evolve Digital GmbH",
+   "category": "Prozessmanager",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Prozessmanager",
+    "Remote"
+   ],
+   "posted": "2026-10-29T21:31:08+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+   "source": "Arbeitnow",
+   "excerpt": "Du studierst Marketing oder etwas Ähnliches, hast schon erste Social-Media-Erfahrung und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns übernimmst du Verantwortung für unsere LinkedIn- und Instagram-Auftritte und..."
   },
   {
    "id": "Arbeitnow-senior-fpa-expert-financial-task-design-and-evaluation-zurich-295365",
@@ -34,23 +400,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/senior-fpa-expert-financial-task-design-and-evaluation-zurich-295365",
    "source": "Arbeitnow",
    "excerpt": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and..."
-  },
-  {
-   "id": "Arbeitnow-fullstack-entwickler-mit-php-backend-symfony-rabbitmq-stuttgart-241857",
-   "title": "Fullstack Entwickler mit PHP-Backend – Symfony, RabbitMQ (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-29T19:17:32+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-mit-php-backend-symfony-rabbitmq-stuttgart-241857",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze..."
   },
   {
    "id": "Arbeitnow-founders-associate-entrepreneur-in-residence-berlin-448412",
@@ -210,23 +559,6 @@
    "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
   },
   {
-   "id": "Arbeitnow-remote-senior-sap-ams-support-consultant-sap-pp-sap-mm-uk-318375",
-   "title": "Senior SAP AMS Support Consultant (SAP PP & SAP MM)",
-   "company": "The Config Team",
-   "category": "Application Management Services (AMS)",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Application Management Services (AMS)",
-    "Remote"
-   ],
-   "posted": "2026-10-29T18:31:10+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-ams-support-consultant-sap-pp-sap-mm-uk-318375",
-   "source": "Arbeitnow",
-   "excerpt": "Job title: Senior SAP AMS Support Consultant (SAP PP & SAP MM) Employment: Permanent Location: UK based Salary: Excellent basic salary Benefits: 24 days holiday, paid birthday day off, paid volunteer day, holiday buy & sell, Bupa private..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-aws-platform-engineer-utrecht-130307",
    "title": "Senior AWS Platform Engineer",
    "company": "Luscii",
@@ -293,76 +625,6 @@
    "url": "https://www.arbeitnow.nl/jobs/companies/pvcase/remote-senior-financial-analyst-fpa-contractor-netherlands-91709",
    "source": "Arbeitnow",
    "excerpt": "We are seeking a Senior FP&A Analyst to lead end-to-end financial planning, reporting, and forecasting for operating expenses across the organization. In this role, you will own cost center analysis, drive forecast consolidation, manage..."
-  },
-  {
-   "id": "Arbeitnow-technischer-planer-rechenzentrumsbau-berlin-152007",
-   "title": "Technischer Planer Rechenzentrumsbau (m/w/d)",
-   "company": "innovIT AG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Building",
-    "Supply",
-    "Safety Services Engineering"
-   ],
-   "posted": "2026-10-29T17:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/technischer-planer-rechenzentrumsbau-berlin-152007",
-   "source": "Arbeitnow",
-   "excerpt": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von..."
-  },
-  {
-   "id": "Arbeitnow-founders-associate-berlin-182618",
-   "title": "Founders Associate (m/w/d)",
-   "company": "innovIT AG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Operations"
-   ],
-   "posted": "2026-10-29T17:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/founders-associate-berlin-182618",
-   "source": "Arbeitnow",
-   "excerpt": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von..."
-  },
-  {
-   "id": "Arbeitnow-ki-implementierer-berlin-359603",
-   "title": "KI-Implementierer (m/w/d)",
-   "company": "innovIT AG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-29T17:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/ki-implementierer-berlin-359603",
-   "source": "Arbeitnow",
-   "excerpt": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von..."
-  },
-  {
-   "id": "Arbeitnow-senior-full-stack-developer-de-en-fr-es-it-munich-426677",
-   "title": "Senior Full Stack Developer (f/m/d) | DE + EN + FR/ES/IT",
-   "company": "HappyOps",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Munich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Web Development"
-   ],
-   "posted": "2026-10-29T17:00:49+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-full-stack-developer-de-en-fr-es-it-munich-426677",
-   "source": "Arbeitnow",
-   "excerpt": "Über HappyOps HappyOps entwickelt moderne Softwarelösungen für mittelständische Industrieunternehmen in Europa. Unsere Kunden kommen aus unterschiedlichen Branchen, darunter der Glas, Metall, Kunststoff und Maschinenbauindustrie. Gemeinsam..."
   },
   {
    "id": "Jobicy-157912",
@@ -503,23 +765,6 @@
    "url": "https://jobicy.com/jobs/157903-senior-technical-account-manager-strategic-services-2",
    "source": "Jobicy",
    "excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is..."
-  },
-  {
-   "id": "Arbeitnow-linux-administrator-consultant-remote-berlin-212302",
-   "title": "Linux Administrator/Consultant (m/w/d) REMOTE",
-   "company": "Pont Connects e.K.",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "System and Network Administration"
-   ],
-   "posted": "2026-10-29T16:31:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/linux-administrator-consultant-remote-berlin-212302",
-   "source": "Arbeitnow",
-   "excerpt": "Ihre Aufgaben Für einen langjährigen Kunden suche ich einen Linux Administrator/Consultant (m/w/d) in Festanstellung. Sie arbeiten vollständig remote innerhalb der DACH-Region und unterstützen das Team bei anspruchsvollen Linux-Umgebungen...."
   },
   {
    "id": "Jobicy-157902",
@@ -928,40 +1173,6 @@
    "excerpt": "Role Description As a Full Stack Engineer at Dropbox, you will help design and develop the seamless, scalable, and user-friendly experiences Dropbox users depend on. Your work will encompass both front-end and back-end development,..."
   },
   {
-   "id": "Arbeitnow-initiativbewerbung-buro-greifswald-142461",
-   "title": "Initiativbewerbung Büro Greifswald",
-   "company": "advacc advanced accounting GmbH",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Greifswald",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-29T16:01:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-greifswald-142461",
-   "source": "Arbeitnow",
-   "excerpt": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau..."
-  },
-  {
-   "id": "Arbeitnow-initiativbewerbung-buro-dusseldorf-456047",
-   "title": "Initiativbewerbung Büro Düsseldorf",
-   "company": "advacc advanced accounting GmbH",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Düsseldorf",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-10-29T16:01:23+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-dusseldorf-456047",
-   "source": "Arbeitnow",
-   "excerpt": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau..."
-  },
-  {
    "id": "Jobicy-157872",
    "title": "Marketing Manager: Audio & Offline Media",
    "company": "hims & hers",
@@ -1010,41 +1221,6 @@
    "excerpt": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location. About the Role Our Intelligence team builds the AI capabilities that run across the whole Tellent suite. We're looking for..."
   },
   {
-   "id": "Arbeitnow-freelance-trainer-sap-ewm-immediate-start-berlin-266599",
-   "title": "Freelance Trainer - SAP EWM - immediate start",
-   "company": "StartSteps Digital Education GmbH",
-   "category": "Remote",
-   "type": "Freelancer / Indepedent Contractor",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "SAP/ERP Consulting",
-    "Development"
-   ],
-   "posted": "2026-10-29T15:31:00+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/startsteps-digital-education-gmbh/freelance-trainer-sap-ewm-immediate-start-berlin-266599",
-   "source": "Arbeitnow",
-   "excerpt": "As SAP People to Work training partner, we are offering the SAP Extended Warehouse Management Program. This innovative initiative aims to equip aspiring professionals with the skills and knowledge required to excel in the realm of Extended..."
-  },
-  {
-   "id": "Arbeitnow-quantum-program-ecosystemmanager-berlin-238498",
-   "title": "Quantum Program & Ecosystemmanager (m/w/d)",
-   "company": "Quantum Business Network UG (haftungsbeschränkt)",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-10-29T15:01:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/quantum-business-network-ug-haftungsbeschrankt/quantum-program-ecosystemmanager-berlin-238498",
-   "source": "Arbeitnow",
-   "excerpt": "Schnittstelle zwischen Quanten-Ökosystem, strategischen Formaten & Thought Leadership Über uns: Das Quantum Business Network (QBN) ist ein führendes internationales Industrie-Netzwerk für die Kommerzialisierung, die industrielle und..."
-  },
-  {
    "id": "Arbeitnow-e-commerce-operations-manager-in-amazon-zurich-149664",
    "title": "E-Commerce Operations Manager/-in (Amazon)",
    "company": "GalleryLab GmbH",
@@ -1060,57 +1236,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
    "source": "Arbeitnow",
    "excerpt": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge..."
-  },
-  {
-   "id": "Arbeitnow-erp-consultant-microsoft-dynamics-365-finance-and-operations-16031-festanstellung-winterthur-330217",
-   "title": "ERP Consultant Microsoft Dynamics 365 Finance and Operations (16031) – Festanstellung",
-   "company": "IQ Plus AG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Winterthur",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Operations"
-   ],
-   "posted": "2026-10-29T14:31:23+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/erp-consultant-microsoft-dynamics-365-finance-and-operations-16031-festanstellung-winterthur-330217",
-   "source": "Arbeitnow",
-   "excerpt": "Für unseren Kunden suchen wir einen erfahrenen ERP Consultant für Microsoft Dynamics 365 (Finance and Operations). Zu Ihren Hauptaufgaben gehört: Beratung von Kunden bei der Einführung und Weiterentwicklung von Microsoft Dynamics 365..."
-  },
-  {
-   "id": "Arbeitnow-software-architekt-mit-microservice-architektur-76040-winterthur-449708",
-   "title": "Software Architekt mit Microservice-Architektur (76040)",
-   "company": "IQ Plus AG",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Winterthur",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-10-29T14:31:23+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/software-architekt-mit-microservice-architektur-76040-winterthur-449708",
-   "source": "Arbeitnow",
-   "excerpt": "Wir suchen für einen unserer Kunden einen erfahrenen Software Architekten mit Microservice-Architektur. Sie sind der Lead Architekt der neuen Steuerlösung und legen den architektonischen Grundstein für neue Features. Dabei behalten Sie..."
-  },
-  {
-   "id": "Arbeitnow-intune-spezialistin-zurich-498682",
-   "title": "Intune Spezialist:in",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-29T10:00:48+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/intune-spezialistin-zurich-498682",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für unseren Kunden in Luzern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Intune Spezialist:in. Deine Aufgaben: Betreuung, Betrieb und Weiterentwicklung der bestehenden Microsoft Intune Umgebung für..."
   },
   {
    "id": "Remote OK-1137597",
@@ -1130,23 +1255,6 @@
    "excerpt": "Job Title: Front-End Developer Location: Fully Remote (US) Department: Global Enrollment Marketing and Sales Reports to: Director of Web Development Classification: Regular, Full-time FLSA Status: Exempt Prepared by: Global Head of..."
   },
   {
-   "id": "Arbeitnow-m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
-   "title": "M365 Cloud Architekt:in – Enterprise Isolation & Security",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-10-28T16:00:53+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für unseren Bankkunden in Zürich, Bern oder Basel, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n M365 Cloud Architekt:in – Enterprise Isolation & Security. Deine Aufgaben: Konzeption und Implementierung..."
-  },
-  {
    "id": "Remote OK-1137595",
    "title": "z",
    "company": "y",
@@ -1158,24 +1266,7 @@
    "posted": "2026-10-28T15:49:49+00:00",
    "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137595",
    "source": "Remote OK",
-   "excerpt": "d Please mention the word **SWANKY** and tag RMTcyLjE3NC4xNjUuMjM0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuMjM0). This is a beta feature to avoid spam applicants. Companies can search these words to find..."
-  },
-  {
-   "id": "Arbeitnow-entra-id-active-directory-engineer-zurich-493190",
-   "title": "Entra ID & Active Directory Engineer",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT Security"
-   ],
-   "posted": "2026-10-28T15:31:34+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/entra-id-active-directory-engineer-zurich-493190",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für ein langfristiges Projekt suchen wir für unseren Kunden in Zürich eine engagierte und erfahrene Persönlichkeit als Entra ID & Active Directory Engineer . In dieser vielseitigen Position übernimmst du Verantwortung für..."
+   "excerpt": "d Please mention the word **SWANKY** and tag RNC4xNTQuMTM1LjE0NQ== when applying to show you read the job post completely (#RNC4xNTQuMTM1LjE0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find..."
   },
   {
    "id": "Remotive-2091135",
@@ -2528,39 +2619,6 @@
    "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What..."
   },
   {
-   "id": "Remote OK-1137451",
-   "title": "Enterprise Sales Development Representative",
-   "company": "Toptal",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$10,000 - $50,000",
-   "tags": [
-    "customer support",
-    "sales"
-   ],
-   "posted": "2026-09-30T18:24:42+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
-   "source": "Remote OK",
-   "excerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the..."
-  },
-  {
-   "id": "Remote OK-1137439",
-   "title": "Client Advisor",
-   "company": "Toptal",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$10,000 - $50,000",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-09-30T16:13:39+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
-   "source": "Remote OK",
-   "excerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the..."
-  },
-  {
    "id": "Remotive-2091132",
    "title": "Senior back-end Engineer",
    "company": "Lemon.io",
@@ -2729,25 +2787,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
    "source": "Remote OK",
    "excerpt": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The..."
-  },
-  {
-   "id": "Remote OK-1137394",
-   "title": "Sr Solutions Architect",
-   "company": "ExtraHop",
-   "category": "Architecture",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "architecture",
-    "design",
-    "infosec",
-    "python"
-   ],
-   "posted": "2026-09-15T00:00:26+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-   "source": "Remote OK",
-   "excerpt": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data,..."
   }
  ]
 }
