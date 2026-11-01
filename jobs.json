@@ -1,37 +1,91 @@
 {
- "updated": "2026-10-31T21:15:13+00:00",
+ "updated": "2026-11-01T05:25:04+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-remote-senior-professional-services-project-manager-emea-386688",
-   "title": "Senior Professional Services Project Manager (EMEA)",
-   "company": "gitlab",
-   "category": "Consulting Delivery",
-   "type": "",
+   "id": "Arbeitnow-remote-senior-product-designer-growth-54230",
+   "title": "Senior Product Designer - Growth",
+   "company": "Trustedhousesitters.com",
+   "category": "Product Team",
+   "type": "Full Time",
    "location": "Remote",
    "salary": "",
    "tags": [
-    "Consulting Delivery"
+    "Product Team"
    ],
-   "posted": "2026-10-31T18:55:27+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-professional-services-project-manager-emea-386688",
+   "posted": "2026-11-01T03:07:47+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
    "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+   "excerpt": "Fully Remote (UK based) | Competitive Salary + Bonus + Generous Equity | B Corp Certified TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a..."
   },
   {
-   "id": "Arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-5106",
-   "title": "Senior Backend Engineer, Database Excellence (Ruby)",
-   "company": "gitlab",
-   "category": "Data Engineering",
-   "type": "",
-   "location": "Remote",
+   "id": "Arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Environment",
+   "type": "Experienced",
+   "location": "Homeoffice",
    "salary": "",
    "tags": [
-    "Data Engineering"
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
    ],
-   "posted": "2026-10-31T18:55:27+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-5106",
+   "posted": "2026-11-01T00:31:19+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
    "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-188254",
+   "title": "Senior Oracle Data Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "category": "Customer Cluster Finance",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Customer Cluster Finance",
+    "Remote"
+   ],
+   "posted": "2026-11-01T00:31:19+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
+   "source": "Arbeitnow",
+   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-445711",
+   "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+   "company": "Makersite GmbH",
+   "category": "Technology",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-11-01T00:31:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we..."
+  },
+  {
+   "id": "Arbeitnow-bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
+   "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d) im Ehrenamt",
+   "company": "Bundesverbraucherhilfe e.V.",
+   "category": "Remote",
+   "type": "Freiberufler / Selbstständiger",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Management",
+    "Team Leader"
+   ],
+   "posted": "2026-10-31T22:17:25+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
+   "source": "Arbeitnow",
+   "excerpt": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als..."
   },
   {
    "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-331462",
@@ -65,24 +119,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
    "source": "Arbeitnow",
    "excerpt": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital..."
-  },
-  {
-   "id": "Arbeitnow-bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
-   "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d)",
-   "company": "Bundesverbraucherhilfe e.V.",
-   "category": "Remote",
-   "type": "Freiberufler / Selbstständiger",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Management",
-    "Team Leader"
-   ],
-   "posted": "2026-10-31T18:00:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
-   "source": "Arbeitnow",
-   "excerpt": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als..."
   },
   {
    "id": "Jobicy-158260",
@@ -936,72 +972,23 @@
    "excerpt": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT-..."
   },
   {
-   "id": "Arbeitnow-remote-senior-growth-marketing-manager-app-installs-478157",
-   "title": "Senior Growth Marketing Manager (App Installs)",
-   "company": "Duck Duck Go",
-   "category": "Marketing",
-   "type": "Full Time",
-   "location": "Remote",
+   "id": "Remote OK-1137608",
+   "title": "Scientific Account Executive",
+   "company": "Adaptyv",
+   "category": "Design",
+   "type": "",
+   "location": "Lausanne",
    "salary": "",
    "tags": [
-    "Marketing"
+    "design",
+    "technical",
+    "customer support",
+    "dev"
    ],
-   "posted": "2026-10-31T06:40:25+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-app-installs-478157",
-   "source": "Arbeitnow",
-   "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions..."
-  },
-  {
-   "id": "Arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
-   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "category": "Customer Cluster Justice",
-   "type": "Experienced",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Customer Cluster Justice",
-    "Remote"
-   ],
-   "posted": "2026-10-31T06:31:28+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
-   "source": "Arbeitnow",
-   "excerpt": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer..."
-  },
-  {
-   "id": "Arbeitnow-head-of-sales-ai-startup-berlin-233871",
-   "title": "Head of Sales (m/w/d) AI-Startup",
-   "company": "Fenie AI",
-   "category": "Remote",
-   "type": "Nebentätigkeit",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Management",
-    "Team Leader"
-   ],
-   "posted": "2026-10-31T06:30:45+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/head-of-sales-ai-startup-berlin-233871",
-   "source": "Arbeitnow",
-   "excerpt": "Du kannst gut verkaufen? Dann könnten wir gut Matchen. Wir suchen einen Head of Sales auf selbstständiger Basis , zunächst ideal als Nebenjob. Du hast die Chance, früh in ein internationales AI-Startup einzusteigen, ein Vertriebsteam..."
-  },
-  {
-   "id": "Arbeitnow-social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
-   "title": "Social Media Manager (m/w/d) mit Weiterbildung - Remote möglich",
-   "company": "Digital Evolution",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-10-31T06:30:43+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
-   "source": "Arbeitnow",
-   "excerpt": "Du suchst einen Job im Bereich Social Media und möchtest etwas neues lernen? Starte jetzt im Bereich Social Media und KI-Management durch. Ganz egal, ob in Vollzeit oder Teilzeit. Schritt 1: Die Schulung Wir bereiten dich auf diesen Beruf..."
+   "posted": "2026-10-31T00:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+   "source": "Remote OK",
+   "excerpt": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they..."
   },
   {
    "id": "Remote OK-1137607",
@@ -1093,22 +1080,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
    "source": "Remote OK",
    "excerpt": "We are seeking a reliable and service-driven Client Support & Booking Assistant to help clients with planning needs, booking coordination, and general customer support. This remote role is ideal for someone who enjoys assisting others,..."
-  },
-  {
-   "id": "Arbeitnow-remote-director-of-strategic-accounts-407977",
-   "title": "Director of Strategic Accounts",
-   "company": "tanium",
-   "category": "Enterprise Sales",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Enterprise Sales"
-   ],
-   "posted": "2026-10-30T00:55:17+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/tanium/remote-director-of-strategic-accounts-407977",
-   "source": "Arbeitnow",
-   "excerpt": "<p><strong>The Basics</strong></p> <p><span class=\"TextRun SCXW233177632 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW233177632 BCX0\">As a Director of Strategic Accounts (DSA) on the Tanium field sales team, you..."
   },
   {
    "id": "Remote OK-1137603",
