@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-04T23:27:33+00:00",
+ "updated": "2026-11-05T05:59:54+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-principal-global-campaign-operations-france-331161",
+   "title": "Principal, Global Campaign Operations",
+   "company": "Prosci",
+   "category": "Marketing",
+   "type": "",
+   "location": "France",
+   "salary": "",
+   "tags": [
+    "Marketing",
+    "Professional Training & Coaching",
+    "Remote"
+   ],
+   "posted": "2026-11-05T02:20:12+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/prosci/remote-principal-global-campaign-operations-france-331161",
+   "source": "Arbeitnow",
+   "excerpt": "We are looking for a Principal to lead global campaign operations at Prosci. You will turn Marketing plans for our Individual and Enterprise audiences into consistent, well-built campaigns across regions. You will own how campaigns are..."
+  },
+  {
+   "id": "Arbeitnow-remote-bilingual-prosci-instructor-france-26083",
+   "title": "Bilingual Prosci Instructor, France",
+   "company": "Prosci",
+   "category": "Training",
+   "type": "Full Time",
+   "location": "France",
+   "salary": "",
+   "tags": [
+    "Training",
+    "Management Consulting",
+    "Training & Delivery",
+    "Remote"
+   ],
+   "posted": "2026-11-05T02:20:12+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/prosci/remote-bilingual-prosci-instructor-france-26083",
+   "source": "Arbeitnow",
+   "excerpt": "Position summary Prosci Executive Instructors are dynamic teachers and facilitators, with a passion for change management and our client’s success. With deep business expertise, and a thorough understanding of Prosci’s change management..."
+  },
+  {
+   "id": "Arbeitnow-remote-activation-and-production-testing-specialist-171647",
+   "title": "Activation and Production Testing Specialist",
+   "company": "Hopae",
+   "category": "Product",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Product"
+   ],
+   "posted": "2026-11-05T00:40:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
+   "source": "Arbeitnow",
+   "excerpt": "🌍 About Hopae At Hopae , we're building the world's most trusted digital identity platform — private, secure, and built for real life. We believe identity should be in your control — not locked behind outdated systems or centralized..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-project-manager-intralogistics-and-robotics-256933",
+   "title": "Senior Project Manager (Intralogistics and Robotics)",
+   "company": "Nomagic",
+   "category": "230 - Customer support",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "230 - Customer support"
+   ],
+   "posted": "2026-11-05T00:28:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nomagic/remote-senior-project-manager-intralogistics-and-robotics-256933",
+   "source": "Arbeitnow",
+   "excerpt": "Do you dream of deploying the perfect picking robots in warehouses all around the world? Are you ready to learn the new, exciting world of smart robots? Are you excited about joining a startup and contributing to building its future? Would..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-fpa-manager-germany-302011",
+   "title": "(Senior) FP&A Manager",
+   "company": "Workmotion",
+   "category": "Internet",
+   "type": "",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Internet",
+    "Remote"
+   ],
+   "posted": "2026-11-05T00:20:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-fpa-manager-germany-302011",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Remote (Within +/- 2 hours of CET) Contract type: Full-time Salary: Starting from €70,000 per annum gross, subject to location, skills and experience Not Your Typical Workplace.… Tired of the 9-to-5 grind? Imagine a World without..."
+  },
   {
    "id": "Arbeitnow-sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
    "title": "Sales Manager CH, KI-Software für Psychotherapeut:innen",
@@ -54,23 +140,6 @@
    "excerpt": "Über BeginnerBudget Wir sind ein junges Startup aus Hamburg und suchen kreative Unterstützung bei der Gestaltung unserer Werbeanzeigen für Instagram und Facebook. Du hast ein gutes Auge für Design, arbeitest gerne mit Canva und nutzt KI..."
   },
   {
-   "id": "Arbeitnow-python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-   "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
-   "company": "Rockstardevelopers GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "posted": "2026-11-04T19:47:46+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-   "source": "Arbeitnow",
-   "excerpt": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege,..."
-  },
-  {
    "id": "Arbeitnow-remote-senior-partner-manager-data-ai-security-475954",
    "title": "Senior Partner Manager - Data & AI Security",
    "company": "veeamsoftware",
@@ -101,23 +170,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/clickup/remote-senior-solutions-engineer-commercial-482484",
    "source": "Arbeitnow",
    "excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is..."
-  },
-  {
-   "id": "Arbeitnow-benevolat-responsable-administratif-et-financier-association-startup-de-tech-solidaire-montpellier-321972",
-   "title": "Bénévolat Responsable Administratif et Financier - Association Startup de Tech Solidaire",
-   "company": "LA FAMILLE MAGHEN",
-   "category": "Remote",
-   "type": "Bénévolat",
-   "location": "Montpellier",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-11-04T18:00:45+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevolat-responsable-administratif-et-financier-association-startup-de-tech-solidaire-montpellier-321972",
-   "source": "Arbeitnow",
-   "excerpt": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour structurer notre gestion administrative et financière et accompagner le pilotage de nos budgets. Vous coordonnez la comptabilité, participez à la gestion..."
   },
   {
    "id": "Jobicy-159018",
@@ -538,71 +590,6 @@
    "url": "https://jobicy.com/jobs/158985-staff-software-engineer-firefox-enterprise",
    "source": "Jobicy",
    "excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than..."
-  },
-  {
-   "id": "Arbeitnow-remote-people-partner-engineering-product-414791",
-   "title": "People Partner Engineering & Product",
-   "company": "ElevenLabs",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Operations"
-   ],
-   "posted": "2026-11-04T15:40:13+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-414791",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-employee-relations-partner-461132",
-   "title": "Employee Relations Partner",
-   "company": "ElevenLabs",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Operations"
-   ],
-   "posted": "2026-11-04T15:40:13+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-employee-relations-partner-461132",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-remote-people-partner-gtm-406041",
-   "title": "People Partner GTM",
-   "company": "ElevenLabs",
-   "category": "Operations",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Operations"
-   ],
-   "posted": "2026-11-04T15:40:13+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-gtm-406041",
-   "source": "Arbeitnow",
-   "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of..."
-  },
-  {
-   "id": "Arbeitnow-senior-strategic-sales-manager-hanover-67727",
-   "title": "Senior Strategic Sales Manager (m/w/d)",
-   "company": "tecRacer Germany GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Hanover",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT"
-   ],
-   "posted": "2026-11-04T15:00:54+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/senior-strategic-sales-manager-hanover-67727",
-   "source": "Arbeitnow",
-   "excerpt": "Jobbeschreibung Als Senior Strategic Sales Manager (m/w/d) gewinnst du neue strategische Kunden und entwickelst ausgewählte Bestandskunden im DACH-Raum gezielt weiter. Du verantwortest komplexe Verkaufsprozesse vom ersten Kontakt bis zum..."
   },
   {
    "id": "Jobicy-158981",
@@ -1028,53 +1015,23 @@
    "excerpt": "AGFH huishoudelijke hulp Ons doel is ervoor te zorgen dat mensen die ondersteuning nodig hebben, kunnen wonen op de plek waar zij zich het meest op hun gemak voelen – thuis. Sinds 2018 zijn wij met meer dan 14.000 medewerkers uitgegroeid..."
   },
   {
-   "id": "Arbeitnow-remote-software-test-engineer-bern-122043",
-   "title": "Software Test Engineer",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Software Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
+   "id": "Remote OK-1137680",
+   "title": "Entry Level Scheduling & Coordinating Reservations Online",
+   "company": "Destination Careers",
+   "category": "Education",
+   "type": "",
+   "location": "South Carolina",
    "salary": "",
    "tags": [
-    "Software Engineering",
-    "Remote"
+    "education",
+    "coordinator",
+    "customer support",
+    "exec"
    ],
-   "posted": "2026-11-03T21:31:09+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-122043",
-   "source": "Arbeitnow",
-   "excerpt": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest..."
-  },
-  {
-   "id": "Arbeitnow-remote-servicenow-ai-architect-zurich-237261",
-   "title": "ServiceNow AI Architect",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-11-03T21:31:09+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-237261",
-   "source": "Arbeitnow",
-   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing..."
-  },
-  {
-   "id": "Arbeitnow-remote-servicenow-crm-architect-zurich-496408",
-   "title": "ServiceNow CRM Architect",
-   "company": "SwissPeak Partners GmbH",
-   "category": "Remote",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-11-03T21:31:09+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-496408",
-   "source": "Arbeitnow",
-   "excerpt": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within..."
+   "posted": "2026-11-04T00:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+   "source": "Remote OK",
+   "excerpt": "About Us: We are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a..."
   },
   {
    "id": "Remote OK-1137677",
@@ -1531,25 +1488,6 @@
    "excerpt": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and..."
   },
   {
-   "id": "Remote OK-1137573",
-   "title": "Account Executive",
-   "company": "Huzzle",
-   "category": "Saas",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "saas",
-    "dev",
-    "video",
-    "finance"
-   ],
-   "posted": "2026-10-26T08:00:12+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
-   "source": "Remote OK",
-   "excerpt": "About Huzzle At Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients range from startups and digital agencies to tech platforms in industries..."
-  },
-  {
    "id": "Remote OK-1137572",
    "title": "Senior Software Engineer LATAM",
    "company": "Wagmo",
@@ -1605,44 +1543,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
    "source": "Remote OK",
    "excerpt": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate..."
-  },
-  {
-   "id": "Remote OK-1137563",
-   "title": "Sales Development Representative German Speaking",
-   "company": "Huzzle",
-   "category": "Saas",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "saas",
-    "sys admin",
-    "dev",
-    "marketing"
-   ],
-   "posted": "2026-10-23T16:00:18+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-   "source": "Remote OK",
-   "excerpt": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and..."
-  },
-  {
-   "id": "Remote OK-1137560",
-   "title": "Accounting and Implementation Manager",
-   "company": "Aprio",
-   "category": "Exec",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "exec",
-    "accounting",
-    "design",
-    "sys admin"
-   ],
-   "posted": "2026-10-23T08:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-   "source": "Remote OK",
-   "excerpt": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing..."
   },
   {
    "id": "Remote OK-1137559",
@@ -1701,44 +1601,6 @@
    "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us...."
   },
   {
-   "id": "Remote OK-1137556",
-   "title": "Senior Finance Manager Management Accountant",
-   "company": "D2B",
-   "category": "Exec",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "exec",
-    "accounting",
-    "saas",
-    "technical"
-   ],
-   "posted": "2026-10-22T08:00:04+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-   "source": "Remote OK",
-   "excerpt": "Position : Senior Finance Manager / Management AccountantÂ Salary : PHP 90,000 - PHP 110,000 /month Working Hours & Conditions: Observing AU business hours Holidays : Observing AU holidays ROLE OVERVIEW: Our client is an end-to-end B2B..."
-  },
-  {
-   "id": "Remote OK-1137555",
-   "title": "Accounting & Finance Manager",
-   "company": "Political Asylum Lawyers",
-   "category": "Exec",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "exec",
-    "accounting",
-    "design",
-    "sys admin"
-   ],
-   "posted": "2026-10-22T00:00:21+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-   "source": "Remote OK",
-   "excerpt": "Who We Are Political Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect..."
-  },
-  {
    "id": "Remote OK-1137554",
    "title": "Accounting Operations",
    "company": "Plaid",
@@ -1794,25 +1656,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
    "source": "Remote OK",
    "excerpt": "General Summary The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of clinical trials to..."
-  },
-  {
-   "id": "Remote OK-1137548",
-   "title": "Risk Analyst",
-   "company": "Pavago",
-   "category": "Analyst",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "analyst",
-    "saas",
-    "sys admin",
-    "infosec"
-   ],
-   "posted": "2026-10-20T08:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-   "source": "Remote OK",
-   "excerpt": "Risk Analyst / Risk Manager â Remote Enterprise Risk | Compliance | Governance | Financial & Operational Risk Position Type: Full-Time, Remote Working Hours: U.S. Client Business Hours (with flexibility for reporting cycles, audits, and..."
   },
   {
    "id": "Remote OK-1137545",
@@ -2002,25 +1845,6 @@
    "excerpt": "About Self Bill Pro: Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly benefits billing. We provide a tech-enabled service..."
   },
   {
-   "id": "Remote OK-1137535",
-   "title": "SAP RE FX Consultant",
-   "company": "Yopeso Romania SRL",
-   "category": "Consulting",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "consulting",
-    "design",
-    "technical",
-    "customer support"
-   ],
-   "posted": "2026-10-16T16:00:33+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-   "source": "Remote OK",
-   "excerpt": "Yopeso has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 employees across five locations, we are dedicated to fostering a culture of..."
-  },
-  {
    "id": "Remote OK-1137534",
    "title": "APAC Python",
    "company": "Kodland",
@@ -2038,25 +1862,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
    "source": "Remote OK",
    "excerpt": "AboutÂ theÂ Company: KodlandÂ isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology. AboutÂ theÂ Role:..."
-  },
-  {
-   "id": "Remote OK-1137531",
-   "title": "Associate Data Scientist",
-   "company": "AlgaeCal",
-   "category": "Design",
-   "type": "",
-   "location": "Vancouver",
-   "salary": "",
-   "tags": [
-    "design",
-    "python",
-    "customer support",
-    "marketing"
-   ],
-   "posted": "2026-10-16T00:00:56+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-   "source": "Remote OK",
-   "excerpt": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel..."
   },
   {
    "id": "Remote OK-1137530",
@@ -2135,44 +1940,6 @@
    "excerpt": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and..."
   },
   {
-   "id": "Remote OK-1137524",
-   "title": "Project and Quality Administrator Work From Home Dayshift",
-   "company": "Twoconnect",
-   "category": "Work From Home",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "work from home",
-    "jira",
-    "sys admin",
-    "education"
-   ],
-   "posted": "2026-10-15T08:00:11+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-   "source": "Remote OK",
-   "excerpt": "We are seeking a Project and Quality Administrator (Quality Systems) to provide project administration and data coordination support across multiple active projects. The role will maintain accurate project records, coordinate quality..."
-  },
-  {
-   "id": "Remote OK-1137523",
-   "title": "Sr REACT NATIVE",
-   "company": "Somnio Software",
-   "category": "React Native",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "react native",
-    "react",
-    "dev",
-    "python"
-   ],
-   "posted": "2026-10-15T00:00:19+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-   "source": "Remote OK",
-   "excerpt": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia..."
-  },
-  {
    "id": "Remote OK-1137522",
    "title": "Contracts Manager Federal",
    "company": "Akicita Federal, LLC",
@@ -2226,25 +1993,6 @@
    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
    "source": "Remotive",
    "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user..."
-  },
-  {
-   "id": "Remote OK-1137514",
-   "title": "Payment Operations Specialist",
-   "company": "Utopia",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "customer support",
-    "marketing",
-    "accounting"
-   ],
-   "posted": "2026-10-14T16:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-   "source": "Remote OK",
-   "excerpt": "UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences. We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also..."
   },
   {
    "id": "Remote OK-1137513",
@@ -2321,25 +2069,6 @@
    "excerpt": "Your Opportunity As a Principal Engineer , you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly..."
   },
   {
-   "id": "Remote OK-1137507",
-   "title": "Graphic Designer & Video Editor",
-   "company": "BlueTuskr",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "designer",
-    "customer support",
-    "testing"
-   ],
-   "posted": "2026-10-13T00:00:06+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-   "source": "Remote OK",
-   "excerpt": "Description BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists..."
-  },
-  {
    "id": "Remote OK-1137506",
    "title": "Technical Customer Support",
    "company": "QuickMail",
@@ -2375,25 +2104,6 @@
    "excerpt": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for..."
   },
   {
-   "id": "Remote OK-1137488",
-   "title": "Marketing and Sales Administrator",
-   "company": "Hunt St",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "customer support",
-    "marketing",
-    "finance",
-    "admin"
-   ],
-   "posted": "2026-10-11T08:00:06+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
-   "source": "Remote OK",
-   "excerpt": "Looking for Philippines-based candidates Job Role: Marketing and Sales Administrator Compensation range: $1,500 AUD - $2,000 AUD / Monthly Engagement type: Independent Contractor Agreement Work Schedule: This role is expected to align with..."
-  },
-  {
    "id": "Remote OK-1137482",
    "title": "Technical Account Manager",
    "company": "DEUNA",
@@ -2411,25 +2121,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
    "source": "Remote OK",
    "excerpt": "About DEUNA ð§¡ DEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce costs, and unlock new revenue...."
-  },
-  {
-   "id": "Remote OK-1137480",
-   "title": "Junior Sales Development Representative IT Industry",
-   "company": "Huzzle",
-   "category": "Saas",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "saas",
-    "technical",
-    "marketing",
-    "finance"
-   ],
-   "posted": "2026-10-10T00:00:17+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-   "source": "Remote OK",
-   "excerpt": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and..."
   },
   {
    "id": "Remote OK-1137479",
@@ -2489,25 +2180,6 @@
    "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe...."
   },
   {
-   "id": "Remote OK-1137474",
-   "title": "Product Design Lead",
-   "company": "Fuel50",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "saas",
-    "sys admin",
-    "front end"
-   ],
-   "posted": "2026-10-09T08:00:04+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-   "source": "Remote OK",
-   "excerpt": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences..."
-  },
-  {
    "id": "Remotive-2086540",
    "title": "Inside Sales Contractor",
    "company": "Credit Wellness, LLC",
@@ -2525,22 +2197,6 @@
    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
    "source": "Remotive",
    "excerpt": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer..."
-  },
-  {
-   "id": "Remote OK-1137469",
-   "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
-   "company": "Tierarzt Plus Partner",
-   "category": "Medical",
-   "type": "",
-   "location": "Neuruppin",
-   "salary": "",
-   "tags": [
-    "medical"
-   ],
-   "posted": "2026-10-07T16:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
-   "source": "Remote OK",
-   "excerpt": "Einleitung Wir suchen ab sofort tatkrÃ¤ftige UnterstÃ¼tzung fÃ¼r unser Team in Vollzeit ! FÃ¼r unsere âTierhalterbesitzer:innen bist du der erste Anlaufpunkt und das beruhigende LÃ¤cheln am Telefon. Du hÃ¤ltst unserem Team den RÃ¼cken..."
   },
   {
    "id": "Remotive-2091045",
