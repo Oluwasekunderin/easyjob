@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-05T23:28:58+00:00",
+ "updated": "2026-11-06T05:56:19+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-endear-product-designer-79201",
+   "title": "Endear - Product Designer",
+   "company": "Eleve Talent",
+   "category": "Endear",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Endear"
+   ],
+   "posted": "2026-11-06T03:40:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Remote, US-based Team: Product & Design — IRL Type: Full-Time, Employee Compensation: $100K–$129K base Target Start: January 2027 or earlier Our Story At Endear, we’re building the modern CRM for retail teams — starting with the..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-110950",
+   "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+   "company": "Makersite GmbH",
+   "category": "Technology",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-11-06T03:31:46+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-staff-product-engineer-full-stack-koln-16323",
+   "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+   "company": "epilot GmbH",
+   "category": "Tech",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Tech",
+    "Remote"
+   ],
+   "posted": "2026-11-06T03:31:45+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-16323",
+   "source": "Arbeitnow",
+   "excerpt": "Are you ready to be a technology leader in the SaaS space? Join epilot! We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
+   "title": "Senior Consultant - Digital Commerce (Retail & CPG) | DACH",
+   "company": "Avomind",
+   "category": "Remote",
+   "type": "",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-11-06T00:20:19+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/avomind/remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
+   "source": "Arbeitnow",
+   "excerpt": "About Our Client Our client is a global IT consulting and digital engineering company specializing in software development, cloud transformation, data and AI, and digital experience solutions. With an international presence and extensive..."
+  },
   {
    "id": "Arbeitnow-klaviyo-experte-fur-e-mail-marketing-100-remote-elsdorf-206983",
    "title": "Klaviyo-Experte für E-Mail-Marketing (m/w/d) | 100 % Remote",
@@ -773,75 +839,6 @@
    "excerpt": "................ Für unseren Kunden aus dem Bankenumfeld in Bern , suchen wir eine:n motivierte:n und aufgeschlossene:n Senior Java Backend Entwickler:in . In dieser Rolle entwickelst du das Kernbankensystem unseres Kunden im..."
   },
   {
-   "id": "Arbeitnow-kreditorenbuchhalterin-100-remote-berlin-13642",
-   "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
-   "company": "1KOMMA5˚",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-11-05T15:31:03+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/kreditorenbuchhalterin-100-remote-berlin-13642",
-   "source": "Arbeitnow",
-   "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software..."
-  },
-  {
-   "id": "Arbeitnow-buchhalter-intercompany-100-remote-berlin-257344",
-   "title": "Buchhalter Intercompany (m/w/d) - 100% Remote",
-   "company": "1KOMMA5˚",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Finance"
-   ],
-   "posted": "2026-11-05T15:31:03+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/buchhalter-intercompany-100-remote-berlin-257344",
-   "source": "Arbeitnow",
-   "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software..."
-  },
-  {
-   "id": "Arbeitnow-closer-paris-294326",
-   "title": "Closer",
-   "company": "NextGenLearning",
-   "category": "Remote",
-   "type": "Travailleur Indépendant / Freelance",
-   "location": "Paris",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Business Development"
-   ],
-   "posted": "2026-11-05T15:17:37+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/nextgenlearning/closer-paris-294326",
-   "source": "Arbeitnow",
-   "excerpt": "Chez nous, vendre, c'est coacher à la décision. 🎯 Nous sommes convaincus de trois choses : Vous êtes là pour sincèrement aider la personne en face de vous. Sa réussite se trouve souvent en dehors de sa zone de confort. Pour obtenir des..."
-  },
-  {
-   "id": "Arbeitnow-remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
-   "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
-   "company": "Patrique Mercier Recruitment Fr",
-   "category": "Consumer Electronics",
-   "type": "Full Time",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Consumer Electronics",
-    "Bulgaria",
-    "Remote"
-   ],
-   "posted": "2026-11-05T14:20:12+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
-   "source": "Arbeitnow",
-   "excerpt": "French Speaking Fitbit Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized as a leader in European recruitment and specialized BPO solutions. We take..."
-  },
-  {
    "id": "Jobicy-159172",
    "title": "Salesforce Administrator",
    "company": "Canonical",
@@ -982,24 +979,6 @@
    "excerpt": "What is Contentstack? Contentstack is redefining how modern digital experiences are built and managed. As the pioneer of the Agentic Experience Platform (AXP), Contentstack brings together structured content and brand governance (Content..."
   },
   {
-   "id": "Arbeitnow-sales-manager-ai-startup-berlin-196750",
-   "title": "Sales Manager (m/w/d) AI-Startup",
-   "company": "Fenie AI",
-   "category": "Remote",
-   "type": "Nebentätigkeit",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Management",
-    "Team Leader"
-   ],
-   "posted": "2026-11-05T14:00:52+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/sales-manager-ai-startup-berlin-196750",
-   "source": "Arbeitnow",
-   "excerpt": "Du kannst gut verkaufen? Dann könnten wir gut matchen. Wir suchen einen motivierten Sales Manager (m/w/d) auf selbstständiger Basis , der Lust hat, gemeinsam mit einem internationalen AI-Startup zu wachsen. Der Einstieg ist ideal als..."
-  },
-  {
    "id": "Jobicy-159154",
    "title": "Business Development Associate",
    "company": "ANGI",
@@ -1014,40 +993,23 @@
    "excerpt": "For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well. For homeowners, our platform is a reliable way to find skilled pros. For..."
   },
   {
-   "id": "Arbeitnow-superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
-   "title": "Superviseur support client international (Support technique opération de tracking sportif) - (H/F)",
-   "company": "MAC LLOYD",
-   "category": "Remote",
-   "type": "Cdi   Contrat À Durée Indéterminée",
-   "location": "Paris",
-   "salary": "",
+   "id": "Remote OK-1137687",
+   "title": "Senior Staff Infrastructure & Security Engineer",
+   "company": "CivilGrid",
+   "category": "Infosec",
+   "type": "",
+   "location": "Boston",
+   "salary": "$137,318 - $192,960",
    "tags": [
-    "Remote",
-    "Customer Service"
+    "infosec",
+    "design",
+    "dev",
+    "marketing"
    ],
-   "posted": "2026-11-05T13:30:59+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/mac-lloyd/superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
-   "source": "Arbeitnow",
-   "excerpt": "McLloyd est une PME technologique française spécialisée dans les solutions de tracking appliquées aux courses. Nos technologies sont notamment utilisées dans plus de 13000 courses hippiques annuelles organisées en France et à..."
-  },
-  {
-   "id": "Arbeitnow-remote-freelance-french-seo-content-writer-france-106511",
-   "title": "Freelance French SEO Content Writer",
-   "company": "Azeus Convene",
-   "category": "Marketing",
-   "type": "Contract",
-   "location": "France",
-   "salary": "",
-   "tags": [
-    "Marketing",
-    "Information Technology and Services",
-    "Freelancer",
-    "Remote"
-   ],
-   "posted": "2026-11-05T08:20:17+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/azeus-convene/remote-freelance-french-seo-content-writer-france-106511",
-   "source": "Arbeitnow",
-   "excerpt": "About the Role We are looking for an experienced Freelance French SEO Content Writer to strengthen our organic search visibility and AI search presence across the French markets, including France and French-speaking Africa. Our current..."
+   "posted": "2026-11-05T00:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+   "source": "Remote OK",
+   "excerpt": "ABOUT CIVILGRID CivilGrid is the trusted civil design platform powering affordable infrastructure renewal and growth. We give utilities, civil engineers, and municipalities a single, collaborative source of truth for what's underground so..."
   },
   {
    "id": "Arbeitnow-sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
@@ -1102,22 +1064,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
    "source": "Remote OK",
    "excerpt": "ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-staff-software-engineer-sap-connectors-462420",
-   "title": "Senior Staff Software Engineer - SAP Connectors",
-   "company": "Fivetran",
-   "category": "Engineering Department",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Engineering Department"
-   ],
-   "posted": "2026-11-04T09:55:23+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and..."
   },
   {
    "id": "Remote OK-1137680",
@@ -2416,25 +2362,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
    "source": "Remote OK",
    "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the..."
-  },
-  {
-   "id": "Remote OK-1137414",
-   "title": "Senior Growth Product Manager AI Native",
-   "company": "Magic Eden",
-   "category": "Product Manager",
-   "type": "",
-   "location": "Melbourne",
-   "salary": "",
-   "tags": [
-    "product manager",
-    "marketing",
-    "exec",
-    "design"
-   ],
-   "posted": "2026-09-22T00:00:07+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-   "source": "Remote OK",
-   "excerpt": "About Magic Eden and Dicey Magic Eden reached unicorn status in just 9 months after launch, one of the fastest in history. We built a category-defining NFT marketplace from scratch and proved we know how to move fast. Now we're doing it..."
   }
  ]
 }
