@@ -1,6 +1,71 @@
 {
- "updated": "2026-11-06T22:54:31+00:00",
+ "updated": "2026-11-07T05:27:50+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-partner-solutions-architect-pan-emea-gsi-458815",
+   "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+   "company": "Datadog",
+   "category": "Channels & Alliances",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Channels & Alliances"
+   ],
+   "posted": "2026-11-07T03:55:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-partner-solutions-architect-pan-emea-gsi-458815",
+   "source": "Arbeitnow",
+   "excerpt": "<p><strong>The Team:</strong></p> <p>We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful...."
+  },
+  {
+   "id": "Arbeitnow-remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
+   "title": "Middle/Senior/Staff Site Reliability Engineer (K8s)",
+   "company": "Npv",
+   "category": "PulsePoint",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "PulsePoint"
+   ],
+   "posted": "2026-11-07T03:40:27+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/npv/remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
+   "source": "Arbeitnow",
+   "excerpt": "tl;dr: Middle/Senior/Staff SRE; post-acquisition profitable US health/adtech; 10M+ rps k8s production infra; platform engineering; remote, ~up to 210k USD base, we can talk higher figures and EU/UK/US employment PulsePoint is a leading..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-solution-architect-munchen-414114",
+   "title": "Senior Solution Architect (m/w/d)",
+   "company": "qinX",
+   "category": "Tech / IT / Software Development",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Tech / IT / Software Development",
+    "Remote"
+   ],
+   "posted": "2026-11-07T03:31:30+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/qinx/remote-senior-solution-architect-munchen-414114",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Kunde ist ein international tätiges Medizintechnikunternehmen mit Sitz in Deutschland. Als Senior Solution Architect (m/w/d) verantworten Sie die Konzeption und Integration komplexer IT-Lösungen und agieren als technische..."
+  },
+  {
+   "id": "Arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-127371",
+   "title": "Sales Account Executive - Cybersecurity",
+   "company": "Crowdsec",
+   "category": "Remote",
+   "type": "Mid",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Remote"
+   ],
+   "posted": "2026-11-07T03:31:29+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-127371",
+   "source": "Arbeitnow",
+   "excerpt": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale,..."
+  },
   {
    "id": "Arbeitnow-remote-senior-network-engineer-bonn-109175",
    "title": "Senior Network Engineer (m/w/d)",
@@ -119,22 +184,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-sales-executive-mwd-software-as-a-service-152411",
    "source": "Arbeitnow",
    "excerpt": "Du willst Sales mit Impact & eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud Software & digitaler..."
-  },
-  {
-   "id": "Arbeitnow-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
-   "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-   "company": "Kevin Kehr",
-   "category": "Remote",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Remote"
-   ],
-   "posted": "2026-11-06T18:31:20+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
-   "source": "Arbeitnow",
-   "excerpt": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching..."
   },
   {
    "id": "Jobicy-159447",
@@ -972,6 +1021,44 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analystin-zurich-278509",
    "source": "Arbeitnow",
    "excerpt": "................ Für unseren Kunden im Bankenumfeld in Bern suchen wir per sofort eine:n erfahrene:n Business Analyst:in zur Unterstützung eines strategisch wichtigen Compliance- und Risk-Programms. Deine Aufgaben: Enge Zusammenarbeit mit..."
+  },
+  {
+   "id": "Remote OK-1137694",
+   "title": "Accountant",
+   "company": "Serve Robotics",
+   "category": "Accounting",
+   "type": "",
+   "location": "los angeles",
+   "salary": "$90,000 - $110,000",
+   "tags": [
+    "accounting",
+    "design",
+    "customer support",
+    "dev"
+   ],
+   "posted": "2026-11-06T00:00:11+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+   "source": "Remote OK",
+   "excerpt": "At Serve Robotics, weâre reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. Itâs designed to take deliveries away from congested streets, make deliveries available to more people, and..."
+  },
+  {
+   "id": "Remote OK-1137693",
+   "title": "Senior Full Stack Engineer People Products",
+   "company": "Thumbtack",
+   "category": "Full Stack",
+   "type": "",
+   "location": "Toronto",
+   "salary": "",
+   "tags": [
+    "full stack",
+    "design",
+    "saas",
+    "react"
+   ],
+   "posted": "2026-11-06T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+   "source": "Remote OK",
+   "excerpt": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tools and a best-in-class hiring experience. Every day in..."
   },
   {
    "id": "Remote OK-1137692",
@@ -2416,25 +2503,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
    "source": "Remote OK",
    "excerpt": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal..."
-  },
-  {
-   "id": "Remote OK-1137421",
-   "title": "Technical Product Manager AI Stockbroking App",
-   "company": "Bjak",
-   "category": "Product Manager",
-   "type": "",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "product manager",
-    "exec",
-    "design",
-    "sys admin"
-   ],
-   "posted": "2026-09-23T00:00:10+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-   "source": "Remote OK",
-   "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the..."
   }
  ]
 }
