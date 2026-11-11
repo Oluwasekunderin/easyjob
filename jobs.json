@@ -1,22 +1,171 @@
 {
- "updated": "2026-11-10T23:02:30+00:00",
+ "updated": "2026-11-11T05:36:01+00:00",
  "jobs": [
   {
-   "id": "Arbeitnow-tiktok-account-manager-remote-freelance-london-101606",
-   "title": "TikTok Account Manager (Remote, Freelance)",
-   "company": "Many Hands",
+   "id": "Arbeitnow-remote-business-analytics-architect-372446",
+   "title": "Business Analytics Architect",
+   "company": "Muckrack",
+   "category": "G&A - Analytics",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "G&A - Analytics"
+   ],
+   "posted": "2026-11-11T03:55:20+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-business-analytics-architect-372446",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>Muck Rack is trusted by thousands of organizations around the world to understand how their brands show up across news, social media and AI-generated answers.</p> <p>Our AI-powered platform connects the entire..."
+  },
+  {
+   "id": "Arbeitnow-c-software-engineer-united-kingdom-398275",
+   "title": "C++ Software Engineer",
+   "company": "Reactive Markets",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-11-11T03:40:12+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
+   "source": "Arbeitnow",
+   "excerpt": "C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency,..."
+  },
+  {
+   "id": "Arbeitnow-technical-delivery-analyst-united-kingdom-128572",
+   "title": "Technical Delivery Analyst",
+   "company": "Reactive Markets",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-11-11T03:40:12+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-128572",
+   "source": "Arbeitnow",
+   "excerpt": "Technical Delivery Analyst Remote (UK-based) About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency,..."
+  },
+  {
+   "id": "Arbeitnow-senior-frontend-engineer-united-kingdom-408750",
+   "title": "Senior Frontend Engineer",
+   "company": "Reactive Markets",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-11-11T03:40:12+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-408750",
+   "source": "Arbeitnow",
+   "excerpt": "Senior Frontend Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and..."
+  },
+  {
+   "id": "Arbeitnow-senior-c-software-engineer-united-kingdom-25672",
+   "title": "Senior C++ Software Engineer",
+   "company": "Reactive Markets",
+   "category": "Engineering",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Engineering"
+   ],
+   "posted": "2026-11-11T03:40:12+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-25672",
+   "source": "Arbeitnow",
+   "excerpt": "Senior C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and..."
+  },
+  {
+   "id": "Arbeitnow-senior-consultant-lucanet-consolidation-fpa-berlin-455229",
+   "title": "Senior Consultant Lucanet – Consolidation & FP&A (w/m/d)",
+   "company": "Right Search",
    "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
    "salary": "",
    "tags": [
     "Remote",
-    "Social Media Manager"
+    "SAP/ERP Consulting",
+    "Development"
    ],
-   "posted": "2026-11-10T21:47:23+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/many-hands/tiktok-account-manager-remote-freelance-london-101606",
+   "posted": "2026-11-11T01:00:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-consultant-lucanet-consolidation-fpa-berlin-455229",
    "source": "Arbeitnow",
-   "excerpt": "About Many Hands Many Hands runs TikTok accounts for UK brands, and we need people across the UK to look after them from their own phone. We give you the accounts, the videos and the captions. You keep them active and upload what we send...."
+   "excerpt": "WICHTIG: Wer keine Remote‑Arbeit oder 5‑10 % Reisebereitschaft akzeptiert, ist hier falsch. Du willst nicht nur ein weiteres Consulting‑Projekt abarbeiten, sondern eigenverantwortlich Lucanet‑Implementierungen von Tag 1 an leiten. Du..."
+  },
+  {
+   "id": "Arbeitnow-remote-generalist-operations-195554",
+   "title": "Generalist (Operations)",
+   "company": "Kairos Project",
+   "category": "General",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "General"
+   ],
+   "posted": "2026-11-11T00:40:15+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-generalist-operations-195554",
+   "source": "Arbeitnow",
+   "excerpt": "Take on the business and back-end operations that keep Kairos running: finances, payments, HR, compliance, and systems, plus support for our programs and Pathfinder groups. Note: This role description is a first draft. Scope, salary, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-product-designer-amsterdam-294295",
+   "title": "Product Designer",
+   "company": "SkyCell AG",
+   "category": "Product",
+   "type": "Senior Manager",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Product",
+    "Remote"
+   ],
+   "posted": "2026-11-11T00:31:23+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+   "source": "Arbeitnow",
+   "excerpt": "Software is not just vital but a strategic cornerstone of our operations. We’re looking for a Product Designer to set the cross-application UX direction for our commercial software - from pharma cold-chain visibility that helps..."
+  },
+  {
+   "id": "Arbeitnow-remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
+   "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
+   "company": "Intetics 2",
+   "category": "Information Technology and Services",
+   "type": "",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Information Technology and Services",
+    "Remote"
+   ],
+   "posted": "2026-11-11T00:20:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
+   "source": "Arbeitnow",
+   "excerpt": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and digital transformation solutions, is looking for a German Content..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-executive-dutch-germany-364152",
+   "title": "Account Executive - Dutch",
+   "company": "Huzzle",
+   "category": "Sales",
+   "type": "Full Time",
+   "location": "Germany",
+   "salary": "",
+   "tags": [
+    "Sales",
+    "Internet",
+    "Remote"
+   ],
+   "posted": "2026-11-11T00:20:12+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-account-executive-dutch-germany-364152",
+   "source": "Arbeitnow",
+   "excerpt": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech,..."
   },
   {
    "id": "Arbeitnow-remote-strategic-customer-success-manager-16718",
@@ -33,40 +182,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-strategic-customer-success-manager-16718",
    "source": "Arbeitnow",
    "excerpt": "Our mission: eliminating every barrier to mental health. Spring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built..."
-  },
-  {
-   "id": "Arbeitnow-remote-technical-quality-assurance-manager-bromley-326507",
-   "title": "Technical Quality Assurance Manager",
-   "company": "Bromcom Computers Plc",
-   "category": "Software & QA",
-   "type": "Manager",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Software & QA",
-    "Remote"
-   ],
-   "posted": "2026-11-10T21:31:19+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-326507",
-   "source": "Arbeitnow",
-   "excerpt": "The Technical QA Manager is responsible for the technical direction, governance and continual improvement of quality engineering across the organisation’s delivery areas. The role defines and maintains the overarching test strategy and..."
-  },
-  {
-   "id": "Arbeitnow-ukcsc-chartered-or-principal-enterprise-advisor-security-architecture-london-143699",
-   "title": "UKCSC Chartered or Principal Enterprise Advisor - Security Architecture",
-   "company": "Intelance",
-   "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT Security"
-   ],
-   "posted": "2026-11-10T19:30:45+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ukcsc-chartered-or-principal-enterprise-advisor-security-architecture-london-143699",
-   "source": "Arbeitnow",
-   "excerpt": "Intelance is an independent UK advisory and assurance firm and an IASME Certification Body for Cyber Essentials, Cyber Essentials Plus and IASME Cyber Assurance. We work with mid-market, enterprise and regulated organisations across cyber..."
   },
   {
    "id": "Arbeitnow-customer-success-manager-100-remote-berlin-248564",
@@ -224,128 +339,6 @@
    "url": "https://jobicy.com/jobs/161183-salesforce-administrator-2",
    "source": "Jobicy",
    "excerpt": "Our Mission and Opportunity Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that remains underserved by modern technology. Brightwheel is the..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-application-security-engineer-all-genders-berlin-457264",
-   "title": "Senior Application Security Engineer (all genders)",
-   "company": "Distribusion Technologies",
-   "category": "Technology",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Technology",
-    "Remote"
-   ],
-   "posted": "2026-11-10T18:31:24+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-457264",
-   "source": "Arbeitnow",
-   "excerpt": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects..."
-  },
-  {
-   "id": "Arbeitnow-gxp-computerised-systems-validation-consultant-london-485163",
-   "title": "GxP Computerised Systems Validation Consultant",
-   "company": "Intelance",
-   "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Quality Management"
-   ],
-   "posted": "2026-11-10T18:00:43+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/gxp-computerised-systems-validation-consultant-london-485163",
-   "source": "Arbeitnow",
-   "excerpt": "About Intelance Intelance is an independent technology, AI and cyber assurance firm based in the UK. We help organisations check, govern and improve their technology through enterprise architecture, AI governance, cyber assurance and data..."
-  },
-  {
-   "id": "Arbeitnow-google-workspace-security-engineer-dlp-and-device-management-london-349090",
-   "title": "Google Workspace Security Engineer (DLP and Device Management)",
-   "company": "Intelance",
-   "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "IT Security"
-   ],
-   "posted": "2026-11-10T18:00:43+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/google-workspace-security-engineer-dlp-and-device-management-london-349090",
-   "source": "Arbeitnow",
-   "excerpt": "Intelance is a UK advisory and assurance firm working across enterprise architecture, cyber assurance, AI governance and data governance. We run information security management systems (ISMS) for growing technology companies certified to..."
-  },
-  {
-   "id": "Arbeitnow-health-data-protection-and-data-licensing-consultant-london-82672",
-   "title": "Health Data Protection and Data Licensing Consultant",
-   "company": "Intelance",
-   "category": "Remote",
-   "type": "Self Employed Contractor (Freelancer)",
-   "location": "London",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Compliance",
-    "Security"
-   ],
-   "posted": "2026-11-10T18:00:43+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/health-data-protection-and-data-licensing-consultant-london-82672",
-   "source": "Arbeitnow",
-   "excerpt": "About Intelance Intelance is an independent technology, AI and cyber assurance firm based in the UK. We help organisations check, govern and improve their technology through enterprise architecture, AI governance, cyber assurance and data..."
-  },
-  {
-   "id": "Arbeitnow-unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
-   "title": "(Unpaid internship) Growth marketer & Social Media Intern (m/f/d): Mandatory or Voluntary Internship",
-   "company": "IndieKidz GmbH",
-   "category": "Remote",
-   "type": "Internship",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-11-10T18:00:42+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
-   "source": "Arbeitnow",
-   "excerpt": "About IndieKidz IndieKidz GmbH is a Berlin-based startup building Occibo, an AI-powered platform that helps authors, illustrators, parents, and teachers create, design, and publish children's books. We are a small, international team, and..."
-  },
-  {
-   "id": "Arbeitnow-data-protection-officer-landau-an-der-isar-431773",
-   "title": "Data Protection Officer (m/w/d)",
-   "company": "actago GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Landau an der Isar",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Compliance",
-    "Security"
-   ],
-   "posted": "2026-11-10T17:31:05+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-officer-landau-an-der-isar-431773",
-   "source": "Arbeitnow",
-   "excerpt": "Sie beraten Kunden bei datenschutzrechtlichen Fragestellungen und unterstützen bei der Umsetzung gesetzlicher Anforderungen. Dabei implementieren Sie ein Datenschutz-Managementsystem (DSMS), erstellen entsprechende Dokumentationen und..."
-  },
-  {
-   "id": "Arbeitnow-data-protection-information-security-consultant-landau-an-der-isar-213551",
-   "title": "Data Protection & Information Security Consultant (m/w/d)",
-   "company": "actago GmbH",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Landau an der Isar",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Compliance",
-    "Security"
-   ],
-   "posted": "2026-11-10T17:31:01+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-information-security-consultant-landau-an-der-isar-213551",
-   "source": "Arbeitnow",
-   "excerpt": "Sie begleiten Kunden bei der Einführung und Implementierung von Datenschutz-Managementsystemen (DSMS) und Informationssicherheits-Managementsystemen (ISMS). Darüber hinaus erstellen Sie Dokumentationen, vermitteln Fachwissen in Schulungen..."
   },
   {
    "id": "Arbeitnow-senior-business-analyst-requirements-engineer-76080-winterthur-352055",
@@ -1574,25 +1567,6 @@
    "excerpt": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&M, Ray-Ban, and Converse. Our platform manages the full lifecycle â creator discovery, campaign management, content review,..."
   },
   {
-   "id": "Remote OK-1137674",
-   "title": "Sales Operations Analyst",
-   "company": "Calabrio",
-   "category": "Analyst",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$75,000 - $75,000",
-   "tags": [
-    "analyst",
-    "saas",
-    "salesforce",
-    "education"
-   ],
-   "posted": "2026-11-03T16:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-   "source": "Remote OK",
-   "excerpt": "Location: US- Remote. Must be in EST or CT time zone only. VerintÂ is an innovative, fast-paced, growing software company that delivers integrated workforce optimization software for todayâs multi-channel contact centers. We are in an..."
-  },
-  {
    "id": "Remote OK-1137673",
    "title": "Tech lead",
    "company": "Ringbook Limited",
@@ -1610,44 +1584,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
    "source": "Remote OK",
    "excerpt": "What Youâll Do ãDesign the architecture of the application and make key technical decisions. ãBuild and maintain scalable features across the Ringbook web application. ãIntegrate AI capabilities throughout the platform to create..."
-  },
-  {
-   "id": "Remote OK-1137624",
-   "title": "Senior Property Manager ENG",
-   "company": "StaffRight",
-   "category": "Exec",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "exec",
-    "hr",
-    "technical",
-    "customer support"
-   ],
-   "posted": "2026-11-03T08:00:12+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
-   "source": "Remote OK",
-   "excerpt": "Join a team that values you. At StaffRight, we connect talented professionals with global opportunitiesâand weâre growing fast! With competitive pay, health insurance, paid time off (including national holidays), and a supportive HR..."
-  },
-  {
-   "id": "Remote OK-1137622",
-   "title": "Tax Manager Private Client",
-   "company": "Aprio",
-   "category": "Exec",
-   "type": "",
-   "location": "Scotch Plains, NJ",
-   "salary": "",
-   "tags": [
-    "exec",
-    "education",
-    "consulting",
-    "technical"
-   ],
-   "posted": "2026-11-03T00:00:18+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-   "source": "Remote OK",
-   "excerpt": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing..."
   },
   {
    "id": "Remotive-1749306",
