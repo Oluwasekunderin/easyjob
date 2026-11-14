@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-13T23:25:00+00:00",
+ "updated": "2026-11-14T05:47:33+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-staff-forward-deployed-engineer-emea-244241",
+   "title": "Staff Forward Deployed Engineer, EMEA",
+   "company": "gitlab",
+   "category": "Customer Experience",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Customer Experience"
+   ],
+   "posted": "2026-11-14T03:55:22+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-contracts-manager-commercial-emea-225591",
+   "title": "Senior Contracts Manager, Commercial (EMEA)",
+   "company": "gitlab",
+   "category": "Legal",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Legal"
+   ],
+   "posted": "2026-11-14T03:55:22+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-contracts-manager-commercial-emea-225591",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-software-engineer-75803",
+   "title": "Senior Software Engineer",
+   "company": "Hexa",
+   "category": "Filiz",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Filiz"
+   ],
+   "posted": "2026-11-14T00:40:17+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-senior-software-engineer-75803",
+   "source": "Arbeitnow",
+   "excerpt": "Filiz est une startup SaaS de 30 personnes qui digitalise aujourd'hui les contrats d'apprentissage en France et construit son deuxième produit : un ERP nouvelle génération pour transformer la façon dont les établissements d'enseignement..."
+  },
+  {
+   "id": "Arbeitnow-hr-manager-personalmanagement-hr-operations-nidderau-333827",
+   "title": "HR Manager (m/w/d) – Personalmanagement & HR Operations",
+   "company": "Nature Heart GmbH & Co KG",
+   "category": "Remote",
+   "type": "Teamleitung",
+   "location": "Nidderau",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Personnel Specialist"
+   ],
+   "posted": "2026-11-14T00:30:38+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/hr-manager-personalmanagement-hr-operations-nidderau-333827",
+   "source": "Arbeitnow",
+   "excerpt": "HR Manager (m/w/d) – Personalmanagement & HR Operations Gemeinsam für natürliche Gesundheit – von Herz zu Herz Bei Nature Heart glauben wir an die Kraft der Natur und daran, dass Qualität bei Nahrungsergänzung keine Kompromisse zulässt...."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-growth-product-manager-paris-473086",
+   "title": "Senior Growth Product Manager",
+   "company": "Soda Data Nv",
+   "category": "Computer Software",
+   "type": "Full Time",
+   "location": "Paris, France",
+   "salary": "",
+   "tags": [
+    "Computer Software",
+    "Product and Engineering",
+    "Remote"
+   ],
+   "posted": "2026-11-13T23:20:09+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-paris-473086",
+   "source": "Arbeitnow",
+   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda..."
+  },
   {
    "id": "Arbeitnow-kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
    "title": "Kundendienstmitarbeiter Forderungsmanagement Polnisch (m/w/d)",
@@ -19,22 +102,6 @@
    "excerpt": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher,..."
   },
   {
-   "id": "Arbeitnow-remote-data-engineer-289887",
-   "title": "Data Engineer",
-   "company": "prolific",
-   "category": "Data & AI",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Data & AI"
-   ],
-   "posted": "2026-11-13T21:55:53+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-289887",
-   "source": "Arbeitnow",
-   "excerpt": "<h1 style=\"text-align: center;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\"><span style=\"color: rgb(126, 140, 141);\">Data Engineer&nbsp; </span>&nbsp; &nbsp;&nbsp;</span></h1> <p style=\"text-align: center;\">&nbsp;</p>..."
-  },
-  {
    "id": "Arbeitnow-remote-solution-consulting-manager-286794",
    "title": "Solution Consulting Manager",
    "company": "Rillet",
@@ -49,106 +116,6 @@
    "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-solution-consulting-manager-286794",
    "source": "Arbeitnow",
    "excerpt": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams...."
-  },
-  {
-   "id": "Arbeitnow-remote-anaesthetic-pain-consultant-250308",
-   "title": "Anaesthetic (Pain) Consultant",
-   "company": "Montu Uk",
-   "category": "Alternaleaf [Clinical]",
-   "type": "Full Time",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Alternaleaf [Clinical]"
-   ],
-   "posted": "2026-11-13T21:40:16+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/remote-anaesthetic-pain-consultant-250308",
-   "source": "Arbeitnow",
-   "excerpt": "At Montu UK, we are passionate about improving the lives of patients who have often exhausted conventional treatment options. Through our Alternaleaf clinic, we are helping people living with chronic and debilitating conditions access..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-growth-product-manager-berlin-242902",
-   "title": "Senior Growth Product Manager",
-   "company": "Soda Data Nv",
-   "category": "Computer Software",
-   "type": "Full Time",
-   "location": "Berlin, Germany",
-   "salary": "",
-   "tags": [
-    "Computer Software",
-    "Product and Engineering",
-    "Remote"
-   ],
-   "posted": "2026-11-13T21:20:10+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-berlin-242902",
-   "source": "Arbeitnow",
-   "excerpt": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda..."
-  },
-  {
-   "id": "Arbeitnow-grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
-   "title": "Grafikdesigner / Creative Designer E-Commerce (m/w/d) | 100 % Remote",
-   "company": "Just Hiring",
-   "category": "Remote",
-   "type": "Unbefristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Graphic Arts and Communication Design"
-   ],
-   "posted": "2026-11-13T20:00:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
-   "source": "Arbeitnow",
-   "excerpt": "Du gestaltest gerne Ads, die wirklich verkaufen, hast aber keine Lust mehr auf endlose Korrekturschleifen, Überstunden als Normalzustand und ein Gehalt, das nicht zu deiner Leistung passt? Für eine der erfolgreichsten Fitnessmarken aus..."
-  },
-  {
-   "id": "Arbeitnow-account-manager-legal-tech-saas-remote-berlin-419076",
-   "title": "Account Manager | Legal Tech | SaaS (x/w/m) - Remote",
-   "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
-   "category": "Remote",
-   "type": "Befristeter Arbeitsvertrag",
-   "location": "Berlin",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-11-13T19:30:41+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/account-manager-legal-tech-saas-remote-berlin-419076",
-   "source": "Arbeitnow",
-   "excerpt": "Hopkins ist ein 2019 gegründetes Technologieunternehmen, das die Rechtsbranche digitalisiert. Unsere cloudbasierte Kanzleisoftware caseflow vereint KI, Workflow-Automatisierung und durchdachte Mandatssteuerung in einer ganzheitlichen..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-sales-engineer-enterprise-158139",
-   "title": "Senior Sales Engineer, Enterprise",
-   "company": "Fivetran",
-   "category": "Sales Department",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Sales Department"
-   ],
-   "posted": "2026-11-13T18:55:26+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-158139",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-account-executive-enterprise-176237",
-   "title": "Senior Account Executive, Enterprise",
-   "company": "Fivetran",
-   "category": "Sales Department",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Sales Department"
-   ],
-   "posted": "2026-11-13T18:55:26+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-account-executive-enterprise-176237",
-   "source": "Arbeitnow",
-   "excerpt": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and..."
   },
   {
    "id": "Jobicy-162073",
@@ -291,23 +258,6 @@
    "excerpt": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee..."
   },
   {
-   "id": "Arbeitnow-remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
-   "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
-   "company": "Knuddels GmbH & Co. KG",
-   "category": "Initiativ",
-   "type": "Entry",
-   "location": "Homeoffice",
-   "salary": "",
-   "tags": [
-    "Initiativ",
-    "Remote"
-   ],
-   "posted": "2026-11-13T18:31:18+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
-   "source": "Arbeitnow",
-   "excerpt": "Wir bei Knuddels haben uns das Ziel gesetzt, soziale Netzwerke wieder wirklich sozial zu machen - mit echter menschlicher Nähe statt bloßen Content-Konsums. In unserer Community soll jedes Mitglied 3 wichtige Menschen für sein echtes Leben..."
-  },
-  {
    "id": "Arbeitnow-remote-talent-acquisition-partner-europe-amsterdam-rotterdam-370843",
    "title": "Talent Acquisition Partner-Europe",
    "company": "DeepHealth",
@@ -323,40 +273,6 @@
    "url": "https://www.arbeitnow.nl/jobs/companies/deephealth/remote-talent-acquisition-partner-europe-amsterdam-rotterdam-370843",
    "source": "Arbeitnow",
    "excerpt": "DeepHealth is seeking an experienced Talent Acquisition Partner based in Europe to own high-impact, full-cycle recruiting across European markets and support global hiring as needed. This is a hands-on execution role in a fast-paced,..."
-  },
-  {
-   "id": "Arbeitnow-remote-enterprise-account-executive-fr-bnl-se-berlin-165357",
-   "title": "Enterprise Account Executive - FR/BNL/SE (m/f/x)",
-   "company": "Makersite GmbH",
-   "category": "Sales",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Sales",
-    "Remote"
-   ],
-   "posted": "2026-11-13T18:31:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-fr-bnl-se-berlin-165357",
-   "source": "Arbeitnow",
-   "excerpt": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and..."
-  },
-  {
-   "id": "Arbeitnow-remote-enterprise-account-executive-uki-nordics-berlin-275040",
-   "title": "Enterprise Account Executive - UKI/Nordics (m/f/x)",
-   "company": "Makersite GmbH",
-   "category": "Sales",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Sales",
-    "Remote"
-   ],
-   "posted": "2026-11-13T18:31:14+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-uki-nordics-berlin-275040",
-   "source": "Arbeitnow",
-   "excerpt": "Account Executive (m/f/x) (English Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: UKI/Nordics Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration...."
   },
   {
    "id": "Arbeitnow-regulatory-reporting-expert-energiehandel-compliance-bern-230643",
@@ -377,23 +293,6 @@
    "excerpt": "................ Für unseren Kunden in Bern , suchen wir eine:n erfahrene:n und motivierte:n Regulatory Reporting Expert – Energiehandel & Compliance In diesem Projekt verantwortest du die Analyse und Schliessung regulatorischer..."
   },
   {
-   "id": "Arbeitnow-customer-success-specialist-paris-494951",
-   "title": "Customer Success Specialist",
-   "company": "Askara",
-   "category": "Remote",
-   "type": "Cdi   Contrat À Durée Indéterminée",
-   "location": "Paris",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Customer Service"
-   ],
-   "posted": "2026-11-13T16:00:51+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/askara/customer-success-specialist-paris-494951",
-   "source": "Arbeitnow",
-   "excerpt": "Finalité du poste Le.la Customer Success Specialist assure l’accompagnement opérationnel des clients dans l’utilisation des solutions de l’entreprise afin de garantir la qualité de service, la satisfaction client et le bon traitement des..."
-  },
-  {
    "id": "Arbeitnow-customer-operations-specialist-zurich-148078",
    "title": "Customer Operations Specialist",
    "company": "Coopers Group AG",
@@ -409,22 +308,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
    "source": "Arbeitnow",
    "excerpt": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-people-operations-partner-259706",
-   "title": "Senior People Operations Partner",
-   "company": "Precisionmedicinegroup",
-   "category": "Precision for Medicine",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Precision for Medicine"
-   ],
-   "posted": "2026-11-13T15:55:20+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/precisionmedicinegroup/remote-senior-people-operations-partner-259706",
-   "source": "Arbeitnow",
-   "excerpt": "<p><strong>Senior People Operations Partner</strong></p> <p><strong>Position Summary</strong></p> <p>The Senior People Operations Partner provides advanced operational HR leadership across multiple countries or complex jurisdictions within..."
   },
   {
    "id": "Jobicy-162057",
@@ -1056,22 +939,23 @@
    "excerpt": "At Luscii, we're creating space for care by developing and improving digital healthcare applications that make a real difference in people's lives through several applications. From Luscii Thuismeten, which helps healthcare professionals..."
   },
   {
-   "id": "Arbeitnow-remote-account-executive-dutch-speaker-netherlands-83879",
-   "title": "Account Executive - Dutch Speaker",
-   "company": "Huzzle",
-   "category": "Sales",
-   "type": "Full Time",
-   "location": "Netherlands",
+   "id": "Remote OK-1137793",
+   "title": "Software Engineer AI Tooling",
+   "company": "Supabase",
+   "category": "Dev",
+   "type": "",
+   "location": "Anywhere",
    "salary": "",
    "tags": [
-    "Sales",
-    "Internet",
-    "Remote"
+    "dev",
+    "design",
+    "front end",
+    "customer support"
    ],
-   "posted": "2026-11-13T07:20:15+00:00",
-   "url": "https://www.arbeitnow.nl/jobs/companies/huzzle/remote-account-executive-dutch-speaker-netherlands-83879",
-   "source": "Arbeitnow",
-   "excerpt": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech,..."
+   "posted": "2026-11-13T00:00:15+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+   "source": "Remote OK",
+   "excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are..."
   },
   {
    "id": "Remote OK-1137792",
@@ -1545,25 +1429,6 @@
    "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
    "source": "Remotive",
    "excerpt": "Job Title: Patient Care Advocate Job Location: Remote About Us: We are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and..."
-  },
-  {
-   "id": "Remote OK-1137695",
-   "title": "Registered Nurse",
-   "company": "Caringhand Home Health Solutions, Inc.",
-   "category": "Education",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$110 - $130",
-   "tags": [
-    "education",
-    "supervisor",
-    "customer support",
-    "travel"
-   ],
-   "posted": "2026-11-06T08:00:05+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
-   "source": "Remote OK",
-   "excerpt": "Company: Caringhand Home Health Solutions, Inc. Position Type: Per Diem Work Arrangement: Field-Based â Patient Home Visits Compensation: $110â$130 per visit Caringhand Home Health Solutions, Inc. is committed to providing professional..."
   },
   {
    "id": "Remote OK-1137694",
