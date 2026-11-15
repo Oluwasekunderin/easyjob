@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-14T22:10:52+00:00",
+ "updated": "2026-11-15T05:47:32+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+   "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+   "company": "teccle group GmbH",
+   "category": "Professional",
+   "type": "Experienced",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Professional",
+    "Remote"
+   ],
+   "posted": "2026-11-15T03:31:13+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+   "source": "Arbeitnow",
+   "excerpt": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-executive-smb-374470",
+   "title": "Account Executive, SMB",
+   "company": "Karbon",
+   "category": "Sales",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-11-14T21:55:14+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-smb-374470",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps..."
+  },
+  {
+   "id": "Arbeitnow-remote-account-executive-mid-market-evergreen-352662",
+   "title": "Account Executive - Mid Market (Evergreen)",
+   "company": "Karbon",
+   "category": "Sales",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Sales"
+   ],
+   "posted": "2026-11-14T21:55:14+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-mid-market-evergreen-352662",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps..."
+  },
+  {
+   "id": "Arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-312709",
+   "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+   "company": "Makersite GmbH",
+   "category": "Technology",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "Technology",
+    "Remote"
+   ],
+   "posted": "2026-11-14T21:31:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
+   "source": "Arbeitnow",
+   "excerpt": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we..."
+  },
+  {
+   "id": "Arbeitnow-remote-ai-integration-automation-engineer-ger-128389",
+   "title": "AI Integration & Automation Engineer (m/w/d) GER",
+   "company": "Customs Support Group",
+   "category": "IT & Tech",
+   "type": "Experienced",
+   "location": "Remote job",
+   "salary": "",
+   "tags": [
+    "IT & Tech",
+    "Remote"
+   ],
+   "posted": "2026-11-14T21:31:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+   "source": "Arbeitnow",
+   "excerpt": "Über die Customs Support Group Die Customs Support Group (CSG) ist der europäische Marktführer für Zolldienstleistungen und in 15 Ländern aktiv. CSG befindet sich im Besitz einer Private-Equity-Gesellschaft und ist ein schnell wachsendes,..."
+  },
+  {
+   "id": "Arbeitnow-product-engineer-remote-oder-karlsruhe-193000",
+   "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
+   "company": "Knuddels GmbH & Co. KG",
+   "category": "Alle Abteilungen",
+   "type": "Mid",
+   "location": "Homeoffice",
+   "salary": "",
+   "tags": [
+    "Alle Abteilungen",
+    "Remote"
+   ],
+   "posted": "2026-11-14T21:31:26+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-193000",
+   "source": "Arbeitnow",
+   "excerpt": "Wir bei Knuddels wollen soziale Netzwerke wieder wirklich sozial machen – weg vom Konsumieren von Content, hin zu echter menschlicher Nähe. Unser Ziel: Bei Knuddels soll jeder Mensch drei wichtige Menschen für sein echtes Leben finden. Als..."
+  },
   {
    "id": "Arbeitnow-remote-portfolio-accountant-384566",
    "title": "Portfolio Accountant",
@@ -650,22 +750,6 @@
    "excerpt": "Financial Products General Ledger Team Lead Sofia, Bulgaria | Permanent, office-first Take a look inside our Sofia office Team description The Financial Products General Ledger (FGL) team sits at the strategic core of SumUp's financial..."
   },
   {
-   "id": "Arbeitnow-remote-software-engineer-all-levels-united-kingdom-213631",
-   "title": "Software Engineer (All Levels), United Kingdom",
-   "company": "Koboldmetals",
-   "category": "Software Engineering",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "Software Engineering"
-   ],
-   "posted": "2026-11-14T12:55:23+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
-   "source": "Arbeitnow",
-   "excerpt": "<p><em data-stringify-type=\"italic\">We are open to hiring at multiple levels for this role, depending on experience, impact, and demonstrated ownership. While this role is level-agnostic, it is best suited for engineers with experience..."
-  },
-  {
    "id": "Jobicy-162194",
    "title": "Enterprise Account Executive, Norway",
    "company": "Horizon3.ai",
@@ -783,109 +867,7 @@
    "excerpt": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as..."
   },
   {
-   "id": "Arbeitnow-remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-   "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Technical Migration",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Technical Migration",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:31+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-   "source": "Arbeitnow",
-   "excerpt": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust..."
-  },
-  {
-   "id": "Arbeitnow-remote-sap-finance-fi-co-migration-architect-berlin-208083",
-   "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
-   "company": "Natuvion GmbH",
-   "category": "Technical Migration",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Technical Migration",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:31+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-208083",
-   "source": "Arbeitnow",
-   "excerpt": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere..."
-  },
-  {
-   "id": "Arbeitnow-remote-senior-ai-product-designer-berlin-84714",
-   "title": "Senior AI Product Designer (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "category": "Product",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Product",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-84714",
-   "source": "Arbeitnow",
-   "excerpt": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI..."
-  },
-  {
-   "id": "Arbeitnow-remote-software-engineer-computer-use-integrations-berlin-434731",
-   "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "category": "Engineering",
-   "type": "Mid",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
-   "source": "Arbeitnow",
-   "excerpt": "Software Engineer – Backend (Computer Use & Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from..."
-  },
-  {
-   "id": "Arbeitnow-remote-lead-security-engineer-berlin-229517",
-   "title": "Lead Security Engineer (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "category": "Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:30+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
-   "source": "Arbeitnow",
-   "excerpt": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS..."
-  },
-  {
-   "id": "Arbeitnow-remote-tech-lead-medical-coding-agents-berlin-279658",
-   "title": "Tech Lead (Medical Coding Agents) (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "category": "Engineering",
-   "type": "Experienced",
-   "location": "Remote job",
-   "salary": "",
-   "tags": [
-    "Engineering",
-    "Remote"
-   ],
-   "posted": "2026-11-14T06:31:29+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-medical-coding-agents-berlin-279658",
-   "source": "Arbeitnow",
-   "excerpt": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management: technology-driven, patient-centered and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions..."
-  },
-  {
-   "id": "Arbeitnow-remote-staff-forward-deployed-engineer-emea-244241",
+   "id": "Arbeitnow-remote-staff-forward-deployed-engineer-emea-101256",
    "title": "Staff Forward Deployed Engineer, EMEA",
    "company": "gitlab",
    "category": "Customer Experience",
@@ -896,7 +878,7 @@
     "Customer Experience"
    ],
    "posted": "2026-11-14T03:55:22+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
+   "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-101256",
    "source": "Arbeitnow",
    "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
   },
@@ -951,41 +933,6 @@
    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
    "source": "Arbeitnow",
    "excerpt": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support..."
-  },
-  {
-   "id": "Arbeitnow-senior-business-analyst-versicherung-zurich-461493",
-   "title": "Senior Business Analyst - Versicherung",
-   "company": "Coopers Group AG",
-   "category": "Remote",
-   "type": "Trainee Programm",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Consulting",
-    "Engineering"
-   ],
-   "posted": "2026-11-13T13:31:08+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-versicherung-zurich-461493",
-   "source": "Arbeitnow",
-   "excerpt": "................ Für unseren Kunden aus dem Versicherungsumfeld in Zürich suchen wir eine:n erfahrene:n Senior Business Analyst mit fundierten Kenntnissen in der Versicherungsbranche, insbesondere im Bereich Unfallversicherung. Im Rahmen..."
-  },
-  {
-   "id": "Arbeitnow-remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
-   "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
-   "company": "HomeOfficeClub.ch",
-   "category": "Remote",
-   "type": "Teilzeitbeschäftigung",
-   "location": "Zürich",
-   "salary": "",
-   "tags": [
-    "Remote",
-    "Social Media Manager"
-   ],
-   "posted": "2026-11-13T10:31:23+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
-   "source": "Arbeitnow",
-   "excerpt": "Wir bieten für die Promotion der Angebote von Home Office Club Schweiz, die Möglichkeit als Promo / Admin / Social Media Quereinsteiger-/in mitzuarbeiten. Aufgaben Remote Job / Home Office Job / von zu Hause arbeiten möglich • Sie teilen..."
   },
   {
    "id": "Remote OK-1137796",
@@ -1461,25 +1408,6 @@
    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
    "source": "Remotive",
    "excerpt": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating...."
-  },
-  {
-   "id": "Remote OK-1137701",
-   "title": "AI Developer",
-   "company": "Salvo Software",
-   "category": "Dev",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "dev",
-    "grafana",
-    "infosec",
-    "python"
-   ],
-   "posted": "2026-11-07T00:00:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-   "source": "Remote OK",
-   "excerpt": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance,..."
   },
   {
    "id": "Remote OK-1137700",
