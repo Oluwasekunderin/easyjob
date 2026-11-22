@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-21T18:56:31+00:00",
+ "updated": "2026-11-22T05:59:40+00:00",
  "jobs": [
+  {
+   "id": "Arbeitnow-remote-project-manager-emea-production-366622",
+   "title": "Project Manager EMEA, Production",
+   "company": "LILT (Production)",
+   "category": "Production",
+   "type": "Contract",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Production"
+   ],
+   "posted": "2026-11-22T03:43:11+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-emea-production-366622",
+   "source": "Arbeitnow",
+   "excerpt": "RESPONSIBILITIES : Orchestrate complex workflows including translation, QA, DTP, multimedia, and linguistic sign-off for LILT’s largest enterprise customers. Engage directly with customers to clarify project requirements, ensure all assets..."
+  },
+  {
+   "id": "Arbeitnow-qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+   "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+   "company": "Probantica",
+   "category": "Remote",
+   "type": "Unbefristeter Arbeitsvertrag",
+   "location": "Berlin",
+   "salary": "",
+   "tags": [
+    "Remote",
+    "Quality Assurance",
+    "Inspection"
+   ],
+   "posted": "2026-11-22T03:00:31+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+   "source": "Arbeitnow",
+   "excerpt": "Über uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen –..."
+  },
+  {
+   "id": "Arbeitnow-remote-disponentin-service-warmepumpen-quereinsteigerinnen-willkommen-85829",
+   "title": "Disponent:in Service Wärmepumpen (w/m/d) | Quereinsteiger:innen willkommen",
+   "company": "Enpal",
+   "category": "Installation PV",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Installation PV"
+   ],
+   "posted": "2026-11-22T00:40:13+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-disponentin-service-warmepumpen-quereinsteigerinnen-willkommen-85829",
+   "source": "Arbeitnow",
+   "excerpt": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über..."
+  },
+  {
+   "id": "Arbeitnow-remote-solutions-engineer-veeam-data-cloud-vault-242654",
+   "title": "Solutions Engineer, Veeam Data Cloud Vault",
+   "company": "veeamsoftware",
+   "category": "Strategic Workloads - Global 1008556",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Strategic Workloads - Global 1008556"
+   ],
+   "posted": "2026-11-21T21:55:28+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-solutions-engineer-veeam-data-cloud-vault-242654",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of..."
+  },
+  {
+   "id": "Arbeitnow-remote-client-delivery-lead-billing-or-accounting-experience-420718",
+   "title": "Client Delivery Lead - Billing or Accounting Experience (f/m/d)",
+   "company": "Kraken",
+   "category": "Delivery Tech",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Delivery Tech"
+   ],
+   "posted": "2026-11-21T21:40:16+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/kraken/remote-client-delivery-lead-billing-or-accounting-experience-420718",
+   "source": "Arbeitnow",
+   "excerpt": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By..."
+  },
+  {
+   "id": "Arbeitnow-remote-strategic-account-executive-494000",
+   "title": "Strategic Account Executive",
+   "company": "gitlab",
+   "category": "EMEA - Enterprise",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "EMEA - Enterprise"
+   ],
+   "posted": "2026-11-21T18:55:25+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-494000",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-major-account-executive-113116",
+   "title": "Major Account Executive",
+   "company": "gitlab",
+   "category": "EMEA - Enterprise",
+   "type": "",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "EMEA - Enterprise"
+   ],
+   "posted": "2026-11-21T18:55:25+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-major-account-executive-113116",
+   "source": "Arbeitnow",
+   "excerpt": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and..."
+  },
+  {
+   "id": "Arbeitnow-remote-3d-environment-artist-level-designer-457684",
+   "title": "3D Environment Artist & Level Designer",
+   "company": "Scape",
+   "category": "Scape",
+   "type": "Full Time",
+   "location": "Remote",
+   "salary": "",
+   "tags": [
+    "Scape"
+   ],
+   "posted": "2026-11-21T18:40:29+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/scape/remote-3d-environment-artist-level-designer-457684",
+   "source": "Arbeitnow",
+   "excerpt": "3D Environment Artist & Level Designer ScapeWorld Entertainment · Remote Level: Senior to lead Location: Remote, CET overlap Contract: Full time, long term About us We are ScapeWorld Entertainment, a fully remote Swedish game studio of..."
+  },
   {
    "id": "Arbeitnow-remote-principal-enterprise-architect-ai-cloud-integrations-162065",
    "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -86,20 +216,6 @@
    "url": "https://jobicy.com/jobs/163713-site-contracts-manager-2",
    "source": "Jobicy",
    "excerpt": "Precision for Medicine is looking for a Site Contracts Manager to join our European Team. The position can be covered fully remotely from Poland, Slovakia, Serbia, Romania, Hungary or Spain. Position Summary: Review, draft, negotiate and..."
-  },
-  {
-   "id": "Jobicy-163712",
-   "title": "Senior Product Design Manager",
-   "company": "LastPass",
-   "category": "Web, UI & UX Design",
-   "type": "Full Time",
-   "location": "Hungary",
-   "salary": "",
-   "tags": [],
-   "posted": "2026-11-21T15:08:32+00:00",
-   "url": "https://jobicy.com/jobs/163712-senior-product-design-manager",
-   "source": "Jobicy",
-   "excerpt": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions..."
   },
   {
    "id": "Jobicy-163711",
@@ -676,74 +792,581 @@
    "excerpt": "At NerdWallet, our mission is to provide clarity for all of life's financial decisions. Data Science plays a critical role in delivering on that mission, helping us better understand our consumers, personalize their experiences, and..."
   },
   {
-   "id": "Arbeitnow-remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
-   "title": "1228 | IT Service Manager / Senior IT Service Manager",
-   "company": "Intetics 2",
-   "category": "Information Technology and Services",
-   "type": "Part Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-11-21T12:20:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
-   "source": "Arbeitnow",
-   "excerpt": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for..."
-  },
-  {
-   "id": "Arbeitnow-remote-1227-back-end-developer-germany-388586",
-   "title": "1227 | Back-end Developer",
-   "company": "Intetics 2",
-   "category": "Information Technology and Services",
-   "type": "Part Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-11-21T12:20:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
-   "source": "Arbeitnow",
-   "excerpt": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for..."
-  },
-  {
-   "id": "Arbeitnow-remote-1226-front-end-developer-germany-84712",
-   "title": "1226 | Front-end Developer",
-   "company": "Intetics 2",
-   "category": "Information Technology and Services",
-   "type": "Part Time",
-   "location": "Germany",
-   "salary": "",
-   "tags": [
-    "Information Technology and Services",
-    "Remote"
-   ],
-   "posted": "2026-11-21T12:20:17+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
-   "source": "Arbeitnow",
-   "excerpt": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for..."
-  },
-  {
-   "id": "Arbeitnow-remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
-   "title": "French Speaking Customer Service Agent - Work In Sofia, Bulgaria",
-   "company": "Patrique Mercier Recruitment Fr",
-   "category": "Customer Service",
+   "id": "Jobicy-163661",
+   "title": "Briefing Content Strategist",
+   "company": "Stripe",
+   "category": "Content & Editorial",
    "type": "Full Time",
-   "location": "France",
+   "location": "USA",
+   "salary": "",
+   "tags": [],
+   "posted": "2026-11-21T13:06:12+00:00",
+   "url": "https://jobicy.com/jobs/163661-briefing-content-strategist",
+   "source": "Jobicy",
+   "excerpt": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and..."
+  },
+  {
+   "id": "Remote OK-1137951",
+   "title": "Revenue Operations Leader, Strategy & Planning",
+   "company": "Contentstack",
+   "category": "Exec",
+   "type": "",
+   "location": "US Only",
    "salary": "",
    "tags": [
-    "Customer Service",
-    "Consumer Services",
-    "Bulgaria",
-    "Remote"
+    "exec"
    ],
-   "posted": "2026-11-21T02:20:19+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
-   "source": "Arbeitnow",
-   "excerpt": "French Speaking Customer Service Agent About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging elite talent with top-tier organizations across Europe. As industry leaders..."
+   "posted": "2026-11-21T05:40:08+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
+   "source": "Remote OK",
+   "excerpt": "What is Contentstack? Contentstack is redefining how modern digital experiences are built and managed. As the pioneer of the Agentic Experience Platform (AXP), Contentstack brings together structured content and brand governance (Content..."
+  },
+  {
+   "id": "Remote OK-1137949",
+   "title": "VP, Customer Experience Operations",
+   "company": "Ping Identity",
+   "category": "Devops",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T05:20:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
+   "source": "Remote OK",
+   "excerpt": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something..."
+  },
+  {
+   "id": "Remote OK-1137948",
+   "title": "Senior Software Engineer - Behavioral Security Products",
+   "company": "Abnormal",
+   "category": "Devops",
+   "type": "",
+   "location": "UK Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T05:20:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+   "source": "Remote OK",
+   "excerpt": "At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.Â Abnormal is recognized as a top cybersecurity..."
+  },
+  {
+   "id": "Remote OK-1137947",
+   "title": "Senior Manager, Financial Reporting",
+   "company": "ÅURA",
+   "category": "Finance",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "finance"
+   ],
+   "posted": "2026-11-21T05:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-financial-reporting-oura-1137947",
+   "source": "Remote OK",
+   "excerpt": "Our mission at ÅURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its..."
+  },
+  {
+   "id": "Remote OK-1137946",
+   "title": "Engineering Manager, Ranking Platform",
+   "company": "Reddit",
+   "category": "Devops",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T05:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
+   "source": "Remote OK",
+   "excerpt": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care..."
+  },
+  {
+   "id": "Remote OK-1137945",
+   "title": "Principal Software Engineer, Infrastructure",
+   "company": "Reddit",
+   "category": "Devops",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T04:40:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+   "source": "Remote OK",
+   "excerpt": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care..."
+  },
+  {
+   "id": "Remote OK-1137944",
+   "title": "Enterprise Performance Lead",
+   "company": "Clover Health",
+   "category": "Finance",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "finance"
+   ],
+   "posted": "2026-11-21T04:40:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
+   "source": "Remote OK",
+   "excerpt": "Clover is reinventing health insurance by working to keep people healthier. The Actuarial Strategic Operations team serves as the operational and financial nerve center for Clover's Medicare Advantage business. Embedded within the..."
+  },
+  {
+   "id": "Remote OK-1137943",
+   "title": "Global Tax Intern",
+   "company": "Ensono",
+   "category": "Other",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-21T04:20:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
+   "source": "Remote OK",
+   "excerpt": "Global Tax Intern At Ensono, our Purpose is to be a relentless ally, disrupting the status quo and unleashing our clients to Do Great Things!Â We enable our clients to achieve key business outcomes that reshape how our world runs. As an..."
+  },
+  {
+   "id": "Remote OK-1137941",
+   "title": "Sr. Technology Partner Director, Product Partnerships",
+   "company": "Databricks",
+   "category": "Product",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "product"
+   ],
+   "posted": "2026-11-21T04:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-technology-partner-director-product-partnerships-databricks-1137941",
+   "source": "Remote OK",
+   "excerpt": "RDQ428R2 At Databricks, we are obsessed with enabling data teams to solve the worldâs toughest problems by partnering with the ISVs that drive innovation across every line of business. We enable our partners to bring deep intelligence..."
+  },
+  {
+   "id": "Remote OK-1137940",
+   "title": "Lead, Office of Software Assurance",
+   "company": "Natera",
+   "category": "Devops",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T04:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
+   "source": "Remote OK",
+   "excerpt": "Role Summary Â The Office of Software Assurance (OSA) Lead is the senior individual contributor who establishes and leads the Office of Software Assurance, a new shift-left software quality function inside the Agile Office, through..."
+  },
+  {
+   "id": "Remote OK-1137939",
+   "title": "Medical Science Liaison - Breast Oncology",
+   "company": "Natera",
+   "category": "Other",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-21T03:40:07+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-medical-science-liaison-breast-oncology-natera-1137939",
+   "source": "Remote OK",
+   "excerpt": "The Breast Oncology Medical Science Liaison (MSL) is a field-based scientific expert responsible for engaging healthcare providers, generating insights, and supporting Medical Affairs priorities across Nateraâs Breast Oncology portfolio,..."
+  },
+  {
+   "id": "Remote OK-1137938",
+   "title": "Physician Assistant - Virtual Health Assessment",
+   "company": "Oscar Health",
+   "category": "Other",
+   "type": "",
+   "location": "Worldwide",
+   "salary": "",
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-21T03:40:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-physician-assistant-virtual-health-assessment-oscar-health-1137938",
+   "source": "Remote OK",
+   "excerpt": "Hi, we're Oscar Medical Group. We're hiring Physician Assistants to join our remote Virtual Health Assessment team. At Oscar Medical Group, we are refactoring healthcare. We want to help each of our members achieve their healthcare goals..."
+  },
+  {
+   "id": "Remote OK-1137937",
+   "title": "Physician - Virtual Urgent Care (Part-Time)",
+   "company": "Oscar Health",
+   "category": "Other",
+   "type": "",
+   "location": "Worldwide",
+   "salary": "",
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-21T03:20:07+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-physician-virtual-urgent-care-part-time-oscar-health-1137937",
+   "source": "Remote OK",
+   "excerpt": "Hi, we're Oscar Medical Group. We're hiring a Part-Time Physician to join our Virtual Urgent Care team. At Oscar Medical Group, we are refactoring healthcare. We want to help each of our members achieve their healthcare goals in a..."
+  },
+  {
+   "id": "Remote OK-1137936",
+   "title": "Business Services Assistant",
+   "company": "Ping Identity",
+   "category": "Devops",
+   "type": "",
+   "location": "UK Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T03:20:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-business-services-assistant-ping-identity-1137936",
+   "source": "Remote OK",
+   "excerpt": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something..."
+  },
+  {
+   "id": "Remote OK-1137935",
+   "title": "Senior Financial Analyst",
+   "company": "ÅURA",
+   "category": "Finance",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "finance"
+   ],
+   "posted": "2026-11-21T03:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-oura-1137935",
+   "source": "Remote OK",
+   "excerpt": "Our mission at ÅURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its..."
+  },
+  {
+   "id": "Remote OK-1137934",
+   "title": "In-Home Care Admin Coordinator",
+   "company": "Clover Health",
+   "category": "Other",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-21T03:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-in-home-care-admin-coordinator-clover-health-1137934",
+   "source": "Remote OK",
+   "excerpt": "The Clover Care Services organization delivers proactive support and care to our members through our clinical Clover Home Care teams, and quality improvement services to our aligned providers through our practice engagement team. Clover..."
+  },
+  {
+   "id": "Remote OK-1137933",
+   "title": "Associate Counsel, Vendor and Provider Contracting",
+   "company": "Clover Health",
+   "category": "Devops",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-21T02:40:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
+   "source": "Remote OK",
+   "excerpt": "Clover Healthâs legal team is a group of proactive business partners whose mission is to empower the organization to innovate and achieve its goals within a dynamic and fluid regulatory environment. We are committed to supporting..."
+  },
+  {
+   "id": "Remote OK-1137932",
+   "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+   "company": "Reddit",
+   "category": "Product",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "product"
+   ],
+   "posted": "2026-11-21T02:40:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+   "source": "Remote OK",
+   "excerpt": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care..."
+  },
+  {
+   "id": "Remote OK-1137931",
+   "title": "Sr. Product Marketing Manager, Secrets Manager",
+   "company": "Bitwarden",
+   "category": "Product",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "product"
+   ],
+   "posted": "2026-11-21T02:20:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-product-marketing-manager-secrets-manager-bitwarden-1137931",
+   "source": "Remote OK",
+   "excerpt": "Bitwarden is the trusted identity security leader for millions of users worldwide, empowering enterprises, developers, and individuals to securely manage and share sensitive information anywhere. Bitwarden makes it easy for all users to..."
+  },
+  {
+   "id": "Remote OK-1137930",
+   "title": "Sr. Security Operations Manager",
+   "company": "Carrot",
+   "category": "Exec",
+   "type": "",
+   "location": "Worldwide",
+   "salary": "",
+   "tags": [
+    "exec"
+   ],
+   "posted": "2026-11-21T02:20:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
+   "source": "Remote OK",
+   "excerpt": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each memberâs life. More than a thousand..."
+  },
+  {
+   "id": "Remote OK-1137929",
+   "title": "Part-Time Temporary HR Business Partner / HR Generalist",
+   "company": "Elation Health",
+   "category": "Exec",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "exec"
+   ],
+   "posted": "2026-11-21T02:00:07+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-part-time-temporary-hr-business-partner-hr-generalist-elation-health-1137929",
+   "source": "Remote OK",
+   "excerpt": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, weâve been focused on building a world-class technology solution that creates an experience..."
+  },
+  {
+   "id": "Remote OK-1137928",
+   "title": "Senior Product Design Manager",
+   "company": "LastPass",
+   "category": "Design",
+   "type": "",
+   "location": "Europe",
+   "salary": "",
+   "tags": [
+    "design"
+   ],
+   "posted": "2026-11-21T02:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-product-design-manager-lastpass-1137928",
+   "source": "Remote OK",
+   "excerpt": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions..."
+  },
+  {
+   "id": "Remote OK-1137927",
+   "title": "Manager, Product Design",
+   "company": "Carrot",
+   "category": "Design",
+   "type": "",
+   "location": "Worldwide",
+   "salary": "",
+   "tags": [
+    "design"
+   ],
+   "posted": "2026-11-21T01:40:26+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-manager-product-design-carrot-1137927",
+   "source": "Remote OK",
+   "excerpt": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each memberâs life. More than a thousand..."
+  },
+  {
+   "id": "Remote OK-1137926",
+   "title": "Staff Scientist, Machine Learning (Genomics)",
+   "company": "Natera",
+   "category": "Programming",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-21T01:40:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
+   "source": "Remote OK",
+   "excerpt": "Natera is seeking a highly motivated Staff Machine Learning Scientist to join our rapidly growing company. As a member of the Data Science research team you will participate in the design and prototyping of cutting edge algorithms for..."
+  },
+  {
+   "id": "Remote OK-1137925",
+   "title": "Manager, Network Contracting (Southeast Region)",
+   "company": "Oscar Health",
+   "category": "Programming",
+   "type": "",
+   "location": "Worldwide",
+   "salary": "",
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-21T01:20:23+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-manager-network-contracting-southeast-region-oscar-health-1137925",
+   "source": "Remote OK",
+   "excerpt": "We're hiring a Manager to join our Network Contracting Team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the..."
+  },
+  {
+   "id": "Remote OK-1137924",
+   "title": "Senior Software Engineer II - Agentic Intelligence",
+   "company": "Honeycomb.io",
+   "category": "Programming",
+   "type": "",
+   "location": "Canada Only",
+   "salary": "",
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-21T01:20:20+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+   "source": "Remote OK",
+   "excerpt": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly,..."
+  },
+  {
+   "id": "Remote OK-1137923",
+   "title": "Sr Mgr, Software Engineering (Cribl Detect)",
+   "company": "Cribl",
+   "category": "Programming",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-21T01:00:06+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
+   "source": "Remote OK",
+   "excerpt": "Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI..."
+  },
+  {
+   "id": "Remote OK-1137922",
+   "title": "Technical Solutions Engineer",
+   "company": "Stripe",
+   "category": "Programming",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-21T01:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922",
+   "source": "Remote OK",
+   "excerpt": "Technical Solutions Engineer Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companiesâfrom the worldâs largest enterprises to the most ambitious startupsâuse Stripe to accept..."
+  },
+  {
+   "id": "Remote OK-1137921",
+   "title": "Global Account Manager, Strategics (NY/NJ)",
+   "company": "Everpure",
+   "category": "Sales",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:40:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-global-account-manager-strategics-ny-nj-everpure-1137921",
+   "source": "Remote OK",
+   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
+  },
+  {
+   "id": "Remote OK-1137920",
+   "title": "Senior Pre-Sales Systems Engineer, Federal Civilian",
+   "company": "Everpure",
+   "category": "Sales",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:40:03+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-pre-sales-systems-engineer-federal-civilian-everpure-1137920",
+   "source": "Remote OK",
+   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
+  },
+  {
+   "id": "Remote OK-1137919",
+   "title": "Business Development Representative, Financial Services - UKI",
+   "company": "GitLab",
+   "category": "Sales",
+   "type": "",
+   "location": "EMEA",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:20:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-financial-services-uki-gitlab-1137919",
+   "source": "Remote OK",
+   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
+  },
+  {
+   "id": "Remote OK-1137918",
+   "title": "Regional MSP Partner Manager, Germany",
+   "company": "Everpure",
+   "category": "Sales",
+   "type": "",
+   "location": "Europe",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:20:03+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-germany-everpure-1137918",
+   "source": "Remote OK",
+   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
+  },
+  {
+   "id": "Remote OK-1137917",
+   "title": "Senior Applied AI Engineer",
+   "company": "Wemolo",
+   "category": "Embedded",
+   "type": "",
+   "location": "MÃ¼nchen",
+   "salary": "",
+   "tags": [
+    "embedded",
+    "sys admin",
+    "python",
+    "technical"
+   ],
+   "posted": "2026-11-21T00:00:11+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
+   "source": "Remote OK",
+   "excerpt": "Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking..."
+  },
+  {
+   "id": "Remote OK-1137916",
+   "title": "Strategic Account Executive, Financial Services - US Central",
+   "company": "GitLab",
+   "category": "Sales",
+   "type": "",
+   "location": "US Only",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:00:05+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-financial-services-us-central-gitlab-1137916",
+   "source": "Remote OK",
+   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
+  },
+  {
+   "id": "Remote OK-1137915",
+   "title": "New Business Account Executive - Nordics",
+   "company": "GitLab",
+   "category": "Sales",
+   "type": "",
+   "location": "EMEA",
+   "salary": "",
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-21T00:00:04+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-new-business-account-executive-nordics-gitlab-1137915",
+   "source": "Remote OK",
+   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
   },
   {
    "id": "Arbeitnow-remote-backend-software-developer-hilversum-417173",
@@ -799,25 +1422,6 @@
    "url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
    "source": "Remote OK",
    "excerpt": "Weâre looking for an experienced Account Director to lead and grow client relationships and deliver the P10 experience across our pharmaceutical brands. Youâll be a trusted strategic partner to clients, owning the health and growth of..."
-  },
-  {
-   "id": "Arbeitnow-remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
-   "title": "German Speaking Customer Service Representative - Work In Athens, Greece",
-   "company": "Patrique Mercier Recruitment Fr",
-   "category": "Customer Service",
-   "type": "Full Time",
-   "location": "Switzerland",
-   "salary": "",
-   "tags": [
-    "Customer Service",
-    "Consumer Services",
-    "Greece",
-    "Remote"
-   ],
-   "posted": "2026-11-20T15:20:06+00:00",
-   "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
-   "source": "Arbeitnow",
-   "excerpt": "Looking for a hassle-free hiring process? We've got you covered — from application to contract signing in just 48 hours! German Speaking Customer Service Representative About Mercier Consultancy Group Mercier Consultancy Group is a premier..."
   },
   {
    "id": "Arbeitnow-remote-senior-platform-engineer-amsterdam-429264",
@@ -1896,194 +2500,6 @@
    "excerpt": "About the Team As a Staff Software Engineer at Netlify, you'll join a collaborative team that values continuous learning, mutual support, and shared growth. Together, we create tools that help developers build faster, more intuitively, and..."
   },
   {
-   "id": "Remote OK-1137843",
-   "title": "Vice President, Public Sector",
-   "company": "Bitwarden",
-   "category": "Sales",
-   "type": "",
-   "location": "Worldwide",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T17:00:54+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-vice-president-public-sector-bitwarden-1137843",
-   "source": "Remote OK",
-   "excerpt": "Bitwarden promotes better internet security and safety with an open source password management solution for individuals, teams, and business organizations. Bitwarden seeks a Vice President of Public Sector Sales to build and lead our..."
-  },
-  {
-   "id": "Remote OK-1137842",
-   "title": "Senior Sales Training and Enablement Manager",
-   "company": "Tebra",
-   "category": "Marketing",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "marketing"
-   ],
-   "posted": "2026-11-19T16:45:08+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
-   "source": "Remote OK",
-   "excerpt": "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.Â We will only ask you to provide sensitive..."
-  },
-  {
-   "id": "Remote OK-1137841",
-   "title": "Director, Enterprise Sales",
-   "company": "Abnormal",
-   "category": "Sales",
-   "type": "",
-   "location": "Europe",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T16:30:11+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-abnormal-1137841",
-   "source": "Remote OK",
-   "excerpt": "Regional Director, Enterprise Sales This is your moment Sweden. Norway. Denmark. Finland. Four markets, one region, and a team of elite sellers who are already winning. Abnormal is one of the fastest growing cybersecurity companies in the..."
-  },
-  {
-   "id": "Remote OK-1137840",
-   "title": "Senior Account Executive II",
-   "company": "Collibra",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T16:15:12+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
-   "source": "Remote OK",
-   "excerpt": "Join Collibra's Sales team as a Senior Enterprise Account Executive II, - East Coast Make an impact at Collibra by fueling Collibra's growth in your assigned East Coast territory and be the guiding force behind bringing Collibra's value..."
-  },
-  {
-   "id": "Remote OK-1137839",
-   "title": "Engineer Software Defined Vehicle Simulation and Development",
-   "company": "NIKI Digital Engineering",
-   "category": "Dev",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "dev",
-    "design",
-    "embedded",
-    "sys admin"
-   ],
-   "posted": "2026-11-19T16:00:34+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-   "source": "Remote OK",
-   "excerpt": "NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles. Become a member of NIKI..."
-  },
-  {
-   "id": "Remote OK-1137838",
-   "title": "Marketing and Communications Officer",
-   "company": "NIKI Digital Engineering",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "consulting",
-    "technical",
-    "customer support"
-   ],
-   "posted": "2026-11-19T16:00:27+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-communications-officer-niki-digital-engineering-1137838",
-   "source": "Remote OK",
-   "excerpt": "NIKI is looking for Media and Communication, Journalism, Marketing, Public Relations graduates, or similar disciplines, to gain exciting insights into strategic marketing and communication practices. Â Become a member of NIKI Digital..."
-  },
-  {
-   "id": "Remote OK-1137837",
-   "title": "Postdoc PhD PhD cand. Physics Computer Science",
-   "company": "NIKI Digital Engineering",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "python",
-    "consulting",
-    "technical"
-   ],
-   "posted": "2026-11-19T16:00:21+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
-   "source": "Remote OK",
-   "excerpt": "NIKI is looking for a Postdoc/PhD/PhD cand. in Physics, Computer Science or similar discipline for industrial projects in the automotive industry. Become a member of NIKI Digital Engineering! If you are a Postdoc/PhD/PhD candidate looking..."
-  },
-  {
-   "id": "Remote OK-1137836",
-   "title": "Business Development Assistant",
-   "company": "Bybit",
-   "category": "Sales",
-   "type": "",
-   "location": "Europe",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T16:00:20+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-business-development-assistant-bybit-1137836",
-   "source": "Remote OK",
-   "excerpt": "About Us Established in 2018, Bybit is one of the worldâs leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a..."
-  },
-  {
-   "id": "Remote OK-1137835",
-   "title": "Technical Lead Norm Compliance",
-   "company": "Norm",
-   "category": "Design",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "design",
-    "python",
-    "education",
-    "technical"
-   ],
-   "posted": "2026-11-19T16:00:15+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
-   "source": "Remote OK",
-   "excerpt": "About Norm Norm builds AI-native professional services firms and the technology that powers them. Our mission is to help expert professionals deliver better work at greater scale. Developing the technology and the firms together lets us..."
-  },
-  {
-   "id": "Remote OK-1137834",
-   "title": "Enterprise Account Executive",
-   "company": "Ping Identity",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T15:45:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-ping-identity-1137834",
-   "source": "Remote OK",
-   "excerpt": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something..."
-  },
-  {
-   "id": "Remote OK-1137831",
-   "title": "Regional MSP Partner Manager, Benelux",
-   "company": "Everpure",
-   "category": "Sales",
-   "type": "",
-   "location": "Europe",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T15:00:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-benelux-everpure-1137831",
-   "source": "Remote OK",
-   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
-  },
-  {
    "id": "Remotive-2091177",
    "title": "Content Reviewer - United States",
    "company": "TELUS Digital",
@@ -2101,399 +2517,6 @@
    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
    "source": "Remotive",
    "excerpt": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human..."
-  },
-  {
-   "id": "Remote OK-1137830",
-   "title": "GSI Specialty Seller, Identity Resilience (Global)",
-   "company": "Rubrik Job Board",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T14:45:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-gsi-specialty-seller-identity-resilience-global-rubrik-job-board-1137830",
-   "source": "Remote OK",
-   "excerpt": "This role will own the Identity Resilience go-to-market motion across Rubrik's strategic GSI and advisory partners in the Americas.Â You will turn GSI relationships into sourced pipeline, co-developed joint solutions, and closed revenue..."
-  },
-  {
-   "id": "Remote OK-1137829",
-   "title": "Integrated Marketing Manager, Global Programs",
-   "company": "Abnormal",
-   "category": "Marketing",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "marketing"
-   ],
-   "posted": "2026-11-19T14:30:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-integrated-marketing-manager-global-programs-abnormal-1137829",
-   "source": "Remote OK",
-   "excerpt": "About the role The Integrated Marketing Manager, Global Programs turns GTM campaign strategy into targeted programs for priority industries, executive audiences, and enterprise accounts. Youâll own a defined portfolio of vertical,..."
-  },
-  {
-   "id": "Remote OK-1137828",
-   "title": "Manager, WW Distribution",
-   "company": "Rubrik Job Board",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T14:15:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
-   "source": "Remote OK",
-   "excerpt": "Our team sits at the center of how Rubrik goes to market. We own the quote-to-cash experience for Sales, Deal Desk, and Finance, ensuring reps and partners can quote and order quickly and accurately, anywhere in the world. We work with..."
-  },
-  {
-   "id": "Remote OK-1137827",
-   "title": "Account Executive, Enterprise (Atlanta/Tennessee)",
-   "company": "Everpure",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T14:00:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-atlanta-tennessee-everpure-1137827",
-   "source": "Remote OK",
-   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
-  },
-  {
-   "id": "Remote OK-1137826",
-   "title": "Enterprise Solutions Engineer, East",
-   "company": "Glean",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T13:45:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826",
-   "source": "Remote OK",
-   "excerpt": "About Glean: Â Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industryâs most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI..."
-  },
-  {
-   "id": "Remote OK-1137825",
-   "title": "Revenue Enablement Manager",
-   "company": "Legion",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T13:30:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-revenue-enablement-manager-legion-1137825",
-   "source": "Remote OK",
-   "excerpt": "JOB OVERVIEW Legion builds AI-powered workforce management software for enterprises that run hourly workforces in retail, hospitality, facilities management, and manufacturing. We're hiring a Revenue Enablement Manager to own how our..."
-  },
-  {
-   "id": "Remote OK-1137824",
-   "title": "Sales Development Representative",
-   "company": "Bitwarden",
-   "category": "Sales",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-19T13:15:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-bitwarden-1137824",
-   "source": "Remote OK",
-   "excerpt": "Â Bitwarden is the trusted identity security leader for millions of users worldwide, empowering enterprises, developers, and individuals to securely manage and share sensitive information anywhere. Bitwarden makes it easy for all users to..."
-  },
-  {
-   "id": "Remote OK-1137822",
-   "title": "Customer Success Manager",
-   "company": "Ping Identity",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T12:45:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ping-identity-1137822",
-   "source": "Remote OK",
-   "excerpt": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something..."
-  },
-  {
-   "id": "Remote OK-1137821",
-   "title": "L1 Technical Support Engineer (Spanish-Speaking)",
-   "company": "Abnormal",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T12:30:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-l1-technical-support-engineer-spanish-speaking-abnormal-1137821",
-   "source": "Remote OK",
-   "excerpt": "About the Role You're a motivated, customer-obsessed technical support professional with a passion for solving complex problems in high-stakes environments. With 4+ years of experience, you've developed a track record of supporting..."
-  },
-  {
-   "id": "Remote OK-1137820",
-   "title": "Designated Technical Support Engineer - West",
-   "company": "Glean",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T12:15:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-designated-technical-support-engineer-west-glean-1137820",
-   "source": "Remote OK",
-   "excerpt": "About Glean: Â Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industryâs most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI..."
-  },
-  {
-   "id": "Remote OK-1137819",
-   "title": "Community Moderator - Wisdo (1099)",
-   "company": "Talkspace",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T12:00:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-community-moderator-wisdo-1099-talkspace-1137819",
-   "source": "Remote OK",
-   "excerpt": "At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over two million people receive quality mental..."
-  },
-  {
-   "id": "Remote OK-1137818",
-   "title": "Customer Success Manager",
-   "company": "Airtable",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T11:45:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818",
-   "source": "Remote OK",
-   "excerpt": "Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom..."
-  },
-  {
-   "id": "Remote OK-1137817",
-   "title": "Paralegal",
-   "company": "Tines",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T11:30:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817",
-   "source": "Remote OK",
-   "excerpt": "Tines is the intelligent workflow company that powers some of the world's most important workflows.Â Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin..."
-  },
-  {
-   "id": "Remote OK-1137816",
-   "title": "Head of Channel Sales & Alliances",
-   "company": "Salesloft",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T11:15:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-head-of-channel-sales-alliances-salesloft-1137816",
-   "source": "Remote OK",
-   "excerpt": "Job Title: Head of Channel Sales & Alliances Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Revenue is complex, and clarity is rare. Our..."
-  },
-  {
-   "id": "Remote OK-1137815",
-   "title": "Customer Success Engineer, India",
-   "company": "GitLab",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Asia",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T11:00:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-india-gitlab-1137815",
-   "source": "Remote OK",
-   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
-  },
-  {
-   "id": "Remote OK-1137814",
-   "title": "Customer Success Engineer, Singapore",
-   "company": "GitLab",
-   "category": "Customer Support",
-   "type": "",
-   "location": "Asia",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T10:45:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-singapore-gitlab-1137814",
-   "source": "Remote OK",
-   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
-  },
-  {
-   "id": "Remote OK-1137813",
-   "title": "Customer Success Architect - West",
-   "company": "GitLab",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T10:30:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-west-gitlab-1137813",
-   "source": "Remote OK",
-   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation...."
-  },
-  {
-   "id": "Remote OK-1137812",
-   "title": "Briefing Content Strategist",
-   "company": "Stripe",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T10:15:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-briefing-content-strategist-stripe-1137812",
-   "source": "Remote OK",
-   "excerpt": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worldâs largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and..."
-  },
-  {
-   "id": "Remote OK-1137811",
-   "title": "Agency Partnerships Director",
-   "company": "6sense",
-   "category": "Customer Support",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "customer support"
-   ],
-   "posted": "2026-11-19T10:03:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-agency-partnerships-director-6sense-1137811",
-   "source": "Remote OK",
-   "excerpt": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve..."
-  },
-  {
-   "id": "Remote OK-1137809",
-   "title": "Senior Analytics Engineer",
-   "company": "Tebra",
-   "category": "Programming",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "programming"
-   ],
-   "posted": "2026-11-19T09:58:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809",
-   "source": "Remote OK",
-   "excerpt": "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.Â We will only ask you to provide sensitive..."
-  },
-  {
-   "id": "Remote OK-1137810",
-   "title": "Regional Marketing Manager, Southeast",
-   "company": "Everpure",
-   "category": "Marketing",
-   "type": "",
-   "location": "US Only",
-   "salary": "",
-   "tags": [
-    "marketing"
-   ],
-   "posted": "2026-11-19T09:58:02+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-marketing-manager-southeast-everpure-1137810",
-   "source": "Remote OK",
-   "excerpt": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining..."
-  },
-  {
-   "id": "Remote OK-1137808",
-   "title": "Software Engineer AI Coding Tasks",
-   "company": "Askable",
-   "category": "Dev",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "$10,000 - $10,000",
-   "tags": [
-    "dev",
-    "golang",
-    "python",
-    "javascript"
-   ],
-   "posted": "2026-11-19T05:56:01+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-   "source": "Remote OK",
-   "excerpt": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task..."
-  },
-  {
-   "id": "Remote OK-1137806",
-   "title": "Project Manager",
-   "company": "Syner-G",
-   "category": "Project Manager",
-   "type": "",
-   "location": "Remote",
-   "salary": "",
-   "tags": [
-    "project manager",
-    "exec",
-    "consulting",
-    "customer support"
-   ],
-   "posted": "2026-11-18T16:00:49+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-project-manager-syner-g-1137806",
-   "source": "Remote OK",
-   "excerpt": "COMPANY DESCRIPTION: A career here is life-enhancing. At Syner-G, we enable our people to build careers that impact positively on their quality of life. Through our expertise, insight, consulting and management skills, we accelerate..."
-  },
-  {
-   "id": "Remote OK-1137805",
-   "title": "SEO Full Stack Engineer",
-   "company": "Treatwell",
-   "category": "Full Stack",
-   "type": "",
-   "location": "Anywhere",
-   "salary": "",
-   "tags": [
-    "full stack",
-    "react",
-    "rabbitmq",
-    "front end"
-   ],
-   "posted": "2026-11-18T16:00:31+00:00",
-   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-   "source": "Remote OK",
-   "excerpt": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and..."
   },
   {
    "id": "Remotive-2069746",
